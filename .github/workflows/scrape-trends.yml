@@ -2,7 +2,7 @@ name: Scrape Google Trends
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '0 6 * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -28,11 +28,32 @@ jobs:
       - name: Create output directory
         run: mkdir -p output
 
-      - name: Scrape Uganda trends
+      - name: Scrape Kenya
+        run: python3 scrape_trends.py --geo KE --category 17 --out output/trending-ke.json
+
+      - name: Scrape Nigeria
+        run: python3 scrape_trends.py --geo NG --category 17 --out output/trending-ng.json
+
+      - name: Scrape Tanzania
+        run: python3 scrape_trends.py --geo TZ --category 17 --out output/trending-tz.json
+
+      - name: Scrape Uganda
         run: python3 scrape_trends.py --geo UG --category 17 --out output/trending-ug.json
 
-      - name: Scrape Kenya trends
-        run: python3 scrape_trends.py --geo KE --category 17 --out output/trending-ke.json
+      - name: Scrape South Africa
+        run: python3 scrape_trends.py --geo ZA --category 17 --out output/trending-za.json
+
+      - name: Scrape Denmark
+        run: python3 scrape_trends.py --geo DK --category 17 --out output/trending-dk.json
+
+      - name: Scrape Ghana
+        run: python3 scrape_trends.py --geo GH --category 17 --out output/trending-gh.json
+
+      - name: Scrape Egypt
+        run: python3 scrape_trends.py --geo EG --category 17 --out output/trending-eg.json
+
+      - name: Scrape Argentina
+        run: python3 scrape_trends.py --geo AR --category 17 --out output/trending-ar.json
 
       - name: Commit and push updated JSON
         run: |
