@@ -185,10 +185,21 @@ def scrape(geo: str, category: str, headful: bool = False) -> dict:
     filtered = [r for r in rows if is_football(r["title"])]
 
     if not filtered:
-        # No football trend found — return error so PHP side knows
-        raise RuntimeError(
-            f"No football trends found for {geo} after scanning {len(rows)} items"
+        # No football trend found — write error JSON and exit gracefully (don't crash workflow)
+        print(
+            f"WARN: No football trends found for {geo} after scanning {len(rows)} items",
+            file=sys.stderr,
         )
+        return {
+            "geo": geo,
+            "category": category,
+            "url": url,
+            "top_trend": None,
+            "top_trend_volume": None,
+            "all_trends": [],
+            "error": f"No football trends found after scanning {len(rows)} items",
+            "fetched_at": datetime.now(timezone.utc).isoformat(),
+        }
 
     top = filtered[0]
 
@@ -259,12 +270,16 @@ def main():
         with open(args.out, "w") as f:
             json.dump(error_payload, f, indent=2)
         print(f"ERROR: {e}", file=sys.stderr)
-        sys.exit(1)
+        # Don't sys.exit(1) — let the workflow continue to next country
+        return
 
     with open(args.out, "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"OK: top trend for {args.geo} = {data['top_trend']!r} -> {args.out}")
+    if data.get("top_trend"):
+        print(f"OK: top trend for {args.geo} = {data['top_trend']!r} -> {args.out}")
+    else:
+        print(f"WARN: No football trends for {args.geo} -> {args.out}")
 
 
 if __name__ == "__main__":
