@@ -2,8 +2,6 @@ name: Scrape Google Trends
 
 on:
   schedule:
-    # Runs every 20 minutes. GitHub Actions cron is UTC-only and best-effort
-    # (expect occasional 5-30 min delays at peak times) — fine for this use case.
     - cron: '0 6 * * *'
   workflow_dispatch: {} # lets you trigger it manually from the Actions tab to test
 
