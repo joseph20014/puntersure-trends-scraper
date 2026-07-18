@@ -1,0 +1,102 @@
+{
+  "geo": "GH",
+  "category": "17",
+  "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
+  "top_trend": "iphone",
+  "top_trend_volume": null,
+  "all_trends": [
+    {
+      "title": "iphone",
+      "volume": null
+    },
+    {
+      "title": "john mahama",
+      "volume": null
+    },
+    {
+      "title": "marc cucurella",
+      "volume": null
+    },
+    {
+      "title": "fraud",
+      "volume": null
+    },
+    {
+      "title": "kobbie mainoo",
+      "volume": null
+    },
+    {
+      "title": "apple iphone 18 pro max",
+      "volume": null
+    },
+    {
+      "title": "england vs france",
+      "volume": null
+    },
+    {
+      "title": "bushehr nuclear power plant",
+      "volume": null
+    },
+    {
+      "title": "the odyssey",
+      "volume": null
+    },
+    {
+      "title": "michael olise real madrid",
+      "volume": null
+    },
+    {
+      "title": "ebola",
+      "volume": null
+    },
+    {
+      "title": "manu koné",
+      "volume": null
+    },
+    {
+      "title": "kimi k3",
+      "volume": null
+    },
+    {
+      "title": "travel warning",
+      "volume": null
+    },
+    {
+      "title": "cristian orozco",
+      "volume": null
+    },
+    {
+      "title": "hearts vs rayo vallecano",
+      "volume": null
+    },
+    {
+      "title": "gianni infantino",
+      "volume": null
+    },
+    {
+      "title": "video assistant referee",
+      "volume": null
+    },
+    {
+      "title": "netflix",
+      "volume": null
+    },
+    {
+      "title": "jason statham",
+      "volume": null
+    },
+    {
+      "title": "liam rosenior",
+      "volume": null
+    },
+    {
+      "title": "real madrid",
+      "volume": null
+    },
+    {
+      "title": "goldbod",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-07-18T07:42:24.832035+00:00"
+}
