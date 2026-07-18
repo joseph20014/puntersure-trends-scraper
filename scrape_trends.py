@@ -185,8 +185,10 @@ def scrape(geo: str, category: str, headful: bool = False) -> dict:
     filtered = [r for r in rows if is_football(r["title"])]
 
     if not filtered:
-        # Fallback: return all rows if no football match found, let PHP side handle it
-        filtered = rows
+        # No football trend found — return error so PHP side knows
+        raise RuntimeError(
+            f"No football trends found for {geo} after scanning {len(rows)} items"
+        )
 
     top = filtered[0]
 
