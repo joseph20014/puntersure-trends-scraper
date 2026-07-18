@@ -2,13 +2,11 @@ name: Scrape Google Trends
 
 on:
   schedule:
-    # Runs every 20 minutes. GitHub Actions cron is UTC-only and best-effort
-    # (expect occasional 5-30 min delays at peak times) — fine for this use case.
     - cron: '*/20 * * * *'
-  workflow_dispatch: {} # lets you trigger it manually from the Actions tab to test
+  workflow_dispatch: {}
 
 permissions:
-  contents: write # required so the workflow can commit the updated JSON back to the repo
+  contents: write
 
 jobs:
   scrape:
@@ -26,6 +24,9 @@ jobs:
         run: |
           pip install -r requirements.txt
           playwright install --with-deps chromium
+
+      - name: Create output directory
+        run: mkdir -p output
 
       - name: Scrape Uganda trends
         run: python3 scrape_trends.py --geo UG --category 17 --out output/trending-ug.json
