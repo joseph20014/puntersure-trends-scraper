@@ -31,16 +31,21 @@ TRENDS_URL = "https://trends.google.com/trending"
 def parse_args():
     p = argparse.ArgumentParser()
     p.add_argument("--geo", default="UG", help="Geo code, e.g. UG, KE, US")
-    p.add_argument("--category", default="17", help="Google Trends category id (17 = Sports)")
-    p.add_argument("--out", default="trending.json", help="Path to write the JSON output")
-    p.add_argument("--headful", action="store_true", help="Run with a visible browser (debugging)")
+    p.add_argument(
+        "--category", default="17", help="Google Trends category id (17 = Sports)"
+    )
+    p.add_argument(
+        "--out", default="trending.json", help="Path to write the JSON output"
+    )
+    p.add_argument(
+        "--headful", action="store_true", help="Run with a visible browser (debugging)"
+    )
     return p.parse_args()
 
 
 def build_url(geo: str, category: str) -> str:
     return (
-        f"{TRENDS_URL}?geo={geo}&category={category}"
-        f"&sort=search-volume&status=active"
+        f"{TRENDS_URL}?geo={geo}&category={category}&sort=search-volume&status=active"
     )
 
 
@@ -78,9 +83,112 @@ def scrape(geo: str, category: str, headful: bool = False) -> dict:
         browser.close()
 
     if not rows:
-        raise RuntimeError("No trend rows found — Google's page structure may have changed")
+        raise RuntimeError(
+            "No trend rows found — Google's page structure may have changed"
+        )
 
-    top = rows[0]
+    # Filter for football/sports-related trends only
+    football_keywords = [
+        "football",
+        "soccer",
+        "premier league",
+        "champions league",
+        "la liga",
+        "serie a",
+        "bundesliga",
+        "ligue 1",
+        "world cup",
+        "afcon",
+        "epl",
+        "betting",
+        "odds",
+        "match",
+        "derby",
+        "qualifier",
+        "transfer",
+        "real madrid",
+        "barcelona",
+        "manchester",
+        "liverpool",
+        "chelsea",
+        "arsenal",
+        "tottenham",
+        "bayern",
+        "psg",
+        "juventus",
+        "milan",
+        "napoli",
+        "dortmund",
+        "ajax",
+        "celtic",
+        "rangers",
+        "al ahly",
+        "kaizer chiefs",
+        "tusker",
+        "gor mahia",
+        "afc leopards",
+        "simba",
+        "yanga",
+        "brighton",
+        "villa",
+        "west ham",
+        "newcastle",
+        "wolves",
+        "fulham",
+        "bournemouth",
+        "brentford",
+        "everton",
+        "nations league",
+        "europa league",
+        "conference league",
+        "copa",
+        "fa cup",
+        "playoff",
+        "relegation",
+        "promotion",
+        "scorer",
+        "hat trick",
+        "brace",
+    ]
+    non_sports = [
+        "kuccps",
+        "university",
+        "school",
+        "exam",
+        "results",
+        "scholarship",
+        "visa",
+        "passport",
+        "weather",
+        "recipe",
+        "movie",
+        "song",
+        "crypto",
+        "bitcoin",
+        "election",
+        "salary",
+        "loan",
+        "pregnancy",
+        "weight",
+    ]
+
+    def is_football(title):
+        t = title.lower()
+        for kw in non_sports:
+            if kw in t:
+                return False
+        for kw in football_keywords:
+            if kw in t:
+                return True
+        return False
+
+    filtered = [r for r in rows if is_football(r["title"])]
+
+    if not filtered:
+        # Fallback: return all rows if no football match found, let PHP side handle it
+        filtered = rows
+
+    top = filtered[0]
 
     return {
         "geo": geo,
@@ -88,7 +196,7 @@ def scrape(geo: str, category: str, headful: bool = False) -> dict:
         "url": url,
         "top_trend": top["title"],
         "top_trend_volume": top.get("volume"),
-        "all_trends": rows[:25],
+        "all_trends": filtered[:25],
         "fetched_at": datetime.now(timezone.utc).isoformat(),
     }
 
