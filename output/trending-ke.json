@@ -2,63 +2,11 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "2026 kuccps inter institution transfer",
+  "top_trend": "arsenal",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "2026 kuccps inter institution transfer",
-      "volume": null
-    },
-    {
-      "title": "ministry of defence",
-      "volume": null
-    },
-    {
-      "title": "debt",
-      "volume": null
-    },
-    {
-      "title": "michael carrick",
-      "volume": null
-    },
-    {
-      "title": "ol kalou by-election ruto gachagua",
-      "volume": null
-    },
-    {
-      "title": "mortgage loan",
-      "volume": null
-    },
-    {
-      "title": "england vs france",
-      "volume": null
-    },
-    {
-      "title": "democratic republic of the congo",
-      "volume": null
-    },
-    {
-      "title": "michael mutiga stanbic bank ceo",
-      "volume": null
-    },
-    {
-      "title": "nadia mukami",
-      "volume": null
-    },
-    {
-      "title": "kenya parastatal board member retirements",
-      "volume": null
-    },
-    {
-      "title": "ebola",
-      "volume": null
-    },
-    {
       "title": "arsenal",
-      "volume": null
-    },
-    {
-      "title": "man u",
       "volume": null
     },
     {
@@ -68,23 +16,7 @@
     {
       "title": "cristian orozco manchester united",
       "volume": null
-    },
-    {
-      "title": "the odyssey",
-      "volume": null
-    },
-    {
-      "title": "dhs four year student visa",
-      "volume": null
-    },
-    {
-      "title": "club friendlies",
-      "volume": null
-    },
-    {
-      "title": "getafe",
-      "volume": null
     }
   ],
-  "fetched_at": "2026-07-18T07:39:27.773335+00:00"
+  "fetched_at": "2026-07-18T07:54:09.399826+00:00"
 }

@@ -2,109 +2,17 @@
   "geo": "DK",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=DK&category=17&sort=search-volume&status=active",
-  "top_trend": "reality-tv",
+  "top_trend": "arsenal f.c.",
   "top_trend_volume": null,
   "all_trends": [
-    {
-      "title": "reality-tv",
-      "volume": null
-    },
-    {
-      "title": "virkelyst 12 nørresundby",
-      "volume": null
-    },
-    {
-      "title": "kronprinsesse marys bro",
-      "volume": null
-    },
-    {
-      "title": "tv2 østjylland",
-      "volume": null
-    },
-    {
-      "title": "tadej pogacar",
-      "volume": null
-    },
-    {
-      "title": "landbrug",
-      "volume": null
-    },
-    {
-      "title": "brand",
-      "volume": null
-    },
     {
       "title": "arsenal f.c.",
       "volume": null
     },
     {
-      "title": "jonas vingegaard",
-      "volume": null
-    },
-    {
-      "title": "tordenvejr",
-      "volume": null
-    },
-    {
-      "title": "fc midtjylland - ob",
-      "volume": null
-    },
-    {
-      "title": "kvinde",
-      "volume": null
-    },
-    {
-      "title": "kronprins",
-      "volume": null
-    },
-    {
-      "title": "mohamed salah",
-      "volume": null
-    },
-    {
-      "title": "brenda fricker",
-      "volume": null
-    },
-    {
-      "title": "tv 2 vejr",
-      "volume": null
-    },
-    {
-      "title": "virkelyst 12 aalborg",
-      "volume": null
-    },
-    {
-      "title": "krokstadelva",
-      "volume": null
-    },
-    {
-      "title": "mike tullberg",
-      "volume": null
-    },
-    {
-      "title": "oversvømmelse",
-      "volume": null
-    },
-    {
-      "title": "ekstra bladet",
-      "volume": null
-    },
-    {
-      "title": "løn",
-      "volume": null
-    },
-    {
-      "title": "den britiske kongefamilie",
-      "volume": null
-    },
-    {
-      "title": "nyheder tv2",
-      "volume": null
-    },
-    {
-      "title": "погода",
+      "title": "liverpool f.c.",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-18T07:41:55.293384+00:00"
+  "fetched_at": "2026-07-18T07:56:37.296410+00:00"
 }

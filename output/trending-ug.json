@@ -2,55 +2,11 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "moses ali",
+  "top_trend": "josh ogunnaike arsenal contract",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "moses ali",
-      "volume": null
-    },
-    {
-      "title": "kampala school bus overloading",
-      "volume": null
-    },
-    {
-      "title": "mbale",
-      "volume": null
-    },
-    {
-      "title": "julián alvarez",
-      "volume": null
-    },
-    {
-      "title": "michael carrick",
-      "volume": null
-    },
-    {
-      "title": "manu koné",
-      "volume": null
-    },
-    {
-      "title": "democratic republic of the congo",
-      "volume": null
-    },
-    {
-      "title": "france vs england",
-      "volume": null
-    },
-    {
-      "title": "weather",
-      "volume": null
-    },
-    {
-      "title": "cristian orozco",
-      "volume": null
-    },
-    {
-      "title": "club brugge",
-      "volume": null
-    },
-    {
-      "title": "bodø/glimt vs fredrikstad",
+      "title": "josh ogunnaike arsenal contract",
       "volume": null
     },
     {
@@ -60,11 +16,7 @@
     {
       "title": "liverpool",
       "volume": null
-    },
-    {
-      "title": "getafe",
-      "volume": null
     }
   ],
-  "fetched_at": "2026-07-18T07:40:56.210623+00:00"
+  "fetched_at": "2026-07-18T07:55:38.110264+00:00"
 }

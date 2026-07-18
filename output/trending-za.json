@@ -2,87 +2,11 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "south africa fuel under-recovery",
+  "top_trend": "siphesihle ndlovu kaizer chiefs",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "south africa fuel under-recovery",
-      "volume": null
-    },
-    {
-      "title": "iphone",
-      "volume": null
-    },
-    {
-      "title": "mbekezeli mbokazi",
-      "volume": null
-    },
-    {
-      "title": "sandf roodepoort mine shaft fall",
-      "volume": null
-    },
-    {
-      "title": "pension",
-      "volume": null
-    },
-    {
-      "title": "paseka mako",
-      "volume": null
-    },
-    {
-      "title": "orlando pirates fc",
-      "volume": null
-    },
-    {
-      "title": "all blacks vs ireland",
-      "volume": null
-    },
-    {
       "title": "siphesihle ndlovu kaizer chiefs",
-      "volume": null
-    },
-    {
-      "title": "powerball results 17 july 2026",
-      "volume": null
-    },
-    {
-      "title": "witness k",
-      "volume": null
-    },
-    {
-      "title": "bangladesh vs zimbabwe",
-      "volume": null
-    },
-    {
-      "title": "debt",
-      "volume": null
-    },
-    {
-      "title": "crime intelligence division",
-      "volume": null
-    },
-    {
-      "title": "dricus du plessis vs kamaru usman",
-      "volume": null
-    },
-    {
-      "title": "chile georgia rugby behind closed doors",
-      "volume": null
-    },
-    {
-      "title": "ballon d'or non-european eligibility",
-      "volume": null
-    },
-    {
-      "title": "pep guardiola manchester city departure",
-      "volume": null
-    },
-    {
-      "title": "fraud",
-      "volume": null
-    },
-    {
-      "title": "iran",
       "volume": null
     },
     {
@@ -90,21 +14,9 @@
       "volume": null
     },
     {
-      "title": "hollie davidson",
-      "volume": null
-    },
-    {
-      "title": "nelson mandela",
-      "volume": null
-    },
-    {
-      "title": "bryson dechambeau",
-      "volume": null
-    },
-    {
-      "title": "bushehr nuclear power plant",
+      "title": "pep guardiola manchester city departure",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-18T07:41:25.748656+00:00"
+  "fetched_at": "2026-07-18T07:56:07.747566+00:00"
 }
