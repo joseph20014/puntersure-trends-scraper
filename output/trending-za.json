@@ -2,21 +2,41 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "siphesihle ndlovu kaizer chiefs",
+  "top_trend": "france vs england world cup 2026",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "siphesihle ndlovu kaizer chiefs",
+      "title": "france vs england world cup 2026",
       "volume": null
     },
     {
-      "title": "antoine griezmann orlando city transfer",
+      "title": "elche vs kaizer chiefs",
       "volume": null
     },
     {
-      "title": "pep guardiola manchester city departure",
+      "title": "dundee vs everton",
+      "volume": null
+    },
+    {
+      "title": "world cup top scorers",
+      "volume": null
+    },
+    {
+      "title": "orlando pirates cadiz match",
+      "volume": null
+    },
+    {
+      "title": "new zealand england u20 match",
+      "volume": null
+    },
+    {
+      "title": "golden boot world cup 2026",
+      "volume": null
+    },
+    {
+      "title": "soccer world cup final",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-18T08:18:02.322328+00:00"
+  "fetched_at": "2026-07-19T08:13:57.342594+00:00"
 }

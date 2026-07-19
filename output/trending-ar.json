@@ -2,9 +2,21 @@
   "geo": "AR",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=AR&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "argentina en la copa mundial de fútbol",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 25 items",
-  "fetched_at": "2026-07-18T08:20:01.196185+00:00"
+  "all_trends": [
+    {
+      "title": "argentina en la copa mundial de fútbol",
+      "volume": null
+    },
+    {
+      "title": "final de la copa del mundo 2026",
+      "volume": null
+    },
+    {
+      "title": "manchester united - wrexham",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-07-19T08:15:56.757056+00:00"
 }

@@ -2,17 +2,13 @@
   "geo": "DK",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=DK&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal f.c.",
+  "top_trend": "tottenham hotspur f.c.",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "arsenal f.c.",
-      "volume": null
-    },
-    {
-      "title": "liverpool f.c.",
+      "title": "tottenham hotspur f.c.",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-18T08:18:32.045992+00:00"
+  "fetched_at": "2026-07-19T08:14:27.182946+00:00"
 }

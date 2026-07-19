@@ -2,9 +2,41 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "chelsea",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 25 items",
-  "fetched_at": "2026-07-18T08:16:33.156964+00:00"
+  "all_trends": [
+    {
+      "title": "chelsea",
+      "volume": null
+    },
+    {
+      "title": "highest goal scorer in world cup",
+      "volume": null
+    },
+    {
+      "title": "dundee vs everton",
+      "volume": null
+    },
+    {
+      "title": "chelsea vs crawley town",
+      "volume": null
+    },
+    {
+      "title": "basel vs juventus",
+      "volume": null
+    },
+    {
+      "title": "world cup all time top scorers",
+      "volume": null
+    },
+    {
+      "title": "what time is the world cup final",
+      "volume": null
+    },
+    {
+      "title": "world cup top assists 2026",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-07-19T08:12:27.962571+00:00"
 }
