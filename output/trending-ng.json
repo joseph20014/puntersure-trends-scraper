@@ -2,41 +2,17 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "chelsea",
+  "top_trend": "world cup awards 2026",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "chelsea",
+      "title": "world cup awards 2026",
       "volume": null
     },
     {
-      "title": "highest goal scorer in world cup",
-      "volume": null
-    },
-    {
-      "title": "dundee vs everton",
-      "volume": null
-    },
-    {
-      "title": "chelsea vs crawley town",
-      "volume": null
-    },
-    {
-      "title": "basel vs juventus",
-      "volume": null
-    },
-    {
-      "title": "world cup all time top scorers",
-      "volume": null
-    },
-    {
-      "title": "what time is the world cup final",
-      "volume": null
-    },
-    {
-      "title": "world cup top assists 2026",
+      "title": "premier league summer transfer spending",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-19T08:12:27.962571+00:00"
+  "fetched_at": "2026-07-20T08:53:49.097439+00:00"
 }

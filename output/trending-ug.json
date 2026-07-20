@@ -2,37 +2,17 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "dundee vs everton",
+  "top_trend": "world cup finals",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "dundee vs everton",
+      "title": "world cup finals",
       "volume": null
     },
     {
-      "title": "world cup top scorers 2026",
-      "volume": null
-    },
-    {
-      "title": "basel vs juventus",
-      "volume": null
-    },
-    {
-      "title": "arsenal transfer news",
-      "volume": null
-    },
-    {
-      "title": "christos tzolis arsenal transfer",
-      "volume": null
-    },
-    {
-      "title": "rw oberhausen vs dortmund",
-      "volume": null
-    },
-    {
-      "title": "liverpool",
+      "title": "world cup winners",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-19T08:13:27.464044+00:00"
+  "fetched_at": "2026-07-20T08:54:47.996225+00:00"
 }

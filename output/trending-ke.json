@@ -2,33 +2,21 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "dundee vs everton",
+  "top_trend": "who won the world cup 2026",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "dundee vs everton",
+      "title": "who won the world cup 2026",
       "volume": null
     },
     {
-      "title": "france vs england world cup 2026",
+      "title": "golden boot world cup 2026",
       "volume": null
     },
     {
-      "title": "world cup top scorers 2026",
-      "volume": null
-    },
-    {
-      "title": "world cup top scorers 2026 table",
-      "volume": null
-    },
-    {
-      "title": "liverpool",
-      "volume": null
-    },
-    {
-      "title": "basel vs juventus",
+      "title": "world cup finals",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-19T08:11:58.079401+00:00"
+  "fetched_at": "2026-07-20T08:53:19.619914+00:00"
 }
