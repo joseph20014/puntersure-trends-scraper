@@ -2,17 +2,25 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "world cup awards 2026",
+  "top_trend": "football.london",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "world cup awards 2026",
+      "title": "football.london",
       "volume": null
     },
     {
-      "title": "premier league summer transfer spending",
+      "title": "arsenal transfer",
+      "volume": null
+    },
+    {
+      "title": "fifa world cup golden ball",
+      "volume": null
+    },
+    {
+      "title": "aleksander ceferin world cup boycott",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-20T08:53:49.097439+00:00"
+  "fetched_at": "2026-07-21T08:24:01.302192+00:00"
 }

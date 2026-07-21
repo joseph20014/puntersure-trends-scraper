@@ -2,17 +2,25 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "world cup finals",
+  "top_trend": "arsenal mikel arteta summer transfers",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "world cup finals",
+      "title": "arsenal mikel arteta summer transfers",
       "volume": null
     },
     {
-      "title": "world cup winners",
+      "title": "uefa champions league",
+      "volume": null
+    },
+    {
+      "title": "christos tzolis transfer news",
+      "volume": null
+    },
+    {
+      "title": "premier league",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-20T08:54:47.996225+00:00"
+  "fetched_at": "2026-07-21T08:25:00.259737+00:00"
 }

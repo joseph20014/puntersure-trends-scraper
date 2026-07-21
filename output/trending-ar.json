@@ -2,13 +2,13 @@
   "geo": "AR",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=AR&category=17&sort=search-volume&status=active",
-  "top_trend": "copa america",
+  "top_trend": "copa sudamericana",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "copa america",
+      "title": "copa sudamericana",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-20T08:57:14.957317+00:00"
+  "fetched_at": "2026-07-21T08:27:58.344315+00:00"
 }

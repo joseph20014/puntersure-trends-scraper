@@ -2,25 +2,21 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "who won the world cup 2026",
+  "top_trend": "fifa world cup awards",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "who won the world cup 2026",
+      "title": "fifa world cup awards",
       "volume": null
     },
     {
-      "title": "mbappe france world cup comments",
+      "title": "uefa champions league",
       "volume": null
     },
     {
-      "title": "how old was mbappe when he won the world cup",
-      "volume": null
-    },
-    {
-      "title": "who won the world cup",
+      "title": "kobbie mainoo world cup",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-20T08:56:16.090476+00:00"
+  "fetched_at": "2026-07-21T08:26:58.929902+00:00"
 }

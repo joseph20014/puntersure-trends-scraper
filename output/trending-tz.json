@@ -2,9 +2,13 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "uefa champions league",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 12 items",
-  "fetched_at": "2026-07-20T08:54:18.567210+00:00"
+  "all_trends": [
+    {
+      "title": "uefa champions league",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-07-21T08:24:30.715850+00:00"
 }

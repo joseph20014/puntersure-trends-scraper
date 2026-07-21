@@ -2,21 +2,21 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "who won the world cup 2026",
+  "top_trend": "uefa champions league",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "who won the world cup 2026",
+      "title": "uefa champions league",
       "volume": null
     },
     {
-      "title": "golden boot world cup 2026",
+      "title": "arsenal mikel arteta summer transfers",
       "volume": null
     },
     {
-      "title": "world cup finals",
+      "title": "arsenal transfer",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-20T08:53:19.619914+00:00"
+  "fetched_at": "2026-07-21T08:23:31.687400+00:00"
 }
