@@ -2,21 +2,25 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "uefa champions league",
+  "top_trend": "walsall vs aston villa",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "uefa champions league",
+      "title": "walsall vs aston villa",
       "volume": null
     },
     {
-      "title": "arsenal mikel arteta summer transfers",
+      "title": "manchester city f.c.",
       "volume": null
     },
     {
-      "title": "arsenal transfer",
+      "title": "arsenal",
+      "volume": null
+    },
+    {
+      "title": "aston villa",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-21T08:23:31.687400+00:00"
+  "fetched_at": "2026-07-22T08:23:49.636596+00:00"
 }

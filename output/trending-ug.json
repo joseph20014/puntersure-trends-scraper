@@ -2,25 +2,33 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal mikel arteta summer transfers",
+  "top_trend": "walsall vs aston villa",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "arsenal mikel arteta summer transfers",
+      "title": "walsall vs aston villa",
       "volume": null
     },
     {
-      "title": "uefa champions league",
+      "title": "arsenal fixtures",
       "volume": null
     },
     {
-      "title": "christos tzolis transfer news",
+      "title": "aston villa",
       "volume": null
     },
     {
-      "title": "premier league",
+      "title": "france manu koné transfer news",
+      "volume": null
+    },
+    {
+      "title": "manchester city f.c.",
+      "volume": null
+    },
+    {
+      "title": "liverpool",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-21T08:25:00.259737+00:00"
+  "fetched_at": "2026-07-22T08:25:18.087192+00:00"
 }
