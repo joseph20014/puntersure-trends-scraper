@@ -2,25 +2,17 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "glody lilepo transfer news",
+  "top_trend": "stevenage vs west ham",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "glody lilepo transfer news",
+      "title": "stevenage vs west ham",
       "volume": null
     },
     {
-      "title": "walsall vs aston villa",
-      "volume": null
-    },
-    {
-      "title": "post 2026 world cup fifa rankings",
-      "volume": null
-    },
-    {
-      "title": "manchester city f.c.",
+      "title": "maidenhead united vs wolves",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-22T08:25:47.599026+00:00"
+  "fetched_at": "2026-07-23T08:27:19.151736+00:00"
 }

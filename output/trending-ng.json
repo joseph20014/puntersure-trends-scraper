@@ -2,21 +2,25 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "transfermarkt world cup player tournament",
+  "top_trend": "stevenage vs west ham",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "transfermarkt world cup player tournament",
+      "title": "stevenage vs west ham",
       "volume": null
     },
     {
-      "title": "walsall vs aston villa",
+      "title": "maidenhead united vs wolves",
       "volume": null
     },
     {
-      "title": "aston villa",
+      "title": "napoli vs arezzo",
+      "volume": null
+    },
+    {
+      "title": "football transfer news chelsea",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-22T08:24:19.249772+00:00"
+  "fetched_at": "2026-07-23T08:25:49.971434+00:00"
 }

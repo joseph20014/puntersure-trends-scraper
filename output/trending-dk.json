@@ -2,9 +2,17 @@
   "geo": "DK",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=DK&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "tottenham - mk dons",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 25 items",
-  "fetched_at": "2026-07-22T08:26:17.990068+00:00"
+  "all_trends": [
+    {
+      "title": "tottenham - mk dons",
+      "volume": null
+    },
+    {
+      "title": "napoli - s.s. arezzo",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-07-23T08:27:48.933309+00:00"
 }

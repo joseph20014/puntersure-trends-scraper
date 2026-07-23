@@ -2,33 +2,29 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "walsall vs aston villa",
+  "top_trend": "stevenage vs west ham",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "walsall vs aston villa",
+      "title": "stevenage vs west ham",
       "volume": null
     },
     {
-      "title": "arsenal fixtures",
+      "title": "maidenhead united vs wolves",
       "volume": null
     },
     {
-      "title": "aston villa",
+      "title": "napoli vs arezzo",
       "volume": null
     },
     {
-      "title": "france manu koné transfer news",
+      "title": "mikel merino arsenal transfer speculation",
       "volume": null
     },
     {
-      "title": "manchester city f.c.",
-      "volume": null
-    },
-    {
-      "title": "liverpool",
+      "title": "elijah upson arsenal transfer",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-22T08:25:18.087192+00:00"
+  "fetched_at": "2026-07-23T08:26:49.369988+00:00"
 }

@@ -2,21 +2,41 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "ghana 2026 world cup ranking",
+  "top_trend": "stevenage vs west ham",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "ghana 2026 world cup ranking",
+      "title": "stevenage vs west ham",
       "volume": null
     },
     {
-      "title": "transfermarkt world cup player tournament",
+      "title": "nigeria national football team",
       "volume": null
     },
     {
-      "title": "walsall vs aston villa",
+      "title": "2030 fifa world cup",
+      "volume": null
+    },
+    {
+      "title": "maidenhead united vs wolves",
+      "volume": null
+    },
+    {
+      "title": "cabo verde national football team",
+      "volume": null
+    },
+    {
+      "title": "real madrid",
+      "volume": null
+    },
+    {
+      "title": "napoli vs arezzo",
+      "volume": null
+    },
+    {
+      "title": "fifa club world cup",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-22T08:26:47.452903+00:00"
+  "fetched_at": "2026-07-23T08:28:18.617261+00:00"
 }
