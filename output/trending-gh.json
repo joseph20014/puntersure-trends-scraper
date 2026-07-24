@@ -2,41 +2,25 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "stevenage vs west ham",
+  "top_trend": "córdoba vs sevilla",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "stevenage vs west ham",
+      "title": "córdoba vs sevilla",
       "volume": null
     },
     {
-      "title": "nigeria national football team",
+      "title": "efootball",
       "volume": null
     },
     {
-      "title": "2030 fifa world cup",
+      "title": "2026–27 premier league",
       "volume": null
     },
     {
-      "title": "maidenhead united vs wolves",
-      "volume": null
-    },
-    {
-      "title": "cabo verde national football team",
-      "volume": null
-    },
-    {
-      "title": "real madrid",
-      "volume": null
-    },
-    {
-      "title": "napoli vs arezzo",
-      "volume": null
-    },
-    {
-      "title": "fifa club world cup",
+      "title": "vojvodina novi sad vs ajax",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-23T08:28:18.617261+00:00"
+  "fetched_at": "2026-07-24T08:26:07.269882+00:00"
 }

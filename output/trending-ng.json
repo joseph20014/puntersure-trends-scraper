@@ -2,25 +2,21 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "stevenage vs west ham",
+  "top_trend": "united tchouameni transfer bid",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "stevenage vs west ham",
+      "title": "united tchouameni transfer bid",
       "volume": null
     },
     {
-      "title": "maidenhead united vs wolves",
+      "title": "chelsea vs bromley",
       "volume": null
     },
     {
-      "title": "napoli vs arezzo",
-      "volume": null
-    },
-    {
-      "title": "football transfer news chelsea",
+      "title": "córdoba vs sevilla",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-23T08:25:49.971434+00:00"
+  "fetched_at": "2026-07-24T08:23:38.662265+00:00"
 }
