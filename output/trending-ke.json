@@ -2,21 +2,33 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "manchester united tchouaméni transfer",
+  "top_trend": "derby vs freiburg",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "manchester united tchouaméni transfer",
+      "title": "derby vs freiburg",
       "volume": null
     },
     {
-      "title": "bradley barcola transfer news",
+      "title": "liverpool",
       "volume": null
     },
     {
-      "title": "vojvodina novi sad vs ajax",
+      "title": "real madrid",
+      "volume": null
+    },
+    {
+      "title": "manchester united",
+      "volume": null
+    },
+    {
+      "title": "barcelona",
+      "volume": null
+    },
+    {
+      "title": "chelsea argentina international signing",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-24T08:23:08.814293+00:00"
+  "fetched_at": "2026-07-25T08:02:45.894161+00:00"
 }

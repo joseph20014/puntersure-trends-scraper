@@ -2,21 +2,25 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "united tchouameni transfer bid",
+  "top_trend": "barcelona vs europa",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "united tchouameni transfer bid",
+      "title": "barcelona vs europa",
       "volume": null
     },
     {
-      "title": "chelsea vs bromley",
+      "title": "2030 fifa world cup",
       "volume": null
     },
     {
-      "title": "córdoba vs sevilla",
+      "title": "real madrid match today",
+      "volume": null
+    },
+    {
+      "title": "16 teams wafcon 2026 morocco",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-24T08:23:38.662265+00:00"
+  "fetched_at": "2026-07-25T08:03:15.570412+00:00"
 }

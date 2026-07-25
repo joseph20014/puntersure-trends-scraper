@@ -2,25 +2,37 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "córdoba vs sevilla",
+  "top_trend": "barcelona match today",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "córdoba vs sevilla",
+      "title": "barcelona match today",
       "volume": null
     },
     {
-      "title": "efootball",
+      "title": "barcelona vs europa",
       "volume": null
     },
     {
-      "title": "2026–27 premier league",
+      "title": "real madrid match today",
       "volume": null
     },
     {
-      "title": "vojvodina novi sad vs ajax",
+      "title": "fc barcelona",
+      "volume": null
+    },
+    {
+      "title": "manchester united",
+      "volume": null
+    },
+    {
+      "title": "barcelona vs",
+      "volume": null
+    },
+    {
+      "title": "manchester united f.c",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-24T08:26:07.269882+00:00"
+  "fetched_at": "2026-07-25T08:05:43.652013+00:00"
 }

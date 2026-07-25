@@ -2,17 +2,21 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "manchester united kone agreement",
+  "top_trend": "2030 fifa world cup",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "manchester united kone agreement",
+      "title": "2030 fifa world cup",
       "volume": null
     },
     {
-      "title": "chelsea transfer news",
+      "title": "arsenal transfers",
+      "volume": null
+    },
+    {
+      "title": "barcelona",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-24T08:24:37.976310+00:00"
+  "fetched_at": "2026-07-25T08:04:14.647786+00:00"
 }
