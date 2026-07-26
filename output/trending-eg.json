@@ -2,13 +2,13 @@
   "geo": "EG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=EG&category=17&sort=search-volume&status=active",
-  "top_trend": "barcelona vs europa",
+  "top_trend": "liverpool vs sunderland",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "barcelona vs europa",
+      "title": "liverpool vs sunderland",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-25T08:06:13.399006+00:00"
+  "fetched_at": "2026-07-26T08:26:00.197111+00:00"
 }

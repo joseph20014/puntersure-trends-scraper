@@ -2,25 +2,49 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "barcelona vs europa",
+  "top_trend": "wehen wiesbaden vs bayern",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "barcelona vs europa",
+      "title": "wehen wiesbaden vs bayern",
       "volume": null
     },
     {
-      "title": "2030 fifa world cup",
+      "title": "porto vs aston villa",
       "volume": null
     },
     {
-      "title": "real madrid match today",
+      "title": "celtic vs milan",
       "volume": null
     },
     {
-      "title": "16 teams wafcon 2026 morocco",
+      "title": "bolton vs everton",
+      "volume": null
+    },
+    {
+      "title": "atletico madrid kang-in lee transfer",
+      "volume": null
+    },
+    {
+      "title": "bayern munich",
+      "volume": null
+    },
+    {
+      "title": "psv vs villarreal",
+      "volume": null
+    },
+    {
+      "title": "standard vs juventus",
+      "volume": null
+    },
+    {
+      "title": "arsenal vs mk dons",
+      "volume": null
+    },
+    {
+      "title": "liverpool vs sunderland afc",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-25T08:03:15.570412+00:00"
+  "fetched_at": "2026-07-26T08:23:05.523763+00:00"
 }

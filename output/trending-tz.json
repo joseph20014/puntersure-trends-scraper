@@ -2,13 +2,45 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": "manchester united",
+  "top_trend": "liverpool vs sunderland",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "manchester united",
+      "title": "liverpool vs sunderland",
+      "volume": null
+    },
+    {
+      "title": "wehen wiesbaden vs bayern",
+      "volume": null
+    },
+    {
+      "title": "porto vs aston villa",
+      "volume": null
+    },
+    {
+      "title": "simba sc",
+      "volume": null
+    },
+    {
+      "title": "arsenal f.c.",
+      "volume": null
+    },
+    {
+      "title": "bolton vs everton",
+      "volume": null
+    },
+    {
+      "title": "düsseldorf vs dortmund",
+      "volume": null
+    },
+    {
+      "title": "celtic vs milan",
+      "volume": null
+    },
+    {
+      "title": "standard vs juventus",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-25T08:03:45.047236+00:00"
+  "fetched_at": "2026-07-26T08:23:34.712235+00:00"
 }

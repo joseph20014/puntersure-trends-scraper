@@ -2,37 +2,45 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "barcelona match today",
+  "top_trend": "liverpool vs sunderland",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "barcelona match today",
+      "title": "liverpool vs sunderland",
       "volume": null
     },
     {
-      "title": "barcelona vs europa",
+      "title": "wehen wiesbaden vs bayern",
       "volume": null
     },
     {
-      "title": "real madrid match today",
+      "title": "porto vs aston villa",
       "volume": null
     },
     {
-      "title": "fc barcelona",
+      "title": "celtic vs milan",
       "volume": null
     },
     {
-      "title": "manchester united",
+      "title": "psv vs villarreal",
       "volume": null
     },
     {
-      "title": "barcelona vs",
+      "title": "atletico madrid kang-in lee transfer",
       "volume": null
     },
     {
-      "title": "manchester united f.c",
+      "title": "bolton vs everton",
+      "volume": null
+    },
+    {
+      "title": "arsenal vs mk dons",
+      "volume": null
+    },
+    {
+      "title": "standard vs juventus",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-25T08:05:43.652013+00:00"
+  "fetched_at": "2026-07-26T08:25:31.075984+00:00"
 }
