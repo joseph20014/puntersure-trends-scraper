@@ -2,49 +2,25 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "wehen wiesbaden vs bayern",
+  "top_trend": "ajax vs burnley",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "wehen wiesbaden vs bayern",
+      "title": "ajax vs burnley",
       "volume": null
     },
     {
-      "title": "porto vs aston villa",
+      "title": "napoli vs carrarese",
       "volume": null
     },
     {
-      "title": "celtic vs milan",
+      "title": "sevilla vs ceuta",
       "volume": null
     },
     {
-      "title": "bolton vs everton",
-      "volume": null
-    },
-    {
-      "title": "atletico madrid kang-in lee transfer",
-      "volume": null
-    },
-    {
-      "title": "bayern munich",
-      "volume": null
-    },
-    {
-      "title": "psv vs villarreal",
-      "volume": null
-    },
-    {
-      "title": "standard vs juventus",
-      "volume": null
-    },
-    {
-      "title": "arsenal vs mk dons",
-      "volume": null
-    },
-    {
-      "title": "liverpool vs sunderland afc",
+      "title": "argentina football world cup",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-26T08:23:05.523763+00:00"
+  "fetched_at": "2026-07-27T09:45:16.671471+00:00"
 }

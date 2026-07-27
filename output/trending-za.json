@@ -2,29 +2,17 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "liverpool vs sunderland",
+  "top_trend": "kaizer chiefs vs scottland fc",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "liverpool vs sunderland",
+      "title": "kaizer chiefs vs scottland fc",
       "volume": null
     },
     {
-      "title": "wehen wiesbaden vs bayern",
-      "volume": null
-    },
-    {
-      "title": "porto vs aston villa",
-      "volume": null
-    },
-    {
-      "title": "celtic vs milan",
-      "volume": null
-    },
-    {
-      "title": "kaizer chiefs new signings",
+      "title": "ajax vs burnley",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-26T08:24:32.899019+00:00"
+  "fetched_at": "2026-07-27T09:46:45.336037+00:00"
 }

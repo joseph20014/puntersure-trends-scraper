@@ -2,49 +2,25 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "liverpool vs sunderland",
+  "top_trend": "ajax vs burnley",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "liverpool vs sunderland",
+      "title": "ajax vs burnley",
       "volume": null
     },
     {
-      "title": "porto vs aston villa",
+      "title": "wafcon 2026 fixtures",
       "volume": null
     },
     {
-      "title": "wehen wiesbaden vs bayern",
+      "title": "napoli vs carrarese",
       "volume": null
     },
     {
-      "title": "bolton vs everton",
-      "volume": null
-    },
-    {
-      "title": "celtic vs milan",
-      "volume": null
-    },
-    {
-      "title": "arsenal vs mk dons",
-      "volume": null
-    },
-    {
-      "title": "standard vs juventus",
-      "volume": null
-    },
-    {
-      "title": "düsseldorf vs dortmund",
-      "volume": null
-    },
-    {
-      "title": "bayern munich",
-      "volume": null
-    },
-    {
-      "title": "psv vs villarreal",
+      "title": "arsenal transfer news",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-26T08:22:36.285376+00:00"
+  "fetched_at": "2026-07-27T09:44:46.957907+00:00"
 }

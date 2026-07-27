@@ -2,45 +2,25 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "liverpool vs sunderland",
+  "top_trend": "wafcon",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "liverpool vs sunderland",
+      "title": "wafcon",
       "volume": null
     },
     {
-      "title": "wehen wiesbaden vs bayern",
+      "title": "manchester united f.c.",
       "volume": null
     },
     {
-      "title": "porto vs aston villa",
+      "title": "ajax vs burnley",
       "volume": null
     },
     {
-      "title": "celtic vs milan",
-      "volume": null
-    },
-    {
-      "title": "psv vs villarreal",
-      "volume": null
-    },
-    {
-      "title": "atletico madrid kang-in lee transfer",
-      "volume": null
-    },
-    {
-      "title": "bolton vs everton",
-      "volume": null
-    },
-    {
-      "title": "arsenal vs mk dons",
-      "volume": null
-    },
-    {
-      "title": "standard vs juventus",
+      "title": "napoli vs carrarese",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-26T08:25:31.075984+00:00"
+  "fetched_at": "2026-07-27T09:48:14.351552+00:00"
 }
