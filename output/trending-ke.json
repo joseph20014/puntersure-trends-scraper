@@ -2,25 +2,17 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "ajax vs burnley",
+  "top_trend": "morocco kenya wafcon 2026 match",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "ajax vs burnley",
+      "title": "morocco kenya wafcon 2026 match",
       "volume": null
     },
     {
-      "title": "wafcon 2026 fixtures",
-      "volume": null
-    },
-    {
-      "title": "napoli vs carrarese",
-      "volume": null
-    },
-    {
-      "title": "arsenal transfer news",
+      "title": "gor mahia",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-27T09:44:46.957907+00:00"
+  "fetched_at": "2026-07-28T08:29:21.046128+00:00"
 }

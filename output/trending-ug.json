@@ -2,21 +2,21 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "ajax vs burnley",
+  "top_trend": "transfer news today",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "ajax vs burnley",
+      "title": "transfer news today",
       "volume": null
     },
     {
-      "title": "napoli vs carrarese",
+      "title": "arsenal transfer",
       "volume": null
     },
     {
-      "title": "arsenal news",
+      "title": "chelsea",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-27T09:46:15.626089+00:00"
+  "fetched_at": "2026-07-28T08:30:49.533440+00:00"
 }
