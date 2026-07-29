@@ -2,17 +2,29 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "ballon d'or 2026 france football",
+  "top_trend": "aston villa vs real sociedad",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "ballon d'or 2026 france football",
+      "title": "aston villa vs real sociedad",
       "volume": null
     },
     {
-      "title": "chelsea vs western sydney wanderers fc",
+      "title": "stoke city vs everton",
+      "volume": null
+    },
+    {
+      "title": "real madrid vs leganes",
+      "volume": null
+    },
+    {
+      "title": "julian alvarez transfer options",
+      "volume": null
+    },
+    {
+      "title": "chelsea",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-28T08:29:50.732740+00:00"
+  "fetched_at": "2026-07-29T08:36:04.998528+00:00"
 }

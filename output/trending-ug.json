@@ -2,21 +2,33 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "transfer news today",
+  "top_trend": "chelsea vs western sydney wanderers fc",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "transfer news today",
+      "title": "chelsea vs western sydney wanderers fc",
       "volume": null
     },
     {
-      "title": "arsenal transfer",
+      "title": "aston villa vs real sociedad",
       "volume": null
     },
     {
-      "title": "chelsea",
+      "title": "stoke city vs everton",
+      "volume": null
+    },
+    {
+      "title": "man utd transfer news",
+      "volume": null
+    },
+    {
+      "title": "arsenal andrea berta transfer targets",
+      "volume": null
+    },
+    {
+      "title": "arsenal transfer news today",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-28T08:30:49.533440+00:00"
+  "fetched_at": "2026-07-29T08:37:04.185106+00:00"
 }

@@ -2,9 +2,25 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "chelsea vs western sydney wanderers fc",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 11 items",
-  "fetched_at": "2026-07-28T08:30:20.135849+00:00"
+  "all_trends": [
+    {
+      "title": "chelsea vs western sydney wanderers fc",
+      "volume": null
+    },
+    {
+      "title": "aston villa vs real sociedad",
+      "volume": null
+    },
+    {
+      "title": "stoke city vs everton",
+      "volume": null
+    },
+    {
+      "title": "chelsea",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-07-29T08:36:34.562517+00:00"
 }

@@ -2,9 +2,17 @@
   "geo": "AR",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=AR&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "chelsea - ws wanderers",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 25 items",
-  "fetched_at": "2026-07-28T08:33:17.061694+00:00"
+  "all_trends": [
+    {
+      "title": "chelsea - ws wanderers",
+      "volume": null
+    },
+    {
+      "title": "aston villa - real sociedad",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-07-29T08:39:36.023048+00:00"
 }

@@ -2,25 +2,37 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "wafcon 2026 fixtures",
+  "top_trend": "chelsea vs western sydney wanderers fc",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "wafcon 2026 fixtures",
+      "title": "chelsea vs western sydney wanderers fc",
       "volume": null
     },
     {
-      "title": "2026 world cup goal award",
+      "title": "aston villa vs real sociedad",
       "volume": null
     },
     {
-      "title": "ghana women's national football team",
+      "title": "stoke city vs everton",
       "volume": null
     },
     {
-      "title": "chelsea",
+      "title": "real madrid vs leganes",
+      "volume": null
+    },
+    {
+      "title": "real madrid",
+      "volume": null
+    },
+    {
+      "title": "real madrid match today",
+      "volume": null
+    },
+    {
+      "title": "côte divoire burkina faso wafcon",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-28T08:32:17.959946+00:00"
+  "fetched_at": "2026-07-29T08:38:36.557346+00:00"
 }
