@@ -2,29 +2,21 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "aston villa vs real sociedad",
+  "top_trend": "liverpool vs wrexham",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "aston villa vs real sociedad",
+      "title": "liverpool vs wrexham",
       "volume": null
     },
     {
-      "title": "stoke city vs everton",
+      "title": "doncaster vs wolves",
       "volume": null
     },
     {
-      "title": "real madrid vs leganes",
-      "volume": null
-    },
-    {
-      "title": "julian alvarez transfer options",
-      "volume": null
-    },
-    {
-      "title": "chelsea",
+      "title": "newcastle",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-29T08:36:04.998528+00:00"
+  "fetched_at": "2026-07-30T08:21:21.630270+00:00"
 }
