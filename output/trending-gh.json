@@ -2,21 +2,37 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "liverpool vs wrexham",
+  "top_trend": "rottach-egern vs bayern",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "liverpool vs wrexham",
+      "title": "rottach-egern vs bayern",
       "volume": null
     },
     {
-      "title": "doncaster vs wolves",
+      "title": "bournemouth vs augsburg",
       "volume": null
     },
     {
-      "title": "wafcon 2026",
+      "title": "futbol club barcelona",
+      "volume": null
+    },
+    {
+      "title": "confederation of african football",
+      "volume": null
+    },
+    {
+      "title": "bayern munich",
+      "volume": null
+    },
+    {
+      "title": "union of european football associations",
+      "volume": null
+    },
+    {
+      "title": "ajax vs vojvodina novi sad",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-30T08:23:49.480584+00:00"
+  "fetched_at": "2026-07-31T08:48:26.899311+00:00"
 }
