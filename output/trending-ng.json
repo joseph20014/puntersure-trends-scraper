@@ -2,25 +2,37 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "rottach-egern vs bayern",
+  "top_trend": "birmingham vs barcelona",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "rottach-egern vs bayern",
+      "title": "birmingham vs barcelona",
       "volume": null
     },
     {
-      "title": "bournemouth vs augsburg",
+      "title": "juventus vs nice",
       "volume": null
     },
     {
-      "title": "bayern",
+      "title": "fc barcelona birmingham city preseason",
       "volume": null
     },
     {
-      "title": "caicedo jackson chelsea pre-season",
+      "title": "chelsea vs tottenham",
+      "volume": null
+    },
+    {
+      "title": "dundee united vs rangers",
+      "volume": null
+    },
+    {
+      "title": "fc barcelona news",
+      "volume": null
+    },
+    {
+      "title": "vini jr to arsenal",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-31T08:45:58.349839+00:00"
+  "fetched_at": "2026-08-01T08:15:48.268320+00:00"
 }

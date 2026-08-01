@@ -2,33 +2,33 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "rottach-egern vs bayern",
+  "top_trend": "birmingham vs barcelona",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "rottach-egern vs bayern",
+      "title": "birmingham vs barcelona",
       "volume": null
     },
     {
-      "title": "bournemouth vs augsburg",
+      "title": "chelsea vs tottenham",
       "volume": null
     },
     {
-      "title": "arsenal transfer news",
+      "title": "juventus vs nice",
       "volume": null
     },
     {
-      "title": "tsc teacher promotions",
+      "title": "arsenal",
       "volume": null
     },
     {
-      "title": "ajax vs vojvodina novi sad",
+      "title": "football transfer news",
       "volume": null
     },
     {
-      "title": "bayern",
+      "title": "fc barcelona",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-31T08:45:28.701828+00:00"
+  "fetched_at": "2026-08-01T08:15:19.035223+00:00"
 }

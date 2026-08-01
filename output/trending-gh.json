@@ -2,37 +2,33 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "rottach-egern vs bayern",
+  "top_trend": "birmingham vs barcelona",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "rottach-egern vs bayern",
+      "title": "birmingham vs barcelona",
       "volume": null
     },
     {
-      "title": "bournemouth vs augsburg",
+      "title": "juventus vs nice",
       "volume": null
     },
     {
-      "title": "futbol club barcelona",
+      "title": "barcelona vs birmingham city",
       "volume": null
     },
     {
-      "title": "confederation of african football",
+      "title": "barcelona",
       "volume": null
     },
     {
-      "title": "bayern munich",
+      "title": "fc barcelona",
       "volume": null
     },
     {
-      "title": "union of european football associations",
-      "volume": null
-    },
-    {
-      "title": "ajax vs vojvodina novi sad",
+      "title": "premier league",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-31T08:48:26.899311+00:00"
+  "fetched_at": "2026-08-01T08:18:13.619241+00:00"
 }

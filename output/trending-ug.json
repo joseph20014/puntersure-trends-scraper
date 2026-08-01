@@ -2,25 +2,37 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "rottach-egern vs bayern",
+  "top_trend": "birmingham vs barcelona",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "rottach-egern vs bayern",
+      "title": "birmingham vs barcelona",
       "volume": null
     },
     {
-      "title": "bournemouth vs augsburg",
+      "title": "juventus vs nice",
       "volume": null
     },
     {
-      "title": "ajax vs vojvodina novi sad",
+      "title": "arsenal vs girona",
       "volume": null
     },
     {
-      "title": "bayern munich",
+      "title": "vini jr to arsenal",
+      "volume": null
+    },
+    {
+      "title": "chelsea vs spurs",
+      "volume": null
+    },
+    {
+      "title": "barcelona fc",
+      "volume": null
+    },
+    {
+      "title": "rangers",
       "volume": null
     }
   ],
-  "fetched_at": "2026-07-31T08:46:57.638680+00:00"
+  "fetched_at": "2026-08-01T08:16:46.397915+00:00"
 }
