@@ -2,21 +2,25 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "birmingham vs barcelona",
+  "top_trend": "kruger united vs kaizer chiefs",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "birmingham vs barcelona",
+      "title": "kruger united vs kaizer chiefs",
       "volume": null
     },
     {
-      "title": "goodman mosele orlando pirates transfer",
+      "title": "chelsea vs spurs",
       "volume": null
     },
     {
-      "title": "juventus vs nice",
+      "title": "real madrid vs fiorentina",
+      "volume": null
+    },
+    {
+      "title": "girona vs arsenal",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-01T08:17:15.498119+00:00"
+  "fetched_at": "2026-08-02T08:20:15.971032+00:00"
 }

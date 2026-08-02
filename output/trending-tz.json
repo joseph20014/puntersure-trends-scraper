@@ -2,25 +2,45 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": "birmingham vs barcelona",
+  "top_trend": "chelsea vs spurs",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "birmingham vs barcelona",
+      "title": "chelsea vs spurs",
       "volume": null
     },
     {
-      "title": "simba vs singida kagame cup",
+      "title": "simba s.c.",
       "volume": null
     },
     {
-      "title": "juventus vs nice",
+      "title": "burkina faso tanzania wafcon match",
       "volume": null
     },
     {
-      "title": "wafcon",
+      "title": "real madrid vs fiorentina",
+      "volume": null
+    },
+    {
+      "title": "real madrid",
+      "volume": null
+    },
+    {
+      "title": "arsenal",
+      "volume": null
+    },
+    {
+      "title": "yanga",
+      "volume": null
+    },
+    {
+      "title": "kruger united vs kaizer chiefs",
+      "volume": null
+    },
+    {
+      "title": "chelsea",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-01T08:16:17.325888+00:00"
+  "fetched_at": "2026-08-02T08:19:16.397347+00:00"
 }

@@ -2,17 +2,9 @@
   "geo": "DK",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=DK&category=17&sort=search-volume&status=active",
-  "top_trend": "birmingham - barcelona",
+  "top_trend": null,
   "top_trend_volume": null,
-  "all_trends": [
-    {
-      "title": "birmingham - barcelona",
-      "volume": null
-    },
-    {
-      "title": "birmingham vs barcelona",
-      "volume": null
-    }
-  ],
-  "fetched_at": "2026-08-01T08:17:44.493492+00:00"
+  "all_trends": [],
+  "error": "No football trends found after scanning 25 items",
+  "fetched_at": "2026-08-02T08:20:45.645576+00:00"
 }

@@ -2,37 +2,45 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "birmingham vs barcelona",
+  "top_trend": "arsenal",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "birmingham vs barcelona",
+      "title": "arsenal",
       "volume": null
     },
     {
-      "title": "juventus vs nice",
+      "title": "real madrid vs fiorentina",
       "volume": null
     },
     {
-      "title": "arsenal vs girona",
+      "title": "arsenal vs",
       "volume": null
     },
     {
-      "title": "vini jr to arsenal",
+      "title": "man u transfers",
       "volume": null
     },
     {
-      "title": "chelsea vs spurs",
+      "title": "real madrid",
       "volume": null
     },
     {
-      "title": "barcelona fc",
+      "title": "manchester united",
       "volume": null
     },
     {
-      "title": "rangers",
+      "title": "chelsea",
+      "volume": null
+    },
+    {
+      "title": "manchester united vs atletico madrid",
+      "volume": null
+    },
+    {
+      "title": "chelsea vs",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-01T08:16:46.397915+00:00"
+  "fetched_at": "2026-08-02T08:19:46.165730+00:00"
 }

@@ -2,21 +2,13 @@
   "geo": "AR",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=AR&category=17&sort=search-volume&status=active",
-  "top_trend": "birmingham city - barcelona",
+  "top_trend": "chelsea - tottenham",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "birmingham city - barcelona",
-      "volume": null
-    },
-    {
-      "title": "barcelona",
-      "volume": null
-    },
-    {
-      "title": "al-nassr football club",
+      "title": "chelsea - tottenham",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-01T08:19:11.866963+00:00"
+  "fetched_at": "2026-08-02T08:22:15.088508+00:00"
 }

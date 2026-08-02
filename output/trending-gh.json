@@ -2,33 +2,45 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "birmingham vs barcelona",
+  "top_trend": "chelsea vs spurs",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "birmingham vs barcelona",
+      "title": "chelsea vs spurs",
       "volume": null
     },
     {
-      "title": "juventus vs nice",
+      "title": "real madrid vs fiorentina",
       "volume": null
     },
     {
-      "title": "barcelona vs birmingham city",
+      "title": "arsenal",
       "volume": null
     },
     {
-      "title": "barcelona",
+      "title": "girona vs arsenal",
       "volume": null
     },
     {
-      "title": "fc barcelona",
+      "title": "madrid match today",
       "volume": null
     },
     {
-      "title": "premier league",
+      "title": "real madrid",
+      "volume": null
+    },
+    {
+      "title": "chelsea",
+      "volume": null
+    },
+    {
+      "title": "manchester united",
+      "volume": null
+    },
+    {
+      "title": "manchester united f.c",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-01T08:18:13.619241+00:00"
+  "fetched_at": "2026-08-02T08:21:15.260890+00:00"
 }
