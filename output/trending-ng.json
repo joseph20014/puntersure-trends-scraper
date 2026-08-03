@@ -2,25 +2,13 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "girona vs arsenal",
+  "top_trend": "liverpool vs leeds",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "girona vs arsenal",
-      "volume": null
-    },
-    {
-      "title": "chelsea f.c. vs tottenham lineups",
-      "volume": null
-    },
-    {
-      "title": "arsenal",
-      "volume": null
-    },
-    {
-      "title": "wwe summerslam matches",
+      "title": "liverpool vs leeds",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-02T08:18:46.845576+00:00"
+  "fetched_at": "2026-08-03T09:38:21.305736+00:00"
 }

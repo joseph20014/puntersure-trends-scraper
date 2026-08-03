@@ -2,25 +2,17 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "kruger united vs kaizer chiefs",
+  "top_trend": "liverpool vs leeds",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "kruger united vs kaizer chiefs",
+      "title": "liverpool vs leeds",
       "volume": null
     },
     {
-      "title": "chelsea vs spurs",
-      "volume": null
-    },
-    {
-      "title": "real madrid vs fiorentina",
-      "volume": null
-    },
-    {
-      "title": "girona vs arsenal",
+      "title": "mpho padime orlando pirates promotion",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-02T08:20:15.971032+00:00"
+  "fetched_at": "2026-08-03T09:40:19.984971+00:00"
 }

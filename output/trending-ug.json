@@ -2,45 +2,17 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal",
+  "top_trend": "liverpool vs leeds",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "arsenal",
+      "title": "liverpool vs leeds",
       "volume": null
     },
     {
-      "title": "real madrid vs fiorentina",
-      "volume": null
-    },
-    {
-      "title": "arsenal vs",
-      "volume": null
-    },
-    {
-      "title": "man u transfers",
-      "volume": null
-    },
-    {
-      "title": "real madrid",
-      "volume": null
-    },
-    {
-      "title": "manchester united",
-      "volume": null
-    },
-    {
-      "title": "chelsea",
-      "volume": null
-    },
-    {
-      "title": "manchester united vs atletico madrid",
-      "volume": null
-    },
-    {
-      "title": "chelsea vs",
+      "title": "arsenal transfer news now",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-02T08:19:46.165730+00:00"
+  "fetched_at": "2026-08-03T09:39:50.313138+00:00"
 }
