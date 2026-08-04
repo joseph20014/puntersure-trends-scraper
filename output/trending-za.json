@@ -2,17 +2,21 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "liverpool vs leeds",
+  "top_trend": "mduduzi shabalala kaizer chiefs",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "liverpool vs leeds",
+      "title": "mduduzi shabalala kaizer chiefs",
       "volume": null
     },
     {
-      "title": "mpho padime orlando pirates promotion",
+      "title": "burkina faso south africa wafcon",
+      "volume": null
+    },
+    {
+      "title": "gonzalo garcia fulham move",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-03T09:40:19.984971+00:00"
+  "fetched_at": "2026-08-04T08:34:11.064271+00:00"
 }

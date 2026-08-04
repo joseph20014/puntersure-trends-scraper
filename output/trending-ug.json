@@ -2,17 +2,21 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "liverpool vs leeds",
+  "top_trend": "arsenal transfer",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "liverpool vs leeds",
+      "title": "arsenal transfer",
       "volume": null
     },
     {
-      "title": "arsenal transfer news now",
+      "title": "celtic fc",
+      "volume": null
+    },
+    {
+      "title": "celtic",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-03T09:39:50.313138+00:00"
+  "fetched_at": "2026-08-04T08:33:41.374572+00:00"
 }

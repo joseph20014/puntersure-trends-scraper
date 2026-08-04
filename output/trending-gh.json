@@ -2,25 +2,17 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "liverpool vs leeds",
+  "top_trend": "cameroon ghana wafcon match",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "liverpool vs leeds",
+      "title": "cameroon ghana wafcon match",
       "volume": null
     },
     {
-      "title": "arsenal f.c.",
-      "volume": null
-    },
-    {
-      "title": "association football referee",
-      "volume": null
-    },
-    {
-      "title": "nigeria women's national football team",
+      "title": "real madrid",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-03T09:41:19.091312+00:00"
+  "fetched_at": "2026-08-04T08:35:40.016300+00:00"
 }

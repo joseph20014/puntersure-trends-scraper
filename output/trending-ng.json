@@ -2,13 +2,25 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "liverpool vs leeds",
+  "top_trend": "arsenal transfer",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "liverpool vs leeds",
+      "title": "arsenal transfer",
+      "volume": null
+    },
+    {
+      "title": "gonzalo garcia real madrid exit",
+      "volume": null
+    },
+    {
+      "title": "celtic vs dundee",
+      "volume": null
+    },
+    {
+      "title": "chelsea vs juventus",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-03T09:38:21.305736+00:00"
+  "fetched_at": "2026-08-04T08:32:42.432515+00:00"
 }
