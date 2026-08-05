@@ -2,13 +2,21 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": "chelsea f.c.",
+  "top_trend": "jeju vs bayern",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "chelsea f.c.",
+      "title": "jeju vs bayern",
+      "volume": null
+    },
+    {
+      "title": "bg pathum united vs aston villa",
+      "volume": null
+    },
+    {
+      "title": "bournemouth vs genoa",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-04T08:33:11.877907+00:00"
+  "fetched_at": "2026-08-05T08:32:02.686785+00:00"
 }

@@ -2,21 +2,45 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal transfer",
+  "top_trend": "bg pathum united vs aston villa",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "arsenal transfer",
+      "title": "bg pathum united vs aston villa",
       "volume": null
     },
     {
-      "title": "celtic fc",
+      "title": "jeju vs bayern",
       "volume": null
     },
     {
-      "title": "celtic",
+      "title": "bournemouth vs genoa",
+      "volume": null
+    },
+    {
+      "title": "christos tzolis arsenal left wing",
+      "volume": null
+    },
+    {
+      "title": "kyran thompson newcastle united transfer",
+      "volume": null
+    },
+    {
+      "title": "real madrid",
+      "volume": null
+    },
+    {
+      "title": "guimaraes to arsenal",
+      "volume": null
+    },
+    {
+      "title": "aston villa",
+      "volume": null
+    },
+    {
+      "title": "bayern munich",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-04T08:33:41.374572+00:00"
+  "fetched_at": "2026-08-05T08:32:32.282800+00:00"
 }

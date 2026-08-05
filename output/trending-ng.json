@@ -2,25 +2,33 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal transfer",
+  "top_trend": "jeju vs bayern",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "arsenal transfer",
+      "title": "jeju vs bayern",
       "volume": null
     },
     {
-      "title": "gonzalo garcia real madrid exit",
+      "title": "bg pathum united vs aston villa",
       "volume": null
     },
     {
-      "title": "celtic vs dundee",
+      "title": "bournemouth vs genoa",
       "volume": null
     },
     {
-      "title": "chelsea vs juventus",
+      "title": "nigeria women's national football team",
+      "volume": null
+    },
+    {
+      "title": "fabrizio romano arsenal transfer news",
+      "volume": null
+    },
+    {
+      "title": "fifa 2030 world cup qualification",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-04T08:32:42.432515+00:00"
+  "fetched_at": "2026-08-05T08:31:33.143499+00:00"
 }

@@ -2,17 +2,37 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "cameroon ghana wafcon match",
+  "top_trend": "jeju vs bayern",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "cameroon ghana wafcon match",
+      "title": "jeju vs bayern",
       "volume": null
     },
     {
-      "title": "real madrid",
+      "title": "bg pathum united vs aston villa",
+      "volume": null
+    },
+    {
+      "title": "bournemouth vs genoa",
+      "volume": null
+    },
+    {
+      "title": "premier league",
+      "volume": null
+    },
+    {
+      "title": "ghana national under-23 football team",
+      "volume": null
+    },
+    {
+      "title": "bournemouth",
+      "volume": null
+    },
+    {
+      "title": "aston villa",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-04T08:35:40.016300+00:00"
+  "fetched_at": "2026-08-05T08:34:00.874826+00:00"
 }
