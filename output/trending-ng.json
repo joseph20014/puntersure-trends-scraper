@@ -2,33 +2,41 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "jeju vs bayern",
+  "top_trend": "arsenal vs betis",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "jeju vs bayern",
+      "title": "arsenal vs betis",
       "volume": null
     },
     {
-      "title": "bg pathum united vs aston villa",
+      "title": "mallorca vs psg",
       "volume": null
     },
     {
-      "title": "bournemouth vs genoa",
+      "title": "milan vs inter",
       "volume": null
     },
     {
-      "title": "nigeria women's national football team",
+      "title": "chelsea fc vs juventus",
       "volume": null
     },
     {
-      "title": "fabrizio romano arsenal transfer news",
+      "title": "wafcon 2026",
       "volume": null
     },
     {
-      "title": "fifa 2030 world cup qualification",
+      "title": "napoli vs osasuna",
+      "volume": null
+    },
+    {
+      "title": "arsenal",
+      "volume": null
+    },
+    {
+      "title": "wafcon 2026 fixtures",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-05T08:31:33.143499+00:00"
+  "fetched_at": "2026-08-06T08:30:57.749813+00:00"
 }

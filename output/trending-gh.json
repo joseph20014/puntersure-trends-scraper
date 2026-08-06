@@ -2,37 +2,37 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "jeju vs bayern",
+  "top_trend": "chelsea vs juventus",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "jeju vs bayern",
+      "title": "chelsea vs juventus",
       "volume": null
     },
     {
-      "title": "bg pathum united vs aston villa",
+      "title": "arsenal vs betis",
       "volume": null
     },
     {
-      "title": "bournemouth vs genoa",
+      "title": "mallorca vs psg",
       "volume": null
     },
     {
-      "title": "premier league",
+      "title": "milan vs inter",
       "volume": null
     },
     {
-      "title": "ghana national under-23 football team",
+      "title": "psg",
       "volume": null
     },
     {
-      "title": "bournemouth",
+      "title": "arsenal",
       "volume": null
     },
     {
-      "title": "aston villa",
+      "title": "napoli vs osasuna",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-05T08:34:00.874826+00:00"
+  "fetched_at": "2026-08-06T08:34:26.429250+00:00"
 }

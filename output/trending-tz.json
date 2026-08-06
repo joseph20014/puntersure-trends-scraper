@@ -2,21 +2,33 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": "jeju vs bayern",
+  "top_trend": "arsenal vs betis",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "jeju vs bayern",
+      "title": "arsenal vs betis",
       "volume": null
     },
     {
-      "title": "bg pathum united vs aston villa",
+      "title": "chelsea vs juventus",
       "volume": null
     },
     {
-      "title": "bournemouth vs genoa",
+      "title": "mallorca vs psg",
+      "volume": null
+    },
+    {
+      "title": "milan vs inter",
+      "volume": null
+    },
+    {
+      "title": "arsenal",
+      "volume": null
+    },
+    {
+      "title": "napoli vs osasuna",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-05T08:32:02.686785+00:00"
+  "fetched_at": "2026-08-06T08:31:27.414767+00:00"
 }

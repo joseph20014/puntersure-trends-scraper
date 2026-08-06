@@ -2,25 +2,29 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "jeju vs bayern",
+  "top_trend": "arsenal vs betis",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "jeju vs bayern",
+      "title": "arsenal vs betis",
       "volume": null
     },
     {
-      "title": "bg pathum united vs aston villa",
+      "title": "mallorca vs psg",
       "volume": null
     },
     {
-      "title": "kaizer chiefs caf confederation cup",
+      "title": "milan vs inter",
       "volume": null
     },
     {
-      "title": "bournemouth vs genoa",
+      "title": "sassa gold card replacement",
+      "volume": null
+    },
+    {
+      "title": "psg",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-05T08:33:01.931567+00:00"
+  "fetched_at": "2026-08-06T08:32:56.945112+00:00"
 }

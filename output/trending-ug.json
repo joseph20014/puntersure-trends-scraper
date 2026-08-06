@@ -2,45 +2,53 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "bg pathum united vs aston villa",
+  "top_trend": "arsenal vs betis",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "bg pathum united vs aston villa",
+      "title": "arsenal vs betis",
       "volume": null
     },
     {
-      "title": "jeju vs bayern",
+      "title": "mallorca vs psg",
       "volume": null
     },
     {
-      "title": "bournemouth vs genoa",
+      "title": "milan vs inter",
       "volume": null
     },
     {
-      "title": "christos tzolis arsenal left wing",
+      "title": "psg",
       "volume": null
     },
     {
-      "title": "kyran thompson newcastle united transfer",
+      "title": "napoli vs osasuna",
       "volume": null
     },
     {
-      "title": "real madrid",
+      "title": "arsenal",
       "volume": null
     },
     {
-      "title": "guimaraes to arsenal",
+      "title": "psg fc",
       "volume": null
     },
     {
-      "title": "aston villa",
+      "title": "chelsea",
       "volume": null
     },
     {
-      "title": "bayern munich",
+      "title": "arsenal live",
+      "volume": null
+    },
+    {
+      "title": "ac milan",
+      "volume": null
+    },
+    {
+      "title": "chelsea football club",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-05T08:32:32.282800+00:00"
+  "fetched_at": "2026-08-06T08:31:57.148727+00:00"
 }

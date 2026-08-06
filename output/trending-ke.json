@@ -2,37 +2,45 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "jeju vs bayern",
+  "top_trend": "arsenal vs betis",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "jeju vs bayern",
+      "title": "arsenal vs betis",
       "volume": null
     },
     {
-      "title": "bg pathum united vs aston villa",
+      "title": "mallorca vs psg",
       "volume": null
     },
     {
-      "title": "chelsea vs juventus",
+      "title": "milan vs inter",
       "volume": null
     },
     {
-      "title": "bournemouth vs genoa",
+      "title": "psg",
       "volume": null
     },
     {
-      "title": "gor mahia vs al hilal",
+      "title": "napoli vs osasuna",
       "volume": null
     },
     {
-      "title": "bruno guimaraes arsenal transfer",
+      "title": "chelsea",
       "volume": null
     },
     {
-      "title": "aston villa",
+      "title": "arsenal fixtures",
+      "volume": null
+    },
+    {
+      "title": "ac milan",
+      "volume": null
+    },
+    {
+      "title": "manchester united transfer news",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-05T08:31:03.527034+00:00"
+  "fetched_at": "2026-08-06T08:30:27.740471+00:00"
 }
