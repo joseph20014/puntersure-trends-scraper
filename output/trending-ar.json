@@ -2,33 +2,13 @@
   "geo": "AR",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=AR&category=17&sort=search-volume&status=active",
-  "top_trend": "r.c.d. mallorca - psg",
+  "top_trend": "thiago messi barcelona",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "r.c.d. mallorca - psg",
-      "volume": null
-    },
-    {
-      "title": "arsenal - real betis",
-      "volume": null
-    },
-    {
-      "title": "k league all-stars - manchester city",
-      "volume": null
-    },
-    {
-      "title": "chelsea - juventus",
-      "volume": null
-    },
-    {
-      "title": "milan - inter",
-      "volume": null
-    },
-    {
-      "title": "psg",
+      "title": "thiago messi barcelona",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-06T08:35:26.062991+00:00"
+  "fetched_at": "2026-08-07T07:14:38.888675+00:00"
 }

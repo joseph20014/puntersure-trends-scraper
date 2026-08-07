@@ -2,41 +2,25 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal vs betis",
+  "top_trend": "vini jr arsenal",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "arsenal vs betis",
+      "title": "vini jr arsenal",
       "volume": null
     },
     {
-      "title": "mallorca vs psg",
+      "title": "rodri transfer news",
       "volume": null
     },
     {
-      "title": "milan vs inter",
+      "title": "nigeria national football team",
       "volume": null
     },
     {
-      "title": "chelsea fc vs juventus",
-      "volume": null
-    },
-    {
-      "title": "wafcon 2026",
-      "volume": null
-    },
-    {
-      "title": "napoli vs osasuna",
-      "volume": null
-    },
-    {
-      "title": "arsenal",
-      "volume": null
-    },
-    {
-      "title": "wafcon 2026 fixtures",
+      "title": "ajax vs shelbourne",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-06T08:30:57.749813+00:00"
+  "fetched_at": "2026-08-07T07:11:11.064014+00:00"
 }

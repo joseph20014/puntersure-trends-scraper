@@ -2,13 +2,17 @@
   "geo": "DK",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=DK&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal - betis",
+  "top_trend": "bet365 champions league",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "arsenal - betis",
+      "title": "bet365 champions league",
+      "volume": null
+    },
+    {
+      "title": "liverpool f.c.",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-06T08:33:26.696673+00:00"
+  "fetched_at": "2026-08-07T07:13:09.743725+00:00"
 }

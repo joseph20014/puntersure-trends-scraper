@@ -2,53 +2,17 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal vs betis",
+  "top_trend": "man u transfer news",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "arsenal vs betis",
-      "volume": null
-    },
-    {
-      "title": "mallorca vs psg",
-      "volume": null
-    },
-    {
-      "title": "milan vs inter",
-      "volume": null
-    },
-    {
-      "title": "psg",
-      "volume": null
-    },
-    {
-      "title": "napoli vs osasuna",
-      "volume": null
-    },
-    {
-      "title": "arsenal",
-      "volume": null
-    },
-    {
-      "title": "psg fc",
-      "volume": null
-    },
-    {
-      "title": "chelsea",
+      "title": "man u transfer news",
       "volume": null
     },
     {
       "title": "arsenal live",
       "volume": null
-    },
-    {
-      "title": "ac milan",
-      "volume": null
-    },
-    {
-      "title": "chelsea football club",
-      "volume": null
     }
   ],
-  "fetched_at": "2026-08-06T08:31:57.148727+00:00"
+  "fetched_at": "2026-08-07T07:12:10.325693+00:00"
 }
