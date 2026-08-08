@@ -2,13 +2,9 @@
   "geo": "AR",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=AR&category=17&sort=search-volume&status=active",
-  "top_trend": "thiago messi barcelona",
+  "top_trend": null,
   "top_trend_volume": null,
-  "all_trends": [
-    {
-      "title": "thiago messi barcelona",
-      "volume": null
-    }
-  ],
-  "fetched_at": "2026-08-07T07:14:38.888675+00:00"
+  "all_trends": [],
+  "error": "No football trends found after scanning 25 items",
+  "fetched_at": "2026-08-08T06:49:15.442169+00:00"
 }

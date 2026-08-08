@@ -2,17 +2,21 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "rodri real madrid",
+  "top_trend": "wolves vs port vale",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "rodri real madrid",
+      "title": "wolves vs port vale",
       "volume": null
     },
     {
-      "title": "uefa champions league",
+      "title": "fulham vs crystal palace",
+      "volume": null
+    },
+    {
+      "title": "aston villa vs bayern",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-07T07:13:39.408363+00:00"
+  "fetched_at": "2026-08-08T06:48:15.937147+00:00"
 }

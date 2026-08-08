@@ -2,17 +2,25 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "faiz abrahams kaizer chiefs",
+  "top_trend": "kaizer chiefs royal bafokeng stadium",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "faiz abrahams kaizer chiefs",
+      "title": "kaizer chiefs royal bafokeng stadium",
       "volume": null
     },
     {
-      "title": "morocco south africa wafcon quarterfinal",
+      "title": "sassa gold card replacement deadline",
+      "volume": null
+    },
+    {
+      "title": "wolves vs port vale",
+      "volume": null
+    },
+    {
+      "title": "fulham vs crystal palace",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-07T07:12:40.004022+00:00"
+  "fetched_at": "2026-08-08T06:47:16.650367+00:00"
 }

@@ -2,17 +2,33 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "man u transfer news",
+  "top_trend": "wolves vs port vale",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "man u transfer news",
+      "title": "wolves vs port vale",
       "volume": null
     },
     {
-      "title": "arsenal live",
+      "title": "aston villa vs bayern",
+      "volume": null
+    },
+    {
+      "title": "fulham vs palace",
+      "volume": null
+    },
+    {
+      "title": "manchester united f.c.",
+      "volume": null
+    },
+    {
+      "title": "arsenal transfer targets",
+      "volume": null
+    },
+    {
+      "title": "fulham",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-07T07:12:10.325693+00:00"
+  "fetched_at": "2026-08-08T06:46:47.028153+00:00"
 }

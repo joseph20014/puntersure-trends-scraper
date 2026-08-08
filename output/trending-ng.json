@@ -2,25 +2,33 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "vini jr arsenal",
+  "top_trend": "fulham vs crystal palace",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "vini jr arsenal",
+      "title": "fulham vs crystal palace",
       "volume": null
     },
     {
-      "title": "rodri transfer news",
+      "title": "wafcon 2026 quarter-finals",
       "volume": null
     },
     {
-      "title": "nigeria national football team",
+      "title": "wolves vs port vale",
       "volume": null
     },
     {
-      "title": "ajax vs shelbourne",
+      "title": "aston villa vs bayern",
+      "volume": null
+    },
+    {
+      "title": "chelsea vs ac milan",
+      "volume": null
+    },
+    {
+      "title": "man u vs psg",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-07T07:11:11.064014+00:00"
+  "fetched_at": "2026-08-08T06:45:47.780283+00:00"
 }
