@@ -2,33 +2,49 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "wolves vs port vale",
+  "top_trend": "chelsea vs milan",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "wolves vs port vale",
+      "title": "chelsea vs milan",
       "volume": null
     },
     {
-      "title": "aston villa vs bayern",
+      "title": "west ham vs portsmouth",
       "volume": null
     },
     {
-      "title": "gor mahia",
+      "title": "manchester united vs psg",
       "volume": null
     },
     {
-      "title": "fulham vs crystal palace",
+      "title": "betis vs bournemouth",
       "volume": null
     },
     {
-      "title": "man u vs psg",
+      "title": "valencia vs newcastle",
       "volume": null
     },
     {
-      "title": "aston villa",
+      "title": "ferencváros vs real madrid",
+      "volume": null
+    },
+    {
+      "title": "juventus vs inter",
+      "volume": null
+    },
+    {
+      "title": "galatasaray vs villarreal",
+      "volume": null
+    },
+    {
+      "title": "napoli vs celta",
+      "volume": null
+    },
+    {
+      "title": "barcelona",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-08T06:45:18.004747+00:00"
+  "fetched_at": "2026-08-09T06:51:43.631161+00:00"
 }

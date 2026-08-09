@@ -2,33 +2,53 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "wolves vs port vale",
+  "top_trend": "chelsea vs milan",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "wolves vs port vale",
+      "title": "chelsea vs milan",
       "volume": null
     },
     {
-      "title": "aston villa vs bayern",
+      "title": "betis vs bournemouth",
       "volume": null
     },
     {
-      "title": "fulham vs palace",
+      "title": "west ham vs portsmouth",
       "volume": null
     },
     {
-      "title": "manchester united f.c.",
+      "title": "valencia vs newcastle",
       "volume": null
     },
     {
-      "title": "arsenal transfer targets",
+      "title": "ferencváros vs real madrid",
       "volume": null
     },
     {
-      "title": "fulham",
+      "title": "juventus vs inter",
+      "volume": null
+    },
+    {
+      "title": "vfb stuttgart vs everton",
+      "volume": null
+    },
+    {
+      "title": "galatasaray vs villarreal",
+      "volume": null
+    },
+    {
+      "title": "rennes vs brentford",
+      "volume": null
+    },
+    {
+      "title": "manchester united vs psg",
+      "volume": null
+    },
+    {
+      "title": "arsenal vs dortmund",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-08T06:46:47.028153+00:00"
+  "fetched_at": "2026-08-09T06:53:12.708670+00:00"
 }

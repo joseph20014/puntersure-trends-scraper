@@ -2,33 +2,53 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "fulham vs crystal palace",
+  "top_trend": "chelsea vs milan",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "fulham vs crystal palace",
+      "title": "chelsea vs milan",
       "volume": null
     },
     {
-      "title": "wafcon 2026 quarter-finals",
+      "title": "ferencváros vs real madrid",
       "volume": null
     },
     {
-      "title": "wolves vs port vale",
+      "title": "galatasaray vs villarreal",
       "volume": null
     },
     {
-      "title": "aston villa vs bayern",
+      "title": "tottenham vs getafe",
       "volume": null
     },
     {
-      "title": "chelsea vs ac milan",
+      "title": "juventus vs inter",
       "volume": null
     },
     {
-      "title": "man u vs psg",
+      "title": "manchester united vs psg",
+      "volume": null
+    },
+    {
+      "title": "west ham vs portsmouth",
+      "volume": null
+    },
+    {
+      "title": "betis vs bournemouth",
+      "volume": null
+    },
+    {
+      "title": "valencia vs newcastle",
+      "volume": null
+    },
+    {
+      "title": "barcelona vs nottm forest",
+      "volume": null
+    },
+    {
+      "title": "al-hilal darwin nunez transfer",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-08T06:45:47.780283+00:00"
+  "fetched_at": "2026-08-09T06:52:13.399507+00:00"
 }

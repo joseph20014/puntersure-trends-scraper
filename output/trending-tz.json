@@ -2,13 +2,53 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": "wolves vs port vale",
+  "top_trend": "chelsea vs milan",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "wolves vs port vale",
+      "title": "chelsea vs milan",
+      "volume": null
+    },
+    {
+      "title": "psg vs man united",
+      "volume": null
+    },
+    {
+      "title": "ferencváros vs real madrid",
+      "volume": null
+    },
+    {
+      "title": "juventus vs inter",
+      "volume": null
+    },
+    {
+      "title": "valencia vs newcastle",
+      "volume": null
+    },
+    {
+      "title": "betis vs bournemouth",
+      "volume": null
+    },
+    {
+      "title": "simba",
+      "volume": null
+    },
+    {
+      "title": "west ham vs portsmouth",
+      "volume": null
+    },
+    {
+      "title": "real madrid",
+      "volume": null
+    },
+    {
+      "title": "psg",
+      "volume": null
+    },
+    {
+      "title": "tottenham",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-08T06:46:17.376896+00:00"
+  "fetched_at": "2026-08-09T06:52:42.994953+00:00"
 }

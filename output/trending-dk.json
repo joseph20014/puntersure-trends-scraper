@@ -2,9 +2,13 @@
   "geo": "DK",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=DK&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "arsenal f.c.",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 25 items",
-  "fetched_at": "2026-08-08T06:47:46.245353+00:00"
+  "all_trends": [
+    {
+      "title": "arsenal f.c.",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-08-09T06:54:12.136829+00:00"
 }

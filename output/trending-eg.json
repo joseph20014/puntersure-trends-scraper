@@ -2,9 +2,13 @@
   "geo": "EG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=EG&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "ferencváros vs real madrid",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 25 items",
-  "fetched_at": "2026-08-08T06:48:45.670693+00:00"
+  "all_trends": [
+    {
+      "title": "ferencváros vs real madrid",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-08-09T06:55:11.496058+00:00"
 }
