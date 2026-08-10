@@ -2,49 +2,37 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "chelsea vs milan",
+  "top_trend": "johor darul ta'zim vs chelsea",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "chelsea vs milan",
+      "title": "johor darul ta'zim vs chelsea",
       "volume": null
     },
     {
-      "title": "west ham vs portsmouth",
+      "title": "liverpool vs monaco",
       "volume": null
     },
     {
-      "title": "manchester united vs psg",
+      "title": "arsenal",
       "volume": null
     },
     {
-      "title": "betis vs bournemouth",
+      "title": "arsenal vs borussia dortmund",
       "volume": null
     },
     {
-      "title": "valencia vs newcastle",
+      "title": "ajax",
       "volume": null
     },
     {
-      "title": "ferencváros vs real madrid",
+      "title": "liverpool f.c.",
       "volume": null
     },
     {
-      "title": "juventus vs inter",
-      "volume": null
-    },
-    {
-      "title": "galatasaray vs villarreal",
-      "volume": null
-    },
-    {
-      "title": "napoli vs celta",
-      "volume": null
-    },
-    {
-      "title": "barcelona",
+      "title": "chelsea game today",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-09T06:51:43.631161+00:00"
+  "fetched_at": "2026-08-10T07:26:21.932760+00:00"
 }

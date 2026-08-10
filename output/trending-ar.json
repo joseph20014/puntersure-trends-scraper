@@ -2,21 +2,21 @@
   "geo": "AR",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=AR&category=17&sort=search-volume&status=active",
-  "top_trend": "ferencváros - real madrid",
+  "top_trend": "manchester city - atlético madrid",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "ferencváros - real madrid",
+      "title": "manchester city - atlético madrid",
       "volume": null
     },
     {
-      "title": "juventus - inter",
+      "title": "arsenal - dortmund",
       "volume": null
     },
     {
-      "title": "chelsea - milan",
+      "title": "johor - chelsea",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-09T06:55:41.221438+00:00"
+  "fetched_at": "2026-08-10T07:30:50.043598+00:00"
 }

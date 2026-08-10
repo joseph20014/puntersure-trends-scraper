@@ -2,53 +2,33 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "ferencváros vs real madrid",
+  "top_trend": "arsenal vs dortmund",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "ferencváros vs real madrid",
+      "title": "arsenal vs dortmund",
       "volume": null
     },
     {
-      "title": "chelsea vs milan",
+      "title": "johor darul ta'zim vs chelsea",
       "volume": null
     },
     {
-      "title": "psg vs man united",
+      "title": "liverpool vs monaco",
       "volume": null
     },
     {
-      "title": "juventus vs inter",
+      "title": "liverpool",
       "volume": null
     },
     {
-      "title": "betis vs bournemouth",
+      "title": "manchester city f.c.",
       "volume": null
     },
     {
-      "title": "valencia vs newcastle",
-      "volume": null
-    },
-    {
-      "title": "west ham vs portsmouth",
-      "volume": null
-    },
-    {
-      "title": "tottenham vs getafe",
-      "volume": null
-    },
-    {
-      "title": "barcelona match today",
-      "volume": null
-    },
-    {
-      "title": "barcelona vs",
-      "volume": null
-    },
-    {
-      "title": "barcelona",
+      "title": "chelsea",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-09T06:54:41.793608+00:00"
+  "fetched_at": "2026-08-10T07:29:50.350641+00:00"
 }

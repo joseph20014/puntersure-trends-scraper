@@ -2,53 +2,45 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "chelsea vs milan",
+  "top_trend": "liverpool vs monaco",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "chelsea vs milan",
+      "title": "liverpool vs monaco",
       "volume": null
     },
     {
-      "title": "betis vs bournemouth",
+      "title": "johor darul ta'zim vs chelsea",
       "volume": null
     },
     {
-      "title": "west ham vs portsmouth",
+      "title": "arsenal",
       "volume": null
     },
     {
-      "title": "valencia vs newcastle",
+      "title": "ajax fc",
       "volume": null
     },
     {
-      "title": "ferencváros vs real madrid",
+      "title": "liverpool",
       "volume": null
     },
     {
-      "title": "juventus vs inter",
+      "title": "borussia dortmund",
       "volume": null
     },
     {
-      "title": "vfb stuttgart vs everton",
+      "title": "arsenal f.c",
       "volume": null
     },
     {
-      "title": "galatasaray vs villarreal",
+      "title": "ajax",
       "volume": null
     },
     {
-      "title": "rennes vs brentford",
-      "volume": null
-    },
-    {
-      "title": "manchester united vs psg",
-      "volume": null
-    },
-    {
-      "title": "arsenal vs dortmund",
+      "title": "manchester city f.c.",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-09T06:53:12.708670+00:00"
+  "fetched_at": "2026-08-10T07:28:21.008885+00:00"
 }

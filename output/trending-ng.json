@@ -2,53 +2,29 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "chelsea vs milan",
+  "top_trend": "johor darul ta'zim vs chelsea",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "chelsea vs milan",
+      "title": "johor darul ta'zim vs chelsea",
       "volume": null
     },
     {
-      "title": "ferencváros vs real madrid",
+      "title": "rangers vs hibernian",
       "volume": null
     },
     {
-      "title": "galatasaray vs villarreal",
+      "title": "al-nassr samu costa transfer",
       "volume": null
     },
     {
-      "title": "tottenham vs getafe",
+      "title": "barcelona news",
       "volume": null
     },
     {
-      "title": "juventus vs inter",
-      "volume": null
-    },
-    {
-      "title": "manchester united vs psg",
-      "volume": null
-    },
-    {
-      "title": "west ham vs portsmouth",
-      "volume": null
-    },
-    {
-      "title": "betis vs bournemouth",
-      "volume": null
-    },
-    {
-      "title": "valencia vs newcastle",
-      "volume": null
-    },
-    {
-      "title": "barcelona vs nottm forest",
-      "volume": null
-    },
-    {
-      "title": "al-hilal darwin nunez transfer",
+      "title": "arsenal",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-09T06:52:13.399507+00:00"
+  "fetched_at": "2026-08-10T07:26:51.658739+00:00"
 }
