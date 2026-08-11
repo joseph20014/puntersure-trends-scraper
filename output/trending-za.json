@@ -2,25 +2,13 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal vs dortmund",
+  "top_trend": "langelihle phili kaizer chiefs debut",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "arsenal vs dortmund",
-      "volume": null
-    },
-    {
-      "title": "liverpool vs monaco",
-      "volume": null
-    },
-    {
-      "title": "johor darul ta'zim vs chelsea",
-      "volume": null
-    },
-    {
-      "title": "kaizer chiefs match",
+      "title": "langelihle phili kaizer chiefs debut",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-10T07:28:50.826363+00:00"
+  "fetched_at": "2026-08-11T07:03:30.208125+00:00"
 }

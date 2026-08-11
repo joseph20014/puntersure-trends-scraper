@@ -2,45 +2,17 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "liverpool vs monaco",
+  "top_trend": "arsenal vs borussia dortmund",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "liverpool vs monaco",
+      "title": "arsenal vs borussia dortmund",
       "volume": null
     },
     {
-      "title": "johor darul ta'zim vs chelsea",
-      "volume": null
-    },
-    {
-      "title": "arsenal",
-      "volume": null
-    },
-    {
-      "title": "ajax fc",
-      "volume": null
-    },
-    {
-      "title": "liverpool",
-      "volume": null
-    },
-    {
-      "title": "borussia dortmund",
-      "volume": null
-    },
-    {
-      "title": "arsenal f.c",
-      "volume": null
-    },
-    {
-      "title": "ajax",
-      "volume": null
-    },
-    {
-      "title": "manchester city f.c.",
+      "title": "gabriel martinelli transfer rumors",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-10T07:28:21.008885+00:00"
+  "fetched_at": "2026-08-11T07:03:00.523930+00:00"
 }

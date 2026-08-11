@@ -2,37 +2,13 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "johor darul ta'zim vs chelsea",
+  "top_trend": "chelsea training squad updates",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "johor darul ta'zim vs chelsea",
-      "volume": null
-    },
-    {
-      "title": "liverpool vs monaco",
-      "volume": null
-    },
-    {
-      "title": "arsenal",
-      "volume": null
-    },
-    {
-      "title": "arsenal vs borussia dortmund",
-      "volume": null
-    },
-    {
-      "title": "ajax",
-      "volume": null
-    },
-    {
-      "title": "liverpool f.c.",
-      "volume": null
-    },
-    {
-      "title": "chelsea game today",
+      "title": "chelsea training squad updates",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-10T07:26:21.932760+00:00"
+  "fetched_at": "2026-08-11T07:01:31.970026+00:00"
 }

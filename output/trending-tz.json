@@ -2,25 +2,9 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal vs dortmund",
+  "top_trend": null,
   "top_trend_volume": null,
-  "all_trends": [
-    {
-      "title": "arsenal vs dortmund",
-      "volume": null
-    },
-    {
-      "title": "liverpool vs monaco",
-      "volume": null
-    },
-    {
-      "title": "johor darul ta'zim vs chelsea",
-      "volume": null
-    },
-    {
-      "title": "yanga",
-      "volume": null
-    }
-  ],
-  "fetched_at": "2026-08-10T07:27:21.242968+00:00"
+  "all_trends": [],
+  "error": "No football trends found after scanning 2 items",
+  "fetched_at": "2026-08-11T07:02:30.980318+00:00"
 }
