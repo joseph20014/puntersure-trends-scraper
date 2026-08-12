@@ -2,9 +2,13 @@
   "geo": "AR",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=AR&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "palermo - juventus",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 25 items",
-  "fetched_at": "2026-08-11T07:06:28.509136+00:00"
+  "all_trends": [
+    {
+      "title": "palermo - juventus",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-08-12T07:23:54.986970+00:00"
 }

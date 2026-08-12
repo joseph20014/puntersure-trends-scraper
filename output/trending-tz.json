@@ -2,9 +2,25 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "simba sc",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 2 items",
-  "fetched_at": "2026-08-11T07:02:30.980318+00:00"
+  "all_trends": [
+    {
+      "title": "simba sc",
+      "volume": null
+    },
+    {
+      "title": "simba vs yanga",
+      "volume": null
+    },
+    {
+      "title": "palermo vs juventus",
+      "volume": null
+    },
+    {
+      "title": "liverpool f.c.",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-08-12T07:20:58.129565+00:00"
 }

@@ -2,13 +2,21 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "chelsea training squad updates",
+  "top_trend": "palermo vs juventus",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "chelsea training squad updates",
+      "title": "palermo vs juventus",
+      "volume": null
+    },
+    {
+      "title": "psg vs aston villa",
+      "volume": null
+    },
+    {
+      "title": "arsenal transfer news kenan yildiz",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-11T07:01:31.970026+00:00"
+  "fetched_at": "2026-08-12T07:19:59.247235+00:00"
 }

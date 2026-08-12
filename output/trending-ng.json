@@ -2,25 +2,21 @@
   "geo": "NG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=NG&category=17&sort=search-volume&status=active",
-  "top_trend": "chelsea training squad updates",
+  "top_trend": "palermo vs juventus",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "chelsea training squad updates",
+      "title": "palermo vs juventus",
       "volume": null
     },
     {
-      "title": "real madrid 2026-27 squad numbers",
+      "title": "victor osimhen, galatasaray transfer news",
       "volume": null
     },
     {
-      "title": "nigeria wafcon 2026 exit",
-      "volume": null
-    },
-    {
-      "title": "pep chavarria chelsea transfer deal",
+      "title": "south africa vs nigeria wafcon",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-11T07:02:01.628130+00:00"
+  "fetched_at": "2026-08-12T07:20:28.779790+00:00"
 }
