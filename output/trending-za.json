@@ -2,21 +2,25 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "palermo vs juventus",
+  "top_trend": "kaizer chiefs vs sekhukhune",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "palermo vs juventus",
+      "title": "kaizer chiefs vs sekhukhune",
       "volume": null
     },
     {
-      "title": "south africa vs nigeria wafcon",
+      "title": "deportivo vs real madrid",
       "volume": null
     },
     {
-      "title": "psg vs aston villa",
+      "title": "arsenal vs como",
+      "volume": null
+    },
+    {
+      "title": "everton vs newcastle",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-12T07:21:57.018965+00:00"
+  "fetched_at": "2026-08-13T07:25:06.676245+00:00"
 }

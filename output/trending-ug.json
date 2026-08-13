@@ -2,29 +2,53 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "palermo vs juventus",
+  "top_trend": "everton vs newcastle",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "palermo vs juventus",
+      "title": "everton vs newcastle",
       "volume": null
     },
     {
-      "title": "arsenal vs como",
+      "title": "deportivo vs real madrid",
       "volume": null
     },
     {
-      "title": "psg vs aston villa",
+      "title": "arsenal f.c. vs como 1907 lineups",
       "volume": null
     },
     {
-      "title": "transfer news",
+      "title": "arsenal fc vs como",
       "volume": null
     },
     {
-      "title": "juventus",
+      "title": "psg fc",
+      "volume": null
+    },
+    {
+      "title": "psg",
+      "volume": null
+    },
+    {
+      "title": "napoli vs aris",
+      "volume": null
+    },
+    {
+      "title": "arsenal summer transfer news",
+      "volume": null
+    },
+    {
+      "title": "arsenal",
+      "volume": null
+    },
+    {
+      "title": "manchester united",
+      "volume": null
+    },
+    {
+      "title": "real madrid fc",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-12T07:21:27.522142+00:00"
+  "fetched_at": "2026-08-13T07:24:37.008146+00:00"
 }

@@ -2,25 +2,45 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": "simba sc",
+  "top_trend": "arsenal vs como",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "simba sc",
+      "title": "arsenal vs como",
       "volume": null
     },
     {
-      "title": "simba vs yanga",
+      "title": "psg vs aston villa",
       "volume": null
     },
     {
-      "title": "palermo vs juventus",
+      "title": "deportivo vs real madrid",
       "volume": null
     },
     {
-      "title": "liverpool f.c.",
+      "title": "everton vs newcastle",
+      "volume": null
+    },
+    {
+      "title": "psg",
+      "volume": null
+    },
+    {
+      "title": "simba vs young africans",
+      "volume": null
+    },
+    {
+      "title": "simba",
+      "volume": null
+    },
+    {
+      "title": "live soccer",
+      "volume": null
+    },
+    {
+      "title": "arsenal",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-12T07:20:58.129565+00:00"
+  "fetched_at": "2026-08-13T07:24:07.177843+00:00"
 }
