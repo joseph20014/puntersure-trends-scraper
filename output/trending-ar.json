@@ -2,29 +2,9 @@
   "geo": "AR",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=AR&category=17&sort=search-volume&status=active",
-  "top_trend": "psg - aston villa",
+  "top_trend": null,
   "top_trend_volume": null,
-  "all_trends": [
-    {
-      "title": "psg - aston villa",
-      "volume": null
-    },
-    {
-      "title": "deportivo - real madrid",
-      "volume": null
-    },
-    {
-      "title": "psg",
-      "volume": null
-    },
-    {
-      "title": "manchester united - leeds",
-      "volume": null
-    },
-    {
-      "title": "arsenal - como",
-      "volume": null
-    }
-  ],
-  "fetched_at": "2026-08-13T07:27:05.810651+00:00"
+  "all_trends": [],
+  "error": "No football trends found after scanning 25 items",
+  "fetched_at": "2026-08-14T07:23:54.843508+00:00"
 }

@@ -2,45 +2,9 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal vs como",
+  "top_trend": null,
   "top_trend_volume": null,
-  "all_trends": [
-    {
-      "title": "arsenal vs como",
-      "volume": null
-    },
-    {
-      "title": "psg vs aston villa",
-      "volume": null
-    },
-    {
-      "title": "deportivo vs real madrid",
-      "volume": null
-    },
-    {
-      "title": "everton vs newcastle",
-      "volume": null
-    },
-    {
-      "title": "psg",
-      "volume": null
-    },
-    {
-      "title": "simba vs young africans",
-      "volume": null
-    },
-    {
-      "title": "simba",
-      "volume": null
-    },
-    {
-      "title": "live soccer",
-      "volume": null
-    },
-    {
-      "title": "arsenal",
-      "volume": null
-    }
-  ],
-  "fetched_at": "2026-08-13T07:24:07.177843+00:00"
+  "all_trends": [],
+  "error": "No football trends found after scanning 2 items",
+  "fetched_at": "2026-08-14T07:20:26.214426+00:00"
 }

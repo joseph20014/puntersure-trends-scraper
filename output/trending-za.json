@@ -2,25 +2,17 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "kaizer chiefs vs sekhukhune",
+  "top_trend": "orlando pirates dublin boon transfer",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "kaizer chiefs vs sekhukhune",
+      "title": "orlando pirates dublin boon transfer",
       "volume": null
     },
     {
-      "title": "deportivo vs real madrid",
-      "volume": null
-    },
-    {
-      "title": "arsenal vs como",
-      "volume": null
-    },
-    {
-      "title": "everton vs newcastle",
+      "title": "thapelo maseko fc copenhagen transfer",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-13T07:25:06.676245+00:00"
+  "fetched_at": "2026-08-14T07:21:25.631915+00:00"
 }

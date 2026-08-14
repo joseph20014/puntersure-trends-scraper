@@ -2,37 +2,17 @@
   "geo": "KE",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=KE&category=17&sort=search-volume&status=active",
-  "top_trend": "everton vs newcastle",
+  "top_trend": "efootball",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "everton vs newcastle",
+      "title": "efootball",
       "volume": null
     },
     {
-      "title": "deportivo vs real madrid",
-      "volume": null
-    },
-    {
-      "title": "aston villa vs psg",
-      "volume": null
-    },
-    {
-      "title": "napoli vs aris",
-      "volume": null
-    },
-    {
-      "title": "psg",
-      "volume": null
-    },
-    {
-      "title": "arsenal",
-      "volume": null
-    },
-    {
-      "title": "arsenal summer transfer news",
+      "title": "shelbourne vs ajax",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-13T07:22:37.596133+00:00"
+  "fetched_at": "2026-08-14T07:19:26.717519+00:00"
 }
