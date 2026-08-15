@@ -2,17 +2,13 @@
   "geo": "ZA",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&sort=search-volume&status=active",
-  "top_trend": "orlando pirates dublin boon transfer",
+  "top_trend": "wolves vs blackburn rovers",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "orlando pirates dublin boon transfer",
-      "volume": null
-    },
-    {
-      "title": "thapelo maseko fc copenhagen transfer",
+      "title": "wolves vs blackburn rovers",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-14T07:21:25.631915+00:00"
+  "fetched_at": "2026-08-15T06:34:11.878453+00:00"
 }

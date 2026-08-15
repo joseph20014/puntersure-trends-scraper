@@ -2,33 +2,25 @@
   "geo": "GH",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=GH&category=17&sort=search-volume&status=active",
-  "top_trend": "ghana women's national football team",
+  "top_trend": "wolves vs blackburn rovers",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "ghana women's national football team",
+      "title": "wolves vs blackburn rovers",
       "volume": null
     },
     {
-      "title": "update efootball 2027",
+      "title": "soccer",
       "volume": null
     },
     {
-      "title": "ghana national football team",
+      "title": "women's world cup playoffs africa",
       "volume": null
     },
     {
-      "title": "nigeria women's national football team",
-      "volume": null
-    },
-    {
-      "title": "fulham f.c.",
-      "volume": null
-    },
-    {
-      "title": "shelbourne vs ajax",
+      "title": "fifa women's world cup",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-14T07:22:25.154388+00:00"
+  "fetched_at": "2026-08-15T06:35:11.190018+00:00"
 }

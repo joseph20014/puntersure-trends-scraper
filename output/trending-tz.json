@@ -2,9 +2,17 @@
   "geo": "TZ",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&sort=search-volume&status=active",
-  "top_trend": null,
+  "top_trend": "wolves vs blackburn rovers",
   "top_trend_volume": null,
-  "all_trends": [],
-  "error": "No football trends found after scanning 2 items",
-  "fetched_at": "2026-08-14T07:20:26.214426+00:00"
+  "all_trends": [
+    {
+      "title": "wolves vs blackburn rovers",
+      "volume": null
+    },
+    {
+      "title": "yanga",
+      "volume": null
+    }
+  ],
+  "fetched_at": "2026-08-15T06:33:12.539864+00:00"
 }

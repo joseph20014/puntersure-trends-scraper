@@ -2,21 +2,29 @@
   "geo": "UG",
   "category": "17",
   "url": "https://trends.google.com/trending?geo=UG&category=17&sort=search-volume&status=active",
-  "top_trend": "arsenal vs man city",
+  "top_trend": "wolves vs blackburn rovers",
   "top_trend_volume": null,
   "all_trends": [
     {
-      "title": "arsenal vs man city",
+      "title": "wolves vs blackburn rovers",
       "volume": null
     },
     {
-      "title": "shelbourne vs ajax",
+      "title": "arsenal julian alvarez striker update",
       "volume": null
     },
     {
-      "title": "liverpool f.c.",
+      "title": "enzo fernandez chelsea transfer news",
+      "volume": null
+    },
+    {
+      "title": "liverpool news",
+      "volume": null
+    },
+    {
+      "title": "man u vs ac milan",
       "volume": null
     }
   ],
-  "fetched_at": "2026-08-14T07:20:55.889123+00:00"
+  "fetched_at": "2026-08-15T06:33:42.195789+00:00"
 }
