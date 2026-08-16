@@ -28,15 +28,15 @@
     },
     {
       "rank": 3,
-      "title": "durban city vs richards bay",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "amazulu vs siwelele fc",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "amazulu vs siwelele fc",
+      "title": "durban city vs richards bay",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,14 +60,6 @@
     },
     {
       "rank": 7,
-      "title": "chippa united orlando pirates",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
       "title": "al-nassr vs al fateh",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -75,8 +67,16 @@
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "chippa united orlando pirates",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 9,
-      "title": "stellenbosch vs marumo gallants",
+      "title": "september petrol price expectations",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -85,8 +85,8 @@
     {
       "rank": 10,
       "title": "nashville vs inter miami",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -116,17 +116,17 @@
     },
     {
       "rank": 14,
-      "title": "sa september fuel outlook",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "sassa social grant review process",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "sassa social grant review process",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "dortmund vs roma",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -140,17 +140,17 @@
     },
     {
       "rank": 17,
-      "title": "dortmund vs roma",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "novak djokovic",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
       "title": "community shield",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "novak djokovic",
+      "title": "thys lombard",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,6 +188,14 @@
     },
     {
       "rank": 23,
+      "title": "paris saint-germain f.c.",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
       "title": "n1",
       "volume": "15K+",
       "volume_numeric": 15000,
@@ -195,21 +203,13 @@
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "thys lombard",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "inter vs betis",
+      "title": "gert-johan coetzee debut scent",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-16T06:10:46.411004+00:00"
+  "fetched_at": "2026-08-16T06:36:07.161300+00:00"
 }
