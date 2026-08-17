@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "الجهاز القومي لتنظيم الاتصالات",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "آرسنال ضد مان سيتي",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "الجهاز القومي لتنظيم الاتصالات",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "آرسنال ضد مان سيتي",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "قاسم باشا ضد طرابزون سبور",
+      "title": "ليفربول ضد كومو",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "مطر",
+      "title": "شالكه ضد الريال",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "سلعة",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "arsenal vs man city",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "النصر ضد الفتح",
+      "title": "لنس ضد بي اس جي",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "ميلان ضد مان يونايتد",
+      "title": "بنك ناصر الاجتماعي",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,15 +60,15 @@
     },
     {
       "rank": 7,
-      "title": "زوجه حسام حسن",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "liverpool vs como",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "ناشفيل ضد إنتر ميامي",
+      "title": "المنطقة الشرقية",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -76,71 +76,71 @@
     },
     {
       "rank": 9,
-      "title": "milan vs man united",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "سلعة",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "جثة",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "islam makhachev vs ian garry",
+      "title": "مسلسل بنج كلي",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "قاسم باشا ضد طرابزون سبور",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 12,
-      "title": "إندونيسيا",
+      "title": "schalke vs real madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "وزير الداخلية",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "nashville vs inter miami",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 14,
-      "title": "مسلسل بنج كلي",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "الإمارات العربية المتحدة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "حفيظ دراجي",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "إندونيسيا",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "هجرة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "lens vs psg",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "شاطئ",
+      "title": "hayden panettiere",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "سفير",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "رئيس",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "سوسن بدر",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "قرار",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "الإمارات العربية المتحدة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "ريهام سعيد",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "أوغندا",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "al-nassr vs al fateh sc standings",
+      "title": "نادي القضاة",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "إثيوبيا",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "قطع أثرية",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "اسعار الذهب اليوم 16 8 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "مي سليم",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "تنسيق الجامعات الخاصة والاهليه",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "إصابة",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "كندة علوش",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-16T06:37:26.801333+00:00"
+  "fetched_at": "2026-08-17T06:50:34.041509+00:00"
 }

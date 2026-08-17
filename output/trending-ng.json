@@ -4,22 +4,14 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "osun state election",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "milan vs man united",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "osun state election",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
       "title": "milan vs man united",
       "volume": "100K+",
       "volume_numeric": 100000,
@@ -27,7 +19,39 @@
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "schalke vs real madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 3,
+      "title": "osun state election result",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "lens vs psg",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "liverpool vs como",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
       "title": "al-nassr vs al fateh",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,40 +59,16 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "entrepreneur",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "nashville vs inter miami",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "newcastle vs leverkusen",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "chelsea vs real sociedad",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "temporary protected status",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "inter vs betis",
+      "title": "burnley vs west ham",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -76,63 +76,63 @@
     },
     {
       "rank": 9,
-      "title": "galatasaray vs çorum",
+      "title": "fa community shield",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "nashville vs inter miami",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "ballon d' or",
+      "rank": 11,
+      "title": "fct domestic debt increase",
       "volume": "10K+",
       "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "sevilla vs rayo vallecano",
-      "volume": "5K+",
-      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "jason arday",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "hayden panettiere",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "dortmund vs roma",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "arsenal vs man city",
+      "title": "basel vs barcelona",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "fulham vs vfb stuttgart",
+      "rank": 14,
+      "title": "smedan bryne entrepreneurship support",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "spurs vs hoffenheim",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "wolves vs blackburn rovers",
+      "title": "cameroon vs malawi",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -140,15 +140,15 @@
     },
     {
       "rank": 17,
-      "title": "spurs vs hoffenheim",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "newcastle vs leverkusen",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "enzo fernandez chelsea transfer news",
+      "title": "psg vs lens",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "maya boyd",
+      "title": "nottm forest vs brest",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "simon adewale endorsement ademola adeleke",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "dortmund vs roma",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "africa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "inter vs betis",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "coventry vs monaco",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bisi akande polling unit results 2026",
+      "volume": "202610K+",
+      "volume_numeric": 202610000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "laliga",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "sevilla vs rayo vallecano",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "rio ave vs porto",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "2026 ballon 'd or",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "ayra starr starrgirl album",
+      "title": "georgina rodríguez",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-16T06:34:48.055511+00:00"
+  "fetched_at": "2026-08-17T06:47:56.360520+00:00"
 }
