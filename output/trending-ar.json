@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "river plate - argentinos jrs.",
-  "top_trend_volume": "500K+",
-  "top_trend_volume_numeric": 500000,
+  "top_trend": "hayden panettiere",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "river plate - argentinos jrs.",
-      "volume": "500K+",
-      "volume_numeric": 500000,
+      "title": "hayden panettiere",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "hayden panettiere",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "lanús - independiente",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "barracas central - rosario central",
+      "title": "gimnasia y esgrima - talleres",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -36,31 +36,31 @@
     },
     {
       "rank": 4,
-      "title": "central córdoba - instituto",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "hayden panettiere de que murio",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "hayden panettiere de que murio",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "musiala",
+      "title": "suprema corte de justicia de la nación",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "sofía gala castiglione",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "platense - boca juniors",
+      "title": "river plate - argentinos jrs.",
       "volume": "500K+",
       "volume_numeric": 500000,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "carlos melconian",
+      "title": "guillermo vilas",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -76,39 +76,39 @@
     },
     {
       "rank": 9,
-      "title": "policía",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "vélez - defensa y justicia",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "juana viale",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tormenta",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "arsenal - manchester city",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "barracas central - rosario central",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "schalke 04 - real madrid",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "justicia",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "lens - psg",
+      "title": "estudiantes de río cuarto - atlético tucumán",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -116,63 +116,63 @@
     },
     {
       "rank": 14,
-      "title": "lluvia",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "juana masó accidente",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "michelle trachtenberg",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "estudiantes - gimnasia",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "sarmiento - huracán",
+      "title": "san martin",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "caro trippar cancer",
+      "rank": 16,
+      "title": "camilota",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "feriado 17 de agosto",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "nashville sc - inter miami",
+      "rank": 17,
+      "title": "arsenal - manchester city",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "kick",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "dale earnhardt",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "mercado cambiario",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "18 de agosto",
+      "title": "central córdoba - instituto",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "sofía gala castiglione",
+      "title": "susana giménez",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "falla activa",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "viento",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 24,
-      "title": "san lorenzo - unión",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "lens - psg",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "tormenta tropical lala",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "schalke 04 - real madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-17T06:51:00.355603+00:00"
+  "fetched_at": "2026-08-18T06:41:09.860343+00:00"
 }

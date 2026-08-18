@@ -4,17 +4,17 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "milan vs man united",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "peoples party of kenya",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "milan vs man united",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "peoples party of kenya",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "lens vs psg",
+      "title": "hayden panettiere",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -36,47 +36,47 @@
     },
     {
       "rank": 4,
-      "title": "schalke vs real madrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "burnley vs west ham",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "spurs vs hoffenheim",
+      "title": "lens vs psg",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "schalke vs real madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "mercy masai",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "fa community shield",
+      "title": "ministry of defence",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "arsenal f.c. vs man city",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "chelsea vs real sociedad",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "hayden panettiere",
+      "title": "health care",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,7 +84,7 @@
     },
     {
       "rank": 10,
-      "title": "school",
+      "title": "cardiff city f.c. vs wrexham standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,23 +92,23 @@
     },
     {
       "rank": 11,
-      "title": "nottm forest vs brest",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "joão palhinha",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "maya boyd",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ppk",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "epl",
+      "title": "bouncer",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,15 +116,15 @@
     },
     {
       "rank": 14,
-      "title": "cameroon vs malawi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "casa pia vs benfica",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "sha nhif pending claims payout",
+      "title": "christina shusho",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -132,84 +132,84 @@
     },
     {
       "rank": 16,
-      "title": "newcastle vs leverkusen",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "tsc",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "inter vs betis",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "university",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "mombasa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "kra vat deadline august 20",
+      "volume": "20500+",
+      "volume_numeric": 20500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "dortmund vs roma",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "al-nassr vs al fateh sc standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "georgina rodríguez",
+      "title": "arsenal rodri transfer news",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "al-raed vs al-hilal",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "procurement",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "fulham vs vfb stuttgart",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "school",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "racing santander vs villarreal",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "east africa el nino impact",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "mainz vs bournemouth",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "alex scott chelsea transfer deal",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "watford vs southampton",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "achraf hakimi",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-17T06:47:29.978582+00:00"
+  "fetched_at": "2026-08-18T06:37:25.963685+00:00"
 }

@@ -4,14 +4,22 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "آرسنال ضد مان سيتي",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "الفنان عمرو محمد",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "الفنان عمرو محمد",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
       "title": "آرسنال ضد مان سيتي",
       "volume": "100K+",
       "volume_numeric": 100000,
@@ -19,32 +27,24 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "ليفربول ضد كومو",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 3,
-      "title": "شالكه ضد الريال",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "وزير الداخلية",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "arsenal vs man city",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "الشركة القابضة لكهرباء مصر",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "لنس ضد بي اس جي",
+      "title": "بنك ناصر الاجتماعي",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "بنك ناصر الاجتماعي",
+      "title": "hayden panettiere",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "liverpool vs como",
+      "title": "رئيس",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,15 +68,15 @@
     },
     {
       "rank": 8,
-      "title": "المنطقة الشرقية",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "عبد الفتاح السيسي",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "سلعة",
+      "title": "اليوم السابع",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -84,7 +84,7 @@
     },
     {
       "rank": 10,
-      "title": "مسلسل بنج كلي",
+      "title": "البنك الأهلي المصري",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -92,86 +92,30 @@
     },
     {
       "rank": 11,
-      "title": "قاسم باشا ضد طرابزون سبور",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "هايدن بانتير",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "schalke vs real madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "المستشار زكريا عبدالعزيز",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "وزير الداخلية",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "موعد ظهور نتيجة تنسيق المرحلة الثانية",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "الإمارات العربية المتحدة",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "إندونيسيا",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "lens vs psg",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "hayden panettiere",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "رئيس",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "قرار",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "نادي القضاة",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
       "title": "إثيوبيا",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -179,37 +123,93 @@
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "قطع أثرية",
+      "rank": 15,
+      "title": "ناتالي ريمون",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "اسعار الذهب اليوم 16 8 2026",
-      "volume": "20262K+",
-      "volume_numeric": 20262000,
+      "rank": 16,
+      "title": "الرائد ضد الهلال",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "تنسيق الجامعات الخاصة والاهليه",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "rank": 17,
+      "title": "موت",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 25,
+      "rank": 18,
+      "title": "رغيف",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "يارا السكري",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "جودة عبد الخالق",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "عقد الإيجار",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
       "title": "كندة علوش",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "الأنوار ضد الأهلي",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "محطة الضبعة النووية",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "قطع أثرية",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-17T06:50:34.041509+00:00"
+  "fetched_at": "2026-08-18T06:40:44.067272+00:00"
 }

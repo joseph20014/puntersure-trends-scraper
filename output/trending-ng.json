@@ -4,22 +4,14 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "milan vs man united",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "schalke vs real madrid",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "milan vs man united",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
       "title": "schalke vs real madrid",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -27,15 +19,15 @@
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "osun state election result",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "rank": 2,
+      "title": "2026 2027 academic session admissions",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "lens vs psg",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -43,24 +35,32 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "liverpool vs como",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "al-nassr vs al fateh",
+      "rank": 4,
+      "title": "hayden panettiere",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "efcc nestoil debt recovery",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
       "title": "temporary protected status",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "dangote gas price reduction",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -68,86 +68,38 @@
     },
     {
       "rank": 8,
-      "title": "burnley vs west ham",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "fa community shield",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "nashville vs inter miami",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "fct domestic debt increase",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "hayden panettiere",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "basel vs barcelona",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "smedan bryne entrepreneurship support",
+      "title": "casa pia vs benfica",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "spurs vs hoffenheim",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 9,
+      "title": "adeleke efcc suit withdrawal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "cameroon vs malawi",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "rank": 10,
+      "title": "access bank",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "newcastle vs leverkusen",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "rank": 11,
+      "title": "cardiff city vs wrexham",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
+      "rank": 12,
       "title": "psg vs lens",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -155,16 +107,64 @@
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "nottm forest vs brest",
+      "rank": 13,
+      "title": "osimhen transfer news arsenal",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "al-raed vs al-hilal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "taiwo hassan",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "burnley vs west ham",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "basel vs barcelona",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "joão palhinha",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "deportivo vs elche",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "dortmund vs roma",
+      "title": "cameroon vs malawi",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "inter vs betis",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "arsenal rodri transfer news",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "bisi akande polling unit results 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "title": "georgina rodríguez",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "sevilla vs rayo vallecano",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "fcmb",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "2026 ballon 'd or",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "thiago mendes",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "georgina rodríguez",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "biodun oyebanji",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-17T06:47:56.360520+00:00"
+  "fetched_at": "2026-08-18T06:37:51.614304+00:00"
 }
