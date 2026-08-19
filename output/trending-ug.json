@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "cardiff city vs wrexham",
+  "top_trend": "diriyah vs al-nassr",
   "top_trend_volume": "5K+",
   "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "cardiff city vs wrexham",
+      "title": "diriyah vs al-nassr",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "robert kalumba",
+      "title": "julián alvarez",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "joão palhinha",
+      "title": "arsenal 2026/27 squad numbers",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "arsenal rodri transfer news",
+      "title": "ibrahim mbaye",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,15 +44,15 @@
     },
     {
       "rank": 5,
-      "title": "casa pia vs benfica",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "cardiff city vs wrexham",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "hayden panettiere",
+      "title": "fenerbahçe vs ol",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -60,63 +60,63 @@
     },
     {
       "rank": 7,
-      "title": "martin ødegaard",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "ballon d'or",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "deportivo vs elche",
+      "title": "gavi",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "uganda electricity distribution company limited",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "dinamo zagreb vs viking",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "liverpool vs como",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "pep guardiola",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "elche fc",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "robert kalumba",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "lens vs psg",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "arsenal rodri transfer news",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "fc barcelona",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "joão palhinha",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "young mulo",
+      "title": "osimhen",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -124,39 +124,39 @@
     },
     {
       "rank": 15,
-      "title": "schalke vs real madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "man utd news",
+      "title": "lyon fc",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "bayern munich",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "burnley vs west ham",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "casa pia vs benfica",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "nottm forest vs brest",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "al-raed vs al-hilal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "al-raed vs al-hilal",
+      "title": "young mulo",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "allan okello",
+      "title": "man utd news",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,15 +172,15 @@
     },
     {
       "rank": 21,
-      "title": "premier league table",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "deportivo vs elche",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "watford vs southampton",
+      "title": "ballon d'or",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "uganda railways corporation",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "elche fc",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "girona vs leganes",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "kcca fc",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "benfica fc",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "maya boyd",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-18T06:38:43.002226+00:00"
+  "fetched_at": "2026-08-19T06:40:48.027765+00:00"
 }

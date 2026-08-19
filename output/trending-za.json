@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "hayden panettiere",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "sassa grant payout september 2026",
+  "top_trend_volume": "202650K+",
+  "top_trend_volume_numeric": 202650000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "hayden panettiere",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "sassa grant payout september 2026",
+      "volume": "202650K+",
+      "volume_numeric": 202650000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "sassa grant payout september 2026",
-      "volume": "202620K+",
-      "volume_numeric": 202620000,
+      "title": "cape peninsula university emergency evacuation",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "south africa anti-immigration movement",
+      "title": "absa atm reduction south africa",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -36,55 +36,55 @@
     },
     {
       "rank": 4,
-      "title": "schalke vs real madrid",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "diriyah vs al-nassr",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "south africa retiree annuity tax",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "unisa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "chippa united f.c. vs orlando pirates standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "constable",
+      "title": "proposed driving card duration south africa",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "lens vs psg",
+      "rank": 6,
+      "title": "sars digital vat system changes",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "south africa anti-immigration movement",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "thembinkosi lorch news",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "south africa september fuel prediction",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "medicare24 tender police disciplinary proceedings",
+      "title": "constable",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "spar mike bosman resignation",
+      "title": "medicare24 tender police disciplinary proceedings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -100,38 +100,22 @@
     },
     {
       "rank": 12,
-      "title": "south africa new r500 visa fee",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "spar director resignations zinn bosman",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "mafia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "limpopo river stolen vehicle chase",
+      "title": "south africa new r500 visa fee",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "casa pia vs benfica",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "title": "kaizer chiefs mamelodi sundowns analysis",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -139,24 +123,40 @@
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "sihle nduli",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "rank": 15,
+      "title": "cat' matlala",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "al-raed vs al-hilal",
+      "rank": 16,
+      "title": "traffic",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "2K+ arrow_upward 1,000%",
+      "volume": "7642K+",
+      "volume_numeric": 7642000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "powerball results 18 august 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "toyota hilux single cab launch",
+      "title": "fenerbahçe vs ol",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "peter nonyane",
+      "title": "nhlanhla nene",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "madlanga commission live today",
+      "title": "miguel cardoso denis onyango themba zwane",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "cardiff city f.c. vs wrexham standings",
+      "title": "msibi taxi boss",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "deportivo vs elche",
+      "title": "courier",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "safa pitso mosimane salary negotiations",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "marcelo allende",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "rassie erasmus",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "zimbabwe national football team",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-18T06:39:08.556752+00:00"
+  "fetched_at": "2026-08-19T06:41:14.178213+00:00"
 }
