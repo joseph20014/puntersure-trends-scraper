@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "diriyah vs al-nassr",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
+  "top_trend": "barcelona vs al ahly",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "diriyah vs al-nassr",
+      "title": "barcelona vs al ahly",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "atlético madrid vs málaga",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "cambridge professor jason arday",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 3,
-      "title": "karela united fifa registration ban",
+      "title": "philadelphia vs inter miami",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "2026/27 ghana premier league stadiums",
+      "title": "atlético madrid vs málaga cf standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,31 +44,31 @@
     },
     {
       "rank": 5,
-      "title": "police",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "chidimma adetshina",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "musiala",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "carlos baleba",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "fenerbahçe vs ol",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "gta6",
+      "volume": "61K+",
+      "volume_numeric": 61000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "airpods",
+      "title": "angélique kidjo",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -76,15 +76,15 @@
     },
     {
       "rank": 9,
-      "title": "julián alvarez",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "diriyah vs al-nassr",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "kylian mbappé",
+      "title": "bernardo silva",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -92,23 +92,23 @@
     },
     {
       "rank": 11,
-      "title": "patrick vieira",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "ibrahim mbaye",
+      "title": "musiala",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "karela united fifa registration ban",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 13,
-      "title": "casa pia vs benfica",
+      "title": "police",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,15 +116,15 @@
     },
     {
       "rank": 14,
-      "title": "ghana overtakes us gold production",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "bruno fernandes",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "cardiff city vs wrexham",
+      "title": "barcelona",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -132,31 +132,31 @@
     },
     {
       "rank": 16,
-      "title": "big brother naija neche",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "joão palhinha",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "al-raed vs al-hilal",
+      "title": "ibrahim mbaye",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "fenerbahçe vs ol",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "paul pogba",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "ghana women's national under-20 association football team",
+      "title": "ghana overtakes us gold production",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -164,31 +164,31 @@
     },
     {
       "rank": 20,
-      "title": "deportivo vs elche",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "météo",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "military air base",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "terra industries ghana drone factory",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "efootball",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "kylian mbappé",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "africa",
+      "title": "airpods",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "power outage",
+      "title": "julián alvarez",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "what",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "real madrid dressing room rules",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-19T06:42:06.236911+00:00"
+  "fetched_at": "2026-08-20T06:42:47.914711+00:00"
 }

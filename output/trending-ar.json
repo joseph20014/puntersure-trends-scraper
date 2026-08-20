@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "u. católica - estudiantes",
+  "top_trend": "racing - belgrano",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "u. católica - estudiantes",
+      "title": "racing - belgrano",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,15 +20,15 @@
     },
     {
       "rank": 2,
-      "title": "independiente rivadavia - fluminense",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "philadelphia - inter miami",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "asignación universal por hijo",
+      "title": "torque - tigre",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "albañil",
+      "title": "hija de lucas sugo",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "recoleta vs boca",
+      "title": "coquimbo unido - platense",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -52,47 +52,47 @@
     },
     {
       "rank": 6,
-      "title": "flybondi",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "barcelona - al-ahly",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "daniella bustamante",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "river vs santa fe",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "21 de agosto",
+      "title": "flamengo - cruzeiro",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "epicentro",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "sao paulo vs bolivar",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "nadia beller",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "diego tuñón",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "nancy pazos",
+      "title": "12 de octubre",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -100,31 +100,31 @@
     },
     {
       "rank": 12,
-      "title": "midland",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "gimnasia y esgrima - talleres",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "lanús - independiente",
+      "title": "atlético madrid - málaga",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 13,
+      "title": "eclipse lunar",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "ciclogénesis",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "juana y rosario maso",
+      "title": "cerro - palmeiras",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "voucher educativo agosto",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "u. católica - estudiantes",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "vélez - defensa y justicia",
+      "title": "asignación universal por hijo",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -148,39 +148,39 @@
     },
     {
       "rank": 18,
-      "title": "copa argentina",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "independiente rivadavia - fluminense",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "yael trepy",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "flamengo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "quini",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "a qué hora juega river",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "dale earnhardt",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "nadia beller",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "la libertad avanza",
+      "title": "cadena de supermercados",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "tormenta",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "atlético mineiro - bragantino",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "hayden actriz",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "miguel borja",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "sao paulo fc",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "albañil",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-19T06:42:58.796890+00:00"
+  "fetched_at": "2026-08-20T06:43:40.482637+00:00"
 }

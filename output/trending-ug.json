@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "diriyah vs al-nassr",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
+  "top_trend": "carlos baleba",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "diriyah vs al-nassr",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "carlos baleba",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "julián alvarez",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "atlético madrid vs málaga",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "arsenal 2026/27 squad numbers",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "barcelona vs al ahly",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "ibrahim mbaye",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "konsa",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "cardiff city vs wrexham",
+      "title": "atletico madrid",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "fenerbahçe vs ol",
+      "title": "philadelphia vs inter miami",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -60,47 +60,47 @@
     },
     {
       "rank": 7,
-      "title": "gavi",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "nec vs bodø/glimt",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "uganda electricity distribution company limited",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "celtic vs lask",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "dinamo zagreb vs viking",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "hut 8",
+      "volume": "810K+",
+      "volume_numeric": 810000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "pep guardiola",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "chidimma adetshina",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "robert kalumba",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "airline",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "arsenal rodri transfer news",
+      "title": "julián alvarez",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -108,39 +108,39 @@
     },
     {
       "rank": 13,
-      "title": "joão palhinha",
+      "title": "diriyah vs al-nassr",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "arsenal 2026/27 squad numbers",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "osimhen",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 15,
-      "title": "lyon fc",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "gavi",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "bayern munich",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "fenerbahçe vs ol",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "casa pia vs benfica",
+      "title": "ibrahim mbaye",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,47 +148,47 @@
     },
     {
       "rank": 18,
-      "title": "al-raed vs al-hilal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "young mulo",
+      "title": "barcelona",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "man utd news",
+      "rank": 19,
+      "title": "dinamo zagreb vs viking",
       "volume": "2K+",
       "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "leadership",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "deportivo vs elche",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "uganda electricity distribution company limited",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "ballon d'or",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "osimhen",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "elche fc",
+      "title": "kcca national cleaning day fees",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "kcca fc",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "bayern munich",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "maya boyd",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "bayern",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-19T06:40:48.027765+00:00"
+  "fetched_at": "2026-08-20T06:41:11.189013+00:00"
 }
