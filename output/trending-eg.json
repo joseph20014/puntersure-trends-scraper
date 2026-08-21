@@ -4,22 +4,14 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "barcelona vs al ahly",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "جواز سفر",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "barcelona vs al ahly",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
       "title": "جواز سفر",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -27,64 +19,72 @@
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "نتيجه مباراه الاهلي وبرشلونه",
-      "volume": "500K+",
-      "volume_numeric": 500000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "تنسيق المرحلة الثالثة 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "فيلادلفيا ضد إنتر ميامي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "الدرعية ضد النصر",
+      "rank": 2,
+      "title": "إنستاباي",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "تنسيق المرحلة الثالثة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "طرابزون سبور ضد فيرينكفاروسي",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "الأتوبيس الترددي السريع",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "احمد موسى",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "بطاقة هوية",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "نتيجه مباراه الاهلي وبرشلونه",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "الممثلة الهندية انانيا راج",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "هيئة الدواء المصرية",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "هل روبرتو كارلوس اسلم",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "تعليم",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "atlético madrid vs málaga",
+      "title": "وزارة الخزانة",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "philadelphia vs inter miami",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "أحمد سيد زيزو",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "دجال العياط",
+      "title": "كريم بنزيما",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,15 +108,15 @@
     },
     {
       "rank": 13,
-      "title": "تقليل الاغتراب 2026",
-      "volume": "20262K+",
-      "volume_numeric": 20262000,
+      "title": "trabzonspor vs ferencváros",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "كريم بنزيما",
+      "title": "ليلى علوي",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -124,23 +124,23 @@
     },
     {
       "rank": 15,
-      "title": "سعر الذهب اليوم 19 8 2026",
-      "volume": "20265K+",
-      "volume_numeric": 20265000,
+      "title": "أسعار الذهب اليوم في مصر",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "roberto carlos",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "الدوري المصري",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "النادي الإسماعيلي",
+      "title": "لغة",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,39 +148,39 @@
     },
     {
       "rank": 18,
-      "title": "تعليم",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "الكويت",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "طبيب قلب",
+      "title": "أسعار الفراخ البيضاء اليوم الآن",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "درجة حرارة",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "تكلفة المعيشة",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "سلمى حايك",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "club friendlies",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "حكومة",
+      "title": "محسن صالح",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "atlético madrid vs málaga cf standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fantasy",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "وزارة الخزانة",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "nick kyrgios",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "محمد صبحي",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "سيارة فارهة",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-20T06:43:14.179722+00:00"
+  "fetched_at": "2026-08-21T06:43:15.435225+00:00"
 }

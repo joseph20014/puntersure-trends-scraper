@@ -7,7 +7,7 @@
   "top_trend": "barcelona vs al ahly",
   "top_trend_volume": "10K+",
   "top_trend_volume_numeric": 10000,
-  "volume_available_count": 18,
+  "volume_available_count": 23,
   "volume_status": "available",
   "all_trends": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "atlético madrid vs málaga",
+      "title": "yanga vs coastal union",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -28,6 +28,38 @@
     },
     {
       "rank": 3,
+      "title": "libya",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "chidimma adetshina",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "atlético madrid vs málaga",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "pamba jiji vs simba",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
       "title": "mamelodi sundowns vs marumo gallants",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -35,72 +67,40 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "pamba jiji vs simba",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "philadelphia vs inter miami",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "atlético madrid vs málaga cf standings",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "carlos baleba",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 8,
-      "title": "hakainde hichilema",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "angélique kidjo",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "diriyah vs al-nassr",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "azam",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "pep guardiola",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "barcelona",
+      "title": "tromso vs brighton",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "mwananchi",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 12,
-      "title": "apple iphone 18 pro max",
+      "title": "carlos baleba",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,23 +108,23 @@
     },
     {
       "rank": 13,
-      "title": "srs",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "fenerbahçe vs ol",
+      "title": "atlético madrid vs málaga cf standings",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "philadelphia vs inter miami",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "fawa news sports",
+      "title": "barcelona",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -132,6 +132,14 @@
     },
     {
       "rank": 16,
+      "title": "faw news",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
       "title": "nbc premier league",
       "volume": "200+",
       "volume_numeric": 200,
@@ -139,21 +147,53 @@
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "club friendlies",
+      "rank": 18,
+      "title": "atletico madrid",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
+      "rank": 19,
+      "title": "al-fayha vs al-hilal",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
       "title": "flashscore",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "fawa news sports",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "livescore cz",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "club friendlies",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-20T06:40:43.704415+00:00"
+  "fetched_at": "2026-08-21T06:41:04.673901+00:00"
 }

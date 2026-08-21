@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "barcelona vs al ahly",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "julius ogamba school hours directive",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "barcelona vs al ahly",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "julius ogamba school hours directive",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "atlético madrid vs málaga",
+      "title": "ntsa school transport regulations",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "diriyah vs al-nassr",
+      "title": "barcelona vs al ahly",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "carlos baleba",
+      "title": "tromso vs brighton",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "ntsa school transport regulations",
+      "title": "carlos baleba",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -52,15 +52,15 @@
     },
     {
       "rank": 6,
-      "title": "endometriosis",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "aircraft pilot",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "philadelphia vs inter miami",
+      "title": "ministry of defence",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,23 +68,23 @@
     },
     {
       "rank": 8,
-      "title": "julián alvarez",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "airbus a320 family",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "ezri konsa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "arsenal vs coventry",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "kenya space agency",
+      "title": "songs",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "helicopter crash",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "chidimma adetshina",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "maya boyd actress",
+      "title": "epl",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "breaking news",
+      "title": "epl fixtures",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -116,15 +116,15 @@
     },
     {
       "rank": 14,
-      "title": "atletico madrid",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "china",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "celtic vs lask",
+      "title": "rayo vallecano vs alavés",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "fpl",
+      "title": "helicopter",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,63 +140,63 @@
     },
     {
       "rank": 17,
-      "title": "songs",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "atlético madrid vs málaga",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "jamal musiala",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "scholarship",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "school",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "philadelphia vs inter miami",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "south sudan",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "angelique kidjo",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "uhr",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "guodong group kenya digital investment",
+      "title": "ezri konsa",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "atlético madrid vs málaga cf standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "school",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "angelique kidjo",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "electricity",
+      "title": "breaking news",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "epra announced higher electricity charges with three new cost adjustments",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "south sudan",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-20T06:39:51.193470+00:00"
+  "fetched_at": "2026-08-21T06:40:12.328808+00:00"
 }
