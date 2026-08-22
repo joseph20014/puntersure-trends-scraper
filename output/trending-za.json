@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "mamelodi sundowns vs marumo gallants",
+  "top_trend": "arsenal vs coventry",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "mamelodi sundowns vs marumo gallants",
+      "title": "arsenal vs coventry",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,39 +20,39 @@
     },
     {
       "rank": 2,
-      "title": "license",
+      "title": "sassa september 2026 grant dates",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "taxpayers",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "barcelona vs al ahly",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 4,
-      "title": "south africa fuel price inflation",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "spur corporation",
+      "title": "capitec employee debarment vusumuzi mtshali",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "al-riyadh vs al-nassr",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 6,
-      "title": "airbus a320 family",
+      "title": "petrol and diesel price hike september",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,15 +60,15 @@
     },
     {
       "rank": 7,
-      "title": "aircraft pilot",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "deano van rooyen leaves orlando pirates",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "south africa",
+      "title": "epl",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -76,31 +76,31 @@
     },
     {
       "rank": 9,
-      "title": "chidimma adetshina",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "springboks vs all blacks",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "government employees pension fund",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "kaizer chiefs player loan gomora fc",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "pakistan vs england",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "julius mkhwanazi",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "springbok team announcement",
+      "title": "aircraft pilot",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "sassa srd grant august dates",
+      "title": "head coach",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -116,7 +116,7 @@
     },
     {
       "rank": 14,
-      "title": "south africa online licence renewal",
+      "title": "betis vs real sociedad",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -124,55 +124,55 @@
     },
     {
       "rank": 15,
-      "title": "atlético madrid vs málaga",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "norman basthdaw retirement sun international",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "taxpayers",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "adnoc acquires shell petrol stations",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "kaizer chiefs langelihle phili review",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bangladesh vs australia",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "head coach",
+      "title": "south africa online licence renewal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "kaizer chiefs defender thabo moloisane",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "norman basthdaw retirement sun international",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "tromso vs brighton",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fraud",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "premier league",
+      "title": "premier league fixtures",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "miguel south africa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al-riyadh vs al-nassr standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "benfica vs agf",
+      "title": "national prosecuting authority",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "fraud",
+      "title": "zolani tete age",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "south african football association",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "south african universities global rankings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-21T06:41:56.975249+00:00"
+  "fetched_at": "2026-08-22T06:35:44.943992+00:00"
 }

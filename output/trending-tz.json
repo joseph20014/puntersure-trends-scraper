@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "barcelona vs al ahly",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
-  "volume_available_count": 23,
+  "top_trend": "arsenal vs coventry",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
+  "volume_available_count": 24,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "barcelona vs al ahly",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "arsenal vs coventry",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "yanga vs coastal union",
+      "title": "chidimma adetshina",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -28,63 +28,63 @@
     },
     {
       "rank": 3,
-      "title": "libya",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "chidimma adetshina",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "atlético madrid vs málaga",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "pamba jiji vs simba",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "mamelodi sundowns vs marumo gallants",
+      "title": "al-riyadh vs al-nassr",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "libya",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "betis vs real sociedad",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "jewel howard taylor",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "julián alvarez",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "angélique kidjo",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "ronaldinho",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "azam",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "premier league",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "tromso vs brighton",
+      "title": "zamalek",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "mwananchi",
+      "title": "epl",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,31 +100,31 @@
     },
     {
       "rank": 12,
-      "title": "carlos baleba",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "yanga vs coastal union",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "atlético madrid vs málaga cf standings",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "philadelphia vs inter miami",
+      "title": "angélique kidjo",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "samsung galaxy s25",
+      "volume": "251K+",
+      "volume_numeric": 251000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "barcelona",
+      "title": "manchester city",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "faw news",
+      "title": "al-riyadh vs al-nassr standings",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -140,46 +140,54 @@
     },
     {
       "rank": 17,
-      "title": "nbc premier league",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "atletico madrid",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "al-fayha vs al-hilal",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "flashscore",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "fawa news sports",
+      "title": "tromso vs brighton",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "mwananchi",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "arsenal f.c",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "azam",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "al-fayha vs al-hilal",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
+      "title": "faw news",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
       "title": "livescore cz",
       "volume": "100+",
       "volume_numeric": 100,
@@ -187,13 +195,13 @@
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "club friendlies",
+      "rank": 24,
+      "title": "nbc premier league",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-21T06:41:04.673901+00:00"
+  "fetched_at": "2026-08-22T06:34:52.419011+00:00"
 }

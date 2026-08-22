@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "østjyllands politi",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "direktør",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "østjyllands politi",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "det norske kongehus",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "aktie",
+      "title": "direktør",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "agf benfica",
+      "rank": 2,
+      "title": "præst",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "østersøen",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "premier league",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "sandra bullock",
+      "title": "anette støvelbæk",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -52,23 +52,23 @@
     },
     {
       "rank": 6,
-      "title": "gianni infantino",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "lene beier",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "michael olesen",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "sandra bullock",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "politiker",
+      "title": "b.t.",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -76,23 +76,23 @@
     },
     {
       "rank": 9,
-      "title": "cyklist",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "sport24",
+      "volume": "24200+",
+      "volume_numeric": 24200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "nord stream",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "kasper asgreen",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "badminton",
+      "title": "usa's statsgæld",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,55 +100,55 @@
     },
     {
       "rank": 12,
-      "title": "inter turku - fck",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "arbejdsulykke",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "minister",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "letbanen",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "jordskælv",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "tesla, inc.",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "forskning",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "judi dench",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "fc midtjylland - rijeka",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tv midtvest",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "moderna stock",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "vuelta espana 2026",
+      "volume": "2026500+",
+      "volume_numeric": 2026500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "silvia af sverige",
+      "title": "difteri",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,47 +156,47 @@
     },
     {
       "rank": 19,
-      "title": "det hvide hus",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "vanvidskørsel",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "medarbejder",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "aalborg håndbold",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "linde på langeland",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "benfica - agf",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "vuelta espana 2026",
-      "volume": "2026100+",
-      "volume_numeric": 2026100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "russere",
+      "title": "julian alaphilippe",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "aktie",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "midt- og vestjyllands politi",
+      "title": "rusland",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "vindmølle",
+      "title": "michael olesen",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-21T06:42:23.088225+00:00"
+  "fetched_at": "2026-08-22T06:36:11.129257+00:00"
 }

@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "carlos baleba",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "arsenal vs coventry",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "carlos baleba",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "arsenal vs coventry",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "tromso vs brighton",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "konsa",
+      "title": "premier league table",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "betis vs real sociedad",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "barcelona vs al ahly",
+      "title": "al-riyadh vs al-nassr",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -45,30 +45,30 @@
     {
       "rank": 5,
       "title": "uganda people's defence force",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "carlos baleba brighton transfer update",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "patrick bitature",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "arsenal vs coventry",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "marseille vs strasbourg",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "chidimma adetshina",
+      "title": "córdoba vs girona",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,31 +76,31 @@
     },
     {
       "rank": 9,
-      "title": "benfica vs agf",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "real betis",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "yildiz",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "savinho",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "sion vs ajax",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "pl",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "premier league",
+      "title": "epl fixtures",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,31 +108,31 @@
     },
     {
       "rank": 13,
-      "title": "alejandro balde",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "galatasaray fc",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "rayo vallecano vs alavés",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "marseille fc",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "getafe vs partizan",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "al-riyadh vs al-nassr standings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "al-fayha vs al-hilal",
+      "title": "truck",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -140,15 +140,15 @@
     },
     {
       "rank": 17,
-      "title": "atlético madrid vs málaga",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "epl today",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "atalanta fc",
+      "title": "family",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -156,23 +156,23 @@
     },
     {
       "rank": 19,
-      "title": "savinho",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "tromso vs brighton",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "man city transfer news",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "epl results",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "philadelphia vs inter miami",
+      "title": "patrick bitature",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "atlético madrid vs málaga cf standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "liver pool",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "nec vs bodø/glimt",
+      "title": "benfica vs agf",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "celtic vs lask",
+      "title": "alejandro balde",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "atletico madrid",
+      "title": "live score",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-21T06:41:30.848950+00:00"
+  "fetched_at": "2026-08-22T06:35:18.646737+00:00"
 }

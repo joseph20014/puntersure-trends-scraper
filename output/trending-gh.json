@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "barcelona vs al ahly",
+  "top_trend": "arsenal vs coventry",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "barcelona vs al ahly",
+      "title": "arsenal vs coventry",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,47 +20,47 @@
     },
     {
       "rank": 2,
-      "title": "chidimma adetshina",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "kessben owner stephen kwabena boateng",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "kessben owner stephen kwabena boateng",
+      "title": "jewel taylor",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "al-riyadh vs al-nassr",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "currency",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "aircraft pilot",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "betis vs real sociedad",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "james atta peprah",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "aircraft pilot",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "tromso vs brighton",
+      "title": "cheddar cola holdings hotel dispute",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -68,63 +68,63 @@
     },
     {
       "rank": 8,
-      "title": "psg vs rennes",
+      "title": "epl",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "jude bellingham",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "benfica vs agf",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "jewel taylor",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "argentina national football team",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "rayo vallecano vs alavés",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "thomas partey",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "2027 hyundai tucson",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "vice-chancellor",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "airbus a320 family",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "dstv",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "harvard law school",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "al-riyadh vs al-nassr standings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "kpop demon hunters",
+      "title": "liquid glass",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -132,23 +132,23 @@
     },
     {
       "rank": 16,
-      "title": "atlético madrid vs málaga",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "angélique kidjo",
+      "title": "premier league",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "lasmid liquor store",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "philadelphia vs inter miami",
+      "title": "airbus a320 family",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "atlético madrid vs málaga cf standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "snake",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "gta vi",
+      "title": "kpop demon hunters",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "carlos baleba",
+      "title": "currency",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "bernardo silva",
+      "title": "tromso vs brighton",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "fpl",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "viktor gyökeres",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 24,
-      "title": "getafe vs partizan",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "harvard law school",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "premier league",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "marseille vs strasbourg",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-21T06:42:49.160689+00:00"
+  "fetched_at": "2026-08-22T06:36:37.323407+00:00"
 }
