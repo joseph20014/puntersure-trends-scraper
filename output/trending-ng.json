@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "arsenal vs coventry",
+  "top_trend": "hull vs man united",
   "top_trend_volume": "200K+",
   "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "arsenal vs coventry",
+      "title": "hull vs man united",
       "volume": "200K+",
       "volume_numeric": 200000,
       "volume_source": "label",
@@ -20,6 +20,70 @@
     },
     {
       "rank": 2,
+      "title": "espanyol vs real madrid",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "brentford vs spurs",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "dortmund vs bayern",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "espanyol vs real madrid standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "inter miami vs toronto",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "arsenal f.c. vs coventry city fc standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "everton vs palace",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "nottm forest vs leeds",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
       "title": "al-riyadh vs al-nassr",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -27,7 +91,15 @@
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 11,
+      "title": "inter vs monza",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
       "title": "erzurumspor vs galatasaray",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,104 +107,32 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "betis vs real sociedad",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "premier league table",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "taiwo oyedele nelfund student loans",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "psg vs rennes",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "tony elumelu",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "tromso vs brighton",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "gta vi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "marseille vs strasbourg",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "aircraft pilot",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 13,
-      "title": "permanent secretary",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "atiku abubakar response to tinubu",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "julian alvarez",
+      "title": "ipswich town vs sunderland",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "genoa vs napoli",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "dele momodu",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 16,
-      "title": "epl",
+      "title": "federico valverde",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -140,15 +140,15 @@
     },
     {
       "rank": 17,
-      "title": "benfica vs agf",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "betis vs real sociedad",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "jamb under 16 screening criteria",
+      "title": "west ham vs charlton",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "arsenal transfer target victor osimhen",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "udinese vs como",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "rayo vallecano vs alavés",
+      "title": "dele momodu",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,15 +172,15 @@
     },
     {
       "rank": 21,
-      "title": "premier league fixtures",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "permanent secretary",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "victor osimhen espn striker ranking",
+      "title": "arsenal transfer target victor osimhen",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -188,15 +188,15 @@
     },
     {
       "rank": 23,
-      "title": "epl results",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "athletic vs sevilla",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "real betis",
+      "title": "enzo fernandez",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "nigeria football federation",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "scp vs alverca",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-22T06:34:26.224451+00:00"
+  "fetched_at": "2026-08-23T06:35:50.572560+00:00"
 }

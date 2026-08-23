@@ -4,103 +4,103 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "estudiantes de río cuarto - san lorenzo",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "servicio geológico minero argentino",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "estudiantes de río cuarto - san lorenzo",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "servicio geológico minero argentino",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "servicio geológico minero argentino",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "independiente - independiente rivadavia",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "aldosivi - unión",
+      "title": "jugador de fútbol",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "inter miami - toronto",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "f1 horarios",
+      "rank": 5,
+      "title": "newell's - banfield",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "rcd espanyol - real madrid",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "atlético tucumán - instituto",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "peaje",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "jugador de fútbol",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "jujuy",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 8,
-      "title": "plástico",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "huracán - deportivo riestra",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "perú",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "periodista",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "premier league",
+      "title": "dortmund - bayern",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "23 de agosto",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "romina rivera violinista",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "nelson castro",
+      "title": "28 de agosto",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,23 +108,23 @@
     },
     {
       "rank": 13,
-      "title": "corinthians - rosario central",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "central norte - estudiantes",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "san juan",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "monte fuji",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "abuelo",
+      "title": "andrea kimi antonelli",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,31 +132,31 @@
     },
     {
       "rank": 16,
-      "title": "arsenal - coventry city",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "carrera f1",
+      "volume": "150K+",
+      "volume_numeric": 150000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "capacitación docente",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "estudiantes de río cuarto - san lorenzo",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "base militar",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "mar del plata",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "sanción",
+      "title": "premier league",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -164,23 +164,23 @@
     },
     {
       "rank": 20,
-      "title": "pizzería güerrín",
+      "title": "inter - monza",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "hull city - manchester united",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "el niño",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "línea sarmiento",
+      "title": "camioneta",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "mariano torre",
+      "title": "gustavo martínez",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "automovilismo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "riesgo",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "importación",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "aldosivi - unión",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-22T06:37:30.000165+00:00"
+  "fetched_at": "2026-08-23T06:39:11.688646+00:00"
 }

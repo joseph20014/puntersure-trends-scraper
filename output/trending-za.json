@@ -4,14 +4,54 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "arsenal vs coventry",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "sekhukhune vs orlando pirates",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "sekhukhune vs orlando pirates",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "hull vs man united",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "espanyol vs real madrid",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "sassa grant schedule september 2026",
+      "volume": "202650K+",
+      "volume_numeric": 202650000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "springboks vs all blacks score",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
       "title": "arsenal vs coventry",
       "volume": "100K+",
       "volume_numeric": 100000,
@@ -19,64 +59,24 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "sassa september 2026 grant dates",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "taxpayers",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "capitec employee debarment vusumuzi mtshali",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "al-riyadh vs al-nassr",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "petrol and diesel price hike september",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "deano van rooyen leaves orlando pirates",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "dortmund vs bayern",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "epl",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "brentford vs spurs",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "springboks vs all blacks",
+      "title": "espanyol vs real madrid standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -84,15 +84,15 @@
     },
     {
       "rank": 10,
-      "title": "kaizer chiefs player loan gomora fc",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "st stithians college",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "julius mkhwanazi",
+      "title": "inter miami vs toronto",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "aircraft pilot",
+      "title": "everton vs palace",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -108,39 +108,39 @@
     },
     {
       "rank": 13,
-      "title": "head coach",
+      "title": "petrol cost increase south africa",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "nottm forest vs leeds",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "betis vs real sociedad",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 15,
-      "title": "norman basthdaw retirement sun international",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "inter vs monza",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "adnoc acquires shell petrol stations",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "al-riyadh vs al-nassr",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "bangladesh vs australia",
+      "title": "illicit cigarette trade",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "south africa online licence renewal",
+      "title": "kaizer chiefs player loan gomora fc",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "kaizer chiefs defender thabo moloisane",
+      "title": "rk nathallal and company negligence",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "fraud",
+      "title": "foreign national",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "premier league fixtures",
+      "title": "f1",
+      "volume": "110K+",
+      "volume_numeric": 110000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "duane vermeulen on rassie erasmus",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "emmerson mnangagwa",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "al-riyadh vs al-nassr standings",
+      "rank": 24,
+      "title": "deano van rooyen leaves orlando pirates",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "national prosecuting authority",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "zolani tete age",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "south african universities global rankings",
+      "title": "ny red bulls vs chicago",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-22T06:35:44.943992+00:00"
+  "fetched_at": "2026-08-23T06:37:08.958576+00:00"
 }

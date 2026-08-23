@@ -4,55 +4,55 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "إنستاباي",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "إسبانيول ضد الريال",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "إنستاباي",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "إسبانيول ضد الريال",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "ترتيبات نادى الزمالك – الاتحاد السكندرى",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "توقيت صيفي",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "آرسنال ضد كوفنتري سيتي",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "espanyol vs real madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "arsenal vs coventry",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ترتيبات نادى الزمالك – الاتحاد السكندرى",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "zamalek vs al ittihad",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "غزل المحلة ضد الأهرام",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "الرياض ضد النصر",
+      "title": "قاع الهامور",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,23 +60,23 @@
     },
     {
       "rank": 7,
-      "title": "تأمينات الهرم",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "علاء مبارك",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "قاع الهامور",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "هال سيتي ضد مان يونايتد",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "ترتيب الدوري المصري",
+      "title": "الأهلي ضد أبها",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -84,15 +84,15 @@
     },
     {
       "rank": 10,
-      "title": "ليلى علوي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "عطلة رسمية",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "درجة حرارة",
+      "title": "ياسمين عز",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -100,31 +100,31 @@
     },
     {
       "rank": 12,
-      "title": "سيارة فارهة",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "دورتموند ضد البايرن",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "ياسمين عز",
+      "title": "حكومة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "إنتر ميامي ضد تورونتو",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "مباريات الدوري المصري",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 15,
-      "title": "الاعلامي احمد موسى",
+      "title": "سيرك",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "اسعار الذهب اليوم 21 8 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "title": "espanyol vs real madrid standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "موعد تطبيق الدعم النقدي",
+      "title": "زواج",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,39 +148,39 @@
     },
     {
       "rank": 18,
-      "title": "بطاقة الرقم القومي المصرية",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "hull vs man united",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "خبر",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "fpl",
+      "title": "تأمينات الهرم",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "dortmund vs bayern",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "محسن صالح",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "موجة زلزالية",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "ترتيبات نادي القادسية السعودي – نادي الاتحاد",
+      "title": "حسن عيد",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "الاسماعيلي",
+      "title": "inter miami vs toronto",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "عطلة رسمية",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "لا ليغا",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "حكومة",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "الريال",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-22T06:37:03.709809+00:00"
+  "fetched_at": "2026-08-23T06:38:45.437819+00:00"
 }

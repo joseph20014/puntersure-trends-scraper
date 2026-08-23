@@ -4,14 +4,30 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "arsenal vs coventry",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "espanyol vs real madrid",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "espanyol vs real madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "hull vs man united",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
       "title": "arsenal vs coventry",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -19,56 +35,40 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "kessben owner stephen kwabena boateng",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "jewel taylor",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 4,
-      "title": "al-riyadh vs al-nassr",
+      "title": "espanyol vs real madrid standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "fraud",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "betis vs real sociedad",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "aircraft pilot",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "dortmund vs bayern",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "cheddar cola holdings hotel dispute",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "brentford vs spurs",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "epl",
+      "title": "inter miami vs toronto",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,23 +76,23 @@
     },
     {
       "rank": 9,
-      "title": "jude bellingham",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "cheddar cola holdings hotel dispute",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "argentina national football team",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "everton vs palace",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "thomas partey",
+      "title": "suspect",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,23 +100,23 @@
     },
     {
       "rank": 12,
-      "title": "vice-chancellor",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "nottm forest vs leeds",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "dstv",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "bozoma saint john",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "al-riyadh vs al-nassr standings",
+      "title": "extortionist",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -124,47 +124,47 @@
     },
     {
       "rank": 15,
-      "title": "liquid glass",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "lasmid liquor store",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "premier league",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "liquid glass",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "lasmid liquor store",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "airbus a320 family",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "snake",
+      "title": "lionel messi",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "scp vs alverca",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "al-riyadh vs al-nassr",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "kpop demon hunters",
+      "title": "ipswich town vs sunderland",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "currency",
+      "title": "betis vs real sociedad",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "tromso vs brighton",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "athletic bilbao vs sevilla fc standings",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "fpl",
+      "title": "inter vs monza",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "harvard law school",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "flashscore",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "marseille vs strasbourg",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "thomas partey",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-22T06:36:37.323407+00:00"
+  "fetched_at": "2026-08-23T06:38:19.172446+00:00"
 }
