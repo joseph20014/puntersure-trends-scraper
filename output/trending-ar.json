@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "servicio geológico minero argentino",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "racing - boca juniors",
+  "top_trend_volume": "500K+",
+  "top_trend_volume_numeric": 500000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "servicio geológico minero argentino",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "racing - boca juniors",
+      "volume": "500K+",
+      "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "independiente - independiente rivadavia",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "river plate - vélez",
+      "volume": "500K+",
+      "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "jugador de fútbol",
+      "title": "elche c. f. - barcelona",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "inter miami - toronto",
+      "title": "belgrano - defensa y justicia",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -44,31 +44,31 @@
     },
     {
       "rank": 5,
-      "title": "newell's - banfield",
+      "title": "julieta díaz",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "sarmiento - estudiantes",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "rcd espanyol - real madrid",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "atlético tucumán - instituto",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "24 de agosto",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "huracán - deportivo riestra",
+      "title": "rennes - psg",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -76,15 +76,15 @@
     },
     {
       "rank": 9,
-      "title": "periodista",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "newcastle - liverpool",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "dortmund - bayern",
+      "title": "terremoto japón",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "23 de agosto",
+      "title": "gripe",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -100,23 +100,23 @@
     },
     {
       "rank": 12,
-      "title": "28 de agosto",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "julian alvarez",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "central norte - estudiantes",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "atlético madrid - villarreal",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "monte fuji",
+      "title": "lunes",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -124,39 +124,39 @@
     },
     {
       "rank": 15,
-      "title": "andrea kimi antonelli",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "eclipse lunar de agosto de 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "carrera f1",
-      "volume": "150K+",
-      "volume_numeric": 150000,
+      "title": "independiente - independiente rivadavia",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "estudiantes de río cuarto - san lorenzo",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "gran premio de italia",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "mar del plata",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "monte fuji",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "premier league",
+      "title": "manchester city - bournemouth",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "inter - monza",
+      "title": "inter miami - toronto",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "newell's - banfield",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "rcd espanyol - real madrid",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "flavio briatore",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "hull city - manchester united",
+      "rank": 24,
+      "title": "28 de agosto",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "camioneta",
+      "rank": 25,
+      "title": "falla",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "gustavo martínez",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "riesgo",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "aldosivi - unión",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-23T06:39:11.688646+00:00"
+  "fetched_at": "2026-08-24T06:55:02.515599+00:00"
 }

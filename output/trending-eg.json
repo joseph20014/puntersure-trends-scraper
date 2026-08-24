@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "إسبانيول ضد الريال",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "ترتيبات النادي الأهلي – نادى انبى",
+  "top_trend_volume": "500K+",
+  "top_trend_volume_numeric": 500000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "إسبانيول ضد الريال",
+      "title": "ترتيبات النادي الأهلي – نادى انبى",
+      "volume": "500K+",
+      "volume_numeric": 500000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "إلتشيه ضد برشلونة",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "توقيت صيفي",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 3,
-      "title": "espanyol vs real madrid",
+      "title": "elche vs barcelona",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "ترتيبات نادى الزمالك – الاتحاد السكندرى",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "نيوكاسل يونايتد ضد ليفربول",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "غزل المحلة ضد الأهرام",
+      "title": "مان سيتي ضد بورنموث",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -52,31 +52,31 @@
     },
     {
       "rank": 6,
-      "title": "قاع الهامور",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "إسبانيول ضد الريال",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "علاء مبارك",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "هال سيتي ضد مان يونايتد",
+      "title": "تصادم",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "طرابزون سبور ضد بلدية اسطنبول",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 9,
-      "title": "الأهلي ضد أبها",
+      "title": "newcastle vs liverpool",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -84,7 +84,7 @@
     },
     {
       "rank": 10,
-      "title": "عطلة رسمية",
+      "title": "شكري سرحان",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -92,23 +92,23 @@
     },
     {
       "rank": 11,
-      "title": "ياسمين عز",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "دورتموند ضد البايرن",
+      "title": "موجة زلزالية",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "man city vs bournemouth",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 13,
-      "title": "حكومة",
+      "title": "رين ضد بي اس جي",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -116,55 +116,55 @@
     },
     {
       "rank": 14,
-      "title": "إنتر ميامي ضد تورونتو",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "سيرك",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "espanyol vs real madrid standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "زواج",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "hull vs man united",
+      "title": "علاء مبارك",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "تأمينات الهرم",
+      "rank": 15,
+      "title": "مخبز",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "غزل المحلة ضد الأهرام",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "مدرسة حكومية",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "elche cf vs fc barcelona standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "زواج",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "dortmund vs bayern",
+      "title": "rennes vs psg",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,15 +172,15 @@
     },
     {
       "rank": 21,
-      "title": "موجة زلزالية",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "التوقيت الشتوي",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "حسن عيد",
+      "title": "تنسيق الدبلومات الفنية 2026 نظام 3 سنوات",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "inter miami vs toronto",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "دينا المصري",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "لا ليغا",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "2K+ arrow_upward 300%",
+      "volume": "102K+",
+      "volume_numeric": 102000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "الريال",
+      "title": "كريم أديمي",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-23T06:38:45.437819+00:00"
+  "fetched_at": "2026-08-24T06:54:36.041647+00:00"
 }
