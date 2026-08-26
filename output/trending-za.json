@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "fuel recovery south africa august",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "dolly parton",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "fuel recovery south africa august",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "fulham vs chelsea",
+      "title": "dolly parton",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "orlando pirates vs sekhukhune",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 3,
-      "title": "elche vs barcelona",
+      "title": "fuel recovery south africa august",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -36,23 +36,23 @@
     },
     {
       "rank": 4,
-      "title": "sassa grant review ai data matching",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "grant",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "south africa car licence renewal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "lions vs new zealand",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "rennes vs psg",
+      "title": "marumo gallants vs ts galaxy",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "patrick maswanganyi",
+      "title": "sassa grant review ai data matching",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "miguel cardoso",
+      "title": "al-ettifaq vs al-nassr",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -76,127 +76,127 @@
     },
     {
       "rank": 9,
-      "title": "news",
+      "title": "siwelele fc vs chippa",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "kruger united vs durban city",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "appeal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "fulham f.c. vs chelsea f.c. standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "matthew carley rugby referee performance",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "smuggling",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "postbank sassa gold card deadline",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 13,
-      "title": "food",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "birmingham vs brentford",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "newcastle united f.c. vs liverpool f.c. standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "roma vs fiorentina",
+      "title": "kaizer chiefs zitha kwinika progress",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "emfuleni local municipality",
+      "rank": 15,
+      "title": "efl cup",
       "volume": "10K+",
       "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "monterrey vs chicago",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "bologna vs lazio",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "school",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "sacha feinberg-mngomezulu springboks bench",
+      "title": "patrick maswanganyi alkhaldiya transfer",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "southampton vs west ham",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "food",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "citrus fruit",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "al-ittihad vs al-hazem",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "carlton centre",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "hugo broos salary safa dispute",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "gonzalo garcía",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "hallescher vs schalke",
+      "title": "oswin appollis",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "valencia vs betis",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "osasuna vs levante",
+      "title": "plymouth vs coventry",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "cat matlala madlanga commission today",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "powerball results august 25 2026",
+      "volume": "20261K+",
+      "volume_numeric": 20261000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-25T06:42:33.374532+00:00"
+  "fetched_at": "2026-08-26T06:44:10.139564+00:00"
 }

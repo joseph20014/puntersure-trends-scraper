@@ -4,63 +4,63 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "ترتيبات النادي الأهلي – نادى انبى",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "الاتفاق ضد النصر",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ترتيبات النادي الأهلي – نادى انبى",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "الاتفاق ضد النصر",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "إلتشيه ضد برشلونة",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "نادي بيراميدز",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "فولهام ضد تشيلسي",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "سارة سلامة",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "fulham vs chelsea",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "عمرو سليم",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "المولد النبوي 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "title": "dolly parton",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "شكري سرحان",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "al-ettifaq vs al-nassr",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "تنسيق الدبلومات الفنية 2026 نظام 3 سنوات",
+      "title": "مشروب",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -68,23 +68,23 @@
     },
     {
       "rank": 8,
-      "title": "طرابزون سبور ضد بلدية اسطنبول",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "إنجي كيوان",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "إنجي كيوان",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "تامر هجرس",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "جامعة القاهرة الأهلية",
+      "title": "السيسي",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "قانون التأمين",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "هوية رقمية",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "الاتحاد ضد الحزم",
+      "title": "برمنغهام سيتي ضد برينتفورد",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "مولد النبي",
+      "title": "لاسك لينز ضد سيلتك",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,39 +116,39 @@
     },
     {
       "rank": 14,
-      "title": "2K+ arrow_upward 300%",
-      "volume": "102K+",
-      "volume_numeric": 102000,
+      "title": "سجن العقرب",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "العام الدراسي الجديد",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "عامل",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "نوال الدجوي",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "دينا المصري",
+      "title": "الشباب ضد الرياض",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "سليمان منصور",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "منتخب جنوب السودان لكرة القدم",
+      "title": "أحمد زاهر",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,23 +156,23 @@
     },
     {
       "rank": 19,
-      "title": "هنا الزاهد",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "عمرو محمود ياسين",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "احمد زاهر",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "نتيجة تقليل الاغتراب",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "دانييلا رحمة",
+      "title": "نادية الجندي",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "مال",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "مصطفى أحمد شوبير",
+      "title": "ساوثهامبتون ضد وست هام",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "26 أغسطس",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "موعد المولد النبوي الشريف 2026",
-      "volume": "20262K+",
-      "volume_numeric": 20262000,
+      "title": "اسعار الفراخ البيضاء",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "مدرسة جلوبال",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "دوللي بارتون",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-25T06:43:52.724374+00:00"
+  "fetched_at": "2026-08-26T06:45:46.970939+00:00"
 }

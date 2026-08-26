@@ -4,14 +4,22 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "fulham vs chelsea",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "dolly parton",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "dolly parton",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
       "title": "fulham vs chelsea",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -19,96 +27,88 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "roma vs fiorentina",
+      "rank": 3,
+      "title": "ges 2026 school placement portal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "al-ettifaq vs al-nassr",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "plymouth vs coventry",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "kwame governs agbodza accra-kumasi bypass",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "birmingham vs brentford",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "mtn group",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "ghana unrefined gold export ban",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "elche vs barcelona",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "álvaro arbeloa",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "cabbage",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "man city vs bournemouth",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "hallescher vs schalke",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "newcastle vs liverpool",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "mtn group",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "rennes vs psg",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "southampton vs west ham",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "elche cf vs fc barcelona standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "valencia vs betis",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "atlético madrid vs villarreal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "vehicle impoundment",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "chelsea match today",
+      "title": "nottm forest vs leeds",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,63 +116,63 @@
     },
     {
       "rank": 14,
-      "title": "taiwo hassan",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "soccer",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "what",
+      "title": "apple iphone 17 pro max",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "apple iphone 18 pro max",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "brighton vs aston villa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "kwasi sibo $10m deal",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "ox alpha ai",
+      "rank": 15,
+      "title": "debt",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "samsung galaxy s27 ultra",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "sheffield wednesday vs wolves",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "lewis skelly",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "ipswich town vs leicester city",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "gta6 leaks",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "torino vs milan",
+      "title": "roma vs fiorentina",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "foreign national",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "graduation",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "lamine yamal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ox alpha ai",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "graduation",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "hallescher vs schalke",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "cristiano ronaldo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ballon d or 2026 august rankings",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-25T06:43:26.351382+00:00"
+  "fetched_at": "2026-08-26T06:45:20.572936+00:00"
 }
