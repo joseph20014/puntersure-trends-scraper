@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "dolly parton",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "real madrid vs real sociedad",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "dolly parton",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "fulham vs chelsea",
+      "title": "real madrid vs real sociedad",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "dolly parton",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 3,
-      "title": "ges 2026 school placement portal",
+      "title": "uefa champions league",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -36,47 +36,47 @@
     },
     {
       "rank": 4,
-      "title": "al-ettifaq vs al-nassr",
+      "title": "real madrid vs real sociedad standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "spurs vs charlton",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "plymouth vs coventry",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "kwame governs agbodza accra-kumasi bypass",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ghana",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "birmingham vs brentford",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "newcastle vs west brom",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "mtn group",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "grace nortey",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "ghana unrefined gold export ban",
+      "title": "is the wassce 2026 results out",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -84,103 +84,103 @@
     },
     {
       "rank": 10,
-      "title": "southampton vs west ham",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "tim curry",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "valencia vs betis",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "mahama ayariga wife",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "vehicle impoundment",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "monaco vs górnik zabrze",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "nottm forest vs leeds",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "beauty in black season 3",
+      "volume": "3500+",
+      "volume_numeric": 3500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "apple iphone 17 pro max",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "debt",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "samsung galaxy s27 ultra",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "sheffield wednesday vs wolves",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "lewis skelly",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "ipswich town vs leicester city",
+      "title": "nepal",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "gta6 leaks",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "rank": 15,
+      "title": "laryea kingston",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "roma vs fiorentina",
+      "rank": 16,
+      "title": "nsmq",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "efl cup",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "food",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "côte d'ivoire",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "mamady doumbouya",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "oscar naasei",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "graduation",
+      "title": "apple iphone 17 pro max",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "ox alpha ai",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "honest ahanor",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "hallescher vs schalke",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "mamadou sarr",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "ballon d or 2026 august rankings",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "yaya touré",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-26T06:45:20.572936+00:00"
+  "fetched_at": "2026-08-27T17:20:35.922918+00:00"
 }

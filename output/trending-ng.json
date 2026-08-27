@@ -5,62 +5,62 @@
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
   "top_trend": "dolly parton",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
       "title": "dolly parton",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "al-ettifaq vs al-nassr",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "fulham f.c. vs chelsea f.c. standings",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "champions league draw",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "spurs vs charlton",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "birmingham vs brentford",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "real madrid vs real sociedad standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "plymouth vs coventry",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "newcastle vs west brom",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "stoke city vs hull",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "chelsea vs sociedad",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "southampton vs west ham",
+      "title": "preston vs everton",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -68,103 +68,103 @@
     },
     {
       "rank": 8,
-      "title": "valencia vs betis",
+      "title": "tim curry",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "bradford city vs burnley",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "joint admissions and matriculation board",
+      "rank": 10,
+      "title": "birmingham vs brentford",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "ballon d'or 2026 contenders rankings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "nigerian national petroleum company petrol hike",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "lagos airport taxi n30,000 backlash",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "arrest",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "ajax vs real madrid",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "efl cup",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "arsenal news transfer",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "pfa player of the year 2026",
-      "volume": "20265K+",
-      "volume_numeric": 20265000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "migration",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "sheffield wednesday vs wolves",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "roma vs fiorentina",
+      "title": "southampton vs west ham",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "hallescher vs schalke",
+      "rank": 14,
+      "title": "nepal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "madrid vs real sociedad",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "stoke city vs hull",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "ol vs fenerbahçe",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "umaisha general hospital",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "monaco vs górnik zabrze",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "ipswich town vs leicester city",
+      "title": "arsenal squad value champions league",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "nigeria",
+      "title": "efcc asset forfeiture half billion dollars",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "lask vs celtic",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "beauty in black season 3",
+      "volume": "32K+",
+      "volume_numeric": 32000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "al-ittihad vs al-hazem",
+      "title": "gabriel martinelli",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "thunderstorm warning",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "levi colwill",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "sahara reporters",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fg electric vehicle distribution nigeria",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-26T06:42:51.181760+00:00"
+  "fetched_at": "2026-08-27T17:18:21.438502+00:00"
 }

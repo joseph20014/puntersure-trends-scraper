@@ -5,30 +5,30 @@
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
   "top_trend": "dolly parton",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
       "title": "dolly parton",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "ole bjur",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "tim curry",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "dolly parton dødsårsag",
+      "title": "folkepension",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "tønder festival",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "stig thorsboe",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "allan nielsen",
+      "title": "ole andreasen",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -52,23 +52,23 @@
     },
     {
       "rank": 6,
-      "title": "vatanspor",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ekstra bladet nyheder",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "løn",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "nepal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "ekstra bladet nyheder",
+      "title": "champions league draw",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,31 +76,31 @@
     },
     {
       "rank": 9,
-      "title": "festival",
+      "title": "annette heick",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "politiet",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "uvejr",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "camilla andersen",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "tvsyd",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "canada",
+      "title": "sarah grünewald",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "tina lund",
+      "title": "peter cullen",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -116,15 +116,15 @@
     },
     {
       "rank": 14,
-      "title": "er dolly parton død",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "ratko mladic",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "håndbold",
+      "title": "fck kamp i dag",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -132,39 +132,39 @@
     },
     {
       "rank": 16,
-      "title": "drab",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "prinsesse",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "birmingham - brentford",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "larry ellison",
+      "title": "nrk",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "uefa",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "yayoi kusama",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "navn",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "kreml",
+      "title": "flying superkids",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "elon musk",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "agf benfica",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "benedikte thoustrup",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tyveri",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "gift ved første blik",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "daniel wass",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "sonja af norge",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "stine bjerre mortensen",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "mette frederiksen",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "champions league lodtrækning",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-26T06:44:36.417392+00:00"
+  "fetched_at": "2026-08-27T17:20:09.638938+00:00"
 }
