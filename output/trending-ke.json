@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "dolly parton",
+  "top_trend": "chelsea vs luton town",
   "top_trend_volume": "50K+",
   "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "dolly parton",
+      "title": "chelsea vs luton town",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -20,15 +20,15 @@
     },
     {
       "rank": 2,
-      "title": "real madrid vs real sociedad",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "new ke number plates kenya",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "spurs vs charlton",
+      "title": "university",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "newcastle vs west brom",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "barcelona vs athletic",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "champions league draw",
+      "title": "stoopid boy",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "job ochieng",
+      "title": "brighton vs tromso",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,23 +60,23 @@
     },
     {
       "rank": 7,
-      "title": "nepal",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "champions league draw",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "preston vs everton",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "al-nassr vs al-taawoun",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "chelsea vs sociedad",
+      "title": "fc barcelona vs athletic bilbao standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,7 +84,7 @@
     },
     {
       "rank": 10,
-      "title": "rosemary koech",
+      "title": "police uniform",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "helb opened loan applications for kmtc certificate and diploma students",
+      "title": "job ochieng",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "tim curry",
+      "title": "peter cullen",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,31 +108,31 @@
     },
     {
       "rank": 13,
-      "title": "speed limit",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bayern vs vfb stuttgart",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "carabao cup fixtures",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "ollie watkins",
+      "title": "court",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "beauty in black season 3",
+      "volume": "32K+",
+      "volume_numeric": 32000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "bradford city vs burnley",
+      "title": "tax",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,39 +140,39 @@
     },
     {
       "rank": 17,
-      "title": "carabao cup",
+      "title": "racing santander vs elche",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "ollie watkins",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "stoopid boy",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 19,
-      "title": "monaco vs górnik zabrze",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "uniform",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "beauty in black season 3",
-      "volume": "31K+",
-      "volume_numeric": 31000,
+      "title": "crystal palace vs man city",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "tom byabagamba",
+      "title": "champions league",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "gabriel martinelli",
+      "title": "alaves vs villarreal prediction",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,15 +188,15 @@
     },
     {
       "rank": 23,
-      "title": "moi university redundancy 75 lecturers",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "marcus rashford",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "kirwara boys high school",
+      "title": "wrexham vs birmingham",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "gas",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "lille vs psg",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-27T17:17:55.131729+00:00"
+  "fetched_at": "2026-08-28T18:10:14.435727+00:00"
 }

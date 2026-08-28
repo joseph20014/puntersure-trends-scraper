@@ -4,38 +4,14 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "river plate - santa fe",
-  "top_trend_volume": "1M+",
-  "top_trend_volume_numeric": 1000000,
+  "top_trend": "ruben rada",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "river plate - santa fe",
-      "volume": "1M+",
-      "volume_numeric": 1000000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "declaración",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "nepal",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
       "title": "ruben rada",
       "volume": "100K+",
       "volume_numeric": 100000,
@@ -43,24 +19,48 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "dolly parton",
+      "rank": 2,
+      "title": "platense - instituto",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "tim curry",
+      "rank": 3,
+      "title": "estudiantes - barracas central",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "barcelona - athletic",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "tierra",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "eclipse lunar 27 de agosto 2026",
+      "volume": "202650K+",
+      "volume_numeric": 202650000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "tini",
+      "title": "chelsea - luton",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,79 +68,79 @@
     },
     {
       "rank": 8,
-      "title": "coudet",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "soledad silveyra",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "aldosivi - independiente rivadavia",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "juan manuel figueroa",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "real madrid - real sociedad",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "hincha de river",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "yayoi kusama",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "tierra",
+      "title": "garbarino",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "andrea rincón",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "aranda",
+      "rank": 11,
+      "title": "el polaco",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "movistar arena",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "yayoi kusama",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "detroit",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "river plate - santa fe",
+      "volume": "500K+",
+      "volume_numeric": 500000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "soledad silveyra",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "subte de buenos aires",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "ramon diaz",
+      "title": "día del empleado de comercio",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -148,31 +148,31 @@
     },
     {
       "rank": 18,
-      "title": "subte a",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "gta 6",
+      "volume": "610K+",
+      "volume_numeric": 610000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "movistar arena",
+      "title": "ponzio",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "los leones",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "juan manuel figueroa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "martinez quarta",
+      "title": "jorge pedersoli",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "reforma",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "racing de santander - elche c. f.",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "refinanciación",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "selección de fútbol de argentina",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "importación",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bayern - stuttgart",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "creditos hipotecarios",
+      "title": "peter cullen",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-27T17:21:28.569403+00:00"
+  "fetched_at": "2026-08-28T18:14:02.949087+00:00"
 }

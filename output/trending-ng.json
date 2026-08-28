@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "dolly parton",
+  "top_trend": "barcelona vs athletic",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "dolly parton",
+      "title": "barcelona vs athletic",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,15 +20,15 @@
     },
     {
       "rank": 2,
-      "title": "champions league draw",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "al-nassr vs al-taawoun",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "spurs vs charlton",
+      "title": "brighton vs tromso",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -36,6 +36,22 @@
     },
     {
       "rank": 4,
+      "title": "fc barcelona vs athletic bilbao standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "champions league",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
       "title": "real madrid vs real sociedad standings",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -43,23 +59,63 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "newcastle vs west brom",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "chelsea vs sociedad",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
+      "title": "racing santander vs elche",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "bayern vs vfb stuttgart",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "umaisha general hospital",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "peter cullen",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "beauty in black season 3",
+      "volume": "310K+",
+      "volume_numeric": 310000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "lamine camara",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "jamb o level result verification",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
       "title": "preston vs everton",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -67,80 +123,24 @@
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "tim curry",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "rank": 15,
+      "title": "enzo fernandez manchester city transfer",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "bradford city vs burnley",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "birmingham vs brentford",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "lagos airport taxi n30,000 backlash",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "ajax vs real madrid",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "southampton vs west ham",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "nepal",
+      "rank": 16,
+      "title": "iphone",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "madrid vs real sociedad",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "stoke city vs hull",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "ol vs fenerbahçe",
+      "title": "monaco vs górnik zabrze",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "umaisha general hospital",
+      "title": "femi falana",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,23 +156,23 @@
     },
     {
       "rank": 19,
-      "title": "monaco vs górnik zabrze",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "slovan bratislava coach yaya toure",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "arsenal squad value champions league",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "biafra",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "efcc asset forfeiture half billion dollars",
+      "title": "electric vehicle",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "beauty in black season 3",
-      "volume": "32K+",
-      "volume_numeric": 32000,
+      "title": "agf vs benfica",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "gabriel martinelli",
+      "title": "2027 ford maverick price cuts",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "thunderstorm warning",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "madrid vs real sociedad",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "fg electric vehicle distribution nigeria",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "legit.ng",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-27T17:18:21.438502+00:00"
+  "fetched_at": "2026-08-28T18:10:40.736512+00:00"
 }

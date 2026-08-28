@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "البنك الاهلي ضد الزمالك",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "زد ضد الأهلي",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "البنك الاهلي ضد الزمالك",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "زد ضد الأهلي",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "الريال ضد ريال سوسيداد",
+      "title": "برشلونة ضد أتلتيك بيلباو",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "الأهلي ضد نادي أوكلاند",
+      "title": "zed vs al ahly",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "real madrid vs real sociedad",
+      "title": "طقس",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -44,39 +44,39 @@
     },
     {
       "rank": 5,
-      "title": "هبة مجدي",
+      "title": "barcelona vs athletic",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "مسلسل لعبة جهنم",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "نيبال",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "dolly parton",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "فيرينكفاروسي ضد طرابزون سبور",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "قرعة دوري ابطال اوروبا 2027",
-      "volume": "202710K+",
-      "volume_numeric": 202710000,
+      "title": "رئيس الجمهورية",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "توتنهام ضد تشارلتون",
+      "title": "محور الضبعه",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,63 +84,63 @@
     },
     {
       "rank": 10,
-      "title": "فيلم اسد",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "النصر ضد التعاون",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "اعتزال داليا مبارك",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "الشرقية إنبي ضد وادي دجلة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "pyramids vs abu qir fertilizers",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "tim curry",
+      "title": "الاتحاد السكندري ضد سيراميكا كليوباترا",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "موعد تنسيق المرحله الثالثه للثانويه العامه 2026",
-      "volume": "20265K+",
-      "volume_numeric": 20265000,
+      "rank": 13,
+      "title": "المقاولون ضد المصري",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "real madrid vs real sociedad standings",
+      "rank": 14,
+      "title": "موعد نتيجه الدور الثاني الثانويه العامه",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "عداد كهرباء",
+      "rank": 15,
+      "title": "مها الصغير",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "صلاة الخسوف",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "هيوماين",
+      "title": "تامر حسني",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,23 +148,23 @@
     },
     {
       "rank": 18,
-      "title": "اذان المغرب",
+      "title": "al-nassr vs al-taawoun",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "fc barcelona vs athletic bilbao standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "ماء الشرب",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "علاء ميهوب",
+      "title": "منخفض جوي",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "ماء",
+      "title": "تشيلسي ضد لوتون تاون",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "فيضان نيبال",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "عمارة الإيموبيليا",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "جينيفر لوبيز",
+      "rank": 24,
+      "title": "طماطم",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "موعد اذان المغرب",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "بانيت",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "اسعار الذهب اليوم 27 8 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "title": "البايرن ضد شتوتغارت",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-27T17:21:02.250485+00:00"
+  "fetched_at": "2026-08-28T18:13:36.532786+00:00"
 }

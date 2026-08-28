@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "real madrid vs real sociedad",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "barcelona vs athletic",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "real madrid vs real sociedad",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "barcelona vs athletic",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "dolly parton",
+      "title": "chelsea vs luton town",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -28,15 +28,15 @@
     },
     {
       "rank": 3,
-      "title": "uefa champions league",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "marc cucurella",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "real madrid vs real sociedad standings",
+      "title": "fc barcelona vs athletic bilbao standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -44,143 +44,143 @@
     },
     {
       "rank": 5,
-      "title": "spurs vs charlton",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "al-nassr vs al-taawoun",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "ghana",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "racing santander vs elche",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "newcastle vs west brom",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "uefa champions league",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "grace nortey",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "beauty in black season 3",
+      "volume": "32K+",
+      "volume_numeric": 32000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
       "title": "is the wassce 2026 results out",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "tim curry",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bayern vs vfb stuttgart",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "mahama ayariga wife",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "monaco vs górnik zabrze",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "beauty in black season 3",
-      "volume": "3500+",
-      "volume_numeric": 3500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "nepal",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
       "title": "laryea kingston",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "nsmq",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "efl cup",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "food",
+      "rank": 12,
+      "title": "kotoko vs hearts of oak",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "nepal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "brighton vs tromso",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "peter cullen",
       "volume": "1K+",
       "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "wassce results 2026",
+      "volume": "2026500+",
+      "volume_numeric": 2026500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "yaya touré",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "fc bayern munich",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "côte d'ivoire",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "kidi where do we go from here",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "mamady doumbouya",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "oscar naasei",
+      "title": "parrots",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "grand theft auto vi",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "apple iphone 17 pro max",
+      "title": "monaco vs górnik zabrze",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "honest ahanor",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "real madrid vs real sociedad standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "mamadou sarr",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "mahama ayariga wife",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "yaya touré",
+      "title": "iphone",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-27T17:20:35.922918+00:00"
+  "fetched_at": "2026-08-28T18:13:10.174644+00:00"
 }
