@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "barcelona vs athletic",
+  "top_trend": "liverpool vs nottm forest",
   "top_trend_volume": "50K+",
   "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "barcelona vs athletic",
+      "title": "liverpool vs nottm forest",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -21,21 +21,69 @@
     {
       "rank": 2,
       "title": "beneficiary",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
+      "title": "palace vs man city",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "barcelona vs athletic",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
       "title": "nam vs sa",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "losc vs psg",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "title": "bayern vs vfb stuttgart",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "payment",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "inflation",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
       "title": "chelsea vs luton town",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -43,64 +91,16 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "peter cullen",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "fc barcelona vs athletic bilbao standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "inflation",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "fernando da cruz on dortley",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "al-nassr vs al-taawoun",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "brighton vs tromso",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "gta 6",
-      "volume": "610K+",
-      "volume_numeric": 610000,
+      "title": "al-nassr vs al-taawoun",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "england vs pakistan",
+      "title": "losc lille vs paris saint-germain f.c. standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -108,108 +108,108 @@
     },
     {
       "rank": 13,
-      "title": "racing santander vs elche",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "peter cullen",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "cyril ramaphosa",
+      "title": "south africa electricity pricing policy",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "marc cucurella",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "milan vs venezia",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "bayern vs vfb stuttgart",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "iphone",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "jannie mouton",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "orlando pirates vs sekhukhune united mtn8",
+      "volume": "85K+",
+      "volume_numeric": 85000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "payment",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "new zealand national rugby union team",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "uefa champions league draw",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "bayern munich vs vfb stuttgart standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "brian baloyi on brandon petersen",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fikile mokgohloa",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "zed vs al ahly",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "kathu",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "lunar eclipse south africa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "iphone",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "marc cucurella",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "brian baloyi on brandon petersen",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "fikile mokgohloa",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "wolves vs stoke city",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "miguel cardoso on tashreeq matthews",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al-nassr vs al-taawoun fc standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-28T18:11:59.655666+00:00"
+  "fetched_at": "2026-08-29T12:16:13.476709+00:00"
 }

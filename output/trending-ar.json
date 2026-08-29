@@ -4,94 +4,30 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "ruben rada",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "boca juniors - lanús",
+  "top_trend_volume": "500K+",
+  "top_trend_volume_numeric": 500000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ruben rada",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "boca juniors - lanús",
+      "volume": "500K+",
+      "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "platense - instituto",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "crystal palace - manchester city",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "estudiantes - barracas central",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "barcelona - athletic",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "tierra",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "eclipse lunar 27 de agosto 2026",
-      "volume": "202650K+",
-      "volume_numeric": 202650000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "chelsea - luton",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "soledad silveyra",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "juan manuel figueroa",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "garbarino",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
       "title": "el polaco",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -99,24 +35,88 @@
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "movistar arena",
+      "rank": 4,
+      "title": "unión - sarmiento",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "beneficiario",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "losc - psg",
       "volume": "20K+",
       "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "liverpool - nottingham forest",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "garbarino",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "club atlético talleres",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "selección femenina de hockey sobre césped de argentina",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "bayern - stuttgart",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "detroit",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "yayoi kusama",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "mirtha legrand",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "detroit",
+      "title": "placa tectónica",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -124,15 +124,15 @@
     },
     {
       "rank": 15,
-      "title": "river plate - santa fe",
-      "volume": "500K+",
-      "volume_numeric": 500000,
+      "title": "gimnasia y tiro de salta - chacarita",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "subte de buenos aires",
+      "title": "beneficio fiscal",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -140,38 +140,22 @@
     },
     {
       "rank": 17,
-      "title": "día del empleado de comercio",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "reino unido",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "gta 6",
-      "volume": "610K+",
-      "volume_numeric": 610000,
+      "title": "baby etchecopar",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "ponzio",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "los leones",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
       "title": "jorge pedersoli",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -179,37 +163,53 @@
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "racing de santander - elche c. f.",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 20,
+      "title": "agua",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "selección de fútbol de argentina",
+      "rank": 21,
+      "title": "barreda",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "bayern - stuttgart",
+      "rank": 22,
+      "title": "multa",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "alerta meteorológica",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "platense - instituto",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "peter cullen",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "liverpool",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-28T18:14:02.949087+00:00"
+  "fetched_at": "2026-08-29T12:18:16.412898+00:00"
 }

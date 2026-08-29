@@ -4,14 +4,30 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "barcelona vs athletic",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "liverpool vs nottm forest",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "liverpool vs nottm forest",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "palace vs man city",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
       "title": "barcelona vs athletic",
       "volume": "100K+",
       "volume_numeric": 100000,
@@ -19,24 +35,8 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "al-nassr vs al-taawoun",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "brighton vs tromso",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 4,
-      "title": "fc barcelona vs athletic bilbao standings",
+      "title": "losc vs psg",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "champions league",
+      "title": "al-nassr vs al-taawoun",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -52,111 +52,111 @@
     },
     {
       "rank": 6,
-      "title": "real madrid vs real sociedad standings",
+      "title": "bayern vs vfb stuttgart",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "milan vs venezia",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "losc lille vs paris saint-germain f.c. standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "jamb portal",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "racing santander vs elche",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "bayern vs vfb stuttgart",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "umaisha general hospital",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "peter cullen",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "fc barcelona vs athletic bilbao standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "beauty in black season 3",
-      "volume": "310K+",
-      "volume_numeric": 310000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "lamine camara",
+      "title": "wolves vs stoke city",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "jamb o level result verification",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "preston vs everton",
+      "rank": 12,
+      "title": "al-nassr vs al-taawoun fc standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "enzo fernandez manchester city transfer",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "iphone",
+      "rank": 13,
+      "title": "victor osimhen, galatasaray transfer news",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "monaco vs górnik zabrze",
+      "rank": 14,
+      "title": "brighton vs tromso",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "iphone 18 pro",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "alavés vs villarreal",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "peter cullen",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "femi falana",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "racing santander vs elche",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "slovan bratislava coach yaya toure",
+      "title": "bayern munich vs vfb stuttgart standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "biafra",
+      "title": "lamine camara",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "electric vehicle",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "tyler perry beauty in black season 3",
+      "volume": "32K+",
+      "volume_numeric": 32000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "agf vs benfica",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "2027 ford maverick price cuts",
+      "title": "slovan bratislava coach yaya toure",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "ac milan vs venezia fc standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "madrid vs real sociedad",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "enzo fernandez manchester city transfer",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
       "title": "legit.ng",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-28T18:10:40.736512+00:00"
+  "fetched_at": "2026-08-29T12:14:54.596027+00:00"
 }
