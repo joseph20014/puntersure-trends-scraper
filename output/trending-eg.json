@@ -4,14 +4,22 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "زد ضد الأهلي",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "ليفربول ضد نوتينغهام فورست",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "ليفربول ضد نوتينغهام فورست",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
       "title": "زد ضد الأهلي",
       "volume": "200K+",
       "volume_numeric": 200000,
@@ -19,16 +27,8 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "ليفربول ضد نوتينغهام فورست",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 3,
-      "title": "برشلونة ضد أتلتيك بيلباو",
+      "title": "ترتيبات نادي زد – النادي الأهلي",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "مسلسل لعبة جهنم",
+      "title": "توتنهام ضد نيوكاسل يونايتد",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -45,54 +45,54 @@
     {
       "rank": 5,
       "title": "liverpool vs nottm forest",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "طماطم",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "zed vs al ahly",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "كريستال بالاس ضد مان سيتي",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "الخلود ضد الأهلي",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "barcelona vs athletic",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "الولايات المتحدة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "palace vs man city",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "بيض",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "طماطم",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "إنتر ميامي ضد نادي مونتريال لكرة القدم",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "ليل ضد بي اس جي",
+      "title": "إشبيلية ضد أتلتيكو مدريد",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "مها الصغير",
+      "title": "تكافل وكرامة",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -108,79 +108,79 @@
     },
     {
       "rank": 13,
-      "title": "النصر ضد التعاون",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "النيابة العامة",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "روسلان مالينوفسكي",
+      "title": "spurs vs newcastle",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "ليلى علوي",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "inter miami vs montréal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "السودان",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "توقيت صيفي",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "عمارة الإيموبيليا",
+      "rank": 19,
+      "title": "sevilla vs atlético madrid",
       "volume": "5K+",
       "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "محور الضبعه",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "الولايات المتحدة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "إثيوبيا",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "ترتيبات الاتحاد السكندرى – نادي سيراميكا كليوباترا لكرة القدم",
-      "volume": "10K+",
-      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "تامر حسني",
+      "title": "صحيفة عكاظ",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "جنيه",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "ماريان خوري",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "منحة علماء المستقبل",
+      "title": "كلية الألسن جامعة عين شمس",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "سرطان المعدة",
+      "title": "نسرين امين",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "كأس السوبر المصري",
+      "title": "عمرو دياب",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "دبلوم",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "وزير العدل",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-29T12:17:50.159840+00:00"
+  "fetched_at": "2026-08-30T11:15:02.659987+00:00"
 }

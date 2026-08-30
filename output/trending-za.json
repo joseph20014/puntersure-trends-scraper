@@ -5,29 +5,37 @@
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
   "top_trend": "liverpool vs nottm forest",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
       "title": "liverpool vs nottm forest",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "beneficiary",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "south africa vs new zealand",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
+      "title": "sassa older person grants september 2026",
+      "volume": "202610K+",
+      "volume_numeric": 202610000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
       "title": "palace vs man city",
       "volume": "100K+",
       "volume_numeric": 100000,
@@ -35,16 +43,8 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "barcelona vs athletic",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "nam vs sa",
+      "title": "spurs vs newcastle",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "losc vs psg",
+      "title": "sevilla vs atlético madrid",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,71 +60,71 @@
     },
     {
       "rank": 7,
-      "title": "bayern vs vfb stuttgart",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "marriage",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "payment",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "inter miami vs montréal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "inflation",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "zim vs sa",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "chelsea vs luton town",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "al-nassr vs al-taawoun",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "losc lille vs paris saint-germain f.c. standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "peter cullen",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "south africa electricity pricing policy",
+      "title": "argentina vs australia",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "reisinho mamelodi sundowns departure",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "juventus vs parma",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "naspers",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "utrecht vs psv",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "marc cucurella",
+      "title": "n1 accident",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "milan vs venezia",
+      "title": "dortmund vs hamburg",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -140,15 +140,15 @@
     },
     {
       "rank": 17,
-      "title": "orlando pirates vs sekhukhune united mtn8",
-      "volume": "85K+",
-      "volume_numeric": 85000,
+      "title": "seattle sounders vs chicago",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "new zealand national rugby union team",
+      "title": "levante vs betis",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "bayern munich vs vfb stuttgart standings",
+      "title": "kathu",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,15 +164,15 @@
     },
     {
       "rank": 20,
-      "title": "fikile mokgohloa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "damian willemse out rassie erasmus update",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "kathu",
+      "title": "mpho padime",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "iphone",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "brian baloyi on brandon petersen",
+      "title": "catherine, princess of wales",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "wolves vs stoke city",
+      "rank": 23,
+      "title": "south africans",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 25,
-      "title": "al-nassr vs al-taawoun fc standings",
+      "rank": 24,
+      "title": "coventry vs hull",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "south africa weekend weather forecast",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-29T12:16:13.476709+00:00"
+  "fetched_at": "2026-08-30T11:13:44.707081+00:00"
 }
