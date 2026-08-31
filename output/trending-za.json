@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "liverpool vs nottm forest",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "springbok legend joggie jansen passes",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "liverpool vs nottm forest",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "springbok legend joggie jansen passes",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "south africa vs new zealand",
+      "title": "golden arrows vs mamelodi sundowns",
       "volume": "200K+",
       "volume_numeric": 200000,
       "volume_source": "label",
@@ -28,23 +28,23 @@
     },
     {
       "rank": 3,
-      "title": "sassa older person grants september 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "title": "spaza shop card surcharge south africa",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "palace vs man city",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "south africa peanut butter tariff",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "spurs vs newcastle",
+      "title": "chelsea vs brighton",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -52,47 +52,47 @@
     },
     {
       "rank": 6,
-      "title": "sevilla vs atlético madrid",
+      "title": "man united vs ipswich town",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "real madrid vs málaga",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "marriage",
+      "rank": 8,
+      "title": "september 2026 petrol price adjustment",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "inter miami vs montréal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "zim vs sa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "dada morero",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "argentina vs australia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "dhl stadium",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "reisinho mamelodi sundowns departure",
+      "title": "cagliari vs inter",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -100,31 +100,31 @@
     },
     {
       "rank": 12,
-      "title": "juventus vs parma",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "real madrid vs málaga cf standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "naspers",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "utrecht vs psv",
+      "title": "traffic collision",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "gabriel jesus",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "n1 accident",
+      "title": "damian willemse out rassie erasmus update",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,47 +132,47 @@
     },
     {
       "rank": 16,
-      "title": "dortmund vs hamburg",
+      "title": "angus gardner",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "novak djokovic",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "seattle sounders vs chicago",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 18,
-      "title": "levante vs betis",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "sassa payment dates for september 2026",
+      "volume": "20265K+",
+      "volume_numeric": 20265000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "kathu",
+      "title": "zimbabwe vs namibia",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "sassa postbank black card migration deadline",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "damian willemse out rassie erasmus update",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "mpho padime",
+      "title": "nsfas funza lushaka bursary payments",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "catherine, princess of wales",
+      "title": "celta vs athletic",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "south africans",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "coventry vs hull",
+      "title": "south africa new zealand rugby scrum",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 25,
-      "title": "south africa weekend weather forecast",
+      "rank": 24,
+      "title": "kaizer motaung",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "abdeslam ouaddou mpho padime orlando pirates",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-30T11:13:44.707081+00:00"
+  "fetched_at": "2026-08-31T12:38:38.875910+00:00"
 }

@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "inter miami - montréal",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "banfield - river plate",
+  "top_trend_volume": "500K+",
+  "top_trend_volume_numeric": 500000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "inter miami - montréal",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "banfield - river plate",
+      "volume": "500K+",
+      "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "club atlético talleres",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "independiente rivadavia - racing",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "rosario central - gimnasia",
+      "title": "independiente - gimnasia y esgrima",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -36,39 +36,39 @@
     },
     {
       "rank": 4,
-      "title": "sevilla - atlético madrid",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "atlético tucumán - belgrano",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "deportivo riestra - vélez",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "alerta meteorológica",
+      "title": "navone",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "real madrid - málaga",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "callejero fino",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "argentinos jrs. - aldosivi",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "huracán - estudiantes de río cuarto",
+      "title": "naufragio",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -76,15 +76,15 @@
     },
     {
       "rank": 9,
-      "title": "beneficiario",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "frío",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "soldado voluntario",
+      "title": "novak djokovic",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -93,22 +93,22 @@
     {
       "rank": 11,
       "title": "luciana aymar",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "boca juniors - lanús",
-      "volume": "500K+",
-      "volume_numeric": 500000,
+      "title": "ascensor",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "vasco da gama - cruzeiro",
+      "title": "extranjero",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,39 +116,39 @@
     },
     {
       "rank": 14,
-      "title": "oyo nyimba kabamba iguru rukidi iv de toro",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "us open 2026",
+      "volume": "20265K+",
+      "volume_numeric": 20265000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "multa",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "argentina - australia",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "ingrid grudke",
+      "title": "fin de semana",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "freitas",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "facundo colidio",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "bruno vellas",
+      "title": "bono",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "película",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "violeta urtizberea",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "predicción",
+      "title": "posiciones de quilmes atlético club contra temperley",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "29 de agosto",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "31 de agosto",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "cuantos goles tiene messi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "quini 6 30 de agosto 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "martín varsavsky",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "chelsea - brighton",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "basura",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "inter miami - montréal",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "posiciones de junior de barranquilla contra independiente santa fe",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "monza",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-30T11:15:28.743161+00:00"
+  "fetched_at": "2026-08-31T12:40:21.957477+00:00"
 }

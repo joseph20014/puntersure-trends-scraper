@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "liverpool vs nottm forest",
+  "top_trend": "chelsea vs brighton",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "liverpool vs nottm forest",
+      "title": "chelsea vs brighton",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,6 +20,78 @@
     },
     {
       "rank": 2,
+      "title": "man united vs ipswich town",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "real madrid vs málaga",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "gabriel jesus",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "arsenal julian alvarez transfer news",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "cagliari vs inter",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "real madrid vs málaga cf standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "arsenal vs aston villa",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "transfer deadline day",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "harry maguire",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
       "title": "spurs vs newcastle",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -27,88 +99,16 @@
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "palace vs man city",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "coventry vs hull",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "sevilla vs atlético madrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "wolves vs stoke city",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "inter miami vs montréal",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "juventus vs parma",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "chelsea vs brighton",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "watford vs west ham",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "real sociedad vs espanyol",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "sunderland vs fulham",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "jkia strike",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "leeds vs brentford",
+      "title": "james orengo",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,47 +116,47 @@
     },
     {
       "rank": 14,
-      "title": "winnie byanyima",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "ruth muthoni kamau microfinance",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "levante vs betis",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "coventry vs hull",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "monaco vs marseille",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "rosemary chemutai koech",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "napoli vs como",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "utrecht vs psv",
+      "title": "osasuna vs getafe",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "liverpool f.c. vs nottingham forest standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "ethiopian airlines",
+      "title": "lamine camara",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "lazio vs genoa",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "inter miami vs montréal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "james orengo",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "sunderland a.f.c. vs fulham f.c. standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "bournemouth vs everton",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ethiopian airlines",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "psv",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "winnie byanyima",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "kenya foreign exchange reserves drop",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "lazio vs genoa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "losc vs psg",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "juventus vs parma",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-30T11:12:00.610579+00:00"
+  "fetched_at": "2026-08-31T12:36:55.450156+00:00"
 }

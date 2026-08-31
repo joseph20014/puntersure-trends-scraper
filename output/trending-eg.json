@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "ليفربول ضد نوتينغهام فورست",
+  "top_trend": "نجلاء فتحي",
   "top_trend_volume": "50K+",
   "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "ليفربول ضد نوتينغهام فورست",
+      "title": "نجلاء فتحي",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -20,47 +20,47 @@
     },
     {
       "rank": 2,
-      "title": "زد ضد الأهلي",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "ترتيبات نادي زد – النادي الأهلي",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "توتنهام ضد نيوكاسل يونايتد",
+      "title": "الريال ضد مالقا",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "liverpool vs nottm forest",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "طماطم",
+      "rank": 3,
+      "title": "مصطفى مدبولي",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "محمد التاجي",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "وزير العدل",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "real madrid vs málaga",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "الخلود ضد الأهلي",
+      "title": "مدرسة",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -68,39 +68,39 @@
     },
     {
       "rank": 8,
-      "title": "الولايات المتحدة",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "مان يونايتد ضد إيبسويتش تاون",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "بيض",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "شتاء",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "إنتر ميامي ضد نادي مونتريال لكرة القدم",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "تشيلسي ضد برايتون",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "إشبيلية ضد أتلتيكو مدريد",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "اسعار الذهب اليوم 30 اغسطس",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "تكافل وكرامة",
+      "title": "وزير",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -108,31 +108,31 @@
     },
     {
       "rank": 13,
-      "title": "النيابة العامة",
+      "title": "الخلود ضد الأهلي",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "مجلس الذهب العالمي",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "عبد الله السعيد",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "spurs vs newcastle",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "ليلى علوي",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 16,
-      "title": "inter miami vs montréal",
+      "title": "تنسيق الدبلومات الفنية 2026 نظام 3 سنوات صناعي",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -140,7 +140,7 @@
     },
     {
       "rank": 17,
-      "title": "السودان",
+      "title": "ظاهرة جوية",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -148,23 +148,23 @@
     },
     {
       "rank": 18,
-      "title": "توقيت صيفي",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "دواجن",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "sevilla vs atlético madrid",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "تل ابيب",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "صحيفة عكاظ",
+      "title": "جزيره لارك",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "جنيه",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "كلية الألسن جامعة عين شمس",
+      "title": "حسن شحاتة",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "نسرين امين",
+      "rank": 22,
+      "title": "لي يونغ جو",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "عمرو دياب",
+      "rank": 23,
+      "title": "مقايضة قناة السويس",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "مدينة الشيخ زايد",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "وزير العدل",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "زياره الرئيس الصيني لمصر",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-30T11:15:02.659987+00:00"
+  "fetched_at": "2026-08-31T12:39:56.133520+00:00"
 }

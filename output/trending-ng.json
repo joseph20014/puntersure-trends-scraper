@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "liverpool vs nottm forest",
+  "top_trend": "man united vs ipswich town",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "liverpool vs nottm forest",
+      "title": "man united vs ipswich town",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,22 +20,30 @@
     },
     {
       "rank": 2,
-      "title": "palace vs man city",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "spurs vs newcastle",
+      "title": "real madrid vs málaga",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "bola tinubu dea records challenge",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
+      "title": "opay news",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
       "title": "sevilla vs atlético madrid",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -43,24 +51,16 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "inter miami vs montréal",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "galatasaray vs göztepe",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "chelsea f.c. vs brighton & hove albion f.c. standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "coventry vs hull",
+      "title": "sunderland vs fulham",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,39 +68,39 @@
     },
     {
       "rank": 8,
-      "title": "al-nassr vs al-taawoun",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "juventus vs parma",
+      "title": "gabriel jesus",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "losc vs psg",
+      "rank": 9,
+      "title": "real madrid vs málaga cf standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "inter miami vs montréal",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "real sociedad vs espanyol",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "galatasaray vs göztepe",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "bournemouth vs everton",
+      "title": "leeds vs brentford",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -108,15 +108,15 @@
     },
     {
       "rank": 13,
-      "title": "milan vs venezia",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "celta vs athletic",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "galatasaray vs göztepe standings",
+      "title": "jamb admission offer deadline extension",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -124,31 +124,31 @@
     },
     {
       "rank": 15,
-      "title": "losc lille vs paris saint-germain f.c. standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "levante vs betis",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "chelsea vs brighton",
+      "title": "child",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "cagliari vs inter",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "cdcfib recruitment portal 2026",
+      "volume": "202610K+",
+      "volume_numeric": 202610000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "dortmund vs hamburg",
+      "title": "napoli vs como",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "gakpo",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "arsenal julian alvarez transfer news",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "petroleum",
+      "title": "aston villa vs arsenal",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "victor osimhen, galatasaray transfer news",
+      "title": "monaco vs marseille",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -180,23 +180,23 @@
     },
     {
       "rank": 22,
-      "title": "whatsapp business charges",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "gakpo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "utrecht vs psv",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "12tb steam leak",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "psv",
+      "title": "prison",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "tecno spark go 3 pro specs",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "deportivo vs valencia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-30T11:12:26.670048+00:00"
+  "fetched_at": "2026-08-31T12:37:21.341034+00:00"
 }
