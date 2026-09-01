@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "chelsea vs brighton",
+  "top_trend": "barcelona vs rayo vallecano",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "chelsea vs brighton",
+      "title": "barcelona vs rayo vallecano",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "real madrid vs málaga",
+      "title": "ministry postpones school placement results",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -28,9 +28,9 @@
     },
     {
       "rank": 3,
-      "title": "gtec unrecognised universities list 2026",
-      "volume": "20265K+",
-      "volume_numeric": 20265000,
+      "title": "aston villa vs arsenal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -44,22 +44,30 @@
     },
     {
       "rank": 5,
-      "title": "celta vs athletic",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "security",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "ogidi brown",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "real madrid vs málaga",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
+      "title": "mykhailo mudryk",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
       "title": "man utd vs ipswich town",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -67,7 +75,31 @@
       "volume_available": true
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "transfer deadline day",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "bola ahmed tinubu",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "ghanaian cedi",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
       "title": "real madrid vs málaga cf standings",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -75,40 +107,8 @@
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "school",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "sunderland vs fulham",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "bola ahmed tinubu",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "leeds vs brentford",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 13,
-      "title": "cagliari vs inter",
+      "title": "ghana four year government bond",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,31 +116,31 @@
     },
     {
       "rank": 14,
-      "title": "julian alvarez transfer news atletico barcelona",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "big brother naija",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "big brother naija",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "celta vs athletic",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "sevilla vs atlético madrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "nsmq",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "spurs vs newcastle",
+      "title": "chelsea f.c. vs brighton & hove albion f.c. standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "whatsapp",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "sunderland vs fulham",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "michail antonio",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "manu koné",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "inter miami vs montréal",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "enzo fernández",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "nightlife",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "accra sports stadium",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "fc barcelona",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ballon d'or 2026 nominees date",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "monaco vs marseille",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "barcelona",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "real sociedad vs espanyol",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "cagliari vs inter",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "juventus vs parma",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "iliman ndiaye",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-31T12:39:30.328530+00:00"
+  "fetched_at": "2026-09-01T11:05:54.196800+00:00"
 }

@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "holstebro",
+  "top_trend": "marius borg høiby",
   "top_trend_volume": "10K+",
   "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "holstebro",
+      "title": "marius borg høiby",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "durek verrett",
+      "title": "cheminova",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "pogacar styrt",
+      "title": "gymnasieelev",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -36,31 +36,31 @@
     },
     {
       "rank": 4,
-      "title": "tv2 østjylland",
+      "title": "kontant",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "parkering",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "penge",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "dronning",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "minds of 99 koncert 2027",
+      "volume": "20272K+",
+      "volume_numeric": 20272000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "tennis",
+      "title": "august holmgren",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "alessandro romele",
+      "title": "fck mod sønderjyske fodbold stillinger",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -76,71 +76,71 @@
     },
     {
       "rank": 9,
-      "title": "kunstig intelligens",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "barcelona - rayo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "politik",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "traktordemonstration",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "droneangreb",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "holstebro",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "patrick dorgu",
+      "title": "medina",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "ulrik wilbek",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "iran",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "phillip faber",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "minds of 99 koncert 2027",
-      "volume": "2027500+",
-      "volume_numeric": 2027500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 15,
-      "title": "skanderborg",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "butik",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "fc nordsjælland - brøndby",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ticketmaster",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "thomas nørgaard",
+      "title": "connie nielsen",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "mikkel damsgaard",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "randers fc - agf",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "silkeborg - fc midtjylland",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "man utd - ipswich",
+      "title": "traktor",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "vuelta a españa",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "aston villa - arsenal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "demonstration",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "kammerherre",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "messi",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "traktor",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "patrick dorgu",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "el niño",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "callum mccowatt",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "vuelta a españa 2026",
-      "volume": "20262K+",
-      "volume_numeric": 20262000,
+      "title": "us open 2026",
+      "volume": "20261K+",
+      "volume_numeric": 20261000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-31T12:39:04.587283+00:00"
+  "fetched_at": "2026-09-01T11:05:28.535195+00:00"
 }

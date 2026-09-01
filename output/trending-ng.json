@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "man united vs ipswich town",
+  "top_trend": "aston villa vs arsenal",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "man united vs ipswich town",
+      "title": "aston villa vs arsenal",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,14 +20,22 @@
     },
     {
       "rank": 2,
-      "title": "real madrid vs málaga",
+      "title": "barcelona vs rayo vallecano",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "opay news",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "bola tinubu dea records challenge",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,16 +43,8 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "opay news",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "sevilla vs atlético madrid",
+      "title": "real madrid vs málaga",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -52,23 +52,23 @@
     },
     {
       "rank": 6,
-      "title": "chelsea f.c. vs brighton & hove albion f.c. standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "sunderland vs fulham",
+      "title": "gabriel jesus",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 7,
+      "title": "meta whatsapp business pricing nigeria",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "gabriel jesus",
+      "title": "transfer deadline day",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -76,31 +76,31 @@
     },
     {
       "rank": 9,
-      "title": "real madrid vs málaga cf standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "manchester united f.c. vs ipswich town standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "inter miami vs montréal",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "happy new month prayers",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "galatasaray vs göztepe",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "lecce vs roma",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "leeds vs brentford",
+      "title": "malick fofana",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -108,23 +108,23 @@
     },
     {
       "rank": 13,
-      "title": "celta vs athletic",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "chelsea f.c. vs brighton & hove albion f.c. standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "jamb admission offer deadline extension",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "12tb steam leak",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "child",
+      "title": "benfica vs estoril",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,14 +132,6 @@
     },
     {
       "rank": 16,
-      "title": "cagliari vs inter",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
       "title": "cdcfib recruitment portal 2026",
       "volume": "202610K+",
       "volume_numeric": 202610000,
@@ -147,8 +139,16 @@
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "manu kone",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "napoli vs como",
+      "title": "messi",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "arsenal julian alvarez transfer news",
+      "title": "atalanta vs bologna",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -164,15 +164,15 @@
     },
     {
       "rank": 20,
-      "title": "aston villa vs arsenal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "flint town united",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "monaco vs marseille",
+      "title": "osasuna vs getafe",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -180,23 +180,23 @@
     },
     {
       "rank": 22,
-      "title": "gakpo",
+      "title": "celta vs athletic",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "iliman ndiaye",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "12tb steam leak",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 24,
-      "title": "prison",
+      "title": "nigerian education loan fund spending",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "deportivo vs valencia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "solomon arase",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-08-31T12:37:21.341034+00:00"
+  "fetched_at": "2026-09-01T11:03:46.148486+00:00"
 }
