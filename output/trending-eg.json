@@ -4,30 +4,14 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "برشلونة ضد رايو فاليكانو",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "منى زكي",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "برشلونة ضد رايو فاليكانو",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "الزمالك ضد السويس بتروجيت",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
       "title": "منى زكي",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,7 +19,7 @@
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "الهلال ضد الأهلي",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -43,39 +27,15 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "يوسف بطرس غالي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "rank": 3,
+      "title": "سماد أبوقير ضد الاتحاد السكندري",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "غزل المحلة ضد الشرقية إنبي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "حسين ابو المعاطي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "طلائع الجيش ضد زد",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
+      "rank": 4,
       "title": "مشاجرة",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -83,16 +43,56 @@
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "حافلة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "محمد عبد اللطيف",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "poco f9 ultra",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "ابن محمد صلاح",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "أشرف بن شرقي",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "لينك نتيجه الدور الثاني ثانويه عامه 2026",
-      "volume": "202650K+",
-      "volume_numeric": 202650000,
+      "title": "شي جين بينغ",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "عادل إمام",
+      "title": "يوسف أنطاكي",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,15 +100,15 @@
     },
     {
       "rank": 12,
-      "title": "كسوف",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "وزارة الطيران المدني",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "شمس البارودي",
+      "title": "إغماء",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,7 +116,7 @@
     },
     {
       "rank": 14,
-      "title": "اعتقال",
+      "title": "هيثم حسن",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,15 +124,15 @@
     },
     {
       "rank": 15,
-      "title": "بيتسو موسيماني",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ندى الكامل",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "داسو رافال",
+      "title": "وزارة",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,47 +140,47 @@
     },
     {
       "rank": 17,
-      "title": "إغماء",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "خوان بيزيرا",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "أشرف بن شرقي",
+      "title": "حريق",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "تنازل",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "أحمد بلال",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "hebc vs dortmund",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "بوابة الأزهر الإلكترونية",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "al-hilal vs al-ahli",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "موعد بدء الدراسة",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "حادث مرور",
+      "title": "شركة مصر للطيران القابضة",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "سلعة تموينية",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "قطار",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "ترتيبات نادى الزمالك – نادى بتروجيت",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "سيف فاروق جعفر",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "واي فاي",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "أوبر",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-02T10:37:16.135255+00:00"
+  "fetched_at": "2026-09-03T10:41:07.610273+00:00"
 }

@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "barcelona vs rayo vallecano",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "bernice offei",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "barcelona vs rayo vallecano",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "bernice offei",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "school",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "carlos queiroz",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "hebc vs dortmund",
+      "title": "presec vs mfantsipim nsmq quarter finals",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "west ham vs wolves",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "burnley vs middlesbrough",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "lamine camara",
+      "title": "apple iphone 18 pro",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "al-hilal vs al-ahli",
+      "title": "hakainde hichilema",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -60,79 +60,79 @@
     },
     {
       "rank": 7,
-      "title": "manu koné",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "2027 lexus nx",
+      "title": "real madrid vs ajax",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "uber technologies inc",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 9,
-      "title": "mykhailo mudryk",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "georginio wijnaldum",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "aston villa vs arsenal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "raúl asencio",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "julián alvarez",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "hakainde hichilema",
+      "title": "manchester city f.c.",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "translate",
+      "rank": 12,
+      "title": "carla jeffery",
       "volume": "200+",
       "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "hebc vs dortmund",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "ghana premier league",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "west ham vs wolves",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "accra sports stadium",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "2027 lexus nx",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "enzo fernández",
+      "title": "lamine camara",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,39 +140,39 @@
     },
     {
       "rank": 17,
-      "title": "ghanaweb.com",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "julián alvarez",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "transfer deadline day",
+      "title": "al-hilal vs al-ahli",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "ghana premier league",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "ballon d'or",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "nsmq",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "missile",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "iran",
+      "title": "free agent",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -180,23 +180,23 @@
     },
     {
       "rank": 22,
-      "title": "ghanaian cedi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "folarin balogun",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "big brother naija",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "bayern munich",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "chelsea transfer news",
+      "title": "investment",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "estêvão willian",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "robert sánchez",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-02T10:36:50.183833+00:00"
+  "fetched_at": "2026-09-03T10:40:41.709954+00:00"
 }

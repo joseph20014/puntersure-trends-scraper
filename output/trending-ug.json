@@ -4,55 +4,55 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "west ham vs wolves",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "burnley vs middlesbrough",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "west ham vs wolves",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "hebc vs dortmund",
+      "title": "burnley vs middlesbrough",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "eberechi eze",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 3,
-      "title": "transfer deadline day",
+      "title": "élisa de almeida",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "millwall vs wrexham",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "julian alvarez arsenal",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "al-hilal vs al-ahli",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "manu kone",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "updf 3 infantry division refresher course",
+      "title": "luton town vs stockport",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "birmingham vs southampton",
+      "title": "sassuolo vs frosinone",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,79 +68,79 @@
     },
     {
       "rank": 8,
-      "title": "lamine camara",
+      "title": "celtic vs aberdeen",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "teacher",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "enzo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "julián alvarez",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "thun fc",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "malick fofana",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "udinese vs venezia",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "martinelli",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "uber uganda",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "barcelona vs rayo vallecano",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "aston villa vs arsenal f.c. standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "soldier",
+      "title": "missile",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "arsenal transfer news",
+      "rank": 14,
+      "title": "west ham vs wolves",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "hebc vs dortmund",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "arsenal new signing",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "élisa de almeida",
+      "title": "updf 3 infantry division refresher course",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,31 +148,31 @@
     },
     {
       "rank": 18,
-      "title": "iliman ndiaye",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "al-hilal vs al-ahli",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "arsenal new signing",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "done deals",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "ndiaye",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "birmingham vs southampton",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "joshua zirkzee",
+      "title": "rangers",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "rashford",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "arsenal transfer news",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "iran",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "lamine camara",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "transfer news",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "joshua zirkzee",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "alvarez",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "king oyo nyimba kabamba",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-02T10:35:32.481985+00:00"
+  "fetched_at": "2026-09-03T10:39:23.978246+00:00"
 }

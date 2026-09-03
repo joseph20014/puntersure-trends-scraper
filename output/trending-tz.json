@@ -4,62 +4,46 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "lionel richie",
-  "top_trend_volume": "1K+",
-  "top_trend_volume_numeric": 1000,
-  "volume_available_count": 25,
+  "top_trend": "fee",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
+  "volume_available_count": 18,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "lionel richie",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "fee",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "malick fofana",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "fabrizio romano",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "west ham vs wolves",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "burnley vs middlesbrough",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "loan",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "borussia dortmund",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "aston villa vs arsenal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "barcelona vs rayo vallecano",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
       "title": "hebc vs dortmund",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -67,10 +51,26 @@
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "loan",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "lionel richie",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "lyrics",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "west ham vs wolves",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -84,132 +84,76 @@
     },
     {
       "rank": 10,
-      "title": "atalanta vs bologna",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "jack grealish",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "benfica",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "birmingham vs southampton",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
       "title": "torino vs monza",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "birmingham vs southampton",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "mamelodi sundowns",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "lecce vs roma",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "video",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "osasuna vs getafe",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "lyrics",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "arsenal",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "tim cook",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "yanga",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "google",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "google",
+      "title": "young africans s.c.",
       "volume": "100+",
       "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "pyramids fc",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "tim cook",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "barcelona",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "zamalek",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "braga fc",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "copenhagen fc",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "roma",
-      "volume": "200+",
-      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-02T10:35:06.554958+00:00"
+  "fetched_at": "2026-09-03T10:38:58.226097+00:00"
 }
