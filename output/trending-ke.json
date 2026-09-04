@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "dismissal",
+  "top_trend": "tata chemicals",
   "top_trend_volume": "2K+",
   "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "dismissal",
+      "title": "tata chemicals",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -20,15 +20,15 @@
     },
     {
       "rank": 2,
-      "title": "burnley vs middlesbrough",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "president ruto on foreigners",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "united democratic alliance",
+      "title": "julius ogamba university funding extension",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "juja",
+      "title": "viktor gyökeres",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,15 +44,15 @@
     },
     {
       "rank": 5,
-      "title": "sassuolo vs frosinone",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "william ruto",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "william ruto",
+      "title": "defamation",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "millwall vs wrexham",
+      "title": "real sociedad vs celta",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,23 +68,23 @@
     },
     {
       "rank": 8,
-      "title": "eberechi eze",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "helb",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "bolt",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "uber",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "apple iphone 18 pro",
+      "title": "luka modrić",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "uber technologies inc",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "armed forces",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "uber",
+      "title": "milk",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -108,23 +108,23 @@
     },
     {
       "rank": 13,
-      "title": "oburu odinga news",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "genoa vs como",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "arsenal transfer",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "pension",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "west ham vs wolves",
+      "title": "osnabrück vs bayern",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -132,31 +132,31 @@
     },
     {
       "rank": 16,
-      "title": "georginio wijnaldum",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "hebc vs dortmund",
+      "title": "juja",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "helicopter",
+      "rank": 17,
+      "title": "eberechi eze",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "burnley vs middlesbrough",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "al-hilal vs al-ahli",
+      "title": "toulouse vs lille",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,23 +164,23 @@
     },
     {
       "rank": 20,
-      "title": "julián alvarez",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "uber technologies inc",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "élisa de almeida",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "psg vs monaco",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "enzo",
+      "title": "millwall vs wrexham",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "toulouse vs lille",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "lamine camara",
+      "title": "sassuolo vs frosinone",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "al ahly vs smouha",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "torino vs monza",
+      "title": "nakuru",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-03T10:38:06.632811+00:00"
+  "fetched_at": "2026-09-04T10:31:56.758149+00:00"
 }

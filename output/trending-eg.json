@@ -4,71 +4,71 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "منى زكي",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "ترتيبات النادي الأهلي – نادى سموحه",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "منى زكي",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ترتيبات النادي الأهلي – نادى سموحه",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "الهلال ضد الأهلي",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "سعر الذهب اليوم 3 9 2026",
+      "volume": "202620K+",
+      "volume_numeric": 202620000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "سماد أبوقير ضد الاتحاد السكندري",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "مشاجرة",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "حافلة",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "محمد عبد اللطيف",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "poco f9 ultra",
+      "title": "خريف",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
+      "rank": 4,
+      "title": "إل نينيو",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "محمد الشناوي",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "قطار",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
       "title": "ابن محمد صلاح",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "محمد سليمان",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,23 +76,23 @@
     },
     {
       "rank": 9,
-      "title": "أشرف بن شرقي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ريال سوسيداد ضد سلتا فيغو",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "شي جين بينغ",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "أحمد جعفر",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "يوسف أنطاكي",
+      "title": "محمد عبد اللطيف",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "وزارة الطيران المدني",
+      "title": "تحالف السودان التأسيسي",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,47 +108,47 @@
     },
     {
       "rank": 13,
-      "title": "إغماء",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "هيثم حسن",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "ندى الكامل",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "وزارة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "خوان بيزيرا",
+      "title": "يوسف أنطاكي",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "كارلوس كيروش",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "التوقيت الصيفي",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "5K+ arrow_upward 700%",
+      "volume": "65K+",
+      "volume_numeric": 65000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "هالة فاخر",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "حريق",
+      "title": "مواصفات poco f9 ultra",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "تنازل",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "محمد معيط",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "أحمد بلال",
+      "title": "دوري أبطال أفريقيا",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -172,23 +172,23 @@
     },
     {
       "rank": 21,
-      "title": "موعد بدء الدراسة",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "اموال منى زكى",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "شركة مصر للطيران القابضة",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "حلمي طولان",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "قطار",
+      "title": "منحة دراسية",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "سيف فاروق جعفر",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "جامعة الأزهر",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "أوبر",
+      "title": "درجات الحرارة",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-03T10:41:07.610273+00:00"
+  "fetched_at": "2026-09-04T10:35:19.636826+00:00"
 }

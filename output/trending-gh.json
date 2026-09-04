@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "bernice offei",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
+  "top_trend": "luka modrić",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "bernice offei",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "luka modrić",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
       "title": "carlos queiroz",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "presec vs mfantsipim nsmq quarter finals",
+      "title": "real sociedad vs celta",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "burnley vs middlesbrough",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "aburi girls achimota school placement 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "apple iphone 18 pro",
+      "title": "prospectus",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -52,79 +52,79 @@
     },
     {
       "rank": 6,
-      "title": "hakainde hichilema",
+      "title": "uber technologies inc",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "is the school placement for 2026 out",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "real sociedad vs rc celta de vigo standings",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "real madrid vs ajax",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "uber technologies inc",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "georginio wijnaldum",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "st. augustine's college nsmq 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "raúl asencio",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "gospel musician bernice offei",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "manchester city f.c.",
+      "title": "osnabrück vs bayern",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "portal",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "carla jeffery",
+      "rank": 13,
+      "title": "uber nigeria",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "hebc vs dortmund",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 14,
-      "title": "west ham vs wolves",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "georginio wijnaldum",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "2027 lexus nx",
+      "title": "nsmq",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,23 +132,23 @@
     },
     {
       "rank": 16,
-      "title": "lamine camara",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "xabi alonso",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "julián alvarez",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bank of ghana",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "al-hilal vs al-ahli",
+      "title": "burnley vs middlesbrough",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "ghana premier league",
+      "title": "real madrid vs ajax",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -164,31 +164,31 @@
     },
     {
       "rank": 20,
-      "title": "missile",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "apple iphone 18 pro",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "free agent",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "folarin balogun",
+      "title": "al ahly vs smouha",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 22,
+      "title": "chevron corp.",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 23,
-      "title": "bayern munich",
+      "title": "raúl asencio",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "investment",
+      "title": "anthony joshua",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "robert sánchez",
+      "title": "toulouse vs losc",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-03T10:40:41.709954+00:00"
+  "fetched_at": "2026-09-04T10:34:53.151505+00:00"
 }

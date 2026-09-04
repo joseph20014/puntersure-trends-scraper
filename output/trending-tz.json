@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "fee",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
-  "volume_available_count": 18,
+  "top_trend": "al ahly vs smouha",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
+  "volume_available_count": 22,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "fee",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al ahly vs smouha",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "fabrizio romano",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "real sociedad vs celta",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "burnley vs middlesbrough",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "serengeti",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "borussia dortmund",
+      "title": "luka modrić",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -44,15 +44,15 @@
     },
     {
       "rank": 5,
-      "title": "hebc vs dortmund",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "efootball",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "loan",
+      "title": "fabrizio romano",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -60,23 +60,23 @@
     },
     {
       "rank": 7,
-      "title": "lionel richie",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fee",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "west ham vs wolves",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "osnabrück vs bayern",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "al-hilal vs al-ahli",
+      "title": "burnley vs middlesbrough",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -84,15 +84,15 @@
     },
     {
       "rank": 10,
-      "title": "jack grealish",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "young africans s.c.",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "birmingham vs southampton",
+      "title": "georginio wijnaldum",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -100,60 +100,92 @@
     },
     {
       "rank": 12,
-      "title": "torino vs monza",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "mamelodi sundowns vs milford",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "mamelodi sundowns",
+      "title": "lille fc",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "borussia dortmund",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "video",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 15,
-      "title": "lyrics",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "mamelodi sundowns",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "tim cook",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "jack grealish",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "google",
+      "title": "enzo fernández",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "mamelodi sundowns f.c. vs milford f.c. standings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "toulouse vs losc",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "young africans s.c.",
+      "rank": 20,
+      "title": "chatgpt",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "gemini",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "bayern munich",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-03T10:38:58.226097+00:00"
+  "fetched_at": "2026-09-04T10:32:49.668030+00:00"
 }

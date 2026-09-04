@@ -4,14 +4,22 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "uber",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "real sociedad vs celta",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "real sociedad vs celta",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
       "title": "uber",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -19,16 +27,8 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "burnley vs middlesbrough",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 3,
-      "title": "efcc ola olukoyede staff dismissals",
+      "title": "luka modrić",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "al-hilal vs al-ahli",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "xiaomi 18 fold",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "udinese vs venezia",
+      "title": "carla jeffery",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "nigeria tertiary institution ranking compulsory",
+      "title": "viktor gyökeres",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "eberechi eze",
+      "title": "nasir el-rufai",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "julian alvarez atletico madrid future",
+      "title": "naf recruitment portal",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -76,7 +76,7 @@
     },
     {
       "rank": 9,
-      "title": "real madrid vs ajax",
+      "title": "toulouse vs losc",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,39 +84,39 @@
     },
     {
       "rank": 10,
-      "title": "carla jeffery",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "cristiano ronaldo reaction messi argentina exit",
+      "title": "burnley vs middlesbrough",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "millwall vs wrexham",
+      "rank": 11,
+      "title": "anthony joshua",
       "volume": "2K+",
       "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "real madrid vs ajax",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "sassuolo vs frosinone",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al ahly vs smouha",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "hebc vs dortmund",
+      "title": "udinese vs venezia",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -124,31 +124,31 @@
     },
     {
       "rank": 15,
-      "title": "wijnaldum",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "celtic vs aberdeen",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "falkirk vs rangers",
+      "title": "real sociedad vs rc celta de vigo standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "lille fc",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "thundermans clash of the thundermans",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "missile",
+      "title": "cagliari vs verona",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "toni fernandez barcelona transfer venezia",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "national examination council",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "diphtheria",
+      "title": "legit.ng",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,15 +172,15 @@
     },
     {
       "rank": 21,
-      "title": "chelsea monaco transfer deadline day",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ftse russell nigeria index reclassification",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "santos vs palmeiras",
+      "title": "apple ios 27 iphone handoff",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "nigerian airforce recruitment",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "oluwatosin ajayi dss reforms",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "yan diomande football journey",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "pablo barrios",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "pablo garcia",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "ange postecoglou",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-03T10:38:32.503722+00:00"
+  "fetched_at": "2026-09-04T10:32:23.249006+00:00"
 }

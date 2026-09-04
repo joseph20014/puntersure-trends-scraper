@@ -5,38 +5,38 @@
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
   "top_trend": "vélez - boca juniors",
-  "top_trend_volume": "500K+",
-  "top_trend_volume_numeric": 500000,
+  "top_trend_volume": "1M+",
+  "top_trend_volume_numeric": 1000000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
       "title": "vélez - boca juniors",
-      "volume": "500K+",
-      "volume_numeric": 500000,
+      "volume": "1M+",
+      "volume_numeric": 1000000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "santa fe - millonarios",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "estudiante",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "mónica cahen d'anvers",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "milei",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "meteorología",
+      "title": "horacio pagani",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -44,39 +44,39 @@
     },
     {
       "rank": 5,
-      "title": "santos - palmeiras",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "documento de identidad electrónico",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "carla jeffery",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "carla jeffery murio",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "agustina albertario",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "carla jeffery",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "banco de la nación argentina",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "quiebra",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "salta",
+      "title": "sergio urribarri",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,39 +84,39 @@
     },
     {
       "rank": 10,
-      "title": "salario mínimo",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "leila gianni",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "claudio garcía",
+      "title": "producto",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "verónica llinás",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "2K+ arrow_upward 1,000%",
+      "volume": "20272K+",
+      "volume_numeric": 20272000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 13,
-      "title": "santiago caputo",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "cassandra wilson",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "gabriela sabatini",
+      "title": "gloria steinem",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -124,23 +124,23 @@
     },
     {
       "rank": 15,
-      "title": "vitória - vasco da gama",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "autopista córdoba-rosario",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "américa - monterrey",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "claudia villafañe",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "tomás aranda",
+      "title": "grêmio - internacional",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -148,31 +148,31 @@
     },
     {
       "rank": 18,
-      "title": "hernan feler",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "carlos alcaraz",
+      "title": "uatre",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "guillermo bellingi",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "quini6",
-      "volume": "6500+",
-      "volume_numeric": 6500,
+      "title": "chofer",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "clima buenos aires",
+      "title": "alexander zverev",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "autopista córdoba - rosario",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "gabriel martinelli",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "cassandra wilson",
+      "title": "alan lescano",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "uber",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "nicki minaj",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "kun agüero",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "alpine f1 team",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-03T10:41:33.493353+00:00"
+  "fetched_at": "2026-09-04T10:35:45.968401+00:00"
 }
