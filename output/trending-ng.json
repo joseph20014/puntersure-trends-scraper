@@ -4,71 +4,71 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "real sociedad vs celta",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "ipswich town vs liverpool",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "real sociedad vs celta",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "ipswich town vs liverpool",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "uber",
+      "title": "betis vs real madrid",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "psg vs monaco",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "luka modrić",
+      "rank": 4,
+      "title": "real betis vs real madrid standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "istanbul başakşehir vs galatasaray",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "africa map",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "xiaomi 18 fold",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "carla jeffery",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "viktor gyökeres",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "nasir el-rufai",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "real sociedad vs celta",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "naf recruitment portal",
+      "title": "al-shabab vs al-hilal",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -76,15 +76,15 @@
     },
     {
       "rank": 9,
-      "title": "toulouse vs losc",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "genoa vs como",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "burnley vs middlesbrough",
+      "title": "nasir el-rufai",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "anthony joshua",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "rotimi amaechi atiku abubakar electricity subsidy",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "real madrid vs ajax",
+      "title": "niger",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "al ahly vs smouha",
+      "title": "porto vs moreirense",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,7 +116,7 @@
     },
     {
       "rank": 14,
-      "title": "udinese vs venezia",
+      "title": "luka modrić",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -124,7 +124,7 @@
     },
     {
       "rank": 15,
-      "title": "real sociedad vs rc celta de vigo standings",
+      "title": "economic and financial crimes commission",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "lille fc",
+      "title": "al-ahli vs al-riyadh",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -140,7 +140,7 @@
     },
     {
       "rank": 17,
-      "title": "thundermans clash of the thundermans",
+      "title": "gasoline theft",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "cagliari vs verona",
+      "title": "missionary",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "national examination council",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "anthony joshua",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "legit.ng",
+      "title": "kenneth okonkwo",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "ftse russell nigeria index reclassification",
+      "title": "lindsay clancy",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "apple ios 27 iphone handoff",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "national examination council",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "oluwatosin ajayi dss reforms",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "real sociedad vs rc celta de vigo standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "pablo barrios",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "arsenal 2026/27 premier league squad",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "ange postecoglou",
+      "title": "olawepo-hashim petrol subsidy accounting magic",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-04T10:32:23.249006+00:00"
+  "fetched_at": "2026-09-05T09:56:56.704996+00:00"
 }

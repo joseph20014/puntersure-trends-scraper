@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "vélez - boca juniors",
-  "top_trend_volume": "1M+",
-  "top_trend_volume_numeric": 1000000,
+  "top_trend": "belgrano - huracán",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "vélez - boca juniors",
-      "volume": "1M+",
-      "volume_numeric": 1000000,
+      "title": "belgrano - huracán",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "estudiante",
+      "title": "platense - deportivo riestra",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -28,31 +28,31 @@
     },
     {
       "rank": 3,
-      "title": "milei",
+      "title": "posiciones de betis contra real madrid",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "jorgelina vidal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "juan pablo quinteros",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "horacio pagani",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "documento de identidad electrónico",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "carla jeffery murio",
+      "title": "solange abraham",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -60,111 +60,111 @@
     },
     {
       "rank": 7,
-      "title": "carla jeffery",
+      "title": "los palmeras",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "mont blanc",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "8 de septiembre",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "psg - mónaco",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "quiebra",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "sergio urribarri",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "producto",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "verónica llinás",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "jubilación",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "2K+ arrow_upward 1,000%",
-      "volume": "20272K+",
-      "volume_numeric": 20272000,
+      "title": "adam sandler",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "cassandra wilson",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "carla jeffery murio",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "gloria steinem",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "quiebra",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "autopista córdoba-rosario",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "claudia villafañe",
+      "title": "reinaldo merlo",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "ipswich - liverpool",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "grêmio - internacional",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "milei",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "uatre",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "nehuén pérez",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "guillermo bellingi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "documento de identidad electrónico",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "chofer",
+      "title": "mirtha legrand",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "alexander zverev",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "serena williams",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "gabriel martinelli",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "frente frío",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "alan lescano",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "combustible",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "nicki minaj",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "horacio pagani",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "alpine f1 team",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "cascada",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-04T10:35:45.968401+00:00"
+  "fetched_at": "2026-09-05T10:00:02.363228+00:00"
 }
