@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "ipswich town vs liverpool",
+  "top_trend": "man city vs coventry",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "ipswich town vs liverpool",
+      "title": "man city vs coventry",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,39 +20,39 @@
     },
     {
       "rank": 2,
-      "title": "betis vs real madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "newcastle vs bournemouth",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "psg vs monaco",
+      "title": "ipswich town vs liverpool",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "hull vs aston villa",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "genoa vs como",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "george desmond kamurasi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "nottm forest vs spurs",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "real betis vs real madrid standings",
+      "title": "fulham vs palace",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,79 +60,79 @@
     },
     {
       "rank": 7,
-      "title": "al-shabab vs al-hilal",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "brighton vs leeds",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "istanbul başakşehir vs galatasaray",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "arsenal 2026/27 premier league squad",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "world map",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "myles lewis skelly arsenal squad omission",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "vfb stuttgart vs köln",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "fredrikstad vs bodø/glimt",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "arsenal vs chelsea",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "psg",
+      "title": "athletic vs atlético madrid",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 9,
+      "title": "brentford vs sunderland",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "schalke vs bayern",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "inter vs napoli",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "arsenal vs chelsea",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "hoffenheim vs dortmund",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "al-ittihad vs al-nassr",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "inter miami vs atlanta united",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "como",
+      "title": "roma vs atalanta",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,7 +140,7 @@
     },
     {
       "rank": 17,
-      "title": "real sociedad vs celta",
+      "title": "west ham vs derby county",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -148,15 +148,15 @@
     },
     {
       "rank": 18,
-      "title": "al-ahli vs al-riyadh",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "arsenal 2026/27 squad numbers",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "rukidi iv of tooro",
+      "title": "schalke vs bayern munich standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "viktor gyökeres",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "villarreal vs deportivo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "liver pool",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "louie bradbury",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "toulouse vs losc",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "betis vs real madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "lille fc",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "psg vs monaco",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "premier league manager of the month",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "genoa vs como",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "luka modrić",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "george desmond kamurasi",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-05T09:57:49.796285+00:00"
+  "fetched_at": "2026-09-06T10:14:37.267026+00:00"
 }

@@ -4,14 +4,22 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "ipswich town vs liverpool",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "man city vs coventry",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "man city vs coventry",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
       "title": "ipswich town vs liverpool",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -19,32 +27,24 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "betis vs real madrid",
+      "rank": 3,
+      "title": "hull vs aston villa",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "president ruto on foreigners",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 4,
-      "title": "psg vs monaco",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "fulham vs palace",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "real betis vs real madrid standings",
+      "title": "arsenal vs chelsea",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -52,79 +52,79 @@
     },
     {
       "rank": 6,
-      "title": "world map",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "nottm forest vs spurs",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "defamation",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "milk",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "real sociedad vs celta",
+      "title": "athletic vs atlético madrid",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "najib balala",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "brighton vs leeds",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "al-shabab vs al-hilal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "inter vs napoli",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "arsenal vs chelsea",
+      "title": "al-ittihad vs al-nassr",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "schalke vs bayern",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "inter miami vs atlanta united",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "newcastle vs bournemouth",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "brighton vs leeds",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 14,
-      "title": "ajax vs psv",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "schalke vs bayern munich standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "porto vs moreirense",
+      "title": "roma vs atalanta",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "fulham vs crystal palace",
+      "title": "nairobi expressway",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -140,31 +140,31 @@
     },
     {
       "rank": 17,
-      "title": "brentford vs sunderland",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "everton vs man united",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "mattéo guendouzi",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "newcastle vs bournemouth",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "hoffenheim vs dortmund",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "betis vs real madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "tsc",
+      "title": "malaga vs levante",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "tata chemicals",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "juventus vs ac milan",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "genoa vs como",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "milk shortage kenya",
+      "title": "parma vs monza",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "brentford vs sunderland",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "iran",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "real betis vs real madrid standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "julius ogamba university funding extension",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ajax vs psv",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-05T09:56:12.413920+00:00"
+  "fetched_at": "2026-09-06T10:13:18.405554+00:00"
 }

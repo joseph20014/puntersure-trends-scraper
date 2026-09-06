@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "ipswich town vs liverpool",
+  "top_trend": "man city vs coventry",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "ipswich town vs liverpool",
+      "title": "man city vs coventry",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,15 +20,15 @@
     },
     {
       "rank": 2,
-      "title": "betis vs real madrid",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "athletic vs atlético madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "psg vs monaco",
+      "title": "al-ittihad vs al-nassr",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "real betis vs real madrid standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "inter miami vs atlanta united",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "istanbul başakşehir vs galatasaray",
+      "title": "hull vs aston villa",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,39 +52,39 @@
     },
     {
       "rank": 6,
-      "title": "africa map",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "real sociedad vs celta",
+      "title": "fulham vs palace",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 7,
+      "title": "newcastle vs bournemouth",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "al-shabab vs al-hilal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "nottm forest vs spurs",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "genoa vs como",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "brighton vs leeds",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "nasir el-rufai",
+      "title": "schalke vs bayern",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "rotimi amaechi atiku abubakar electricity subsidy",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "istanbul başakşehir vs galatasaray",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "niger",
+      "title": "inter vs napoli",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -108,15 +108,15 @@
     },
     {
       "rank": 13,
-      "title": "porto vs moreirense",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "real betis vs real madrid standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "luka modrić",
+      "title": "chelsea vs aston villa",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -124,15 +124,15 @@
     },
     {
       "rank": 15,
-      "title": "economic and financial crimes commission",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "unified tertiary matriculation examination",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "al-ahli vs al-riyadh",
+      "title": "schalke vs bayern munich standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -140,39 +140,39 @@
     },
     {
       "rank": 17,
-      "title": "gasoline theft",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al-ittihad club vs al-nassr standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "missionary",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "anthony joshua",
+      "title": "villarreal vs deportivo",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "kenneth okonkwo",
+      "rank": 19,
+      "title": "pi network new developer documentation",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "al-shabab vs al-hilal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "lindsay clancy",
+      "title": "pete edochie",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "national examination council",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "chelsea vs arsenal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "real sociedad vs rc celta de vigo standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "roma vs atalanta",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "arsenal 2026/27 premier league squad",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "gasoline theft",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "olawepo-hashim petrol subsidy accounting magic",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "lindsay clancy",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-05T09:56:56.704996+00:00"
+  "fetched_at": "2026-09-06T10:13:44.748768+00:00"
 }

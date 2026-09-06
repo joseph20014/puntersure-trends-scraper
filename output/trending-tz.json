@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "betis vs real madrid",
+  "top_trend": "man city vs coventry",
   "top_trend_volume": "10K+",
   "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "betis vs real madrid",
+      "title": "man city vs coventry",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -20,31 +20,31 @@
     },
     {
       "rank": 2,
-      "title": "ipswich town vs liverpool",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "psg vs monaco",
+      "title": "newcastle vs bournemouth",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "harmonize",
+      "rank": 3,
+      "title": "hull vs aston villa",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "yanga vs gaborone united",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "efootball",
+      "title": "al-ittihad vs al-nassr",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "air tanzania",
+      "title": "fulham vs palace",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -60,71 +60,71 @@
     },
     {
       "rank": 7,
-      "title": "real betis vs real madrid standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "afcon 2027",
-      "volume": "20272K+",
-      "volume_numeric": 20272000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "world map",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "al-shabab vs al-hilal",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "caf champions league",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "al ahly vs smouha",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "dodoma",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "real sociedad vs celta",
+      "title": "schalke vs bayern munich standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "inter vs napoli",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "betis vs real madrid",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "ipswich town vs liverpool",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "caf champions league",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "police",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "athletic vs atlético madrid",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "psg vs monaco",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "genoa vs como",
+      "title": "inter miami vs atlanta united",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -132,63 +132,63 @@
     },
     {
       "rank": 16,
-      "title": "porto vs moreirense",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "schalke vs bayern",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "luka modrić",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "air tanzania",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "serengeti",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "real betis vs real madrid standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "istanbul başakşehir vs galatasaray",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "brighton vs leeds",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "psg",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "nottm forest vs spurs",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "galatasaray",
+      "title": "afcon 2027",
+      "volume": "20272K+",
+      "volume_numeric": 20272000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "roma vs atalanta",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "madrid",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 23,
-      "title": "georginio wijnaldum",
+      "title": "villarreal vs deportivo",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "vfb stuttgart vs köln",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "dodoma",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "porto fc",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "wolf",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-05T09:57:23.236416+00:00"
+  "fetched_at": "2026-09-06T10:14:10.948650+00:00"
 }

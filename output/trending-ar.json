@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "belgrano - huracán",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "gimnasia y esgrima - boca juniors",
+  "top_trend_volume": "500K+",
+  "top_trend_volume_numeric": 500000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "belgrano - huracán",
+      "title": "gimnasia y esgrima - boca juniors",
+      "volume": "500K+",
+      "volume_numeric": 500000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "inter miami - atlanta united",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "platense - deportivo riestra",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 3,
+      "title": "vélez - estudiantes",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "posiciones de betis contra real madrid",
+      "rank": 4,
+      "title": "san lorenzo - talleres",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "jorgelina vidal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "juan pablo quinteros",
+      "title": "los palmeras",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -52,39 +52,39 @@
     },
     {
       "rank": 6,
-      "title": "solange abraham",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "cristian belec",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "los palmeras",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "gimnasia - tigre",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "mont blanc",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "presupuesto",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
       "title": "8 de septiembre",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "psg - mónaco",
+      "title": "f1 monza",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -92,39 +92,39 @@
     },
     {
       "rank": 11,
-      "title": "jubilación",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "desastre",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "adam sandler",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "7 de septiembre",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "carla jeffery murio",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "athletic - atlético madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "quiebra",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "la joaqui",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "reinaldo merlo",
+      "title": "méxico",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "ipswich - liverpool",
+      "title": "manchester city - coventry city",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -140,7 +140,7 @@
     },
     {
       "rank": 17,
-      "title": "milei",
+      "title": "belgrano - huracán",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -148,39 +148,39 @@
     },
     {
       "rank": 18,
-      "title": "nehuén pérez",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "posiciones de betis contra real madrid",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "documento de identidad electrónico",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "aldosivi - banfield",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "mirtha legrand",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "platense - deportivo riestra",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "serena williams",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "colón - deportivo morón",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "frente frío",
+      "title": "junín",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -188,15 +188,15 @@
     },
     {
       "rank": 23,
-      "title": "combustible",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "margarita zabalza",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "horacio pagani",
+      "title": "inter - napoli",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "cascada",
+      "title": "adam sandler",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-05T10:00:02.363228+00:00"
+  "fetched_at": "2026-09-06T10:17:06.509019+00:00"
 }

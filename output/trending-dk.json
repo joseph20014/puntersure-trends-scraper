@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "diskokugle",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "pris",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "diskokugle",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "pris",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "flagdag",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "dronning mary af danmark",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "københavns politi",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "prinsesse isabella",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "pris",
+      "title": "el niño",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "træner",
+      "title": "b.t. nyheder",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "dronning mary af danmark",
+      "title": "far",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -60,39 +60,39 @@
     },
     {
       "rank": 7,
-      "title": "mattias skjelmose",
+      "title": "sachsen anhalt",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "grønland",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "f35",
-      "volume": "35100+",
-      "volume_numeric": 35100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "victor froholdt",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "agf fodbold mod silkeborg if stillinger",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "jai arrow",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "militærfly",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "bil magasinet",
+      "title": "sarah khalifa",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "betis - real madrid",
+      "title": "rubjerg knude fyr",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "jydskevestkysten",
+      "title": "demonstration",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,63 +116,63 @@
     },
     {
       "rank": 14,
-      "title": "camilla martin",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tv 2",
+      "volume": "22K+",
+      "volume_numeric": 22000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "lindsay clancy",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "nyheder",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "cyklist",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "viborg f.f. mod lyngby boldklub stillinger",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "landbrug",
+      "title": "us open",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "peter thygesen",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "rank": 17,
+      "title": "flagdag",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "retssag",
+      "rank": 18,
+      "title": "vild med dans",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "inter - napoli",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "diskokugle",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "thomas danielsen",
+      "title": "københavns politi",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "gloria steinem",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tinderbox",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "cirkusrevyen",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "mattias skjelmose",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "ipswich - liverpool",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "liverpool f.c.",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "richard o'sullivan",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "camilla martin",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-05T09:58:42.715336+00:00"
+  "fetched_at": "2026-09-06T10:15:47.614906+00:00"
 }
