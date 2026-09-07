@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "gimnasia y esgrima - boca juniors",
-  "top_trend_volume": "500K+",
-  "top_trend_volume_numeric": 500000,
+  "top_trend": "river plate - independiente rivadavia",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "gimnasia y esgrima - boca juniors",
-      "volume": "500K+",
-      "volume_numeric": 500000,
+      "title": "river plate - independiente rivadavia",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "inter miami - atlanta united",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "vélez - estudiantes",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "san lorenzo - talleres",
+      "title": "racing - atlético tucumán",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "rosario central - newell's",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "central córdoba - independiente",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "los palmeras",
+      "title": "valencia c. f. - barcelona",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -52,55 +52,55 @@
     },
     {
       "rank": 6,
-      "title": "cristian belec",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "colapinto",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "gimnasia - tigre",
+      "title": "arsenal - chelsea",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "sarah khalifa",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "posiciones de valencia c. f. contra fc barcelona",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "presupuesto",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 10,
+      "title": "gimnasia y esgrima - boca juniors",
+      "volume": "500K+",
+      "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "8 de septiembre",
+      "rank": 11,
+      "title": "río negro",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "f1 monza",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "desastre",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "7 de septiembre",
+      "title": "ciclón",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -108,108 +108,108 @@
     },
     {
       "rank": 13,
-      "title": "athletic - atlético madrid",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "la joaqui",
+      "title": "puerto madero",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "fenómeno",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "méxico",
+      "title": "milton delgado",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "tandanor",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "manchester city - coventry city",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "belgrano - huracán",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "la joaqui",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "posiciones de betis contra real madrid",
+      "title": "telekino",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "libertad",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "inter miami - atlanta united",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "aldosivi - banfield",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "platense - deportivo riestra",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "colón - deportivo morón",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "fecha de cobro anses",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "junín",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "vélez - estudiantes",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "margarita zabalza",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "san lorenzo - talleres",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "inter - napoli",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "lotería",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "adam sandler",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "belec falleció cristian belec actor",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-06T10:17:06.509019+00:00"
+  "fetched_at": "2026-09-07T11:34:17.307388+00:00"
 }

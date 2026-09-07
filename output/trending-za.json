@@ -4,212 +4,212 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "man city vs coventry",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "kaizer chiefs vs siwelele fc",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "man city vs coventry",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "sekhukhune vs ts galaxy",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "ipswich town vs liverpool",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "orlando pirates mauritius caf champions league",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "south africa weather 6 september 2026",
-      "volume": "2026500K+",
-      "volume_numeric": 2026500000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "betis vs real madrid",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "athletic vs atlético madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "jacinta ngobese-zuma",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "newcastle vs bournemouth",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "al-ittihad vs al-nassr",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "inter miami vs atlanta united",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "nottm forest vs spurs",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "rassie erasmus",
+      "title": "kaizer chiefs vs siwelele fc",
       "volume": "200K+",
       "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "schalke vs bayern",
+      "rank": 2,
+      "title": "everton vs man utd",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "golden arrows vs mamelodi sundowns f.c. standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "orlando pirates mauritius caf champions league",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "valencia vs barcelona",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "siya kolisi",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "arsenal f.c. vs chelsea f.c. standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "juventus vs milan",
       "volume": "10K+",
       "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "johann rupert",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "ciara",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "cubans",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "police commemoration day",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "south african rugby player malcolm marx",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "electric vehicle",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "hull vs aston villa",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "nigel owens rassie erasmus defence",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "inter vs napoli",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "valencia cf vs fc barcelona standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "sa vs nam",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "patrick maswanganyi",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "police",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "nasa",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "donation",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "corruption",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "fulham vs palace",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "trishuli",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "dstv",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "aviation accident and incident",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "toronto vs chicago",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "tommy dell",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "schalke vs bayern munich standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "baltimore",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "widow",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "south africa weather 6 september 2026",
+      "volume": "2026200K+",
+      "volume_numeric": 2026200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "diddy updated release schedule",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "weather",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-06T10:15:03.504718+00:00"
+  "fetched_at": "2026-09-07T11:32:34.610059+00:00"
 }
