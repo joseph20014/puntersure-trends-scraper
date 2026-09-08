@@ -4,38 +4,30 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "everton vs man utd",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "elche vs real sociedad",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "everton vs man utd",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "elche vs real sociedad",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
       "title": "arsenal f.c. vs chelsea f.c. standings",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "valencia vs barcelona",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
       "title": "juventus vs milan",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -43,16 +35,24 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "valencia cf vs fc barcelona standings",
+      "rank": 4,
+      "title": "nysc",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "al-hilal vs neom",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 6,
-      "title": "birmingham vs wolves",
+      "title": "dangote refinery ipo",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,71 +60,71 @@
     },
     {
       "rank": 7,
-      "title": "athletic vs atlético madrid",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "hull vs aston villa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "abdulsalami abubakar",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "nysc",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "inter miami vs atlanta united",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "espanyol vs sevilla",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "karim benzema",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "brighton & hove albion vs arsenal",
+      "title": "ballon d'or",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "getafe vs celta",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "nelfund student loan demand",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "kylian mbappé real madrid champions league",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "udinese vs lazio",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "david alaba",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "wwe",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "real madrid vs inter milan",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "marseille vs paris fc",
+      "title": "ernest koroma return sierra leone",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "pete edochie",
+      "title": "fuel",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -140,15 +140,15 @@
     },
     {
       "rank": 17,
-      "title": "west african examinations council",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "nimmy ferrari",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "ernest koroma return sierra leone",
+      "title": "cagliari vs lecce",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "kano opposition members join apc",
+      "title": "a24 backrooms sequel kane parsons",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "datti baba-ahmed 2027 election nigeria",
+      "title": "elche cf vs real sociedad standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "everton fc manchester united",
+      "title": "2026 wassce results issues nigeria",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "what is football",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "china military aircraft egypt airshow",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "fccpc probe uber nigeria exit",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "michael olise",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "student loan",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "lautaro martinez on julian alvarez",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "big brother naija evicted housemates",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "hansi flick",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-07T11:31:17.632549+00:00"
+  "fetched_at": "2026-09-08T10:32:31.251979+00:00"
 }

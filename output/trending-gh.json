@@ -4,14 +4,70 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "valencia vs barcelona",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "2026 dv lottery excluded countries",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "2026 dv lottery excluded countries",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "elche vs real sociedad",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "kylian mbappé",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "getafe vs celta",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "accra hearts of oak s.c.",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "dstv",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "elche cf vs real sociedad standings",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
       "title": "valencia vs barcelona",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -19,15 +75,7 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "arsenal vs chelsea",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
+      "rank": 9,
       "title": "everton vs man utd",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,56 +83,8 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "juventus vs milan",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "waec wassce results 2026",
-      "volume": "20265K+",
-      "volume_numeric": 20265000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "hearts of oak vs berekum chelsea",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "espanyol vs sevilla",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "valencia cf vs fc barcelona standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "debibi united vs asante kotoko",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "karim benzema",
+      "title": "amazon cargo plane crashes",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -92,31 +92,31 @@
     },
     {
       "rank": 11,
-      "title": "arsenal f.c. vs chelsea f.c. standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "north korea",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "man city vs coventry",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ucl",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "mitsubishi pajero",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "jaguar land rover",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "inter miami vs atlanta united",
+      "title": "juventus vs milan",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -124,22 +124,54 @@
     },
     {
       "rank": 15,
-      "title": "athletic vs atlético madrid",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "espanyol vs sevilla",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "al-ittihad vs al-nassr",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "al-hilal vs neom",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
+      "title": "karim benzema",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "ghana women's national under-20 association football team",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "harry kane",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "mitsubishi pajero",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
       "title": "prison",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -147,31 +179,23 @@
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "fulham vs palace",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "rank": 22,
+      "title": "hafidh ameir",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "hull vs aston villa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "rank": 23,
+      "title": "everton f.c. vs manchester united f.c. standings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "nottm forest vs spurs",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
+      "rank": 24,
       "title": "marseille vs paris fc",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -179,37 +203,13 @@
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "málaga vs levante",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "inter vs napoli",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "schalke vs bayern munich standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "tom and jerry forbidden compass",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "udinese vs lazio",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-07T11:33:26.011716+00:00"
+  "fetched_at": "2026-09-08T10:34:41.782076+00:00"
 }

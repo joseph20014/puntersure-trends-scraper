@@ -4,79 +4,79 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "kaizer chiefs vs siwelele fc",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "multichoice dstv package pricing changes",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "kaizer chiefs vs siwelele fc",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "multichoice dstv package pricing changes",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "everton vs man utd",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "digital banking",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "golden arrows vs mamelodi sundowns f.c. standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "orlando pirates mauritius caf champions league",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "valencia vs barcelona",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "siya kolisi",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "arsenal f.c. vs chelsea f.c. standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "juventus vs milan",
+      "title": "miguel cardoso mamelodi sundowns press error",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "vehicle",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "oswin appollis european club offer",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "sacha feinberg-mngomezulu",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "emfuleni local municipality",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "bribery",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 9,
-      "title": "johann rupert",
+      "title": "elche vs real sociedad",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,15 +84,15 @@
     },
     {
       "rank": 10,
-      "title": "ciara",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "thabo cele contract termination chiefs",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "cubans",
+      "title": "al-hilal vs neom",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -100,47 +100,47 @@
     },
     {
       "rank": 12,
-      "title": "police commemoration day",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "south african rugby player malcolm marx",
+      "title": "zenobia abrahams dismissal nsfas case",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 13,
+      "title": "south african fuel price projections 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "electric vehicle",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "game",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "nigel owens rassie erasmus defence",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "orlando pirates kaizer chiefs transfers",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "valencia cf vs fc barcelona standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ucl",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "patrick maswanganyi",
+      "title": "molemo maarohanye",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "nasa",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "leroy carter defensive errors rugby",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "corruption",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "champions league",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "trishuli",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "aviation accident and incident",
+      "title": "mohau nkota orlando pirates return",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "fikile mbalula",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "tommy dell",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "club brugge vs aston villa",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "baltimore",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "kaizer chiefs midfielder lebohang maboe",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "south africa weather 6 september 2026",
-      "volume": "2026200K+",
-      "volume_numeric": 2026200000,
+      "title": "aka",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "weather",
+      "title": "kaizer chiefs vs siwelele fc standings",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-07T11:32:34.610059+00:00"
+  "fetched_at": "2026-09-08T10:33:49.569991+00:00"
 }
