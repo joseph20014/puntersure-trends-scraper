@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "everton vs man utd",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "porto vs man city",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "everton vs man utd",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "porto vs man city",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "samia suluhu husband",
+      "title": "real madrid vs inter",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -28,23 +28,23 @@
     },
     {
       "rank": 3,
-      "title": "paul muite charter flight claim",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "grade 10 pathway selection",
+      "title": "club brugge vs aston villa",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "lukoye atwoli",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "knec 2025 kcse exam reports",
+      "title": "millwall vs newcastle",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "inheritance",
+      "title": "palace vs middlesbrough",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "burundians in kenya",
+      "title": "sunderland vs hull",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "elche vs real sociedad",
+      "title": "bournemouth vs lincoln city",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -76,39 +76,39 @@
     },
     {
       "rank": 9,
-      "title": "udinese vs lazio",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "edwin sifuna linda mwananchi challenges",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "green card",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "arsenal vs napoli champions league",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "kenya rainfall counties forecast",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "kenya police new uniform procurement",
+      "title": "power outage",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "el nino kenya",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 13,
-      "title": "al-hilal vs neom",
+      "title": "dortmund vs villarreal",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,31 +116,31 @@
     },
     {
       "rank": 14,
-      "title": "arsenal f.c. vs chelsea f.c. standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "kmtc jobs",
+      "title": "nca acting executive director susan rutto",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "kmtc jobs",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "getafe vs celta",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "selection",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "juventus vs milan",
+      "title": "paul muite demand letter kenya airways",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "club brugge vs aston villa",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "cagliari vs lecce",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "atwoli response to gachagua politics",
+      "title": "champions league standings",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "david alaba",
+      "rank": 19,
+      "title": "chelsea vs leeds",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "maize",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "motorcycle",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "manchester united vs everton",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ucl",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "valencia cf vs fc barcelona standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "inheritance",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "gor mahia vs pyramid",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "burundians in kenya",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "marseille vs paris fc",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "liverpool vs atlético madrid",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-08T10:32:05.063491+00:00"
+  "fetched_at": "2026-09-09T10:43:41.044591+00:00"
 }

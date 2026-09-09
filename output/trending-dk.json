@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "uefa champions league 2026",
-  "top_trend_volume": "202620K+",
-  "top_trend_volume_numeric": 202620000,
+  "top_trend": "politi",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "uefa champions league 2026",
-      "volume": "202620K+",
-      "volume_numeric": 202620000,
+      "title": "politi",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "dronning margrethe indlagt",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "pete hegseth",
+      "title": "kronprinsesse",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "stevie wonder",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "troels mylenberg",
+      "title": "stevie wonder royal arena",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,39 +44,39 @@
     },
     {
       "rank": 5,
-      "title": "grønland",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "angreb",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "belarus",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "uefa champions league 2026",
+      "volume": "202650K+",
+      "volume_numeric": 202650000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "fyens stiftstidende",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "købmand",
+      "title": "s.s.c. napoli",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "pisa undersøgelse 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 9,
-      "title": "mads pedersen",
+      "title": "esbjerg",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -84,47 +84,47 @@
     },
     {
       "rank": 10,
-      "title": "stevie wonder royal arena",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "maia landmand søger kærlighed",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "jack lowden",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "statsbesøg",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "morten ankerdal",
+      "title": "moldova",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "vaccination",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "carola häggkvist",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "pisa undersøgelse 2026",
-      "volume": "2026100+",
-      "volume_numeric": 2026100,
+      "title": "kasper hjulmand",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "hedebølge",
+      "title": "champions league",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "leonor af spanien",
+      "title": "joyride musical",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,7 +140,7 @@
     },
     {
       "rank": 17,
-      "title": "rolf sørensen",
+      "title": "troels mylenberg",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -148,39 +148,39 @@
     },
     {
       "rank": 18,
-      "title": "diskokugle faldt ned",
+      "title": "pete hegseth",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "belarus",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "fodbold",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "loppemarked",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "tv 2 fyn",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "fc midtjylland - fc nordsjælland",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "carlos alcaraz",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "champions league kampe",
+      "title": "sikandar siddique",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "elizabeth holmes",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "konge",
+      "title": "real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "paracetamol",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "audi a2",
-      "volume": "21K+",
-      "volume_numeric": 21000,
+      "title": "us open 2026",
+      "volume": "2026500+",
+      "volume_numeric": 2026500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-08T10:34:15.615590+00:00"
+  "fetched_at": "2026-09-09T10:45:52.604256+00:00"
 }

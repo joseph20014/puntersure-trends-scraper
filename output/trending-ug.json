@@ -4,14 +4,134 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "samia suluhu hassan",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "porto vs man city",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "porto vs man city",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "club brugge vs aston villa",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "real madrid vs inter",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "sunderland vs hull",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "millwall vs newcastle",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "bournemouth vs lincoln city",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "palace vs middlesbrough",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "dortmund vs villarreal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "arsenal vs napoli champions league",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "bolton vs west ham",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "losc vs betis",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "champions league standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "real madrid vs inter milan standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "yonasan tibenderana nira case",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "luis enrique",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
       "title": "samia suluhu hassan",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -19,7 +139,23 @@
       "volume_available": true
     },
     {
-      "rank": 2,
+      "rank": 17,
+      "title": "champion league",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "livescore cz",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
       "title": "elche vs real sociedad",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -27,7 +163,7 @@
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 20,
       "title": "al-hilal vs neom",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -35,15 +171,15 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "champions league",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 21,
+      "title": "champions league fixtures",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
+      "rank": 22,
       "title": "david alaba",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -51,144 +187,8 @@
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "udinese vs lazio",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "getafe vs celta",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "everton vs man utd",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "green card",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "viktor gyokeres",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "champions league games",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "arsenal f.c. vs chelsea f.c. standings",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "rio ferdinand",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "arsenal julian alvarez transfer pursuit",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "ucl",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "brigadier general",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "valencia vs barcelona",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "kenya",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "sweet crude oil",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "juventus vs milan",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "karim benzema",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "cagliari vs lecce",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 23,
-      "title": "marseille vs paris fc",
+      "title": "real madrid",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "arsenal upcoming premier league fixtures",
+      "title": "dortmund",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "espanyol vs sevilla",
+      "title": "brigadier general",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-08T10:33:23.478946+00:00"
+  "fetched_at": "2026-09-09T10:44:59.753311+00:00"
 }

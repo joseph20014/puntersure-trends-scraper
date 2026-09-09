@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "multichoice dstv package pricing changes",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "real madrid vs inter",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "multichoice dstv package pricing changes",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "real madrid vs inter",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "digital banking",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "multichoice dstv package pricing changes",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "miguel cardoso mamelodi sundowns press error",
+      "title": "teacher",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -36,23 +36,23 @@
     },
     {
       "rank": 4,
-      "title": "vehicle",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "porto vs man city",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "oswin appollis european club offer",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "south african fuel price projections 2026",
+      "volume": "202620K+",
+      "volume_numeric": 202620000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "sacha feinberg-mngomezulu",
+      "title": "sars final demand one cent",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,156 +60,156 @@
     },
     {
       "rank": 7,
-      "title": "emfuleni local municipality",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "digital banking",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "bribery",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "driver's license",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "elche vs real sociedad",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "sa vs nam",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "thabo cele contract termination chiefs",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "johannesburg metropolitan police department",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "al-hilal vs neom",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "miguel cardoso mamelodi sundowns press error",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "zenobia abrahams dismissal nsfas case",
+      "title": "ucl",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "vehicle",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "millwall vs newcastle",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "dortmund vs villarreal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "losc vs betis",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "discontinued cars south africa 2026",
+      "volume": "202610K+",
+      "volume_numeric": 202610000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "thabo cele",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "orlando pirates mohau nkota loan",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "kaizer chiefs vs polokwane city",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "south african fuel price projections 2026",
-      "volume": "20262K+",
-      "volume_numeric": 20262000,
+      "rank": 21,
+      "title": "isuzu d-max brake recall",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "game",
+      "rank": 22,
+      "title": "kaizer chiefs loanees hope fc",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "orlando pirates kaizer chiefs transfers",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "ucl",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "molemo maarohanye",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "leroy carter defensive errors rugby",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "champions league",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "mohau nkota orlando pirates return",
+      "rank": 23,
+      "title": "repatriation",
       "volume": "1K+",
       "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "fikile mbalula",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "club brugge vs aston villa",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "kaizer chiefs midfielder lebohang maboe",
-      "volume": "500+",
-      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "aka",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "pakistan vs england",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "kaizer chiefs vs siwelele fc standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "palace vs middlesbrough",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-08T10:33:49.569991+00:00"
+  "fetched_at": "2026-09-09T10:45:25.983190+00:00"
 }

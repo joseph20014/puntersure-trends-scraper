@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "فالنسيا ضد برشلونة",
+  "top_trend": "الزمالك ضد سماد أبوقير",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "فالنسيا ضد برشلونة",
+      "title": "الزمالك ضد سماد أبوقير",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,63 +20,63 @@
     },
     {
       "rank": 2,
-      "title": "السويس بتروجيت ضد المصري",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "الريال ضد الإنتر",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "سلعة",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "بورتو ضد مان سيتي",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "إخلاء طبي",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "real madrid vs inter",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "محافظ القليوبية",
+      "title": "zamalek vs abu qir fertilizers",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "شارع",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "الهلال ضد نيوم",
+      "rank": 7,
+      "title": "porto vs man city",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "البنك الاهلي ضد غزل المحلة",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 8,
-      "title": "نوم",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "سموحة ضد سيراميكا كليوباترا",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "ترتيبات الاتحاد السكندرى – نادى بترول اسيوط",
+      "title": "محافظ القليوبية",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,79 +84,79 @@
     },
     {
       "rank": 10,
-      "title": "مصارعة",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "اسعار الذهب اليوم 8 9 2026",
+      "volume": "202610K+",
+      "volume_numeric": 202610000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "سعر الذهب اليوم 7 9 2026",
-      "volume": "20262K+",
-      "volume_numeric": 20262000,
+      "title": "real madrid vs inter milan standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "iphone 18 pro max",
+      "title": "سلعة تموينية",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "انتهاء عقد الإيجار",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "ليل ضد ريال بتيس",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "تحديث ببجي موبايل",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "دوري الأبطال",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "جياني إنفانتينو",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "بنك مصر",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 16,
-      "title": "uefa champions league",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "حسام داغر",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "محمد أبو جبل",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "ترند الثمانينات",
+      "title": "مريم فخر الدين",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "تعويض",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "السعودية",
+      "title": "دورتموند ضد فياريال",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "رئيس",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "أحمد عبد الباقي",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "درجات الحرارة اليوم",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "يسرا",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "طرابزون سبور ضد غنتشليربيرليغي",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "إسلام محارب",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "تريزيجيه",
+      "title": "خضار",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "شمس الزناتي",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "مالية",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "يسرا",
+      "title": "كسوف الشمس الكلي",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-08T10:35:07.918534+00:00"
+  "fetched_at": "2026-09-09T10:46:45.021863+00:00"
 }
