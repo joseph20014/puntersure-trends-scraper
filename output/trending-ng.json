@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "real madrid vs inter",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "chelsea vs leeds",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "real madrid vs inter",
+      "title": "chelsea vs leeds",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "napoli vs arsenal",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "porto vs man city",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 3,
-      "title": "club brugge vs aston villa",
+      "title": "barcelona vs feyenoord",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -36,31 +36,31 @@
     },
     {
       "rank": 4,
-      "title": "millwall vs newcastle",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "al-nassr vs abha",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "dortmund vs villarreal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "psg vs slovan bratislava",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "fraud",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "liverpool vs atlético madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "ballon d'or",
+      "title": "chicago vs inter miami",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,55 +68,55 @@
     },
     {
       "rank": 8,
-      "title": "losc vs betis",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "iphone 18",
+      "volume": "1820K+",
+      "volume_numeric": 1820000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "palace vs middlesbrough",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "dangote refinery ipo",
+      "title": "lagos",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "iphone duo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "lagos",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "apple iphone 18 pro max",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "bournemouth vs lincoln city",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "liverpool f.c. vs atlético madrid standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "sunderland vs hull",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "real madrid vs inter milan standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "al-hilal vs neom",
+      "title": "losc vs betis",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -124,7 +124,7 @@
     },
     {
       "rank": 15,
-      "title": "elche vs real sociedad",
+      "title": "millwall vs newcastle",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -132,22 +132,6 @@
     },
     {
       "rank": 16,
-      "title": "arsenal vs napoli champions league",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "nigerian ministers foreign trip restrictions",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
       "title": "champions league results",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -155,16 +139,32 @@
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "nomy disqualified big brother naija",
+      "rank": 17,
+      "title": "nigerian army",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "godswill akpabio dss petition",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "sporting cp vs galatasaray standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "bolton vs west ham",
+      "title": "dangote petroleum refinery ipo",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "apple iphone 18 pro max",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "moreirense vs benfica",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "moises caicedo chelsea squad leeds",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "national agency for food and drug administration and control",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "china military aircraft egypt airshow",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tunji disu",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "kopa trophy",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "blue video",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "yaya toure champions league coaching",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "nigerian ministers foreign trip restrictions",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-09T10:44:07.326670+00:00"
+  "fetched_at": "2026-09-10T10:33:17.078958+00:00"
 }

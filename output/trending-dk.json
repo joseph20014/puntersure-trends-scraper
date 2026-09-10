@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "politi",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
+  "top_trend": "iphone duo",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "politi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "iphone duo",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "kronprinsesse",
+      "title": "iphone 18 pro",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "kongelige familie",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "stevie wonder",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 4,
-      "title": "stevie wonder royal arena",
+      "title": "harald 5. af norge",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,23 +44,23 @@
     },
     {
       "rank": 5,
-      "title": "angreb",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "esbjerg",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "uefa champions league 2026",
-      "volume": "202650K+",
-      "volume_numeric": 202650000,
+      "title": "iphone",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "s.s.c. napoli",
+      "title": "tyveri",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,23 +68,23 @@
     },
     {
       "rank": 8,
-      "title": "pisa undersøgelse 2026",
-      "volume": "20262K+",
-      "volume_numeric": 20262000,
+      "title": "politi",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "esbjerg",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "mathias \"zanka\" jørgensen",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "maia landmand søger kærlighed",
+      "title": "charlie kirk",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -92,47 +92,47 @@
     },
     {
       "rank": 11,
-      "title": "moldova",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "anders holch povlsen",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "vaccination",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "kronprinsesse",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "carola häggkvist",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "tesla inc",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "kasper hjulmand",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "konge",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "champions league",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "kreta",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "joyride musical",
+      "title": "moldova",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,23 +140,23 @@
     },
     {
       "rank": 17,
-      "title": "troels mylenberg",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "privatøkonomi",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "pete hegseth",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "iphone 17",
+      "volume": "171K+",
+      "volume_numeric": 171000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "belarus",
+      "title": "fælledby",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,15 +164,15 @@
     },
     {
       "rank": 20,
-      "title": "tv 2 fyn",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "carola häggkvist",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "carlos alcaraz",
+      "title": "bmw",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "sikandar siddique",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "canada",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "real madrid",
+      "title": "maia landmand søger kærlighed",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "paracetamol",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "chelsea - leeds",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "us open 2026",
-      "volume": "2026500+",
-      "volume_numeric": 2026500,
+      "title": "agf fodbold",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-09T10:45:52.604256+00:00"
+  "fetched_at": "2026-09-10T10:35:00.080833+00:00"
 }

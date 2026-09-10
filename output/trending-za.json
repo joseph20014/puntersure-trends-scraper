@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "real madrid vs inter",
+  "top_trend": "mamelodi sundowns vs siwelele fc",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "real madrid vs inter",
+      "title": "mamelodi sundowns vs siwelele fc",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,87 +20,87 @@
     },
     {
       "rank": 2,
-      "title": "multichoice dstv package pricing changes",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "shaun bartlett on relebohile mofokeng",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "teacher",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "porto vs man city",
+      "title": "real madrid vs inter",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "sars broadening tax base south africa",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "south african fuel price projections 2026",
-      "volume": "202620K+",
-      "volume_numeric": 202620000,
+      "title": "psg vs slovan bratislava",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "sars final demand one cent",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "chelsea vs leeds",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "digital banking",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "barcelona vs feyenoord",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "driver's license",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "sa vs nam",
+      "title": "iphone duo",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "johannesburg metropolitan police department",
+      "rank": 9,
+      "title": "woolworths",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "miguel cardoso mamelodi sundowns press error",
+      "rank": 10,
+      "title": "liverpool vs atlético madrid",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "napoli vs arsenal",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 12,
-      "title": "ucl",
+      "title": "chicago vs inter miami",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -108,47 +108,47 @@
     },
     {
       "rank": 13,
-      "title": "vehicle",
+      "title": "johannesburg metropolitan police department",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "rooftop solar power",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "teacher",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "millwall vs newcastle",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "dortmund vs villarreal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 16,
-      "title": "losc vs betis",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "liverpool f.c. vs atlético madrid standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "discontinued cars south africa 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "title": "al-nassr vs abha",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "thabo cele",
+      "title": "iphone 18 pro max",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "orlando pirates mohau nkota loan",
+      "title": "orlando pirates signing bheki mabuza",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "kaizer chiefs vs polokwane city",
+      "title": "miss austria",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "isuzu d-max brake recall",
+      "title": "pensioner",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "kaizer chiefs loanees hope fc",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "repatriation",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "pakistan vs england",
+      "title": "bail",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "richard branson",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "south africa petrol price increases 2026",
+      "volume": "20265K+",
+      "volume_numeric": 20265000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "palace vs middlesbrough",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "kaizer chiefs vs polokwane city",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-09T10:45:25.983190+00:00"
+  "fetched_at": "2026-09-10T10:34:34.363910+00:00"
 }

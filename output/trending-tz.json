@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "real madrid vs inter",
+  "top_trend": "barcelona vs feyenoord",
   "top_trend_volume": "10K+",
   "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "real madrid vs inter",
+      "title": "barcelona vs feyenoord",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "samia suluhu husband",
+      "title": "napoli vs arsenal",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "porto vs man city",
+      "title": "chelsea vs leeds",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "club brugge vs aston villa",
+      "title": "liverpool vs atlético madrid",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "must",
+      "title": "psg vs slovan bratislava",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -52,23 +52,23 @@
     },
     {
       "rank": 6,
-      "title": "dortmund vs villarreal",
+      "title": "iphone 18",
+      "volume": "182K+",
+      "volume_numeric": 182000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "mamelodi sundowns vs siwelele fc",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "kenya",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 8,
-      "title": "millwall vs newcastle",
+      "title": "simba s.c.",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,140 +76,140 @@
     },
     {
       "rank": 9,
-      "title": "ballon d'or",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "al-nassr vs abha",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "palace vs middlesbrough",
+      "title": "iphone 18 pro max",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "azam f.c.",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "trent alexander-arnold",
+      "rank": 12,
+      "title": "orangutans",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "elche vs real sociedad",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 13,
-      "title": "wind warning",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "real madrid vs inter",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "bournemouth vs lincoln city",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "porto vs man city",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "sunderland vs hull",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "club brugge vs aston villa",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "kylian mbappé",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "liverpool f.c. vs atlético madrid standings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "losc vs betis",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "steve barker",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "al-hilal vs neom",
+      "title": "kenya",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "saut",
+      "rank": 18,
+      "title": "al mokawloon vs al ahly",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "chicago vs inter miami",
       "volume": "1K+",
       "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "dortmund vs villarreal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "uefa",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "fc barcelona vs feyenoord standings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "dortmund",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "millwall vs newcastle",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "live score",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "ballon d'or",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "miss world host tanzania",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "real madrid vs inter milan standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "livescore cz",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "wind warning",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-09T10:44:33.498351+00:00"
+  "fetched_at": "2026-09-10T10:33:42.784884+00:00"
 }

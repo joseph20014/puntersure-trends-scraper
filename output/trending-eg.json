@@ -4,14 +4,30 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "الزمالك ضد سماد أبوقير",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "ترتيبات نادى المقاولون العرب – النادي الأهلي",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "ترتيبات نادى المقاولون العرب – النادي الأهلي",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "ليفربول ضد أتلتيكو مدريد",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
       "title": "الزمالك ضد سماد أبوقير",
       "volume": "100K+",
       "volume_numeric": 100000,
@@ -19,32 +35,16 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "الريال ضد الإنتر",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "بورتو ضد مان سيتي",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 4,
-      "title": "real madrid vs inter",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "برشلونة ضد فيينورد",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "zamalek vs abu qir fertilizers",
+      "title": "al mokawloon vs al ahly",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,63 +52,63 @@
     },
     {
       "rank": 6,
-      "title": "شارع",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "porto vs man city",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "سموحة ضد سيراميكا كليوباترا",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "محافظ القليوبية",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "اسعار الذهب اليوم 8 9 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "real madrid vs inter milan standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "سلعة تموينية",
+      "title": "الأهرام ضد الجونة",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 7,
+      "title": "iphone duo",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "بي اس جي ضد سلوفان براتيسلافا",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "liverpool vs atlético madrid",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "مي عز الدين",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "barcelona vs feyenoord",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "نابولي ضد آرسنال",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 13,
-      "title": "انتهاء عقد الإيجار",
+      "title": "تشيلسي ضد ليدز",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -116,47 +116,47 @@
     },
     {
       "rank": 14,
-      "title": "ليل ضد ريال بتيس",
+      "title": "الحسين عموتة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "أحمد حاتم",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "تحديث ببجي موبايل",
+      "rank": 16,
+      "title": "apple",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "راتب",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "شيكاغو فاير ضد إنتر ميامي",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "حسام داغر",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "مريم فخر الدين",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "تعويض",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 19,
-      "title": "دورتموند ضد فياريال",
+      "title": "التعليم في الكويت",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "أحمد عبد الباقي",
+      "title": "محكمة دستورية",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "يسرا",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "psg vs slovan bratislava",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "خضار",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "سعر الذهب اليوم 9 9 2026",
+      "volume": "202610K+",
+      "volume_numeric": 202610000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "شمس الزناتي",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "مجلس الوزراء المصري",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "مالية",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "حسام داغر",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "كسوف الشمس الكلي",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ماء الشرب",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-09T10:46:45.021863+00:00"
+  "fetched_at": "2026-09-10T10:35:51.591338+00:00"
 }
