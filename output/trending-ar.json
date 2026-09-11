@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "estudiantes - corinthians",
+  "top_trend": "clima",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "estudiantes - corinthians",
+      "title": "clima",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,55 +20,55 @@
     },
     {
       "rank": 2,
-      "title": "chicago fire - inter miami",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "dia del maestro",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "deportivo riestra - banfield",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "florencia kirchner",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "chiche gelblung",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "amalia granata",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "liverpool - atlético madrid",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "rybakina",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "chelsea - leeds",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "flamengo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "barcelona - feyenoord",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "walter samuel",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "glaciar",
+      "title": "mariana nannis",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -76,140 +76,140 @@
     },
     {
       "rank": 9,
-      "title": "psg - slovan bratislava",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "florencia kirchner",
+      "title": "vélez",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "santos - atlético mineiro",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "iphone duo",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "autos pilar premium",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "apple",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "chile",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "palmeiras - ldu quito",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "boca juniors - são paulo",
+      "rank": 10,
+      "title": "tiempo de mañana",
       "volume": "500K+",
       "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "madre",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "ludovico di santo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "zquizo",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "frente frío",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "premio",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "torres gemelas",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "estudiantes - corinthians",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "salta",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "estrecho de magallanes",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "sandra pettovello",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "liverpool - atlético madrid",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "valeria mazza",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "barcelona - feyenoord",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "victoria fraga",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "chicago fire - inter miami",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "aluvión",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "horarios f1",
+      "volume": "11K+",
+      "volume_numeric": 11000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "actuación",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "deportivo riestra - banfield",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "metrotel argentina",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ciclogénesis",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "diego hartfield",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "lisandro martínez",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-10T10:36:17.356563+00:00"
+  "fetched_at": "2026-09-11T10:37:03.188417+00:00"
 }
