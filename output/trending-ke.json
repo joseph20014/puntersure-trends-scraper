@@ -5,30 +5,30 @@
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
   "top_trend": "man utd vs sabah",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
       "title": "man utd vs sabah",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "manchester united f.c. vs sabah fk standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "west ham vs wrexham standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "bayern vs bodø/glimt",
+      "title": "lawyer",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -36,79 +36,79 @@
     },
     {
       "rank": 4,
-      "title": "iphone 18",
-      "volume": "1810K+",
-      "volume_numeric": 1810000,
+      "title": "bayern vs bodø/glimt",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "higher education loans board",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "kenya weather prediction september 2026",
+      "volume": "202620K+",
+      "volume_numeric": 202620000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "chelsea f.c. vs leeds united f.c. lineups",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "sevilla vs valencia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "iphone duo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "driving",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "mauricio pochettino",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "kenya defence forces",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "sevilla vs valencia",
+      "title": "israel",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "bournemouth vs brentford",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "chelsea vs hull city",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "toll",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "liverpool vs fulham",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 12,
-      "title": "psv vs shakhtar donetsk",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "lazio vs ac milan prediction",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "conviction",
+      "title": "michael olise",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -116,22 +116,6 @@
     },
     {
       "rank": 14,
-      "title": "como vs rb leipzig",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "rennes vs marseille",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
       "title": "weather",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -139,40 +123,56 @@
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "sunderland vs arsenal",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "aston villa vs nottingham forest",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "venezia vs fiorentina",
+      "title": "saudi arabia",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "veteran lawyer john khaminwa turns 90",
+      "volume": "90500+",
+      "volume_numeric": 90500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "joão pedro",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "princess astrid, mrs. ferner",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "barcelona vs feyenoord",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "psg vs slovan bratislava",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "lawyer",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "yusuf omari",
+      "title": "tottenham vs everton",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "anthony gordon",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "lil durk",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "liverpool f.c. vs atlético madrid standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "diageo kenya",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "union berlin vs schalke 04",
-      "volume": "04200+",
-      "volume_numeric": 4200,
+      "title": "strasbourg vs monaco",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "como vs leipzig prediction",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "crystal palace vs ipswich",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-11T10:33:32.487070+00:00"
+  "fetched_at": "2026-09-12T10:02:15.907068+00:00"
 }
