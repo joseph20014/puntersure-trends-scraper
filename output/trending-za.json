@@ -4,30 +4,54 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "stellenbosch vs sekhukhune",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "polokwane city vs kaizer chiefs",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "stellenbosch vs sekhukhune",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "polokwane city vs kaizer chiefs",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "man utd vs sabah",
+      "title": "chippa vs mamelodi sundowns",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "real madrid vs rayo vallecano",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "sunderland vs arsenal",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "chelsea vs hull",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
       "title": "coca-cola hbc ccba merger approval",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,168 +59,144 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "south africa repatriates nigerian nationals",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "mbekezeli mbokazi",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "bayern vs bodø/glimt",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "african bank cfo anbann chetti resigns",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "amazulu vs marumo gallants",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "west ham vs wrexham",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "la cure waves sc",
+      "title": "south africa repatriates nigerian nationals",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 9,
+      "title": "liverpool vs fulham",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "relebohile mofokeng",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "stellenbosch vs sekhukhune",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "kabelo dlamini",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "player ratings all blacks",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "zimw vs sa-w",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "spurs vs everton",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "durban",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "orlando pirates vs la cure sylvester",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "sevilla vs valencia",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "i e c",
+      "title": "namibia vs south africa",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "inter miami vs nashville",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "cam roigard",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "real madrid vs rayo vallecano standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "princess astrid, mrs. ferner",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "aston villa vs nottm forest",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
       "title": "arrest",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "zinedine zidane",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "woolworths chicken maggots",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "bafana mahungela",
+      "title": "nam vs sa",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "powerball results 11 september 2026",
-      "volume": "20262K+",
-      "volume_numeric": 20262000,
+      "rank": 20,
+      "title": "al-khaleej vs al-nassr",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "miguel cardoso chippa united venue change",
+      "rank": 21,
+      "title": "thabo cele mamelodi sundowns transfer",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "siya kolisi on rassie erasmus impact",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "sheffield united vs wolves",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "ben shelton",
+      "title": "benedict vilakazi on abdeslam ouaddou",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "lady gaga",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "i e c",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-12T10:04:01.471868+00:00"
+  "fetched_at": "2026-09-13T11:04:31.560720+00:00"
 }

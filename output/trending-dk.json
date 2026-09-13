@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "prinsesse astrid",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "andrea vagn jensen",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "prinsesse astrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "andrea vagn jensen",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "mette frederiksen",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "danish air show",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "prinsesse alexandra af hannover",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "mathilde arcel",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "tidlig pension",
+      "title": "kvinde ukendt",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,55 +44,55 @@
     },
     {
       "rank": 5,
-      "title": "1K+ arrow_upward 1,000%",
-      "volume": "20281K+",
-      "volume_numeric": 20281000,
+      "title": "wow forever",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "f.c. københavn mod ac horsens stillinger",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "lars løkke rasmussen",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "sydmotorvejen",
+      "title": "sepp kuss",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "mors-thy håndbold",
+      "rank": 7,
+      "title": "kunstig intelligens",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "fyn",
+      "rank": 8,
+      "title": "tyv",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "kvinde",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "passagerskib",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "royal run",
+      "title": "robot",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "lady gaga",
+      "title": "prinsesse isabella",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,31 +108,31 @@
     },
     {
       "rank": 13,
-      "title": "solheim cup 2026",
-      "volume": "20261K+",
-      "volume_numeric": 20261000,
+      "title": "båd",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "bus",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "thomas frank",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "inger støjberg",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "a400m",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "elbil",
+      "title": "prinsesse astrid",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -140,63 +140,63 @@
     },
     {
       "rank": 17,
-      "title": "død",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "9/11",
-      "volume": "115K+",
-      "volume_numeric": 115000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "celine dion",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "holger rune",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "kreml",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "håndbold",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "jude bellingham",
+      "title": "krimiserie",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "mette frederiksen",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "prinsesse alexandra af hannover",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "elena rybakina",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "airshow 2026",
+      "volume": "2026500+",
+      "volume_numeric": 2026500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "royal run",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "2K+ arrow_upward 1,000%",
+      "volume": "20282K+",
+      "volume_numeric": 20282000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "rolf sørensen",
+      "title": "real madrid - rayo",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "novo nordisk",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "john galliano",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-12T10:04:27.744742+00:00"
+  "fetched_at": "2026-09-13T11:04:57.647453+00:00"
 }

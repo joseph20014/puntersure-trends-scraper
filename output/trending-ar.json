@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "boca juniors - central córdoba",
+  "top_trend": "atlético tucumán - river plate",
   "top_trend_volume": "500K+",
   "top_trend_volume_numeric": 500000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "boca juniors - central córdoba",
+      "title": "atlético tucumán - river plate",
       "volume": "500K+",
       "volume_numeric": 500000,
       "volume_source": "label",
@@ -20,143 +20,143 @@
     },
     {
       "rank": 2,
-      "title": "newell's - vélez",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "inter miami - nashville sc",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "sandra pettovello",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "gran premio de españa",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "defensa y justicia - gimnasia y esgrima",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "posiciones de boca juniors contra central córdoba",
+      "volume": "500K+",
+      "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "bandera",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "talleres - unión",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "santa fe - tolima",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "real madrid - rayo vallecano",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "avenida santa fe",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "independiente rivadavia - aldosivi",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "lady gaga",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "estudiantes - platense",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "natalia pastorutti",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "ludovico di santo",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "madring",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "astrid de noruega",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "ola de calor",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "shelton",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "andres gil",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "accidente sele vera",
+      "title": "estanque",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "wálter samuel",
+      "rank": 10,
+      "title": "ruta nacional 237",
+      "volume": "23710K+",
+      "volume_numeric": 23710000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "santos - cruzeiro",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "gladys, la bomba tucumana",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "unitas",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "la nación",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "astrid de noruega",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "ryan garcia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "inundación",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "selección de fútbol de ecuador",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "pago",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "película",
+      "title": "la cámpora",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,31 +164,31 @@
     },
     {
       "rank": 20,
-      "title": "fiorentina",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "diseñador",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "kylian mbappé",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "parrilla de salida",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "dia del maestro",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "miniserie",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "clima hoy",
+      "title": "fuerza aérea de chile",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "patricia bullrich",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "tamara paganini",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "milton giménez",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "casa",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-12T10:05:46.767807+00:00"
+  "fetched_at": "2026-09-13T11:06:34.085297+00:00"
 }
