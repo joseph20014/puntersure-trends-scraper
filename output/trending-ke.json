@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "sunderland vs arsenal",
+  "top_trend": "man utd vs man city",
   "top_trend_volume": "200K+",
   "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "sunderland vs arsenal",
+      "title": "man utd vs man city",
       "volume": "200K+",
       "volume_numeric": 200000,
       "volume_source": "label",
@@ -28,15 +28,15 @@
     },
     {
       "rank": 3,
-      "title": "liverpool vs fulham",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "levante vs barcelona",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "real madrid vs rayo vallecano",
+      "title": "coventry vs brighton",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -44,15 +44,15 @@
     },
     {
       "rank": 5,
-      "title": "spurs vs everton",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "sunderland a.f.c. vs arsenal f.c. standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "aston villa vs nottm forest",
+      "title": "brest vs psg",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "toll",
+      "title": "student",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -68,31 +68,31 @@
     },
     {
       "rank": 8,
-      "title": "sheffield united vs wolves",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "man utd vs chelsea",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "man utd vs chelsea",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "capital markets authority of kenya",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "palace vs ipswich town",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "central bank of kenya",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "capital markets authority of kenya",
+      "title": "king oyo nyimba kabamba iguru rukidi iv",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "student",
+      "title": "diogo jota",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,47 +108,47 @@
     },
     {
       "rank": 13,
-      "title": "real madrid vs rayo vallecano standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "sv elversberg vs bayern munich standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "inter miami vs nashville",
+      "title": "school meal",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "linda mwananchi",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "man u vs man city",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "rank": 16,
+      "title": "samsung galaxy",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "el niño",
+      "rank": 17,
+      "title": "leeds vs newcastle",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "israel",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 18,
-      "title": "al-khaleej club vs al-nassr standings",
+      "title": "real sociedad vs atlético madrid",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "club brugge vs antwerp",
+      "title": "ministry of defence",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "gabriel martinelli",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "spurs vs everton",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "king oyo nyimba kabamba iguru rukidi iv",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "napoli vs bologna",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "lille vs troyes",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "aircraft pilot",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "napoli vs bologna",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "bournemouth vs brentford",
+      "title": "aston villa vs nottm forest",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "real sociedad vs atlético madrid standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "linda mwananchi rally nairobi",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "palace vs ipswich town",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-13T11:02:46.761559+00:00"
+  "fetched_at": "2026-09-14T11:42:34.519738+00:00"
 }

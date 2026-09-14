@@ -4,14 +4,38 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "الريال ضد رايو فاليكانو",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "ليفانتي ضد برشلونة",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "ليفانتي ضد برشلونة",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "مان يونايتد ضد مان سيتي",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "levante vs barcelona",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
       "title": "الريال ضد رايو فاليكانو",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -19,40 +43,16 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "نيللي وشريهان",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "real madrid vs rayo vallecano",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "ليفربول ضد فولهام",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "كونياسبور ضد طرابزون سبور",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "مصطفى خاطر",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "سندرلاند ضد آرسنال",
+      "title": "بريست ضد بي اس جي",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "تشيلسي ضد هال سيتي",
+      "title": "man utd vs man city",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "طب",
+      "title": "طماطم",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -76,15 +76,15 @@
     },
     {
       "rank": 9,
-      "title": "توتنهام ضد إيفرتون",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "ياسمين عبد العزيز",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "إنتر ميامي ضد ناشفيل",
+      "title": "ريال سوسيداد ضد أتلتيكو مدريد",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "حسام حسن",
+      "title": "غادة عبد الرازق",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,15 +100,15 @@
     },
     {
       "rank": 12,
-      "title": "وزير الداخلية",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "brest vs psg",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "real madrid vs rayo vallecano standings",
+      "title": "الوطن",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,23 +116,23 @@
     },
     {
       "rank": 14,
-      "title": "الزمالك ضد as du port / taco",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "طيار",
+      "title": "رئيس محكمة",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "زينة",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "inter miami vs nashville",
+      "title": "جنيه",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,31 +140,31 @@
     },
     {
       "rank": 17,
-      "title": "sunderland a.f.c. vs arsenal f.c. standings",
+      "title": "وسام أبو علي",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "تغذية",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "نتيجه تنسيق الثانويه الازهريه",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "تيار كهربائي",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "أحمد موسى",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "محكمة القضاء الإداري",
+      "title": "فائدة",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "تقليل الاغتراب للمرحلة الثالثة 2026",
-      "volume": "2026100K+",
-      "volume_numeric": 2026100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "حاتم صلاح",
+      "title": "دستور",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 22,
+      "title": "دوري أبطال إفريقيا",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 23,
-      "title": "كارولين عزمي",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "أحمد رفعت",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "جامعة القاهرة الأهلية",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "محاكمة",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "مسلسل ورود وذنوب الموسم الثاني",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "محمد علي سليمان",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-13T11:05:49.974355+00:00"
+  "fetched_at": "2026-09-14T11:45:37.526060+00:00"
 }

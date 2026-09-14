@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "atlético tucumán - river plate",
-  "top_trend_volume": "500K+",
-  "top_trend_volume_numeric": 500000,
+  "top_trend": "huracán - racing",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "atlético tucumán - river plate",
-      "volume": "500K+",
-      "volume_numeric": 500000,
+      "title": "huracán - racing",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "inter miami - nashville sc",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "independiente - san lorenzo",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "gran premio de españa",
+      "title": "real sociedad - atlético madrid",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "posiciones de boca juniors contra central córdoba",
-      "volume": "500K+",
-      "volume_numeric": 500000,
+      "title": "levante - barcelona",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "talleres - unión",
+      "title": "tigre - rosario central",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -52,55 +52,55 @@
     },
     {
       "rank": 6,
-      "title": "real madrid - rayo vallecano",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "independiente rivadavia - aldosivi",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "estudiantes - platense",
+      "title": "pierre gasly",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "estanque",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 7,
+      "title": "tini stoessel",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "ruta nacional 237",
-      "volume": "23710K+",
-      "volume_numeric": 23710000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "santos - cruzeiro",
+      "rank": 8,
+      "title": "antártida",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
+      "rank": 9,
       "title": "gladys, la bomba tucumana",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "pago",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "pedro troglio",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "abel pintos",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "unitas",
+      "title": "14 de septiembre",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,31 +116,31 @@
     },
     {
       "rank": 14,
-      "title": "la nación",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "juegos suramericanos 2026",
+      "volume": "202610K+",
+      "volume_numeric": 202610000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "astrid de noruega",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "ryan garcia",
+      "title": "julián weich",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "atlético tucumán - river plate",
+      "volume": "500K+",
+      "volume_numeric": 500000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "inundación",
+      "title": "anthropic",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "pago",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "la cámpora",
+      "title": "bono",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "diseñador",
+      "rank": 19,
+      "title": "lunes",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "la nación",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "parrilla de salida",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "manchester united - manchester city",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "miniserie",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "sarmiento - belgrano",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "fuerza aérea de chile",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "taxi",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "tamara paganini",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "candidato",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "casa",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "flavio briatore",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-13T11:06:34.085297+00:00"
+  "fetched_at": "2026-09-14T11:46:03.573942+00:00"
 }

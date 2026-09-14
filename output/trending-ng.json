@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "sunderland vs arsenal",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "levante vs barcelona",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "sunderland vs arsenal",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "chelsea vs hull",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "real madrid vs rayo vallecano",
+      "title": "levante vs barcelona",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "liverpool vs fulham",
+      "rank": 2,
+      "title": "manchester united f.c. vs man city standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "coventry vs brighton",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "real sociedad vs atlético madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "spurs vs everton",
+      "title": "brest vs psg",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "al-khaleej vs al-nassr",
+      "title": "sv elversberg vs bayern",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "inter miami vs nashville",
+      "title": "man utd vs chelsea",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,23 +68,23 @@
     },
     {
       "rank": 8,
-      "title": "aston villa vs nottm forest",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "jamb hnd admissions polytechnics nbte",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "real madrid vs rayo vallecano standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "bamanga tukur",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "lazio vs milan",
+      "title": "inter miami vs nashville",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "man utd vs chelsea",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "galatasaray vs kocaelispor",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "west ham vs wrexham",
+      "title": "levante ud vs fc barcelona standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "palace vs ipswich town",
+      "title": "real sociedad vs atlético madrid standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -116,31 +116,31 @@
     },
     {
       "rank": 14,
-      "title": "bournemouth vs brentford",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "bamanga tukur",
+      "title": "diogo jota",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "sassuolo vs juventus",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "lil durk",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "galatasaray vs kocaelispor standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "al-khaleej club vs al-nassr standings",
+      "title": "napoli vs bologna",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -148,23 +148,23 @@
     },
     {
       "rank": 18,
-      "title": "sheffield united vs wolves",
+      "title": "dangote refinery shares",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "niger armed forces",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "dortmund vs paderborn",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "jamb hnd admissions polytechnics nbte",
+      "title": "bamboo",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "barcelona vs atl. madrid",
+      "title": "2027 election",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "athletic vs elche",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "chimamanda ngozi adichie",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "dangote refinery ipo approved banks",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "david raya",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "romance scam",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "football highlights",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "atalanta vs cagliari",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "new caledonia",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-13T11:03:12.996300+00:00"
+  "fetched_at": "2026-09-14T11:43:00.829266+00:00"
 }
