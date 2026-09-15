@@ -4,17 +4,17 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "levante vs barcelona",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "leeds vs newcastle",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "levante vs barcelona",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "leeds vs newcastle",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -28,31 +28,31 @@
     },
     {
       "rank": 3,
-      "title": "coventry vs brighton",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "inter vs udinese",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "real sociedad vs atlético madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "villarreal vs betis",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "brest vs psg",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "jamb 2027 utme schedule changes",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "sv elversberg vs bayern",
+      "title": "bamboo",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,39 +60,39 @@
     },
     {
       "rank": 7,
-      "title": "man utd vs chelsea",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "como vs parma",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "jamb hnd admissions polytechnics nbte",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "mtn group",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "bamanga tukur",
+      "title": "federal bureau of investigation",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "diogo jota",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "inter miami vs nashville",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "galatasaray vs kocaelispor",
+      "title": "real sociedad vs atlético madrid standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -100,23 +100,23 @@
     },
     {
       "rank": 12,
-      "title": "levante ud vs fc barcelona standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "torino vs roma",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "real sociedad vs atlético madrid standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "samsung galaxy s27 ultra",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "diogo jota",
+      "title": "gaziantep vs fenerbahçe",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -124,63 +124,63 @@
     },
     {
       "rank": 15,
-      "title": "sassuolo vs juventus",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "bayo onanuga",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "galatasaray vs kocaelispor standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "braga vs estoril",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "napoli vs bologna",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "villarreal cf vs real betis standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "dangote refinery shares",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "timaya",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "niger armed forces",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "apple ios 27",
+      "volume": "275K+",
+      "volume_numeric": 275000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "bamboo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "2027 election",
+      "title": "niger armed forces",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "space weapon",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "chimamanda ngozi adichie",
+      "title": "police",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "david raya",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "bruno fernandes",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "football highlights",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "carlos baleba injury",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "new caledonia",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "african wild dog",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-14T11:43:00.829266+00:00"
+  "fetched_at": "2026-09-15T11:01:25.833060+00:00"
 }

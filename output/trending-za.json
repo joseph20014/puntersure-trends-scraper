@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "man utd vs man city",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "gasoline",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "man utd vs man city",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "gasoline",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "chippa vs mamelodi sundowns",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "south african petrol price rise",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "levante vs barcelona",
+      "title": "capitec ninety one assurance fica fines",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -36,23 +36,23 @@
     },
     {
       "rank": 4,
-      "title": "capitec ninety one assurance fica fines",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "south africa historic hotel dispute",
+      "title": "news",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "australia vs zimbabwe",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 6,
-      "title": "kempton park",
+      "title": "leeds vs newcastle",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,23 +60,23 @@
     },
     {
       "rank": 7,
-      "title": "milford vs richards bay",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "brest vs psg",
+      "title": "south africa historic hotel dispute",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "kaizer chiefs fiacre ntwari loan",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 9,
-      "title": "south africa fuel price increase october",
+      "title": "dstv sport package streaming pricing",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,47 +84,47 @@
     },
     {
       "rank": 10,
-      "title": "ts galaxy vs kruger united",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "inter vs udinese",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "real sociedad vs atlético madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "dstv sport package streaming pricing",
+      "title": "driving",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "weather warning",
+      "rank": 12,
+      "title": "saws weather warning monday",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 13,
+      "title": "villarreal vs betis",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "sv elversberg vs bayern",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "iphone 18 pro max price",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "poaching",
+      "title": "anthrax",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,31 +132,31 @@
     },
     {
       "rank": 16,
-      "title": "nick mallett",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bruno fernandes",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "diogo jota",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "como vs parma",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "soccer laduma",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "sydney sweeney",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "mamelodi sundowns thabang matuludi signing",
+      "title": "school",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,15 +164,15 @@
     },
     {
       "rank": 20,
-      "title": "gauteng independent school fee complaints",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "mbappe legal dispute psg payment",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "sydney sweeney",
+      "title": "chiefs vs broncos",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "lando norris",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "johnstone makhubu",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "martin brundle",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "levante vs barcelona",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "siya kolisi rassie erasmus shaven heads",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "caesarean section",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "coach",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "hyrox",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-14T11:44:19.162431+00:00"
+  "fetched_at": "2026-09-15T11:02:46.658413+00:00"
 }
