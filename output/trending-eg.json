@@ -4,87 +4,87 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "ليفانتي ضد برشلونة",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "ليفربول ضد توتنهام",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ليفانتي ضد برشلونة",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "ليفربول ضد توتنهام",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "مصطفى خاطر",
+      "title": "إلتشيه ضد الريال",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "liverpool vs spurs",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "وقود",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 4,
-      "title": "جنيه",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "الأهلي ضد سماد أبوقير",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "الأهلي ضد باختاكور",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "elche vs real madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "ليدز ضد نيوكاسل يونايتد",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "نتيجة تنسيق الدبلومات الفنية 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "الإنتر ضد أودينيزي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "طلائع الجيش ضد سموحة",
+      "title": "إيبسويتش تاون ضد آرسنال",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 7,
+      "title": "al ahly vs abu qir fertilizers",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "العين ضد النصر",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "حمدي الميرغني",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "leeds vs newcastle",
+      "title": "عمرو موسى",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -92,71 +92,71 @@
     },
     {
       "rank": 11,
-      "title": "تصادم",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "الذهب",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "inter vs udinese",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ipswich town vs arsenal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "وسام أبو علي",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "elche cf vs real madrid standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "كريستيانو رونالدو",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "الأهلي ضد باختاكور",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "فياريال ضد ريال بتيس",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al ain vs al-nassr",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "الصلع",
+      "title": "نتيجة تنسيق الدبلومات الفنية 2026",
+      "volume": "202610K+",
+      "volume_numeric": 202610000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "وديعة",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "علاج كيميائي",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 18,
-      "title": "أحمد عز",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "داليا البحيري",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "حمدي الميرغني",
+      "title": "وائل جمعة",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -164,38 +164,22 @@
     },
     {
       "rank": 20,
-      "title": "الإسماعيلية",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ماجدة خير الله",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "تمثال",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "أنصار الله الحوثيون",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "sydney sweeney",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "نتيجه تقليل الاغتراب",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
       "title": "تحديث ios 27",
       "volume": "272K+",
       "volume_numeric": 272000,
@@ -203,13 +187,29 @@
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "تأشيرة",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "tom aspinall",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "النتائج",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "سهر الليالي",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-15T11:04:05.794292+00:00"
+  "fetched_at": "2026-09-16T10:51:30.380568+00:00"
 }

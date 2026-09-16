@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "leeds vs newcastle",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "ipswich town vs arsenal",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "leeds vs newcastle",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "manchester united f.c. vs man city standings",
+      "title": "ipswich town vs arsenal",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "elche vs real madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 3,
-      "title": "inter vs udinese",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "liverpool vs spurs",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "villarreal vs betis",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "al ain vs al-nassr",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "jamb 2027 utme schedule changes",
+      "title": "olu jacobs",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -52,39 +52,39 @@
     },
     {
       "rank": 6,
-      "title": "bamboo",
+      "title": "elche cf vs real madrid standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "west ham vs fulham",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "como vs parma",
+      "rank": 8,
+      "title": "alavés vs valencia",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "mtn group",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "federal bureau of investigation",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "rayo vallecano vs espanyol",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "diogo jota",
+      "title": "jamb 2027 utme schedule changes",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -92,39 +92,39 @@
     },
     {
       "rank": 11,
-      "title": "real sociedad vs atlético madrid standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "torino vs roma",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "samsung galaxy s27 ultra",
+      "title": "drug",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "gaziantep vs fenerbahçe",
+      "rank": 12,
+      "title": "reading vs brentford",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 13,
+      "title": "jj gabriel",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "mtn group",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "bayo onanuga",
+      "title": "public holiday",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,55 +132,55 @@
     },
     {
       "rank": 16,
-      "title": "braga vs estoril",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bayo onanuga",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "villarreal cf vs real betis standings",
+      "title": "nysc batch c orientation course 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "lionel messi eldense purchase agreement",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "timaya",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 19,
-      "title": "apple ios 27",
-      "volume": "275K+",
-      "volume_numeric": 275000,
+      "title": "dangote net worth",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "niger armed forces",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "michael carrick",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
       "title": "space weapon",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "police",
+      "title": "ajax vs willem ii",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,15 +188,15 @@
     },
     {
       "rank": 23,
-      "title": "bruno fernandes",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "fiorentina vs pisa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "carlos baleba injury",
+      "title": "adam wharton",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "african wild dog",
+      "title": "lagos-ibadan expressway",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-15T11:01:25.833060+00:00"
+  "fetched_at": "2026-09-16T10:48:53.489818+00:00"
 }

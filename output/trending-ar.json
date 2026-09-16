@@ -4,79 +4,79 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "asociación del fútbol argentino",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "platense - fluminense",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "asociación del fútbol argentino",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "platense - fluminense",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "luděk mikloško",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "são paulo vs. boca juniors",
+      "volume": "500K+",
+      "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "banfield - barracas central",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "elche c. f. - real madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "inter - udinese",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "deportivo riestra - lanús",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "gustavo sofovich",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "posiciones de instituto atlético central córdoba contra estudiantes de río cuarto",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "videojuego",
+      "title": "misil",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "emanuel ortega",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "vasco da gama",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "juan izquierdo",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "benin",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 9,
-      "title": "caballo",
+      "title": "entrenador",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,23 +84,23 @@
     },
     {
       "rank": 10,
-      "title": "abel pintos",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "air",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "julián weich",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "after",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "horario de verano",
+      "title": "act",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "asociación trabajadores del estado",
+      "title": "action",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,15 +116,15 @@
     },
     {
       "rank": 14,
-      "title": "muerte",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "against",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "helada",
+      "title": "reforma",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "condena",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "above",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "laguna del monte",
+      "title": "griselda gambaro",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "sebastián montoya",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "administration",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "darío barassi",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "american",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "huracán - racing",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "voluntariado",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "colombia",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "ipswich - arsenal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "herencia",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "independiente - san lorenzo",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "gran premio de azerbaiyán",
+      "title": "niñera",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 25,
-      "title": "widows bay",
+      "rank": 23,
+      "title": "ceuta",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "yuri nakamura",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "argentina vs",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-15T11:04:32.232783+00:00"
+  "fetched_at": "2026-09-16T10:51:56.463669+00:00"
 }

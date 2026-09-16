@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "sydney sweeney",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "karsten ree",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "sydney sweeney",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "brændstof",
+      "title": "karsten ree",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "ed sheeran",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 3,
-      "title": "forbud",
+      "title": "middelhavet",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,95 +36,95 @@
     },
     {
       "rank": 4,
-      "title": "flares",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "royal run 2027",
-      "volume": "20275K+",
-      "volume_numeric": 20275000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "brian holm",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "helikopter",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "aktiesparekonto",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "widows bay",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "sydney sweeney reklame",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "pension",
+      "title": "tv 2 echo",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "fregatte",
+      "rank": 5,
+      "title": "fyring",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "fyens stiftstidende",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "landbrug",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "jeppe bruus",
       "volume": "200+",
       "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "b.t.",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "demokratiske parti",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "ed sheeran lukas graham",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "skoleskyderi",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "fc midtjylland mod brøndby if stillinger",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "liverpool - tottenham",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "dbu",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "widows bay",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "prinsesse",
+      "title": "stine pilgaard",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "elg",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "brændstof",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "vicki berlin",
+      "title": "elche - real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,23 +148,23 @@
     },
     {
       "rank": 18,
-      "title": "novo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "brian holm",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "brand",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "forbud",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "rolf sørensen",
+      "title": "aktiesparekonto",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "elpris",
+      "title": "sabrina temptation island",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "aktie",
+      "title": "pension",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "leeds - newcastle",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "helikopter",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "bbc",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "fc midtjylland mod brøndby if stillinger",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "jakob poulsen",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "flares",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-15T11:03:12.951160+00:00"
+  "fetched_at": "2026-09-16T10:50:38.074177+00:00"
 }
