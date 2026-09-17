@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "ipswich town vs arsenal",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "gwede mantashe petrol price plan",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ipswich town vs arsenal",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "elche vs real madrid",
+      "title": "gwede mantashe petrol price plan",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "liverpool vs spurs",
+      "rank": 2,
+      "title": "barcelona vs racing santander",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "man utd vs brighton",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "fruit processing western cape closing",
+      "title": "traffic police",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -44,15 +44,15 @@
     },
     {
       "rank": 5,
-      "title": "road",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ekurhuleni lockdown",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "elche cf vs real madrid standings",
+      "title": "atlético vs osasuna",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "ekurhuleni",
+      "title": "energy crisis",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,39 +68,39 @@
     },
     {
       "rank": 8,
-      "title": "al ain vs al-nassr",
+      "title": "gunshot wound",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "inter miami vs cruz azul",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "england vs sri lanka",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "ed sheeran",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fc barcelona vs racing santander standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "jj gabriel",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "owen ndlovu",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "npa drops fannie masemola prosecution",
+      "title": "black axe",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,55 +108,55 @@
     },
     {
       "rank": 13,
-      "title": "bonang matheba",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "brandon petersen kaizer chiefs sidelined",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "alavés vs valencia",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "road",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "liquidation",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "gasoline",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "malawi",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "taser",
+      "title": "vuyo mere national team selection",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "resort",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "coventry vs aston villa",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "ronwen williams",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "15 september powerball results",
+      "title": "sassa social grant dates october",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "drake fomo",
+      "title": "traffic collision",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "bursary",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ed sheeran",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "anc",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ac milan vs benfica standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "us visa",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "sunderland a.f.c. vs az alkmaar standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "australia vs zimbabwe",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "liverpool vs spurs",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "driving",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "elche vs real madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-16T10:50:11.942850+00:00"
+  "fetched_at": "2026-09-17T10:57:36.505431+00:00"
 }
