@@ -4,30 +4,14 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "برشلونة ضد رسينغ",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "مان سيتي ضد نورويتش",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "برشلونة ضد رسينغ",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "غزل المحلة ضد الزمالك",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
       "title": "مان سيتي ضد نورويتش",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,55 +19,23 @@
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "عبد الملك الحوثي",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "برينتفورد ضد تشيلسي",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "حافلة مدرسية",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "سامح حسين",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "man city vs norwich city",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "هاتف",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "قانون الضريبة",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "يارا السكري",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
       "title": "رنا رئيس",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -91,80 +43,128 @@
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "مسلسل خمسين خمسين",
+      "rank": 5,
+      "title": "ترتيبات بايرن ميونخ – يونيون برلين",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "يوتيوب",
       "volume": "5K+",
       "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "cats",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "يارا السكرى",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "سعر الدولار مقابل الجنيه المصري اليوم",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "محمود عباس",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "google",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "صدام حسين",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "تيك توك",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "هدى رياض",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "محمود بنتايك",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "بحر البقر",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "اصالة نصري",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "نجاة الصغيرة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "حافلة مدرسية",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "ندى كامل",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "جوجل",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "المركزي المصري",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "مديحة كامل",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "نادي بترول أسيوط",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "العاب",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "كهرباء",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "قانون الضريبة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "فيلم القصص",
+      "title": "خمسين خمسين",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "يوفنتوس ضد ان اي سي",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ترتيبات نادى انبى – نادى بيراميدز",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "نفط",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "brentford vs chelsea",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "إسماعيل يوسف",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "man city vs norwich city",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "تركيا",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "كهرباء",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "مديحة كامل",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "اصطدام سيارة",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-18T10:34:01.198847+00:00"
+  "fetched_at": "2026-09-19T10:19:50.807421+00:00"
 }
