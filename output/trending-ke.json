@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "brentford vs chelsea",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "sportpesa",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "brentford vs chelsea",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "sportpesa",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "man city vs norwich city",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "brighton vs arsenal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "sportpesa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "sport pesa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "eldoret",
+      "title": "tiktok",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,23 +44,23 @@
     },
     {
       "rank": 5,
-      "title": "man city vs liverpool",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "prediction",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "loan",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "today football predictions",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "orange democratic movement",
+      "title": "tuko news",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -68,23 +68,23 @@
     },
     {
       "rank": 8,
-      "title": "brighton vs arsenal",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "today prediction",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "bayern vs union berlin",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "brentford f.c. vs chelsea f.c. standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "today prediction",
+      "title": "prediction today",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "iebc",
+      "title": "sp",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -100,23 +100,23 @@
     },
     {
       "rank": 12,
-      "title": "teacher",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "football prediction",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "bayern munich vs union berlin standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "play store",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "real sociedad vs bournemouth",
+      "title": "bayern vs union berlin",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -124,7 +124,7 @@
     },
     {
       "rank": 15,
-      "title": "roma vs inter",
+      "title": "movies",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "palace vs lech poznań",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "200+ arrow_upward 400%",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "sport pesa",
+      "title": "parma vs genoa",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -148,23 +148,23 @@
     },
     {
       "rank": 18,
-      "title": "espanyol vs elche",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "betting tips",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "tottenham vs aston villa",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "eldoret",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "monaco vs lens",
+      "title": "bayern munich vs union berlin standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "travel insurance",
+      "title": "flashscore",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "afc bournemouth",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "odi",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "roblox",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "man city vs liverpool",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "boarding school",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "messi",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "venezia vs lazio",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "chelsea",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-19T10:16:11.480074+00:00"
+  "fetched_at": "2026-09-20T10:34:38.973381+00:00"
 }

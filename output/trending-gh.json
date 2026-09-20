@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "brentford vs chelsea",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
-  "volume_available_count": 25,
+  "top_trend": "time",
+  "top_trend_volume": "1K+",
+  "top_trend_volume_numeric": 1000,
+  "volume_available_count": 24,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "brentford vs chelsea",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "time",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "fermín lópez",
+      "title": "fcb",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -28,38 +28,62 @@
     },
     {
       "rank": 3,
-      "title": "pi network",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "man city vs liverpool",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "karim adeyemi",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "man city vs norwich city",
+      "title": "brentford vs chelsea",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "fotmob",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "soccer24",
+      "volume": "24200+",
+      "volume_numeric": 24200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "200+ arrow_upward 300%",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
+      "title": "games",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "fermín lópez",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "mbappe",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
       "title": "bayern vs union berlin",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -67,31 +91,23 @@
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "time",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "dangote refinery",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "what is food",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
+      "title": "messi",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "movies",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
       "title": "espanyol vs elche",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -99,31 +115,31 @@
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "bayern munich vs union berlin standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "fcb",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 14,
-      "title": "real sociedad vs bournemouth",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "200+ arrow_upward 100%",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
+      "title": "pi network",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "tiktok",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
       "title": "alavés vs barcelona",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -131,39 +147,31 @@
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "illegal mining",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "betis vs getafe",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 18,
-      "title": "cat",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "sway",
+      "title": "bayern munich vs union berlin standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "football.com",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
+      "title": "karim adeyemi",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
       "title": "international monetary fund (imf)",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -171,23 +179,7 @@
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "palace vs lech poznań",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "málaga vs villarreal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
       "title": "monaco vs lens",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -195,21 +187,21 @@
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "juventus vs nec",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "sporty",
+      "rank": 23,
+      "title": "sevilla vs barcelona",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "illegal mining",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-19T10:19:24.585171+00:00"
+  "fetched_at": "2026-09-20T10:37:33.728077+00:00"
 }

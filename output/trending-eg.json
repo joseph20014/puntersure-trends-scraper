@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "مان سيتي ضد نورويتش",
+  "top_trend": "يوتيوب",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
-  "volume_available_count": 25,
+  "volume_available_count": 24,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "مان سيتي ضد نورويتش",
+      "title": "يوتيوب",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,23 +20,23 @@
     },
     {
       "rank": 2,
-      "title": "عبد الملك الحوثي",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "مسكن",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "برينتفورد ضد تشيلسي",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "google",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "رنا رئيس",
+      "title": "تيك توك",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -44,38 +44,6 @@
     },
     {
       "rank": 5,
-      "title": "ترتيبات بايرن ميونخ – يونيون برلين",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "يوتيوب",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "cats",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "يارا السكرى",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
       "title": "سعر الدولار مقابل الجنيه المصري اليوم",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -83,16 +51,48 @@
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "جوجل",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "ترتيب الدوري التركي",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "العاب",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "tiktok",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "محمود عباس",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "500+ arrow_upward 200%",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "google",
+      "title": "1K+ arrow_upward 200%",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,86 +100,78 @@
     },
     {
       "rank": 12,
-      "title": "تيك توك",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "1K+ arrow_upward 100%",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "محمود بنتايك",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "200+ arrow_upward 200%",
+      "volume": "250200+",
+      "volume_numeric": 250200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "اصالة نصري",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "حافلة مدرسية",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "جوجل",
+      "title": "افلام",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "مديحة كامل",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "العاب",
+      "rank": 15,
+      "title": "افلام مصرية",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "قانون الضريبة",
+      "rank": 16,
+      "title": "برينتفورد ضد تشيلسي",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "teams",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "ترتيبات بايرن ميونخ – يونيون برلين",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "يوت يوب",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "خمسين خمسين",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "classroom",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "ترتيبات نادى انبى – نادى بيراميدز",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
       "title": "brentford vs chelsea",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -187,29 +179,29 @@
       "volume_available": true
     },
     {
+      "rank": 22,
+      "title": "200+ arrow_upward 100%",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 23,
-      "title": "man city vs norwich city",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "حمو المرشدي",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "كهرباء",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "اصطدام سيارة",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "قران",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-19T10:19:50.807421+00:00"
+  "fetched_at": "2026-09-20T10:38:00.045061+00:00"
 }
