@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "ditte okman",
+  "top_trend": "presley gerber",
   "top_trend_volume": "2K+",
   "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "ditte okman",
+      "title": "presley gerber",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -20,49 +20,49 @@
     },
     {
       "rank": 2,
-      "title": "google",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "classroom",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "halvmaraton københavn 2026",
-      "volume": "2026500+",
-      "volume_numeric": 2026500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "bt",
+      "title": "brøndby fck",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "wrrc copenhagen 26",
-      "volume": "26200+",
-      "volume_numeric": 26200,
+      "rank": 4,
+      "title": "kai dige bach",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "cph half",
+      "rank": 5,
+      "title": "novo nordisk stock",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "superliga stilling",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "davis cup",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ai",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
@@ -76,22 +76,94 @@
     },
     {
       "rank": 9,
-      "title": "eb",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "superclasico",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "davis cup hillerød",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tv2 nyheder",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
+      "title": "grigor dimitrov",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "nfl",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "news",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "elmer møller",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "rivalerne tv2",
+      "volume": "2200+",
+      "volume_numeric": 2200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "real madrid",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "1 division",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "bet365",
+      "volume": "365200+",
+      "volume_numeric": 365200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "cph half",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
       "title": "halvmarathon 2026",
       "volume": "2026100+",
       "volume_numeric": 2026100,
@@ -99,117 +171,45 @@
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "holger rune",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "det danske kongehus",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "tv guide",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "asap rocky royal arena",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "vejr",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "tv2",
-      "volume": "22K+",
-      "volume_numeric": 22000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "sygdom",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "davis cup 2026",
-      "volume": "2026500+",
-      "volume_numeric": 2026500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "se og hør",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "aldersopsparing",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "kåre quist",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "sortehavet",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "facebook",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "cnn",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "la liga",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "influencer",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ob",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "superligaen",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "arsenal",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-20T10:37:07.643108+00:00"
+  "fetched_at": "2026-09-21T11:58:06.274857+00:00"
 }

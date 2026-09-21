@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "michezo",
-  "top_trend_volume": "500+",
-  "top_trend_volume_numeric": 500,
-  "volume_available_count": 24,
+  "top_trend": "brighton",
+  "top_trend_volume": "1K+",
+  "top_trend_volume_numeric": 1000,
+  "volume_available_count": 7,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "michezo",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "brighton",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "lyrics",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "videos videos",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "tiktok",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "real madrid",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "brentford vs chelsea",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "man city",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "bbc",
+      "title": "bet",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -52,156 +52,20 @@
     },
     {
       "rank": 6,
-      "title": "afc bournemouth",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "live",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "bayern vs union berlin",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "games",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "stephane aziz ki",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "orlando pirates",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "bayern munich vs union berlin standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "gianni infantino",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "espanyol vs elche",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "monaco vs lens",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "cristiano ronaldo",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
       "title": "barcelona",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "dangote refinery",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "arsenal",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "chelsea",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "travel insurance",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "200+ arrow_upward 200%",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "100+ arrow_upward 200%",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "bbc swahili",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "monaco",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-20T10:35:31.291832+00:00"
+  "fetched_at": "2026-09-21T11:56:39.262698+00:00"
 }

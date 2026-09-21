@@ -4,62 +4,54 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "يوتيوب",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
-  "volume_available_count": 24,
+  "top_trend": "رمضان صبحي",
+  "top_trend_volume": "1K+",
+  "top_trend_volume_numeric": 1000,
+  "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "يوتيوب",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "رمضان صبحي",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "مسكن",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "كندة علوش",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "google",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "محمد عبد المنعم",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "تيك توك",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "إبراهيم حسن",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "سعر الدولار مقابل الجنيه المصري اليوم",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "حالة الطقس غدا",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "جوجل",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
       "title": "ترتيب الدوري التركي",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -67,24 +59,32 @@
       "volume_available": true
     },
     {
+      "rank": 7,
+      "title": "اليوم السابع",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "العاب",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ريال مدريد",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "tiktok",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "هيئة المجتمعات العمرانية",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "500+ arrow_upward 200%",
+      "title": "walmart near me",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -92,39 +92,39 @@
     },
     {
       "rank": 11,
-      "title": "1K+ arrow_upward 200%",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "maps",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "1K+ arrow_upward 100%",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "مصر الرقمية",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "200+ arrow_upward 200%",
-      "volume": "250200+",
-      "volume_numeric": 250200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "افلام",
+      "title": "وزارة التربية والتعليم",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "real madrid",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "افلام مصرية",
+      "title": "سعر الدولار مقابل الجنيه المصري",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -132,31 +132,31 @@
     },
     {
       "rank": 16,
-      "title": "برينتفورد ضد تشيلسي",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "teams",
+      "title": "ai",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "outlook",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "ترتيبات بايرن ميونخ – يونيون برلين",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "سعر اليورو",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "يوت يوب",
+      "title": "الدنمارك",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "classroom",
+      "title": "سعر الذهب",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -172,15 +172,15 @@
     },
     {
       "rank": 21,
-      "title": "brentford vs chelsea",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "مصر الرقميه",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "200+ arrow_upward 100%",
+      "title": "arman tsarukyan",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -188,20 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "حمو المرشدي",
+      "title": "مسلسل",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "موقع وزارة التربية والتعليم",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "قران",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "rank": 25,
+      "title": "صن داونز",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-20T10:38:00.045061+00:00"
+  "fetched_at": "2026-09-21T11:58:58.509490+00:00"
 }

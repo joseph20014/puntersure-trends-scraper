@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "sportpesa",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
-  "volume_available_count": 25,
+  "top_trend": "gemini",
+  "top_trend_volume": "200+",
+  "top_trend_volume_numeric": 200,
+  "volume_available_count": 23,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "sportpesa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "gemini",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "brighton vs arsenal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "man city vs sunderland",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "sport pesa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "facebook",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "tiktok",
+      "title": "man u vs fulham",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,31 +44,31 @@
     },
     {
       "rank": 5,
-      "title": "prediction",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "google",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "today football predictions",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "museveni",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "tuko news",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "arsenal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "today prediction",
+      "title": "liverpool",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -76,23 +76,23 @@
     },
     {
       "rank": 9,
-      "title": "brentford f.c. vs chelsea f.c. standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "bournemouth vs liverpool",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "prediction today",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "afcon 2027",
+      "volume": "2027200+",
+      "volume_numeric": 2027200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "sp",
+      "title": "live",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -100,31 +100,31 @@
     },
     {
       "rank": 12,
-      "title": "football prediction",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "play store",
+      "title": "football",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 13,
+      "title": "real madrid",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "bayern vs union berlin",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "livescore",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "movies",
+      "title": "sevilla vs barcelona",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "200+ arrow_upward 400%",
+      "title": "xxl",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -140,7 +140,7 @@
     },
     {
       "rank": 17,
-      "title": "parma vs genoa",
+      "title": "bbc football",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -148,39 +148,39 @@
     },
     {
       "rank": 18,
-      "title": "betting tips",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "epl table",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "eldoret",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tottenham",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "bayern munich vs union berlin standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "fotmob",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "flashscore",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "manu",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "odi",
+      "title": "ajax",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -188,28 +188,12 @@
     },
     {
       "rank": 23,
-      "title": "man city vs liverpool",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "messi",
+      "title": "napoli",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "chelsea",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-20T10:34:38.973381+00:00"
+  "fetched_at": "2026-09-21T11:55:47.034064+00:00"
 }

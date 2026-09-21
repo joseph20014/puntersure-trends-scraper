@@ -4,87 +4,87 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "bbc hausa",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "man city vs sunderland",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "bbc hausa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "man city vs sunderland",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "brentford f.c. vs chelsea f.c. standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "barcelona vs sevilla",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "bayern vs union berlin",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "andreas christensen",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "bbchausa",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "bournemouth vs liverpool",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "bayern munich vs union berlin standings",
+      "title": "halima dangote",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "fulham vs man utd",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "2baba",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "livescore cz",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "man city vs liverpool",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "barcelona vs sevilla",
+      "rank": 9,
+      "title": "real madrid",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "legit hausa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "naija news",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "live",
+      "title": "atlético vs real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "2027 lexus rx",
+      "title": "2027 chevy trax",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,17 +100,17 @@
     },
     {
       "rank": 12,
-      "title": "bbc",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "facebook login",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "1K+ arrow_upward 200%",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "laliga table",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -124,7 +124,7 @@
     },
     {
       "rank": 15,
-      "title": "hausa",
+      "title": "flash",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -132,23 +132,23 @@
     },
     {
       "rank": 16,
-      "title": "bet9ja",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "arsenal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "bbc hausa com",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "200+ arrow_upward 100%",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "benue news",
+      "title": "nigeria vs colombia",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -156,31 +156,31 @@
     },
     {
       "rank": 19,
-      "title": "football prediction",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "nigeria news",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "tottenham vs aston villa",
+      "title": "liverpool",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "barcelona",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "100+ arrow_upward 100%",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "man utd news",
+      "title": "madrid",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "man u news",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "real",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "soccer prediction",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ikeja electric",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "prediction for today",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "football highlights",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-20T10:35:05.190716+00:00"
+  "fetched_at": "2026-09-21T11:56:13.234979+00:00"
 }

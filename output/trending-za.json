@@ -4,30 +4,46 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "brentford f.c. vs chelsea f.c. standings",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "presley gerber",
+  "top_trend_volume": "1K+",
+  "top_trend_volume_numeric": 1000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "brentford f.c. vs chelsea f.c. standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "presley gerber",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "srd",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "kaizer chiefs vs golden arrows",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
+      "title": "orlando pirates match",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "gemini",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
       "title": "mamelodi sundowns vs al-ahli",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -35,23 +51,23 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "tiktok",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "google",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
+      "title": "electricity meter",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "man city",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
       "title": "hollywood",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -59,56 +75,40 @@
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "play store",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "brighton vs arsenal",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "lyrics",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "real madrid",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "bayern vs union berlin",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "manchester united",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "calculator",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "100+ arrow_upward 100%",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "sevilla vs barcelona",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "liverpool",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "music",
+      "title": "killarney",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -116,31 +116,31 @@
     },
     {
       "rank": 14,
-      "title": "bayern munich vs union berlin standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "chiefs game today",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "playstore",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "pirates game today",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "faf de klerk",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "converse shoes",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "movies",
+      "title": "amazon",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -148,15 +148,15 @@
     },
     {
       "rank": 18,
-      "title": "baboons",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "sassa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "maps",
+      "title": "lotto results lotto plus",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "inxuba yethemba local municipality eskom debt",
+      "title": "arsenal",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,15 +172,15 @@
     },
     {
       "rank": 21,
-      "title": "1K+ arrow_upward 200%",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "sevilla vs barcelona",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "dp world tour",
+      "title": "south africa news",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "you",
+      "title": "arman tsarukyan",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "orlando pirates players fifa international duty",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "dj maphorisa",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "truck stop",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "flashscore",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-20T10:36:41.555325+00:00"
+  "fetched_at": "2026-09-21T11:57:40.136087+00:00"
 }

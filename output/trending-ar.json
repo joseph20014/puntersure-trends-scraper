@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "racing - sarmiento",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
-  "volume_available_count": 25,
+  "top_trend": "infobae",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
+  "volume_available_count": 24,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "racing - sarmiento",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "infobae",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "mirtha",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "facebook",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "brentford - chelsea",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "cindy crawford",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "central córdoba - defensa y justicia",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "maps",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "weather tomorrow",
+      "title": "la nacion",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -52,31 +52,31 @@
     },
     {
       "rank": 6,
-      "title": "copa davis",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tn",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "bayern - fc union berlin",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "rosario3",
+      "volume": "3200+",
+      "volume_numeric": 3200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "river plate - huracán",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "weather tomorrow",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "meteorología",
+      "title": "boca vs san lorenzo",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,39 +84,39 @@
     },
     {
       "rank": 10,
-      "title": "harry kane",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "velez",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "limpieza",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "dólar estadounidense",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "marcha de la bronca",
+      "title": "real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "pagina 12",
+      "volume": "12100+",
+      "volume_numeric": 12100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "belgrano",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "chechu bonelli",
+      "title": "river vs huracan",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -124,92 +124,84 @@
     },
     {
       "rank": 15,
-      "title": "ea sports fc 27",
-      "volume": "272K+",
-      "volume_numeric": 272000,
+      "title": "apagón eléctrico",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "avión",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "atletico madrid",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "diario el eco de tandil",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "manchester city",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "jonathan silva",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "san lorenzo hoy",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "10K+ arrow_upward 200%",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "title": "city",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "google",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "smn",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "corte de luz",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "velez hoy",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "kick",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "la liga",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "parense de manos 2026",
-      "volume": "20265K+",
-      "volume_numeric": 20265000,
+      "title": "ufc",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "la cámpora",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "ricardo darín",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "instituto",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-20T10:38:26.278354+00:00"
+  "fetched_at": "2026-09-21T11:59:24.591921+00:00"
 }
