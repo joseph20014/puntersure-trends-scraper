@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "infobae",
+  "top_trend": "posiciones de club atlético lanús contra estudiantes de la plata",
   "top_trend_volume": "2K+",
   "top_trend_volume_numeric": 2000,
   "volume_available_count": 24,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "infobae",
+      "title": "posiciones de club atlético lanús contra estudiantes de la plata",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -20,62 +20,110 @@
     },
     {
       "rank": 2,
-      "title": "facebook",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tiempo",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "cindy crawford",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "clima",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
       "title": "maps",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "la nacion",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "entrenador",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "tn",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "meteorología",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "rosario3",
-      "volume": "3200+",
-      "volume_numeric": 3200,
+      "title": "pami",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "weather tomorrow",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "universidad",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
+      "title": "facebook",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "temperatura",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "infobae",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "deportick",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "betano",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "posiciones de barracas central contra independiente rivadavia",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
       "title": "boca vs san lorenzo",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -83,15 +131,7 @@
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "velez",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
+      "rank": 16,
       "title": "real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -99,48 +139,8 @@
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "pagina 12",
-      "volume": "12100+",
-      "volume_numeric": 12100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "belgrano",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "river vs huracan",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "apagón eléctrico",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "atletico madrid",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "manchester city",
+      "title": "mercado libre",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "san lorenzo hoy",
+      "title": "tn",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -156,39 +156,39 @@
     },
     {
       "rank": 19,
-      "title": "city",
+      "title": "velez",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "flores amarillas",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "smn",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "velez hoy",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "feliz primavera",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "la liga",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "la nacion",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "ufc",
+      "title": "apagón eléctrico",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -196,12 +196,12 @@
     },
     {
       "rank": 24,
-      "title": "instituto",
+      "title": "aldosivi",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-21T11:59:24.591921+00:00"
+  "fetched_at": "2026-09-22T10:59:03.126818+00:00"
 }

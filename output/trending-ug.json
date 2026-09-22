@@ -4,22 +4,30 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "man u vs fulham",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "ig",
+  "top_trend_volume": "500+",
+  "top_trend_volume_numeric": 500,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "man u vs fulham",
+      "title": "ig",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "man u",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "man city",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -27,7 +35,7 @@
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "epl",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,7 +43,7 @@
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "liverpool",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -43,18 +51,10 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "arsenal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "psg fc",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "chatgpt",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
@@ -68,14 +68,6 @@
     },
     {
       "rank": 8,
-      "title": "coventry",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
       "title": "real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -83,15 +75,7 @@
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "ac milan",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "title": "leeds",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -99,55 +83,23 @@
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "psg fc",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "ac milan",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 12,
-      "title": "coventry city",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "nottingham forest",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "barcelona",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "napoli fc",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "hull city",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "ajax fc",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
       "title": "como fc",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -155,15 +107,7 @@
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "ajax",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
+      "rank": 13,
       "title": "manu",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -171,7 +115,47 @@
       "volume_available": true
     },
     {
-      "rank": 21,
+      "rank": 14,
+      "title": "liam rosenior",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "como",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "real madrid vs",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "real madrid fc",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "ac milan fc",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
       "title": "fc porto",
       "volume": "200+",
       "volume_numeric": 200,
@@ -179,37 +163,53 @@
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "madrid",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "real m",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "napoli",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "manc",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "lazio fc",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "psv fc",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "barcelona fc",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "real betis",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "ac milan fc",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "como vs",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-21T11:57:05.390290+00:00"
+  "fetched_at": "2026-09-22T10:56:52.622275+00:00"
 }

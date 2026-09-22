@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "mohammed kudus",
+  "top_trend": "patience akyianu",
   "top_trend_volume": "100+",
   "top_trend_volume_numeric": 100,
-  "volume_available_count": 25,
+  "volume_available_count": 23,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "mohammed kudus",
+      "title": "patience akyianu",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
@@ -20,15 +20,15 @@
     },
     {
       "rank": 2,
-      "title": "real madrid",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "federico valverde",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "ghana premier league",
+      "title": "niger",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "madrid match today",
+      "title": "mohammed kudus",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -44,6 +44,46 @@
     },
     {
       "rank": 5,
+      "title": "ghanaweb",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "paris saint germain",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "real madrid",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "outlook",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "ghana premier league",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
       "title": "man city",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -51,50 +91,10 @@
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "barcelona",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "africa world airlines",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "barcelona match today",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "arsenal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "flash score",
+      "rank": 11,
+      "title": "madrid match today",
       "volume": "500+",
       "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "inter miami",
-      "volume": "100+",
-      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
@@ -116,9 +116,9 @@
     },
     {
       "rank": 14,
-      "title": "man u",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "madrid vs",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
@@ -132,22 +132,30 @@
     },
     {
       "rank": 16,
-      "title": "barcelona vs",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "inter miami",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "play store",
+      "title": "fc barcelona match",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "man u",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "ousmane dembélé",
       "volume": "100+",
       "volume_numeric": 100,
@@ -155,7 +163,7 @@
       "volume_available": true
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "man city vs sunderland",
       "volume": "100+",
       "volume_numeric": 100,
@@ -163,7 +171,7 @@
       "volume_available": true
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "laliga",
       "volume": "200+",
       "volume_numeric": 200,
@@ -171,16 +179,8 @@
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "flashscore",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "serie a",
+      "title": "rma",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
@@ -188,28 +188,12 @@
     },
     {
       "rank": 23,
-      "title": "tottenham",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "ghanaweb",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "epl results",
+      "title": "manchester united",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-21T11:58:32.355819+00:00"
+  "fetched_at": "2026-09-22T10:58:10.885662+00:00"
 }
