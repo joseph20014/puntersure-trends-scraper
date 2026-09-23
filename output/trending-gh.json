@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "patience akyianu",
-  "top_trend_volume": "100+",
-  "top_trend_volume_numeric": 100,
-  "volume_available_count": 23,
+  "top_trend": "ghana national science and maths quiz",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
+  "volume_available_count": 16,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "patience akyianu",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "ghana national science and maths quiz",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "federico valverde",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "niger",
+      "title": "scholarship",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "patience akyianu",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "mohammed kudus",
+      "title": "federico valverde",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -44,55 +44,55 @@
     },
     {
       "rank": 5,
-      "title": "ghanaweb",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "paris saint germain",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "real madrid",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "outlook",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "ghana premier league",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "man city",
+      "title": "antoine semenyo ghana squad withdrawal",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "leicester city vs fulham u-21",
+      "volume": "21500+",
+      "volume_numeric": 21500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "gmet ghana weather forecast september 22",
+      "volume": "22500+",
+      "volume_numeric": 22500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "paris saint germain",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "real madrid vs psg",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "mrbeast",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "madrid match today",
+      "title": "arsenal vs hb køge",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -100,23 +100,23 @@
     },
     {
       "rank": 12,
-      "title": "madrid",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "niger",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "liverpool",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "ghanaweb",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "madrid vs",
+      "title": "luton town vs ipswich town",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -124,76 +124,20 @@
     },
     {
       "rank": 15,
-      "title": "real madrid match today",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "bayern vs man city",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "inter miami",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "fc barcelona match",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "man u",
+      "title": "mis",
       "volume": "200+",
       "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "ousmane dembélé",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "man city vs sunderland",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "laliga",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "rma",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "manchester united",
-      "volume": "100+",
-      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-22T10:58:10.885662+00:00"
+  "fetched_at": "2026-09-23T10:46:22.880295+00:00"
 }

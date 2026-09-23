@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "atlético madrid",
+  "top_trend": "kagera sugar",
   "top_trend_volume": "1K+",
   "top_trend_volume_numeric": 1000,
-  "volume_available_count": 6,
+  "volume_available_count": 4,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "atlético madrid",
+      "title": "kagera sugar",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -20,44 +20,28 @@
     },
     {
       "rank": 2,
-      "title": "brighton",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "sea",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "videos videos",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "google",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "real madrid",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "google",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "man city",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "leicester city vs fulham u-21",
+      "volume": "21500+",
+      "volume_numeric": 21500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-22T10:56:26.427094+00:00"
+  "fetched_at": "2026-09-23T10:44:31.744576+00:00"
 }

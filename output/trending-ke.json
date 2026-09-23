@@ -4,71 +4,71 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "museveni",
-  "top_trend_volume": "500+",
-  "top_trend_volume_numeric": 500,
-  "volume_available_count": 17,
+  "top_trend": "bank",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
+  "volume_available_count": 18,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "museveni",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "granit xhaka",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "capital markets authority kenya dangote warning",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "crawford",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "barcelona highlights",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "man city vs sunderland",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "man u vs fulham",
+      "title": "bank",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "arsenal vs hb køge",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "leicester city vs fulham u-21",
+      "volume": "212K+",
+      "volume_numeric": 212000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "crawford",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "ntsa free psv driver training",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "bayern vs man city",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "luton town vs ipswich town",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "google",
+      "title": "public service commission",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -76,63 +76,63 @@
     },
     {
       "rank": 9,
-      "title": "liverpool",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "mamboleo building collapse kisumu",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "bournemouth vs liverpool",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "granit xhaka",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "gemini",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "afcon 2027",
-      "volume": "2027200+",
-      "volume_numeric": 2027200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "real madrid",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "chatgpt",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "josé mourinho",
+      "title": "rukidi iv of tooro",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "barcelona highlights",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "rio ngumoha",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "farnborough vs uxbridge",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "capital markets authority kenya dangote warning",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "napoli",
+      "title": "mk dons vs crawley",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
@@ -140,12 +140,20 @@
     },
     {
       "rank": 17,
-      "title": "manu",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "chatgpt",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "gemini",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-22T10:55:33.752415+00:00"
+  "fetched_at": "2026-09-23T10:43:39.493284+00:00"
 }

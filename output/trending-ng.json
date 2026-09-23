@@ -4,119 +4,119 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "halima dangote",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
+  "top_trend": "arsenal vs hb køge",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "halima dangote",
+      "title": "arsenal vs hb køge",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "nelfund",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "hbm dangote bua cement nigeria",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "prison",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "school",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "bola tinubu",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "nelfund",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "2027 hyundai tucson hybrid",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "dangote refinery petrol price reduction",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "thecable",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "dangote refinery petrol price reduction",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "arman tsarukyan",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "leicester city vs fulham u-21",
+      "volume": "215K+",
+      "volume_numeric": 215000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "lioness season 3",
-      "volume": "31K+",
-      "volume_numeric": 31000,
+      "title": "uba financing for dangote shares",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "nigeria security and civil defence corps",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "real madrid vs psg",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "mohamed salah",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "chat gpt",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "inter miami cf",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "lioness season 3",
+      "volume": "32K+",
+      "volume_numeric": 32000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "ok",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "mohamed salah",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "lagos-calabar coastal highway",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "bola tinubu",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "man city vs sunderland",
+      "title": "bayern vs man city",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,15 +124,15 @@
     },
     {
       "rank": 15,
-      "title": "atlético vs real madrid",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "central bank of nigeria",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "fulham vs man utd",
+      "title": "detention",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,47 +140,47 @@
     },
     {
       "rank": 17,
-      "title": "bournemouth vs liverpool",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ok",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "amazon prime video",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "donald trump",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "real madrid",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bali",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "nigerian newspapers",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "2027 hyundai tucson hybrid",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "man city",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "arman tsarukyan",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "real madrid vs atlético madrid",
+      "title": "inter miami cf",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,15 +188,15 @@
     },
     {
       "rank": 23,
-      "title": "nigeria vs colombia",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "thecable",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "madrid match today",
+      "title": "luton town vs ipswich town",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "bbc football",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "weather today",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-22T10:55:59.978573+00:00"
+  "fetched_at": "2026-09-23T10:44:05.729136+00:00"
 }
