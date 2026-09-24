@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "tooro kingdom",
+  "top_trend": "moses matovu",
   "top_trend_volume": "5K+",
   "top_trend_volume_numeric": 5000,
-  "volume_available_count": 11,
+  "volume_available_count": 18,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "tooro kingdom",
+      "title": "moses matovu",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "arsenal vs hb køge",
+      "title": "nssf",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -28,47 +28,47 @@
     },
     {
       "rank": 3,
-      "title": "weather",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "south korea vs ecuador",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "teacher education",
+      "title": "tooro kingdom",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "uneb ple uce uace 2026 dates",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "bayern vs man city",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "leicester city vs fulham u-21",
-      "volume": "212K+",
-      "volume_numeric": 212000,
+      "title": "arsenal vs hb køge",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "maj gen birungi bail application hearing",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "salva kiir transitional government removal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "luton town vs ipswich town",
+      "title": "cole palmer",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -76,28 +76,84 @@
     },
     {
       "rank": 9,
-      "title": "granit xhaka",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "military police",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "liam rosenior",
+      "title": "emiliano martínez",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "bayern vs man city",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "maj gen birungi bail application hearing",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "leicester city vs fulham u-21",
+      "volume": "212K+",
+      "volume_numeric": 212000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "iraq vs oman",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "ig",
+      "rank": 15,
+      "title": "weather",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "airline",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "luton town vs ipswich town",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "granit xhaka",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-23T10:44:57.791266+00:00"
+  "fetched_at": "2026-09-24T11:05:23.275915+00:00"
 }

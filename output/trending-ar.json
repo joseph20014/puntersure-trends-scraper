@@ -4,55 +4,55 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "bono",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "canto 4",
+  "top_trend_volume": "420K+",
+  "top_trend_volume_numeric": 420000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "bono",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "canto 4",
+      "volume": "420K+",
+      "volume_numeric": 420000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "hayden panettiere",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "pensión",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "deportick",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "corea del sur - ecuador",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "pami",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "viento",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "inpres",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "club atlético river plate",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "temblor en la rioja",
+      "title": "moneda",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -60,47 +60,47 @@
     },
     {
       "rank": 7,
-      "title": "tulio crespi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "santa fe - deportivo cali",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "encuesta",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "temblor",
+      "title": "lotería de santa fe",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "selección de fútbol de argentina",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "5K+ arrow_upward 1,000%",
+      "volume": "20275K+",
+      "volume_numeric": 20275000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "mirtha legrand",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "entrenador",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "hayden panettiere",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "la cueva del león",
+      "title": "caballito",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "primera división",
+      "title": "rick sollo",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,31 +116,31 @@
     },
     {
       "rank": 14,
-      "title": "tiempo",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "mora bianchi",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "posiciones de club atlético lanús contra estudiantes de la plata",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "tulio crespi",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "juan otero",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "ingreso",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "cuenta dni",
+      "title": "javier milei",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,39 +148,39 @@
     },
     {
       "rank": 18,
-      "title": "capital humano",
+      "title": "encuesta",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "escrache",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "universidad",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "taylor swift",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "santa fe - deportivo cali",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "clima",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "fito paez",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "edinson cavani",
+      "title": "u. la calera - u. católica",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "22 de septiembre",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "uocra",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "meteorología",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "juan otero",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "feriados 2026",
-      "volume": "20261K+",
-      "volume_numeric": 20261000,
+      "title": "capital humano",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-23T10:47:15.082136+00:00"
+  "fetched_at": "2026-09-24T11:07:33.850313+00:00"
 }

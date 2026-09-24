@@ -4,22 +4,78 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "bank",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
-  "volume_available_count": 18,
+  "top_trend": "fbi",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
+  "volume_available_count": 24,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "fbi",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
       "title": "bank",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "south korea vs ecuador",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "salva kiir",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
+      "rank": 5,
+      "title": "uasu seven day strike notice",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "lawyer",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "japan vs uruguay",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "cole palmer",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
       "title": "arsenal vs hb køge",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -27,7 +83,15 @@
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 10,
+      "title": "kenya power",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
       "title": "leicester city vs fulham u-21",
       "volume": "212K+",
       "volume_numeric": 212000,
@@ -35,23 +99,39 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "crawford",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 12,
+      "title": "samsung galaxy",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "ntsa free psv driver training",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 13,
+      "title": "cocomelon",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
+      "rank": 14,
+      "title": "barcelona vs paris fc",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "iraq vs oman",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
       "title": "bayern vs man city",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -59,7 +139,7 @@
       "volume_available": true
     },
     {
-      "rank": 7,
+      "rank": 17,
       "title": "luton town vs ipswich town",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -67,15 +147,15 @@
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "public service commission",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "rank": 18,
+      "title": "emiliano martínez",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
+      "rank": 19,
       "title": "mamboleo building collapse kisumu",
       "volume": "500+",
       "volume_numeric": 500,
@@ -83,31 +163,7 @@
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "granit xhaka",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "rukidi iv of tooro",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "barcelona highlights",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
+      "rank": 20,
       "title": "rio ngumoha",
       "volume": "200+",
       "volume_numeric": 200,
@@ -115,7 +171,23 @@
       "volume_available": true
     },
     {
-      "rank": 14,
+      "rank": 21,
+      "title": "facebook",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "rukidi iv of tooro",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
       "title": "farnborough vs uxbridge",
       "volume": "200+",
       "volume_numeric": 200,
@@ -123,37 +195,13 @@
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "capital markets authority kenya dangote warning",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
+      "rank": 24,
       "title": "mk dons vs crawley",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "chatgpt",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "gemini",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-23T10:43:39.493284+00:00"
+  "fetched_at": "2026-09-24T11:04:05.073760+00:00"
 }

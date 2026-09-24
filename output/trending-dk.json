@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "rusland",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
+  "top_trend": "michael olesen",
+  "top_trend_volume": "200+",
+  "top_trend_volume_numeric": 200,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "rusland",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "regering",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "dennis knudsen",
+      "title": "michael olesen",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "verdensrekord",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "rusland",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "pension",
+      "title": "det norske kongehus",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,15 +44,15 @@
     },
     {
       "rank": 5,
-      "title": "hud",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "arbejdsulykke",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "landmand søger kærlighed",
+      "title": "dennis knudsen",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "pige",
+      "title": "helikopter",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,31 +68,31 @@
     },
     {
       "rank": 8,
-      "title": "gratis tandlæge 2027",
-      "volume": "20275K+",
-      "volume_numeric": 20275000,
+      "title": "jonas vingegaard",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "tv midtvest",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "regering",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "mikayla demaiter",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "kvinde",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "hayden panettiere",
+      "title": "ulykke",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "mike burton",
+      "title": "colosseum",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "erling haaland",
+      "title": "pige",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,7 +116,7 @@
     },
     {
       "rank": 14,
-      "title": "märtha louise af norge",
+      "title": "mike burton",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,23 +124,23 @@
     },
     {
       "rank": 15,
-      "title": "europa",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "gratis tandlæge 2027",
+      "volume": "20272K+",
+      "volume_numeric": 20272000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "tyskland",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "carl-frederik bévort",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "bedrageri",
+      "title": "hayden panettiere",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,15 +148,15 @@
     },
     {
       "rank": 18,
-      "title": "kylian mbappé",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "märtha louise af norge",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "tv2 øst",
+      "title": "mikayla demaiter",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -164,31 +164,31 @@
     },
     {
       "rank": 20,
-      "title": "ella langley",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ida solbakken",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "nordkorea",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "tyskland",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "landmand søger kærlighed 2026",
-      "volume": "2026500+",
-      "volume_numeric": 2026500,
+      "title": "telenor",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "det danske kongehus",
+      "title": "danmarks nationalbank",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "taylor swift",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "erling haaland",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "fodbold",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "pension",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-23T10:45:56.830819+00:00"
+  "fetched_at": "2026-09-24T11:06:15.501126+00:00"
 }

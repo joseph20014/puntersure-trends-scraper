@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "nhlanhla mkhwanazi",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "sassa payment dates for september 2026",
+  "top_trend_volume": "202620K+",
+  "top_trend_volume_numeric": 202620000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "nhlanhla mkhwanazi",
+      "title": "sassa payment dates for september 2026",
+      "volume": "202620K+",
+      "volume_numeric": 202620000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "sa vs aus",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "sassa grant schedule october 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 3,
-      "title": "donald trump",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "south africa vs australia",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "tsakane matlala",
+      "title": "bafana bafana guinea match details",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "spencer sonn",
+      "title": "mhlontlo",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "identity theft",
+      "title": "pronutro",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -60,71 +60,71 @@
     },
     {
       "rank": 7,
-      "title": "kaizer chiefs midfielder nkosingiphile ngcobo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "disc jockey",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "senzo mchunu kzn home raid",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "claudette masethe",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "school",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "kwamakhutha",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "sibongiseni mthethwa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "retirement",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "relebohile mofokeng belgian pro league",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "bafana bafana",
+      "title": "dstv",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
+      "rank": 10,
       "title": "heritage day",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "pensioner",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "south korea vs ecuador",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "proteas",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "nations league",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "travel ban",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,71 +132,71 @@
     },
     {
       "rank": 16,
-      "title": "actress hayden panettiere fentanyl toxicity",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "senzo mchunu",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "themba zwane",
+      "title": "matthew breetzke",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "fuel",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "america's got talent",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "japan vs uruguay",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "malcolm marx",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "statistics south africa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "south africa fuel cost october forecast",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "cedric kaze new coaching job",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "nhlanhla mkhwanazi",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "shadrack sibiya",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "economy",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "buffalo city metropolitan municipality",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "new zealand vs palestine",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "rugby union",
+      "title": "lebohang maboe",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "elizabeth tsontso moselakgomo memorial run",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "donald trump",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-23T10:45:23.944670+00:00"
+  "fetched_at": "2026-09-24T11:05:49.370017+00:00"
 }

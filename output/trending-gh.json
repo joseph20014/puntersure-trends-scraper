@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "ghana national science and maths quiz",
+  "top_trend": "kwame dzokoto",
   "top_trend_volume": "2K+",
   "top_trend_volume_numeric": 2000,
-  "volume_available_count": 16,
+  "volume_available_count": 24,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ghana national science and maths quiz",
+      "title": "kwame dzokoto",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "scholarship",
+      "title": "south korea vs ecuador",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -28,79 +28,79 @@
     },
     {
       "rank": 3,
-      "title": "patience akyianu",
+      "title": "ghana national science and maths quiz",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "nana agyei baffour awuah",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "federico valverde",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "antoine semenyo ghana squad withdrawal",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "scholarship",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "leicester city vs fulham u-21",
-      "volume": "21500+",
-      "volume_numeric": 21500,
+      "title": "ivory coast national football team",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "gmet ghana weather forecast september 22",
-      "volume": "22500+",
-      "volume_numeric": 22500,
+      "title": "cole palmer",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "paris saint germain",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ghana national football team",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "real madrid vs psg",
+      "title": "ghana education service",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "barcelona vs paris fc",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "christian eriksen",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "mrbeast",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "arsenal vs hb køge",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "niger",
+      "title": "ghana fake currency printing hubs raided",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "ghanaweb",
+      "title": "dreams vs medeama",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -116,6 +116,78 @@
     },
     {
       "rank": 14,
+      "title": "real madrid vs psg",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "fc barcelona femení vs paris fc (women) standings",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "leicester city vs fulham u-21",
+      "volume": "21500+",
+      "volume_numeric": 21500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "mrbeast",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "gmet ghana weather forecast september 22",
+      "volume": "22500+",
+      "volume_numeric": 22500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "chelsea f.c.",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "arsenal vs hb køge",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "xabi alonso",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "bayern vs man city",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
       "title": "luton town vs ipswich town",
       "volume": "200+",
       "volume_numeric": 200,
@@ -123,15 +195,7 @@
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "bayern vs man city",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
+      "rank": 24,
       "title": "mis",
       "volume": "200+",
       "volume_numeric": 200,
@@ -139,5 +203,5 @@
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-23T10:46:22.880295+00:00"
+  "fetched_at": "2026-09-24T11:06:41.577300+00:00"
 }

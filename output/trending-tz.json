@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "kagera sugar",
+  "top_trend": "taifa stars",
   "top_trend_volume": "1K+",
   "top_trend_volume_numeric": 1000,
-  "volume_available_count": 4,
+  "volume_available_count": 7,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "kagera sugar",
+      "title": "taifa stars",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -20,22 +20,46 @@
     },
     {
       "rank": 2,
-      "title": "sea",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "video",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "google",
+      "title": "tanzania",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "samsung galaxy",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "200+ arrow_upward 600%",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "barcelona vs paris fc",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
       "title": "leicester city vs fulham u-21",
       "volume": "21500+",
       "volume_numeric": 21500,
@@ -43,5 +67,5 @@
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-23T10:44:31.744576+00:00"
+  "fetched_at": "2026-09-24T11:04:57.175789+00:00"
 }
