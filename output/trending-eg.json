@@ -4,119 +4,119 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "بنك مصر",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "أستراليا ضد البرازيل",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "بنك مصر",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "أستراليا ضد البرازيل",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "عاصفة رعدية",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "المصري اليوم",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "خبز",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "صبري عبد المنعم",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "رئيس الجمهورية",
+      "title": "البرتغال ضد ويلز",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "وقود",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "australia vs brazil",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "منتخب مصر",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "مصرف",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "إنستاباي",
+      "title": "portugal vs wales",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "النرويج ضد الدنمارك",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "شادي محمد",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "صراف آلي",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "مجلس الوزراء",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "south korea vs ecuador",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "فيرجيل فان دايك",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "monster",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "عمرو دياب",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "رمضان",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "دوري الأمم",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "مدحت شلبي",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "راتب",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "تصفيات أمم أفريقيا",
+      "title": "خبر",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -124,31 +124,31 @@
     },
     {
       "rank": 15,
-      "title": "أسعار الفراخ البيضاء اليوم الخميس",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "بني مزار",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "الطقس",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "nations league",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "محمود الخطيب",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "africa cup of nations qualification",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "سبيكة",
+      "title": "منى الشاذلي",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -156,31 +156,31 @@
     },
     {
       "rank": 19,
-      "title": "القبض على ملحن",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "هولندا ضد ألمانيا",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "عبد الفتاح السيسي",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "رئيس الجمهورية",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "قرار",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "تعويض",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "أحمد سراج",
+      "title": "norway vs denmark",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "السعودية ضد الكويت",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "عاصفة رعدية",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "نادية رشاد",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "محمود الخطيب",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "البنك الأهلي المصري",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "investing",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-24T11:07:07.747157+00:00"
+  "fetched_at": "2026-09-25T11:07:56.288893+00:00"
 }

@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "kwame dzokoto",
+  "top_trend": "australia vs brazil",
   "top_trend_volume": "2K+",
   "top_trend_volume_numeric": 2000,
   "volume_available_count": 24,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "kwame dzokoto",
+      "title": "australia vs brazil",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -20,47 +20,47 @@
     },
     {
       "rank": 2,
-      "title": "south korea vs ecuador",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "bog new cedi banknotes november",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "ghana national science and maths quiz",
+      "title": "côte d'ivoire vs ghana",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "ghana vs cote d'ivoire",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "portugal vs wales",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "nana agyei baffour awuah",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "scholarship",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "ivory coast national football team",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "antoine semenyo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "cole palmer",
+      "title": "netherlands vs germany",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,95 +68,95 @@
     },
     {
       "rank": 8,
-      "title": "ghana national football team",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "norway vs denmark",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "ghana education service",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "barcelona vs paris fc",
+      "title": "kwame dzokoto",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "christian eriksen",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "ghana fake currency printing hubs raided",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "dreams vs medeama",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "real madrid vs psg",
+      "rank": 10,
+      "title": "samuel erasmus",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "fc barcelona femení vs paris fc (women) standings",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "rank": 11,
+      "title": "ghana",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "leicester city vs fulham u-21",
-      "volume": "21500+",
-      "volume_numeric": 21500,
+      "rank": 12,
+      "title": "senegal vs mozambique",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "mrbeast",
+      "rank": 13,
+      "title": "nana agyei baffour awuah",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "harry kane",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "portugal",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "cole palmer",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "south korea vs ecuador",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "gmet ghana weather forecast september 22",
-      "volume": "22500+",
-      "volume_numeric": 22500,
+      "title": "ghana education service",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "chelsea f.c.",
+      "title": "dr congo vs equatorial guinea",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -164,23 +164,23 @@
     },
     {
       "rank": 20,
-      "title": "arsenal vs hb køge",
+      "title": "barcelona vs paris fc",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "cristiano ronaldo",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "xabi alonso",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "bayern vs man city",
+      "title": "ghana fc",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -188,20 +188,20 @@
     },
     {
       "rank": 23,
-      "title": "luton town vs ipswich town",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "ghana fake currency printing hubs raided",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "mis",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "dreams vs medeama",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-24T11:06:41.577300+00:00"
+  "fetched_at": "2026-09-25T11:07:30.079699+00:00"
 }

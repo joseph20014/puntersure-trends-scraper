@@ -4,22 +4,86 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "canto 4",
-  "top_trend_volume": "420K+",
-  "top_trend_volume_numeric": 420000,
+  "top_trend": "australia - brasil",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "canto 4",
-      "volume": "420K+",
-      "volume_numeric": 420000,
+      "title": "australia - brasil",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
+      "title": "arnaud denis",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "marcos franchi",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "brasil vs",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "gran premio de azerbaiyán",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "estafa",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "deportick",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "portugal - gales",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "trabajo",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
       "title": "pensión",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -27,80 +91,16 @@
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "corea del sur - ecuador",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "viento",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "club atlético river plate",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "moneda",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "lotería de santa fe",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "selección de fútbol de argentina",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "5K+ arrow_upward 1,000%",
-      "volume": "20275K+",
-      "volume_numeric": 20275000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "mirtha legrand",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "hayden panettiere",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "canto 4",
+      "volume": "420K+",
+      "volume_numeric": 420000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "caballito",
+      "title": "costa rica - curazao",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -108,23 +108,23 @@
     },
     {
       "rank": 13,
-      "title": "rick sollo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "evento de el niño de 2026 2027",
+      "volume": "20275K+",
+      "volume_numeric": 20275000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "mora bianchi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "países bajos - alemania",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "tulio crespi",
+      "title": "ingreso",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -132,47 +132,47 @@
     },
     {
       "rank": 16,
-      "title": "ingreso",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "club atlético river plate",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "javier milei",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "corea del sur - ecuador",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "encuesta",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "noruega - dinamarca",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "escrache",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "propiedad",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "santa fe - deportivo cali",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "viento",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "fito paez",
+      "title": "lionel scaloni",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "u. la calera - u. católica",
+      "title": "colegio en belgrano st martin in the fields school",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "liga de naciones",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "gualaceo - independiente del valle",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "uocra",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "juan otero",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "capital humano",
+      "title": "fondo monetario internacional",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-24T11:07:33.850313+00:00"
+  "fetched_at": "2026-09-25T11:08:22.310065+00:00"
 }

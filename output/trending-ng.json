@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "cole palmer",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "portugal vs wales",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "cole palmer",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "portugal vs wales",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "xiaomi 18 pro max",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "neco result checker",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "samsung galaxy s27 pro leak",
+      "title": "australia vs brazil",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -36,87 +36,87 @@
     },
     {
       "rank": 4,
-      "title": "fg petrol import approval 2026",
-      "volume": "20265K+",
-      "volume_numeric": 20265000,
+      "title": "norway vs denmark",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "lasepa seals lagos establishments",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "neco result 2026",
-      "volume": "20262K+",
-      "volume_numeric": 20262000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "south korea vs ecuador",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "saudi arabia vs kuwait",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "japan vs uruguay",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "disc jockey",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "school",
+      "title": "portugal",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "max dowman",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "rank": 6,
+      "title": "netherlands vs germany",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "barcelona vs paris fc",
+      "rank": 7,
+      "title": "xiaomi 18 pro max",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "côte d'ivoire vs ghana",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 9,
+      "title": "south korea vs ecuador",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "brazil",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "benjamin netanyahu unga address protest",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "cristiano ronaldo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "nigerian naira",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "arsenal vs hb køge",
+      "title": "senegal vs mozambique",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -124,39 +124,39 @@
     },
     {
       "rank": 15,
-      "title": "conversion to islam",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "niger",
+      "title": "nigeria vs madagascar",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "cole palmer",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "prison",
+      "title": "mark carney",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "dr congo vs equatorial guinea",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "leicester city vs fulham u-21",
-      "volume": "215K+",
-      "volume_numeric": 215000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 19,
-      "title": "real madrid vs psg",
+      "title": "japan vs uruguay",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,15 +164,15 @@
     },
     {
       "rank": 20,
-      "title": "cameroon",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "barcelona vs paris fc",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "dangote bua cement prices nigeria",
+      "title": "cameroon vs comoros",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "lionel messi career free kick goals",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fg petrol import approval 2026",
+      "volume": "20265K+",
+      "volume_numeric": 20265000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "emiliano martínez",
+      "title": "samsung galaxy s26 ultra",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "uba financing for dangote shares",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "germany",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "peter okoye",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "conversion to islam",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-24T11:04:31.168141+00:00"
+  "fetched_at": "2026-09-25T11:05:19.602238+00:00"
 }
