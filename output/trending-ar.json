@@ -4,71 +4,71 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "australia - brasil",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "ciclogénesis",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "australia - brasil",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ciclogénesis",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "arnaud denis",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "mansión",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "marcos franchi",
+      "title": "daniel osvaldo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "rodrigo de paul",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "turquía - francia",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "brasil vs",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "gran premio de azerbaiyán",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "estafa",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "negro oro",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "deportick",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "arnaud denis",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "portugal - gales",
+      "title": "australia - brasil",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -76,7 +76,7 @@
     },
     {
       "rank": 9,
-      "title": "trabajo",
+      "title": "océano",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,39 +84,39 @@
     },
     {
       "rank": 10,
-      "title": "pensión",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "la cocina rebelde",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "canto 4",
-      "volume": "420K+",
-      "volume_numeric": 420000,
+      "title": "marcos franchi",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "costa rica - curazao",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "gran premio de azerbaiyán",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "evento de el niño de 2026 2027",
-      "volume": "20275K+",
-      "volume_numeric": 20275000,
+      "title": "agent",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "países bajos - alemania",
+      "title": "argentina vs paraguay",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -124,15 +124,15 @@
     },
     {
       "rank": 15,
-      "title": "ingreso",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "infobae",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "club atlético river plate",
+      "title": "avión",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -140,31 +140,31 @@
     },
     {
       "rank": 17,
-      "title": "corea del sur - ecuador",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "deportick",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "noruega - dinamarca",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "portugal - gales",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "propiedad",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "age",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "viento",
+      "title": "trabajo",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -172,23 +172,23 @@
     },
     {
       "rank": 21,
-      "title": "lionel scaloni",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "mirtha legrand",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "colegio en belgrano st martin in the fields school",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "países bajos - alemania",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "liga de naciones",
+      "title": "camionero",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "gualaceo - independiente del valle",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "estafa",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "fondo monetario internacional",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "noruega - dinamarca",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-25T11:08:22.310065+00:00"
+  "fetched_at": "2026-09-26T10:50:07.467334+00:00"
 }

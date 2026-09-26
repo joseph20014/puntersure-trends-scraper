@@ -4,30 +4,22 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "australia vs brazil",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
-  "volume_available_count": 24,
+  "top_trend": "ghanaian cedi",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
+  "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "australia vs brazil",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ghanaian cedi",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "bog new cedi banknotes november",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
       "title": "côte d'ivoire vs ghana",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -35,16 +27,24 @@
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "türkiye vs france",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "ghana vs cote d'ivoire",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "2026 2027 ghana cocoa price",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "portugal vs wales",
+      "title": "australia vs brazil",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -52,15 +52,15 @@
     },
     {
       "rank": 6,
-      "title": "antoine semenyo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "manchester city f.c.",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "netherlands vs germany",
+      "title": "morocco vs gabon",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,39 +68,39 @@
     },
     {
       "rank": 8,
-      "title": "norway vs denmark",
+      "title": "nigeria vs madagascar",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "antoine semenyo",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "kwame dzokoto",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "samuel erasmus",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "portugal vs wales",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "ghana",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ghana vs ivory coast",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "senegal vs mozambique",
+      "title": "egypt vs angola",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "nana agyei baffour awuah",
+      "title": "netherlands vs germany",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,31 +116,31 @@
     },
     {
       "rank": 14,
-      "title": "harry kane",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "portugal",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "cole palmer",
+      "title": "italy vs belgium",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "mozambique vs senegal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "norway vs denmark",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "south korea vs ecuador",
+      "title": "france vs",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -148,15 +148,15 @@
     },
     {
       "rank": 18,
-      "title": "ghana education service",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bank",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "dr congo vs equatorial guinea",
+      "title": "france",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -164,31 +164,31 @@
     },
     {
       "rank": 20,
-      "title": "barcelona vs paris fc",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "cristiano ronaldo",
+      "title": "mali vs cabo verde",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "samuel erasmus",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "ghana fc",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "ghana",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "ghana fake currency printing hubs raided",
+      "title": "sudan vs ethiopia",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -196,12 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "dreams vs medeama",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "portugal",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "harry kane",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-25T11:07:30.079699+00:00"
+  "fetched_at": "2026-09-26T10:49:15.603373+00:00"
 }
