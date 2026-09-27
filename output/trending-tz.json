@@ -4,30 +4,38 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "turkey national football team vs france national football team standings",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
-  "volume_available_count": 22,
+  "top_trend": "england vs spain",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
+  "volume_available_count": 18,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "turkey national football team vs france national football team standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "england vs spain",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "portugal vs wales",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "turkey national football team vs france national football team standings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
+      "title": "efootball",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
       "title": "tanzania vs guinea-bissau",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -35,24 +43,16 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "morocco vs gabon",
+      "rank": 5,
+      "title": "south africa vs guinea",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "australia vs brazil",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "netherlands vs germany",
+      "title": "türkiye vs france",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -60,15 +60,15 @@
     },
     {
       "rank": 7,
-      "title": "italy vs belgium",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "morocco vs gabon",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "egypt vs angola",
+      "title": "italy vs belgium",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -76,7 +76,7 @@
     },
     {
       "rank": 9,
-      "title": "el ninyo",
+      "title": "mozambique vs senegal",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -84,22 +84,30 @@
     },
     {
       "rank": 10,
-      "title": "mozambique vs senegal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "egypt vs angola",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "norway vs denmark",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "czechia vs croatia",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
+      "title": "guinea-bissau",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
       "title": "nigeria vs madagascar",
       "volume": "500+",
       "volume_numeric": 500,
@@ -107,18 +115,10 @@
       "volume_available": true
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "algeria vs zambia",
       "volume": "200+",
       "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "dr congo vs equatorial guinea",
-      "volume": "1K+",
-      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -132,22 +132,6 @@
     },
     {
       "rank": 16,
-      "title": "nandy",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "côte d'ivoire vs ghana",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
       "title": "sudan vs ethiopia",
       "volume": "200+",
       "volume_numeric": 200,
@@ -155,7 +139,7 @@
       "volume_available": true
     },
     {
-      "rank": 19,
+      "rank": 17,
       "title": "tanzania vs guinea",
       "volume": "200+",
       "volume_numeric": 200,
@@ -163,29 +147,13 @@
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "tunisia vs uganda",
+      "rank": 18,
+      "title": "brazil",
       "volume": "200+",
       "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "portugal",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "mwananchi",
-      "volume": "500+",
-      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-26T10:47:14.002514+00:00"
+  "fetched_at": "2026-09-27T11:22:11.529985+00:00"
 }

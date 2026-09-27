@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "australia vs brazil",
+  "top_trend": "australia vs south africa",
   "top_trend_volume": "50K+",
   "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "australia vs brazil",
+      "title": "australia vs south africa",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "turkey national football team vs france national football team standings",
+      "title": "south africa news",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -28,31 +28,31 @@
     },
     {
       "rank": 3,
-      "title": "kruger national park chalet fire",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "south africa national soccer team vs guinea national football team standings",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "illegal immigration",
+      "title": "springbok game today",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "south africa vs australia",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "khumbudzo ntshavheni",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "cameron hanekom springboks perth omission",
+      "title": "springboks",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,103 +60,103 @@
     },
     {
       "rank": 7,
-      "title": "azerbaijan grand prix",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "england national football team vs spain national football team standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "urc",
+      "title": "sassa old age grants october 2026",
+      "volume": "202610K+",
+      "volume_numeric": 202610000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "azerbaijan grand prix",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "france national football team",
+      "rank": 10,
+      "title": "rugby today",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "ronald lamola un general assembly",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "sociedad vs real madrid",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "sports",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "pitso mosimane",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "west indies vs india",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "weather warning",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "portugal vs wales",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "nail",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "urc fixtures",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "south africa green id book deadline",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "south africa october fuel costs",
+      "title": "mohamed salah leaves egypt camp",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "street racing",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "gayton mckenzie local government campaign",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "leopard",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "cold front",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "michael carrick",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "william, prince of wales",
+      "title": "strikeout",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -164,15 +164,15 @@
     },
     {
       "rank": 20,
-      "title": "africa cup of nations qualification",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "sa rugby",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "zimbabwe",
+      "title": "sa vs aus cricket",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "mamelodi sundowns status in african football",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "icc",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "bees",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fabian hürzeler",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "italy vs belgium",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "rugby streams",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "netherlands vs germany",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "temba bavuma",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-26T10:48:05.702717+00:00"
+  "fetched_at": "2026-09-27T11:23:02.706291+00:00"
 }

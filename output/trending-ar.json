@@ -4,143 +4,143 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "ciclogénesis",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "clima",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ciclogénesis",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "clima",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "mansión",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "inglaterra - españa",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "daniel osvaldo",
+      "title": "perfil",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "méxico - colombia",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "jairo",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "rodrigo de paul",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "turquía - francia",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "negro oro",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "tiempo de mañana",
+      "volume": "500K+",
+      "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "arnaud denis",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "jimena barón",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "australia - brasil",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "ailin perez",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "océano",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "estudiantes - rosario central",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "la cocina rebelde",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "carlos melconian",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "marcos franchi",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "sofía martínez",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "gran premio de azerbaiyán",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "alerta meteorológica",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "agent",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "cristina fernández de kirchner",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "argentina vs paraguay",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "discapacidad",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "infobae",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "leandro paredes",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "avión",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "puente colgante",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "deportick",
+      "title": "tiempo mañana",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -148,31 +148,31 @@
     },
     {
       "rank": 18,
-      "title": "portugal - gales",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "google's birthday",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "age",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "trabajo",
+      "title": "ciclogénesis",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "flavio briatore",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "mirtha legrand",
+      "title": "mansión",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "países bajos - alemania",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ufc",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "camionero",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "negro oro",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "estafa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "turquía - francia",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "noruega - dinamarca",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "yanina zilli",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-26T10:50:07.467334+00:00"
+  "fetched_at": "2026-09-27T11:24:45.560219+00:00"
 }
