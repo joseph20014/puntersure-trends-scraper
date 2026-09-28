@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "google's birthday",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
+  "top_trend": "politiet",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "google's birthday",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "politiet",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "etna",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "regent",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "tv2 nord",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "arbejdsulykke",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "kunstig intelligens",
+      "title": "angreb",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -44,63 +44,63 @@
     },
     {
       "rank": 5,
-      "title": "præst",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "juri knorr",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "danmark wales",
+      "title": "anders agger",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "ild",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "remco evenepoel",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "rank": 8,
+      "title": "danmark wales",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "anja andersen",
+      "rank": 9,
+      "title": "rasmus højlund",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "berlingske",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "google's birthday",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "nyheder",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "amalienborg",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "elbil",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "politiker",
+      "title": "cristiano ronaldo",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,39 +108,39 @@
     },
     {
       "rank": 13,
-      "title": "tv 2",
-      "volume": "21K+",
-      "volume_numeric": 21000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "bank",
+      "title": "norge portugal",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "konge",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "cyklist",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "etna",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "billund",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "brandon mcnulty",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "danskere",
+      "title": "dronning mary af danmark",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "england spanien",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "sports",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "portræt",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ekspert",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "jytte krag-juel-vind-frijs",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "jobs",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "restaurant",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "movies",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "statsborgerskab",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "fishing",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "unabomber",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "events",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "england vs spain",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "news",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "det norske kongehus",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "music",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-27T11:23:28.310414+00:00"
+  "fetched_at": "2026-09-28T12:52:58.280797+00:00"
 }

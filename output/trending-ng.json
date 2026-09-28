@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "england vs spain",
+  "top_trend": "norway vs portugal",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "england vs spain",
+      "title": "norway vs portugal",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,55 +20,55 @@
     },
     {
       "rank": 2,
-      "title": "erling haaland",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "chelsea vs arsenal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "usa vs peru",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "germany vs greece",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "apple iphone 18 pro",
+      "title": "columbus vs inter miami",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "japan vs venezuela",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "kizz daniel",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "south africa vs guinea",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "vozinha",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "czechia vs croatia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "serbia vs netherlands",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "arrest",
+      "title": "south korea vs uruguay",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,140 +76,140 @@
     },
     {
       "rank": 9,
-      "title": "slovenia vs scotland",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "lionel messi lamine yamal barcelona",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "mexico vs colombia",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "china",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "dangote",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "taiwo hassan",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "shehu sani on nasir el-rufai",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "black market movie",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "olubiyi fadeyi",
+      "title": "wrestling",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "moon",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "rank": 10,
+      "title": "atiku urges tinubu wage increase",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "türkiye vs france",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 11,
+      "title": "michael carrick",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "apm party calls on tinubu",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "mohamed salah",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "nigeria vs",
+      "rank": 12,
+      "title": "england national football team vs spain national football team standings",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "logroño vs barcelona",
+      "rank": 13,
+      "title": "erling haaland",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "arrest",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "man utd vs west ham",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "black market",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "usa vs peru",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "student loan",
       "volume": "2K+",
       "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "apple iphone 18 pro",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "chinda ogundu",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "czechia vs croatia",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "kashim shettima",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "denmark vs wales",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "canada vs chile",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "femi hamzat",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "italy vs belgium",
+      "title": "portugal",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-27T11:21:45.921288+00:00"
+  "fetched_at": "2026-09-28T12:50:56.037603+00:00"
 }

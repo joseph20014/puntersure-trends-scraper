@@ -4,14 +4,46 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "england vs spain",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "updf battle groups pre-deployment",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "updf battle groups pre-deployment",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "japan vs venezuela",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "norway vs portugal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "south korea vs uruguay",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
       "title": "england vs spain",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -19,88 +51,56 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "mohamed salah",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "usa vs peru",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "erling haaland",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "türkiye vs france",
+      "rank": 6,
+      "title": "germany vs greece",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "charlton vs man city",
+      "rank": 7,
+      "title": "erling haaland",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "chelsea vs arsenal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "columbus vs inter miami",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "mexico vs colombia",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "italy vs belgium",
+      "rank": 10,
+      "title": "serbia vs netherlands",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "viktor gyökeres",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "morocco vs gabon",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "south africa vs guinea",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "man utd vs west ham",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "slovenia vs scotland",
+      "title": "denmark vs wales",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,15 +108,15 @@
     },
     {
       "rank": 13,
-      "title": "kenya vs eritrea",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "kabalega international airport first landing",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "sweden vs romania",
+      "title": "mohamed salah",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,23 +124,23 @@
     },
     {
       "rank": 15,
-      "title": "czechia vs croatia",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "portugal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "manchester city f.c.",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "libya",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "updf motorised infantry division training",
+      "title": "usa vs peru",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "north macedonia vs switzerland",
+      "title": "austria vs kosovo",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -156,60 +156,60 @@
     },
     {
       "rank": 19,
-      "title": "turkey national football team vs france national football team standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "israel vs ireland",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "canada vs chile",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "portugal fc",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "sudan vs ethiopia",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "viktor gyökeres",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "nigeria vs madagascar",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "mozambique vs senegal",
+      "title": "south africa vs guinea",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "france",
+      "rank": 23,
+      "title": "mexico vs colombia",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "spain fc",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "argentina national football team",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "kenya vs eritrea",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-27T11:22:37.130400+00:00"
+  "fetched_at": "2026-09-28T12:51:48.044058+00:00"
 }

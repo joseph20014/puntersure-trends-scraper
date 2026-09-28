@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "england vs spain",
+  "top_trend": "norway national football team vs portugal national football team standings",
   "top_trend_volume": "10K+",
   "top_trend_volume_numeric": 10000,
-  "volume_available_count": 18,
+  "volume_available_count": 15,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "england vs spain",
+      "title": "norway national football team vs portugal national football team standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -20,47 +20,47 @@
     },
     {
       "rank": 2,
-      "title": "turkey national football team vs france national football team standings",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "japan vs venezuela",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "efootball",
+      "title": "tanzania",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "kocha",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "tanzania vs guinea-bissau",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 5,
+      "title": "england vs spain",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "south africa vs guinea",
+      "rank": 6,
+      "title": "germany vs greece",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "türkiye vs france",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "morocco vs gabon",
+      "title": "columbus vs inter miami",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "italy vs belgium",
+      "title": "chelsea vs arsenal",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -76,15 +76,15 @@
     },
     {
       "rank": 9,
-      "title": "mozambique vs senegal",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "serbia vs netherlands",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "egypt vs angola",
+      "title": "south africa vs guinea",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "czechia vs croatia",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "efootball",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "guinea-bissau",
+      "title": "denmark vs wales",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "nigeria vs madagascar",
+      "title": "el ninyo",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -116,7 +116,7 @@
     },
     {
       "rank": 14,
-      "title": "algeria vs zambia",
+      "title": "czechia vs croatia",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -124,36 +124,12 @@
     },
     {
       "rank": 15,
-      "title": "mali vs cabo verde",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "sudan vs ethiopia",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "tanzania vs guinea",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "brazil",
+      "title": "lamine yamal",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-27T11:22:11.529985+00:00"
+  "fetched_at": "2026-09-28T12:51:21.746201+00:00"
 }

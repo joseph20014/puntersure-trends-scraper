@@ -4,71 +4,71 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "england national football team vs spain national football team standings",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "japan vs venezuela",
+  "top_trend_volume": "1K+",
+  "top_trend_volume_numeric": 1000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "england national football team vs spain national football team standings",
+      "title": "japan vs venezuela",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "south korea vs uruguay",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "norway vs portugal",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "edwin sifuna presidential bid 2027",
-      "volume": "20271K+",
-      "volume_numeric": 20271000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "mohamed salah",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 4,
-      "title": "australia vs south africa",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "karen nyamu",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "lecturer",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "kenya vs eritrea",
+      "title": "england national football team vs spain national football team standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "erling haaland",
+      "rank": 6,
+      "title": "germany vs greece",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 7,
+      "title": "chelsea vs arsenal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "turkey national football team vs france national football team standings",
+      "title": "erling haaland",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -76,15 +76,15 @@
     },
     {
       "rank": 9,
-      "title": "mexico vs colombia",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "lecturer",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "kenya",
+      "title": "columbus vs inter miami",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,31 +92,31 @@
     },
     {
       "rank": 11,
-      "title": "usa vs peru",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "manchester city f.c.",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "morocco vs gabon",
+      "title": "mohamed salah",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "eldoret road",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "edwin sifuna presidential bid 2027",
+      "volume": "20272K+",
+      "volume_numeric": 20272000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "italy vs belgium",
+      "title": "man utd vs west ham",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,15 +124,15 @@
     },
     {
       "rank": 15,
-      "title": "charlton vs man city",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "gofundme",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "epra solar grid dumping regulations",
+      "title": "serbia vs netherlands",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,7 +140,7 @@
     },
     {
       "rank": 17,
-      "title": "south africa vs guinea",
+      "title": "portugal",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -148,31 +148,31 @@
     },
     {
       "rank": 18,
-      "title": "kenya vs",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "weather",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "west indies vs india",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "czechia vs croatia",
+      "title": "kalonzo musyoka",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "denmark vs wales",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "mozambique vs senegal",
+      "title": "kenya national football team vs eritrea national football team standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "canada vs chile",
+      "title": "weather today",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -188,15 +188,15 @@
     },
     {
       "rank": 23,
-      "title": "north macedonia vs switzerland",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "mexico vs colombia",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "slovenia vs scotland",
+      "title": "usa vs peru",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "william ruto visits dangote refinery lagos",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "austria vs kosovo",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-27T11:21:20.254222+00:00"
+  "fetched_at": "2026-09-28T12:50:30.035898+00:00"
 }
