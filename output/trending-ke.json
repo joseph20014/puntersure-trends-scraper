@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "japan vs venezuela",
-  "top_trend_volume": "1K+",
-  "top_trend_volume_numeric": 1000,
+  "top_trend": "australia vs brazil",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "japan vs venezuela",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "australia vs brazil",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "south korea vs uruguay",
+      "title": "edwin sifuna",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -28,6 +28,46 @@
     },
     {
       "rank": 3,
+      "title": "kenha road reserves eviction notice",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "lazarus opicho vip protection commandant",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "savings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "belgium vs france",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "senne lammens",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
       "title": "norway vs portugal",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -35,64 +75,24 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "karen nyamu",
+      "rank": 9,
+      "title": "peter muthoka airport services sale",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "england national football team vs spain national football team standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "germany vs greece",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "chelsea vs arsenal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "erling haaland",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "lecturer",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "columbus vs inter miami",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "jackie chan",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "mohamed salah",
+      "title": "sweden vs poland",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,23 +100,23 @@
     },
     {
       "rank": 12,
-      "title": "eldoret road",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "chelsea vs arsenal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "edwin sifuna presidential bid 2027",
-      "volume": "20272K+",
-      "volume_numeric": 20272000,
+      "title": "germany vs greece",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "man utd vs west ham",
+      "title": "türkiye vs italy",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,15 +124,15 @@
     },
     {
       "rank": 15,
-      "title": "gofundme",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "michael carrick",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "serbia vs netherlands",
+      "title": "zimbabwe vs dr congo",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,7 +140,7 @@
     },
     {
       "rank": 17,
-      "title": "portugal",
+      "title": "vehicle registration plate",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "weather",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "columbus vs inter miami",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "kalonzo musyoka",
+      "title": "japan vs venezuela",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "france",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "denmark vs wales",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "kenya national football team vs eritrea national football team standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "weather today",
+      "title": "teachers service commission (tsc) headquarters",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "mexico vs colombia",
+      "rank": 22,
+      "title": "south korea vs uruguay",
       "volume": "1K+",
       "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "serbia vs netherlands",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "usa vs peru",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "georgia vs ukraine",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "austria vs kosovo",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "portugal",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-28T12:50:30.035898+00:00"
+  "fetched_at": "2026-09-29T12:04:46.441031+00:00"
 }

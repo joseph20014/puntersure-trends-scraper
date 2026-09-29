@@ -4,71 +4,71 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "النرويج ضد البرتغال",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "أستراليا ضد البرازيل",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "النرويج ضد البرتغال",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "norway vs portugal",
+      "title": "أستراليا ضد البرازيل",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "قرار",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "عروس",
+      "rank": 2,
+      "title": "رئيس",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "australia vs brazil",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "ترتيبات منتخب بلجيكا لكرة القدم – منتخب فرنسا لكرة القدم",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "خبر",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "تسليم",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "تل ابيب",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "شمس البارودي",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "شمس البارودي",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "مصلحة الضرائب العقارية",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "كوريا الجنوبية ضد أوروغواي",
+      "title": "منتخب جنوب السودان لكرة القدم",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,15 +76,15 @@
     },
     {
       "rank": 9,
-      "title": "مصطفى أحمد شوبير",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "نبيل نور الدين",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "south korea vs uruguay",
+      "title": "مالية",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "مصلحة الضرائب العقارية",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "وزير المالية",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "سعر الصرف",
+      "title": "حسام عبد المجيد",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "japan vs venezuela",
+      "title": "طريق وادى النطرون - العلمين",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -116,100 +116,100 @@
     },
     {
       "rank": 14,
-      "title": "مجلس الشيوخ",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "علاء مبارك",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "مصر للطيران",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "إنجلترا ضد إسبانيا",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "تيجراي",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "كسوف الشمس",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "وظيفة",
+      "title": "المحكمة الدستورية العليا.",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "كولومبوس كرو ضد إنتر ميامي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "rank": 15,
+      "title": "ياسر إبراهيم",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "سعر الفائدة",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "rank": 16,
+      "title": "النرويج ضد البرتغال",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "حسام حسن",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "england vs spain",
+      "rank": 17,
+      "title": "belgium vs france",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 25,
-      "title": "ألمانيا ضد اليونان",
+      "rank": 18,
+      "title": "خالد الغندور",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "طقس",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "كأس السوبر المصري",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "norway vs portugal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "تركيا ضد إيطاليا",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "بنيامين نتنياهو",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "خبر",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "قرار",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-28T12:53:49.848439+00:00"
+  "fetched_at": "2026-09-29T12:07:50.136665+00:00"
 }
