@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "belgium vs france",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "guinea-bissau vs nigeria",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "belgium vs france",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "guinea-bissau vs nigeria",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "australia vs brazil",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "spain vs croatia",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "port harcourt floods",
+      "title": "czechia vs england",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -36,23 +36,23 @@
     },
     {
       "rank": 4,
-      "title": "cristiano ronaldo portugal bench role",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "nnpcl petrol price reduction lagos abuja",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "nnpcl petrol price reduction lagos abuja",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "big brother naija",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "türkiye vs italy",
+      "title": "lesotho vs morocco",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,15 +60,15 @@
     },
     {
       "rank": 7,
-      "title": "jackie chan",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "nigerian civil service strike october",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "sweden vs poland",
+      "title": "ghana vs gambia",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -76,7 +76,7 @@
     },
     {
       "rank": 9,
-      "title": "zimbabwe vs dr congo",
+      "title": "victor osimhen",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,15 +84,15 @@
     },
     {
       "rank": 10,
-      "title": "ben dancer guinness record attempt",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "nigerian university ranking 2027",
+      "volume": "20271K+",
+      "volume_numeric": 20271000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "candidate",
+      "title": "fraud",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "subsidy",
+      "title": "travel visa",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "jorge jesus comments on erling haaland",
+      "title": "christa pike",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -116,100 +116,100 @@
     },
     {
       "rank": 14,
-      "title": "senne lammens",
+      "title": "naira dollar exchange rate 2026",
+      "volume": "20261K+",
+      "volume_numeric": 20261000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "ibrahim traoré",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "belgium vs france",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "flydubai",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "bola tinubu femi otedola paris meeting",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "rank": 18,
+      "title": "port harcourt floods",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "vozinha",
+      "rank": 19,
+      "title": "south sudan vs egypt",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "big brother naija",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "japan vs venezuela",
+      "rank": 20,
+      "title": "madagascar vs tanzania",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "columbus vs inter miami",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "germany vs greece",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "chelsea vs arsenal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ethiopia vs senegal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "strait of hormuz",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "türkiye vs italy",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "wrestling",
+      "title": "australia vs brazil",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "usa vs chile",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "south korea vs uruguay",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "dangote petrol price",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "cristiano ronaldo portugal bench role",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-09-29T12:05:12.801702+00:00"
+  "fetched_at": "2026-09-30T11:53:24.607972+00:00"
 }
