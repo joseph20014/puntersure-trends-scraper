@@ -4,14 +4,22 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "argentina - bolivia",
-  "top_trend_volume": "1M+",
-  "top_trend_volume_numeric": 1000000,
+  "top_trend": "platense - estudiantes",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "platense - estudiantes",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
       "title": "argentina - bolivia",
       "volume": "1M+",
       "volume_numeric": 1000000,
@@ -19,7 +27,39 @@
       "volume_available": true
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "sergio uñac",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "saint thomas este-oeste",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "dinamarca - portugal",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "pago",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
       "title": "walter samuel",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -27,15 +67,31 @@
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "maxi ghione",
+      "rank": 8,
+      "title": "gales - noruega",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "argentina hoy",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 10,
+      "title": "alemania - serbia",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
       "title": "decreto",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -43,23 +99,23 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "telefe",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 12,
+      "title": "día del bancario",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "es mi sueño",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 13,
+      "title": "grecia - países bajos",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
+      "rank": 14,
       "title": "meteorología",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -67,23 +123,15 @@
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "quini6",
-      "volume": "62K+",
-      "volume_numeric": 62000,
+      "rank": 15,
+      "title": "gran premio de malasia",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "anses",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
+      "rank": 16,
       "title": "roman vega",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -91,23 +139,15 @@
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "españa - croacia",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "rank": 17,
+      "title": "club deportivo eldense",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "carlos alcaraz",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
+      "rank": 18,
       "title": "máximo kirchner",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -115,7 +155,15 @@
       "volume_available": true
     },
     {
-      "rank": 14,
+      "rank": 19,
+      "title": "megaproyecto",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
       "title": "leonel flores",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -123,80 +171,32 @@
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "méxico - perú",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "argentina fc",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "joaquín levinton",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "santiago simón",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "estados unidos - chile",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "evento de el niño de 2026 2027",
-      "volume": "202710K+",
-      "volume_numeric": 202710000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "cuti romero",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "portugal vs",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "pagotto",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "prestianni",
+      "title": "es mi sueño",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "kun agüero",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "benin",
+      "title": "el niño",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "gianluca prestianni",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "aixa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-01T12:26:49.729544+00:00"
+  "fetched_at": "2026-10-02T11:54:29.836041+00:00"
 }

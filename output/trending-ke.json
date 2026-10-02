@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "wicknell chivayo",
+  "top_trend": "denmark vs portugal",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "wicknell chivayo",
+      "title": "denmark vs portugal",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "argentina vs bolivia",
+      "title": "wicknell chivayo",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -29,22 +29,22 @@
     {
       "rank": 3,
       "title": "solar power",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "japan vs ecuador",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "railway",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "christa pike",
+      "title": "hmis",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "kenya meteorological department",
+      "title": "absa",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -60,15 +60,15 @@
     },
     {
       "rank": 7,
-      "title": "school",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "kenya meteorological service el nino forecast",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "hmis",
+      "title": "old trafford",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -76,23 +76,23 @@
     },
     {
       "rank": 9,
-      "title": "spain national football team vs croatia national football team standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "wales vs norway",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "whatsapp",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "south korea vs venezuela",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "czechia vs england",
+      "title": "guinea vs kenya",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -100,55 +100,55 @@
     },
     {
       "rank": 12,
-      "title": "paris fc vs arsenal",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "argentina vs bolivia",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "lyon vs chelsea",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "germany vs serbia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "kenya",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "money",
+      "title": "nairobi international trade fair",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "lesotho vs morocco",
+      "rank": 15,
+      "title": "chatgpt",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "whatsapp",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "panama vs new zealand",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "greece vs netherlands",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "eritrea vs south africa",
+      "title": "rain",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "manchester city f.c.",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "christa pike",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "ind vs sl",
+      "title": "greece national football team vs netherlands national football team standings",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "flydubai",
+      "title": "japan vs ecuador",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "uasu lecturers strike negotiations",
+      "title": "edwin sifuna",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "theft",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "man city vs real madrid",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "police officer",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "paris fc vs arsenal",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "opiyo wandayi energy sector appointments",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "lyon vs chelsea",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-01T12:23:19.700878+00:00"
+  "fetched_at": "2026-10-02T11:51:04.490990+00:00"
 }

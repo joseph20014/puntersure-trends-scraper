@@ -4,25 +4,25 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "nigeria independence day",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "denmark vs portugal",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "nigeria independence day",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "denmark vs portugal",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "argentina vs bolivia",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "nigeria independence day",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -36,47 +36,47 @@
     },
     {
       "rank": 4,
-      "title": "all progressives congress",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "wales vs norway",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "christa pike",
+      "title": "telecommunications company",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "ballon d or ranking 2026",
+      "volume": "202620K+",
+      "volume_numeric": 202620000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "eldense new owner lionel messi",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "japan vs ecuador",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "jamb admission deadline extension 2021 2025",
-      "volume": "20255K+",
-      "volume_numeric": 20255000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 8,
-      "title": "wike",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "warning strike",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "paris fc vs arsenal",
+      "title": "germany vs serbia",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,79 +84,79 @@
     },
     {
       "rank": 10,
-      "title": "happy new month",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "nnpcl lowers petrol pump price",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "ronaldo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "nlc petrol price reduction demand",
+      "title": "greece vs netherlands",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "argentina national team lionel messi tribute",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "augsburg vs hertha",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "rivers state house of assembly",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "guinea-bissau vs nigeria",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "aliko dangote foundation student share grant",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "spain vs croatia",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "south korea vs venezuela",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "nigerian university ranking 2027",
-      "volume": "202710K+",
-      "volume_numeric": 202710000,
+      "title": "old trafford",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "ballon d or ranking 2026",
-      "volume": "2026200+",
-      "volume_numeric": 2026200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "czechia vs england",
+      "title": "argentina vs bolivia",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "phyna",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "fraud",
+      "title": "all progressives congress",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "japan",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "ol lyonnes vs chelsea f.c. women standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "panama vs new zealand",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "premier league football",
+      "title": "japan vs ecuador",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "ronaldo",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "jamb admission deadline extension 2021 2025",
+      "volume": "202510K+",
+      "volume_numeric": 202510000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "atiku calls for el-rufai release",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "lesotho vs morocco",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "2027 bmw 3 series",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "argentina",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "thailand vs philippines",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-01T12:23:45.993382+00:00"
+  "fetched_at": "2026-10-02T11:51:30.156780+00:00"
 }
