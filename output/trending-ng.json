@@ -4,70 +4,46 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "denmark vs portugal",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "france vs italy",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "denmark vs portugal",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "france vs italy",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "nigeria independence day",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "bank",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "wales vs norway",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "telecommunications company",
+      "title": "olu jacobs",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "ballon d or ranking 2026",
-      "volume": "202620K+",
-      "volume_numeric": 202620000,
+      "rank": 3,
+      "title": "exchange rate",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "eldense new owner lionel messi",
+      "rank": 4,
+      "title": "carlos baleba",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
+      "rank": 5,
       "title": "warning strike",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -75,24 +51,48 @@
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "anthony a kila",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "dangote refinery",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "belgium vs turkey",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 9,
-      "title": "germany vs serbia",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "poland vs romania",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "greece vs netherlands",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "lagos life",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "argentina national team lionel messi tribute",
+      "title": "lagos cng buses fleet",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,31 +100,31 @@
     },
     {
       "rank": 12,
-      "title": "augsburg vs hertha",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "portugal national football team without ronaldo",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "rivers state house of assembly",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "denmark vs portugal",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "aliko dangote foundation student share grant",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "dr congo vs uganda",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "south korea vs venezuela",
+      "title": "monaco fc",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -132,84 +132,84 @@
     },
     {
       "rank": 16,
-      "title": "old trafford",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "aliko dangote kenya oil refinery",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "argentina vs bolivia",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "inspector-general of police",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "phyna",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "october 3rd",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "all progressives congress",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "japan vs ecuador",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "ronaldo",
+      "title": "telecommunications company",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "wales vs norway",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "ballon d or ranking 2026",
+      "volume": "202620K+",
+      "volume_numeric": 202620000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "jamb admission deadline extension 2021 2025",
-      "volume": "202510K+",
-      "volume_numeric": 202510000,
+      "title": "eldense new owner lionel messi",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "atiku calls for el-rufai release",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "old trafford",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "2027 bmw 3 series",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "nnpcl independence day fuel discount",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "thailand vs philippines",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "germany vs serbia",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-02T11:51:30.156780+00:00"
+  "fetched_at": "2026-10-03T11:04:02.893134+00:00"
 }

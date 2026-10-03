@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "wales vs norway",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
+  "top_trend": "young africans s.c.",
+  "top_trend_volume": "500+",
+  "top_trend_volume_numeric": 500,
   "volume_available_count": 13,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "wales vs norway",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "young africans s.c.",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "denmark vs portugal",
+      "title": "france national football team vs italy national football team standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -28,6 +28,14 @@
     },
     {
       "rank": 3,
+      "title": "india vs west indies",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
       "title": "hali ya hewa",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -35,15 +43,15 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "argentina vs bolivia",
+      "rank": 5,
+      "title": "denmark vs portugal",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "arrest",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -51,16 +59,8 @@
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "whatsapp",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "wicknell chivayo",
+      "title": "wales vs norway",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,6 +68,14 @@
     },
     {
       "rank": 8,
+      "title": "india vs pakistan",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
       "title": "germany vs serbia",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -75,7 +83,15 @@
       "volume_available": true
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "title": "yanga princess",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
       "title": "greece vs netherlands",
       "volume": "500+",
       "volume_numeric": 500,
@@ -83,24 +99,8 @@
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "guinea vs kenya",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "japan vs ecuador",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "eritrea vs south africa",
+      "title": "whatsapp",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,12 +108,12 @@
     },
     {
       "rank": 13,
-      "title": "paris fc vs arsenal",
+      "title": "guinea vs kenya",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-02T11:51:55.798871+00:00"
+  "fetched_at": "2026-10-03T11:04:28.360060+00:00"
 }

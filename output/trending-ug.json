@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "denmark vs portugal",
+  "top_trend": "france vs italy",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "denmark vs portugal",
+      "title": "france vs italy",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,6 +20,30 @@
     },
     {
       "rank": 2,
+      "title": "crane bank",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "uganda vs congo",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "denmark vs portugal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
       "title": "wales vs norway",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -27,7 +51,23 @@
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "title": "bosnia and herzegovina vs sweden",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "poland vs romania",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
       "title": "germany vs serbia",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -35,23 +75,7 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "makerere university",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "old trafford",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
+      "rank": 9,
       "title": "greece vs netherlands",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -59,32 +83,8 @@
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "argentina vs bolivia",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "2026 ballon d'or",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "japan vs ecuador",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "man city vs real madrid",
+      "title": "energy drink",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,22 +92,62 @@
     },
     {
       "rank": 11,
-      "title": "greece national football team vs netherlands national football team standings",
+      "title": "old trafford",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "makerere university",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "india vs pakistan",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "india vs west indies",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "2026 ballon d'or",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "man city vs real madrid",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "uganda national football team",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "paris fc vs arsenal",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
+      "rank": 18,
       "title": "portugal national football team",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -115,7 +155,7 @@
       "volume_available": true
     },
     {
-      "rank": 14,
+      "rank": 19,
       "title": "ireland vs austria",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -123,7 +163,7 @@
       "volume_available": true
     },
     {
-      "rank": 15,
+      "rank": 20,
       "title": "guinea vs kenya",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -131,31 +171,15 @@
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "whatsapp",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 21,
+      "title": "sweden fc",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "eritrea vs south africa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "lyon vs chelsea",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
+      "rank": 22,
       "title": "electric bus",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -163,53 +187,29 @@
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "vehicle registration plate",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "portugal",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "portugal fc",
+      "rank": 23,
+      "title": "friendlies",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "panama vs new zealand",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 24,
-      "title": "chatgpt",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "france",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "india vs sri lanka",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "whatsapp",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-02T11:52:21.419292+00:00"
+  "fetched_at": "2026-10-03T11:04:53.746612+00:00"
 }

@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "الدنمارك ضد البرتغال",
+  "top_trend": "فرنسا ضد إيطاليا",
   "top_trend_volume": "50K+",
   "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "الدنمارك ضد البرتغال",
+      "title": "فرنسا ضد إيطاليا",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -20,79 +20,79 @@
     },
     {
       "rank": 2,
-      "title": "قرار",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "توقيت صيفي",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "أسعار البنزين",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "محكمة",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "تغيير الساعة التوقيت الشتوي",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "ذكاء",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "إثيوبيا",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "ديانا هشام",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "إنستاباي",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "تعليم",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "عمر البشير",
+      "title": "خمول",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "تسعير",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "بحر",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "south korea vs venezuela",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "denmark vs portugal",
+      "title": "france vs italy",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "ديناصور",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "تزييف",
+      "title": "عمرو موسى",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -100,55 +100,55 @@
     },
     {
       "rank": 12,
-      "title": "الأرجنتين ضد بوليفيا",
+      "title": "إشاعة",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "الدنمارك ضد البرتغال",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "ماء",
+      "rank": 14,
+      "title": "قرار",
       "volume": "20K+",
       "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "المؤسسة العامة للتأمينات الاجتماعية",
-      "volume": "10K+",
-      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "ألمانيا ضد صربيا",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "denmark vs portugal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "موعد اذان الظهر",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ظهير",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "argentina vs bolivia",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "إقالة",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "مسلسل خمسين خمسين",
+      "title": "بحر",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -156,39 +156,39 @@
     },
     {
       "rank": 19,
-      "title": "wales vs norway",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "إبراهيم عيسى",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "قانون",
+      "title": "طيار فلاي دبي",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "مطر",
+      "rank": 20,
+      "title": "موعد اذان الظهر",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "إثيوبيا",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "إنستاباي",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 23,
-      "title": "بنك ناصر الاجتماعي",
+      "title": "مباريات منتخب مصر القادمة الودية",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "ماركو روبيو",
+      "title": "عبد الحميد معالي",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "وزارة الداخلية",
+      "title": "ألمانيا ضد صربيا",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-02T11:54:04.110170+00:00"
+  "fetched_at": "2026-10-03T11:06:35.848652+00:00"
 }
