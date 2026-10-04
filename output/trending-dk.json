@@ -4,127 +4,127 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "festival",
-  "top_trend_volume": "1K+",
-  "top_trend_volume_numeric": 1000,
+  "top_trend": "politi",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "festival",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "politi",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "nordjyllands politi",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "tv 2",
+      "volume": "21K+",
+      "volume_numeric": 21000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "klima",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "donald trump",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "emilie steffensen",
+      "title": "dronning",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "birthe kjær",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "aab fodbold",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "kathleen turner",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "lastbil",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "cristiano ronaldo",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "varme",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "danmark - portugal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "iptv",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "bank",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bil",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "usa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "penge",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "100 knive",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "f1",
+      "volume": "1500+",
+      "volume_numeric": 1500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "kvinde",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "mathias gidsel",
+      "title": "håndbold",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "eurojackpot",
+      "rank": 13,
+      "title": "argentina - burkina faso",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "formel 1",
+      "volume": "1200+",
+      "volume_numeric": 1200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "denmark vs portugal",
+      "title": "ulv",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "købmand",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "kathleen turner",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "ukraine",
+      "title": "vejr",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,47 +148,47 @@
     },
     {
       "rank": 18,
-      "title": "kronprins christian",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "nations league",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "strand",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "michelle kristensen",
+      "title": "dr",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "harvey weinstein",
+      "rank": 19,
+      "title": "klima",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "vladimir putin",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "christian eriksen",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "bank",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 23,
-      "title": "tipsbladet",
+      "title": "kroatien - england",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "frankrig - italien",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "nordjyllands politi",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "prins",
+      "title": "brand",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-03T11:05:44.808419+00:00"
+  "fetched_at": "2026-10-04T11:47:30.442886+00:00"
 }

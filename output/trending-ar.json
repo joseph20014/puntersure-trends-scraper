@@ -4,14 +4,46 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "boca juniors - unión",
-  "top_trend_volume": "500K+",
-  "top_trend_volume_numeric": 500000,
+  "top_trend": "argentina - burkina faso",
+  "top_trend_volume": "1M+",
+  "top_trend_volume_numeric": 1000000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "argentina - burkina faso",
+      "volume": "1M+",
+      "volume_numeric": 1000000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "estados unidos - méxico",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "f1",
+      "volume": "120K+",
+      "volume_numeric": 120000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "colapinto",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
       "title": "boca juniors - unión",
       "volume": "500K+",
       "volume_numeric": 500000,
@@ -19,112 +51,80 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "clima",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "rank": 6,
+      "title": "ángela leiva",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "independiente rivadavia - gimnasia",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "colombia - paraguay",
+      "rank": 7,
+      "title": "médico",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "alerta meteorológica",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "meteored",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "independiente - instituto",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 8,
-      "title": "tiempo de mañana",
+      "title": "f1 hoy",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "granizo",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "alerta meteorológica",
       "volume": "500K+",
       "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "francia - italia",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "platense - estudiantes",
+      "rank": 11,
+      "title": "croacia - inglaterra",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "alan velasco",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "tiempo mañana",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "novak djokovic",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "primera división",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "españa - chequia",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "ricardo soule",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "alexander zverev",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "dinamarca - portugal",
+      "title": "defensa y justicia - san lorenzo",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -132,84 +132,84 @@
     },
     {
       "rank": 16,
-      "title": "burkina faso",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "miniserie",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "são paulo - santos",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "rayo",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "max verstappen",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "atlético tucumán - barracas central",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "ferro - deportivo madryn",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "clima",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "mirtha legrand",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "newell's - lanús",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "flavio briatore",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "independiente - instituto",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "gales - noruega",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "el niño",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "línea sarmiento",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "india - brasil",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "agustina cherri",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "telefe",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "sergio uñac",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "argentina fc",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-03T11:07:01.416884+00:00"
+  "fetched_at": "2026-10-04T11:48:49.413921+00:00"
 }

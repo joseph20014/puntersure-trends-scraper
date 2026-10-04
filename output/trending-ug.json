@@ -4,14 +4,54 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "france vs italy",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
-  "volume_available_count": 25,
+  "top_trend": "argentina vs burkina faso",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
+  "volume_available_count": 22,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "argentina vs burkina faso",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "spain vs czechia",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "india vs brazil",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "crane bank",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "croatia vs england",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
       "title": "france vs italy",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -19,48 +59,8 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "crane bank",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "uganda vs congo",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "denmark vs portugal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "wales vs norway",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "bosnia and herzegovina vs sweden",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "poland vs romania",
+      "title": "switzerland vs slovenia",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,15 +68,15 @@
     },
     {
       "rank": 8,
-      "title": "germany vs serbia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "uganda vs congo",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "greece vs netherlands",
+      "title": "man utd vs liverpool",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,15 +84,15 @@
     },
     {
       "rank": 10,
-      "title": "energy drink",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "usa vs mexico",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "old trafford",
+      "title": "rukidi iv of tooro",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,31 +100,31 @@
     },
     {
       "rank": 12,
-      "title": "makerere university",
+      "title": "north macedonia vs scotland",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "bosnia and herzegovina vs sweden",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "india vs pakistan",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 14,
-      "title": "india vs west indies",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "energy drink",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "2026 ballon d'or",
+      "title": "poland vs romania",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,14 +132,30 @@
     },
     {
       "rank": 16,
-      "title": "man city vs real madrid",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "katonga bridge reopening status",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
+      "title": "finland vs albania",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "india vs pakistan",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
       "title": "uganda national football team",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -147,31 +163,7 @@
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "portugal national football team",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "ireland vs austria",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "guinea vs kenya",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
       "title": "sweden fc",
       "volume": "200+",
       "volume_numeric": 200,
@@ -179,37 +171,21 @@
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "electric bus",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "friendlies",
+      "rank": 21,
+      "title": "india vs west indies",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
+      "rank": 22,
       "title": "france",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "whatsapp",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-03T11:04:53.746612+00:00"
+  "fetched_at": "2026-10-04T11:46:37.813334+00:00"
 }

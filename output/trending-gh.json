@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "france vs italy",
+  "top_trend": "argentina vs burkina faso",
   "top_trend_volume": "10K+",
   "top_trend_volume_numeric": 10000,
-  "volume_available_count": 24,
+  "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "france vs italy",
+      "title": "argentina vs burkina faso",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -20,15 +20,15 @@
     },
     {
       "rank": 2,
-      "title": "denmark vs portugal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "spain vs czechia",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "societe generale exit ghana banking",
+      "title": "ghana",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "la pleasure beach demolition",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "croatia vs england",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "carlos queiroz",
+      "title": "india vs brazil",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -52,31 +52,31 @@
     },
     {
       "rank": 6,
-      "title": "2026 ballon d'or",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "france vs italy",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "lionel messi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "usa vs mexico",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "wales vs norway",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ghana vehicle import standards gsa",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "anthony owusu-ansah nita appointment",
+      "title": "olu jacobs",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -84,7 +84,7 @@
     },
     {
       "rank": 10,
-      "title": "asante kotoko vs karela",
+      "title": "dreams vs hearts of oak",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "germany vs serbia",
+      "title": "societe generale exit ghana banking",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "greece vs netherlands",
+      "title": "university",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "ballon d'or",
+      "title": "man utd vs liverpool",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -116,39 +116,39 @@
     },
     {
       "rank": 14,
-      "title": "man city vs real madrid",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "john boadu",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "bosnia and herzegovina vs sweden",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "côte d'ivoire vs cameroon",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "poland vs romania",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "la pleasure beach demolition",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "old trafford",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "canada vs peru",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "yaw ampofo ankrah nsa suspension",
+      "title": "africa cup of nations",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -156,23 +156,23 @@
     },
     {
       "rank": 19,
-      "title": "greece national football team vs netherlands national football team standings",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "julián alvarez",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "forex factory",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "switzerland vs slovenia",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "portugal national football team",
+      "title": "republic of ireland national football team",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "portugal",
+      "title": "bosnia and herzegovina vs sweden",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "south korea vs venezuela",
+      "title": "poland vs romania",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -196,12 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "twitch",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "old trafford",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "forex factory",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-03T11:06:10.284910+00:00"
+  "fetched_at": "2026-10-04T11:47:56.751699+00:00"
 }
