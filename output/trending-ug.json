@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "argentina vs burkina faso",
+  "top_trend": "man city vs arsenal",
   "top_trend_volume": "10K+",
   "top_trend_volume_numeric": 10000,
-  "volume_available_count": 22,
+  "volume_available_count": 21,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "argentina vs burkina faso",
+      "title": "man city vs arsenal",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "spain vs czechia",
+      "title": "portugal vs norway",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -28,31 +28,31 @@
     },
     {
       "rank": 3,
-      "title": "india vs brazil",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "kahinda otafiire",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "crane bank",
+      "title": "argentina vs burkina faso",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "greece vs germany",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "croatia vs england",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "france vs italy",
+      "title": "spain vs czechia",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,6 +60,30 @@
     },
     {
       "rank": 7,
+      "title": "croatia vs england",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "netherlands vs serbia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "wales vs denmark",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
       "title": "switzerland vs slovenia",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -67,32 +91,8 @@
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "uganda vs congo",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "man utd vs liverpool",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "usa vs mexico",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "rukidi iv of tooro",
+      "title": "kosovo vs austria",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "north macedonia vs scotland",
+      "title": "ireland vs israel",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,15 +108,15 @@
     },
     {
       "rank": 13,
-      "title": "bosnia and herzegovina vs sweden",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "barcelona vs real madrid",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "energy drink",
+      "title": "west ham vs chelsea",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,7 +124,7 @@
     },
     {
       "rank": 15,
-      "title": "poland vs romania",
+      "title": "rukidi iv of tooro",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "katonga bridge reopening status",
+      "title": "girona vs mallorca",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -140,7 +140,7 @@
     },
     {
       "rank": 17,
-      "title": "finland vs albania",
+      "title": "uganda revenue authority",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -148,15 +148,15 @@
     },
     {
       "rank": 18,
-      "title": "india vs pakistan",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "usa vs mexico",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "uganda national football team",
+      "title": "north macedonia vs scotland",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -164,28 +164,20 @@
     },
     {
       "rank": 20,
-      "title": "sweden fc",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "african union",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "india vs west indies",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "france",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "finland vs albania",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-04T11:46:37.813334+00:00"
+  "fetched_at": "2026-10-05T13:32:57.893424+00:00"
 }

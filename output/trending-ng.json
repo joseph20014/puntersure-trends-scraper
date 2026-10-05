@@ -4,63 +4,63 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "lagos life",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "portugal national football team vs norway national football team standings",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "lagos life",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "portugal national football team vs norway national football team standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "spain vs czechia",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "argentina vs burkina faso",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "croatia vs england",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "india vs brazil",
+      "title": "lagos life game app",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "bus",
+      "rank": 3,
+      "title": "man city vs arsenal",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "greece vs germany",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "barcelona vs real madrid",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "mode",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "guardiola watches manchester city psg",
+      "title": "wales vs denmark",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -68,79 +68,79 @@
     },
     {
       "rank": 8,
-      "title": "man utd vs liverpool",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "dangote refinery",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "tiwa savage",
+      "title": "nigerian naira",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "de la fuente on portugal ronaldo",
+      "rank": 9,
+      "title": "netherlands vs serbia",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "usa vs mexico",
+      "rank": 10,
+      "title": "temi nkem",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "strike action",
       "volume": "2K+",
       "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "japan vs new zealand",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "nyesom wike and rotimi amaechi",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "africa cup of nations",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "vocational education",
+      "title": "thomas muller ballon d'or favourites",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "national youth service corps",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "africa",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 16,
-      "title": "inec",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "spain vs czechia",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "france vs italy",
+      "title": "argentina vs burkina faso",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -148,23 +148,23 @@
     },
     {
       "rank": 18,
-      "title": "nigeria football federation",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "croatia vs england",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "canada",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "islamic state – west africa province",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "enzo fernández",
+      "title": "brazil presidential election results",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -172,23 +172,23 @@
     },
     {
       "rank": 21,
-      "title": "anthony a kila",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "samsung galaxy s26 ultra",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "madonna university nigeria",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "drag",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "access holdings ngx filing extension",
+      "title": "novak djokovic",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "abdul samad rabiu",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "west ham vs chelsea",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "olu jacobs",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "bus",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-04T11:45:45.491041+00:00"
+  "fetched_at": "2026-10-05T13:32:05.567487+00:00"
 }
