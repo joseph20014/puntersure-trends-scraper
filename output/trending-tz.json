@@ -4,70 +4,78 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "clara luvanga",
-  "top_trend_volume": "500+",
-  "top_trend_volume_numeric": 500,
+  "top_trend": "france vs belgium",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 14,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "clara luvanga",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "samsung galaxy s26 ultra",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "portugal vs norway",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "portugal national football team vs norway national football team standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "argentina vs burkina faso",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "croatia vs england",
+      "title": "france vs belgium",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "samsung galaxy s26 ultra",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "portugal vs norway",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "italy vs türkiye",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "clara luvanga",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "young africans s.c.",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "spain vs czechia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "romania vs sweden",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
+      "title": "mwananchi",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
       "title": "cristiano ronaldo",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -75,7 +83,7 @@
       "volume_available": true
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "greece vs germany",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -83,24 +91,16 @@
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "india vs brazil",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "netherlands vs serbia",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "tel aviv",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "kosovo vs austria",
+      "title": "netherlands vs serbia",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -116,12 +116,12 @@
     },
     {
       "rank": 14,
-      "title": "canada vs peru",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "kosovo vs austria",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-05T13:32:31.756536+00:00"
+  "fetched_at": "2026-10-06T12:43:30.076774+00:00"
 }

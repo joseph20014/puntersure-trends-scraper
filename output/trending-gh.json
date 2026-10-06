@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "akuapem people",
-  "top_trend_volume": "1K+",
-  "top_trend_volume_numeric": 1000,
+  "top_trend": "france vs belgium",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "akuapem people",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "france vs belgium",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "airline",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "lagos life",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "lagos life",
+      "title": "nana akua addo",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -36,6 +36,38 @@
     },
     {
       "rank": 4,
+      "title": "argentina vs benin",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "protest",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "antonio conte",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "bank of ghana",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
       "title": "portugal vs norway",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -43,48 +75,16 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "ghana",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "spain vs czechia",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "argentina vs burkina faso",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "croatia vs england",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "power outage",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "cancer",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "greece vs germany",
+      "title": "akuapem people",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,31 +92,31 @@
     },
     {
       "rank": 11,
-      "title": "netherlands vs serbia",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "india vs brazil",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "barcelona vs real madrid",
+      "title": "italy vs türkiye",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "weather tomorrow",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "samsung galaxy s26 ultra",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "denzel washington",
+      "title": "john mahama",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -124,7 +124,7 @@
     },
     {
       "rank": 15,
-      "title": "west ham vs chelsea",
+      "title": "airline",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,71 +132,71 @@
     },
     {
       "rank": 16,
-      "title": "man city vs arsenal",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "manchester city f.c.",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "zinedine zidane",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "santi denia",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "wales vs denmark",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "greece vs germany",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "ghana vehicle import standards gsa",
+      "title": "china",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "netherlands vs serbia",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "england national football team",
+      "rank": 21,
+      "title": "barcelona vs real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "usa vs mexico",
+      "rank": 22,
+      "title": "romania vs sweden",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "dreams vs hearts of oak",
+      "rank": 23,
+      "title": "power outage",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "olu jacobs",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 24,
-      "title": "kosovo vs austria",
+      "title": "africa cup of nations",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "côte d'ivoire vs cameroon",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "zinedine zidane",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-05T13:34:16.819505+00:00"
+  "fetched_at": "2026-10-06T12:45:15.438640+00:00"
 }

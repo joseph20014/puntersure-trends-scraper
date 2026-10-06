@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "مصر ضد جنوب أفريقيا",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "فرنسا ضد بلجيكا",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "مصر ضد جنوب أفريقيا",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "فرنسا ضد بلجيكا",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "قانون الإجراءات الجنائية",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "france vs belgium",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "فاتورة كهرباء",
+      "title": "وزارة الكهرباء والطاقة المتجددة",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -36,39 +36,39 @@
     },
     {
       "rank": 4,
-      "title": "جنين",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "أسعار الفراخ البيضاء اليوم",
+      "title": "سعر الدولار اليوم البنك الأهلي",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "هاتف محمول",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 6,
-      "title": "وزير",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "الثلاثاء",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "اسعار البنزين والسولار",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "العلاقات الإثيوبية المصرية",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "السدير مسعود",
+      "title": "محافظة الإسكندرية",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,55 +76,55 @@
     },
     {
       "rank": 9,
-      "title": "البرتغال ضد النرويج",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "رغيف",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "تكافل وكرامة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "سلمان بن عبد العزيز آل سعود",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "موعد اذان العصر",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "south korea vs uzbekistan",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "شيكابالا",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "طماطم",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "مفوضية الاتحاد الإفريقي",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "الاتحاد الإفريقي",
+      "title": "كوريا الجنوبية ضد أوزبكستان",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "نضال حسن",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "نقابة",
+      "title": "ياسمين صبري",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -132,31 +132,31 @@
     },
     {
       "rank": 16,
-      "title": "portugal vs norway",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "egypt vs south africa",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "وزارة الكهرباء والطاقة المتجددة",
+      "title": "دونالد ترمب",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "وزارة التربية والتعليم والتعليم الفني",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "the batman",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "الاتصالات في مصر",
+      "title": "نجيب ساويرس",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -164,15 +164,15 @@
     },
     {
       "rank": 20,
-      "title": "الأرجنتين ضد بوركينا فاسو",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "مصر ضد جنوب أفريقيا",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "إنترنت",
+      "title": "البرتغال ضد النرويج",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "argentina vs burkina faso",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "إيطاليا ضد تركيا",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "إسبانيا ضد التشيك",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "اغانى نصر اكتوبر 1973",
+      "volume": "1973200+",
+      "volume_numeric": 1973200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "كرواتيا ضد إنجلترا",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "جنين",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "portugal national football team vs norway national football team standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "فيلم الممر",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-05T13:34:43.006084+00:00"
+  "fetched_at": "2026-10-06T12:45:41.844621+00:00"
 }
