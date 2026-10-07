@@ -4,14 +4,54 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "france vs belgium",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "croatia vs spain",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 14,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "croatia vs spain",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "england vs czechia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "bank",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "jj gabriel",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "argentina vs benin",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
       "title": "france vs belgium",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -19,7 +59,15 @@
       "volume_available": true
     },
     {
-      "rank": 2,
+      "rank": 7,
+      "title": "prem",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
       "title": "samsung galaxy s26 ultra",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -27,15 +75,15 @@
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "portugal vs norway",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "rank": 9,
+      "title": "noni madueke",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 10,
       "title": "italy vs türkiye",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -43,31 +91,7 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "clara luvanga",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "young africans s.c.",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "romania vs sweden",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
+      "rank": 11,
       "title": "mwananchi",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -75,23 +99,15 @@
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "cristiano ronaldo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 12,
+      "title": "romania vs sweden",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "greece vs germany",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
+      "rank": 13,
       "title": "tel aviv",
       "volume": "200+",
       "volume_numeric": 200,
@@ -99,29 +115,13 @@
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "netherlands vs serbia",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "man city vs arsenal",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 14,
-      "title": "kosovo vs austria",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "young africans s.c.",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-06T12:43:30.076774+00:00"
+  "fetched_at": "2026-10-07T12:36:54.974626+00:00"
 }

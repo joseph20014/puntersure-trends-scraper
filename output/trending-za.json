@@ -4,103 +4,103 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "france national football team vs belgium national football team standings",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "south african driving licence card validity",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "france national football team vs belgium national football team standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "south african driving licence card validity",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "asylum seeker",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "world space week 2026",
+      "volume": "2026100K+",
+      "volume_numeric": 2026100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "italy vs türkiye",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "croatia vs spain",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
       "title": "argentina vs benin",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "england vs czechia",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "fnb and valr crypto partnership",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "sass jordan",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "freddie jackson",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "angie motshekga",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "geordin hill-lewis",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "south korea vs uzbekistan",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "kidnapping",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "judge",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "asylum seeker",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "swys de bruin",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bafana bafana afcon 2027 qualifiers",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "labor court",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fraud",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "khomotso phahlane",
+      "title": "preggy padayachee",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "khulu phasiwe",
+      "title": "south africa",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,7 +116,7 @@
     },
     {
       "rank": 14,
-      "title": "cancer",
+      "title": "hollywoodbets durbanville horse racing tips",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,31 +124,31 @@
     },
     {
       "rank": 15,
-      "title": "bafana bafana player relebohile mofokeng",
+      "title": "mathematics",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "patrice motsepe",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "swys de bruin",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "ma'a nonu",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "dudu myeni",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 18,
-      "title": "dstv",
+      "title": "kaizer chiefs red arrows caf",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "novak djokovic",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "south african social security agency",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "kaizer chiefs f.c.",
+      "title": "delivery driver",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "preggy padayachee",
+      "title": "f1 rwanda",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "sassa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tulbagh fruit cannery closure south africa",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "babalwa lobishe",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "pinetown",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "mamelodi sundowns fc",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "france vs belgium",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "ransom",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "tariff",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-06T12:44:22.657285+00:00"
+  "fetched_at": "2026-10-07T12:37:46.104700+00:00"
 }

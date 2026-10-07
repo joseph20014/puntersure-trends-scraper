@@ -4,55 +4,55 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "france vs belgium",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "croatia vs spain",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "france vs belgium",
+      "title": "croatia vs spain",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "argentina vs benin",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "england vs czechia",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
       "title": "nigerian air force",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "nigeria vs russia",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "argentina vs benin",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "italy vs türkiye",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "mode",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "kidnapping",
+      "title": "professor",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -60,39 +60,39 @@
     },
     {
       "rank": 7,
-      "title": "romania vs sweden",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "vdm",
+      "title": "godwin emefiele",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "switzerland vs north macedonia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 9,
-      "title": "manchester city fc",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "india vs uruguay",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "flood",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "usa vs canada",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "nollywood",
+      "title": "pension",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,39 +100,39 @@
     },
     {
       "rank": 12,
-      "title": "anthony joshua",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "buy",
+      "title": "mexico vs chile",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 13,
+      "title": "dangote diesel price reduction",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "south korea vs uzbekistan",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "dr congo national football team",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "noni madueke",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "euphoria 360",
+      "volume": "3601K+",
+      "volume_numeric": 3601000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "fuel",
+      "title": "vice chancellor",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,23 +140,23 @@
     },
     {
       "rank": 17,
-      "title": "cancer",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "france vs belgium",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "ronaldo news",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "big brother naija season 11 winner",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "gianni infantino",
+      "title": "nyesom wike",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -164,31 +164,31 @@
     },
     {
       "rank": 20,
-      "title": "professor",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "the jerusalem post",
+      "title": "daniel dubois",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "jj gabriel",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "portugal vs norway",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "state police",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "portugal national football team vs norway national football team standings",
+      "title": "italy vs türkiye",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "novak djokovic",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "first bank",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "lagos life game website",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "flood",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-06T12:43:03.772875+00:00"
+  "fetched_at": "2026-10-07T12:36:29.433011+00:00"
 }
