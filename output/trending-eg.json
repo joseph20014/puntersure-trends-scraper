@@ -5,118 +5,118 @@
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
   "top_trend": "عفو",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
       "title": "عفو",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "الأرجنتين ضد بنين",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "عادل إمام",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 3,
-      "title": "كرواتيا ضد إسبانيا",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "توك توك",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
       "title": "وزارة العمل",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "croatia vs spain",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "سارة خليفة",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "argentina vs benin",
+      "title": "الزمالك وزد",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "وزارة الداخلية",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "الاهلي وبترول اسيوط",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "الرياض",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "تصفيات كأس أمم أفريقيا",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "إنجلترا ضد التشيك",
+      "rank": 11,
+      "title": "أسعار البنزين والسولار اليوم",
       "volume": "10K+",
       "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "سرقة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "نادي الزمالك",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "عقد قران",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "مجلس الذهب العالمي",
-      "volume": "1K+",
-      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "الاهلي",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "رضا سليم",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "زيت",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "السعودية",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "كسوف",
+      "title": "عبد الملك الحوثي",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,7 +124,7 @@
     },
     {
       "rank": 15,
-      "title": "كرة السلة",
+      "title": "كرم جابر",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -132,47 +132,47 @@
     },
     {
       "rank": 16,
-      "title": "تصفيات كأس أمم أفريقيا",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "شريف فايد",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "سعر اليورو",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "شام الذهبي",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "فيلم السرب",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "إبراهيم تراوري",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "غادة عبد الرازق",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "الزمالك",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "البطاقة التموينية",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "العملة",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "جامعة",
+      "title": "علبة السجائر",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -180,23 +180,23 @@
     },
     {
       "rank": 22,
-      "title": "رضا سليم",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "آيات أباظة",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "نضال حسن",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "الأرجنتين ضد بنين",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "تذكرتي",
+      "title": "كرواتيا ضد إسبانيا",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "فيلم الممر",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "كسوف",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-07T12:39:02.776069+00:00"
+  "fetched_at": "2026-10-08T12:48:49.518389+00:00"
 }

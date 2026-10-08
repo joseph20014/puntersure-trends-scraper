@@ -4,30 +4,14 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "argentina - benín",
-  "top_trend_volume": "2M+",
-  "top_trend_volume_numeric": 2000000,
+  "top_trend": "semana mundial del espacio 2026",
+  "top_trend_volume": "2026200K+",
+  "top_trend_volume_numeric": 2026200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "argentina - benín",
-      "volume": "2M+",
-      "volume_numeric": 2000000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "zulema galperín",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
       "title": "semana mundial del espacio 2026",
       "volume": "2026200K+",
       "volume_numeric": 2026200000,
@@ -35,56 +19,72 @@
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "piero",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "sancor seguros",
+      "volume": "1M+",
+      "volume_numeric": 1000000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "ricardo fort",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "juan musso",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "méxico - chile",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ley de reparación histórica para jubilados y pensionados",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
       "title": "valentina pergolini",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "viudez",
+      "title": "celia maría cuccittini",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "rodrigo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "maricarmen españa",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "carlos clerici",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "periodista",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "chiqui tapia",
+      "title": "anne carson",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "otamendi",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "argentina - benín",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "sergio torres",
+      "title": "gimena accardi",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -108,108 +108,108 @@
     },
     {
       "rank": 13,
-      "title": "clima",
-      "volume": "1M+",
-      "volume_numeric": 1000000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "eva marie saint",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "claudio bravo",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "croacia - españa",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "diario de cuyo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "justicia",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "abc",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "nicolás tagliafico",
+      "title": "valles calchaquíes",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "agustin giay",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "rank": 14,
+      "title": "quini6",
+      "volume": "62K+",
+      "volume_numeric": 62000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "fenómeno",
+      "rank": 15,
+      "title": "juez",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "mauro icardi",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "chloe bello",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "cosquín",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "tomás roncero",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "inglaterra - chequia",
+      "rank": 20,
+      "title": "gran premio de singapur",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "diego simeone",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "jorge jesus",
+      "rank": 22,
+      "title": "la cámpora",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 25,
-      "title": "mi telefe",
+      "rank": 23,
+      "title": "stellantis",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "granizo",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "8 de octubre",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-07T12:39:28.351522+00:00"
+  "fetched_at": "2026-10-08T12:49:16.108327+00:00"
 }

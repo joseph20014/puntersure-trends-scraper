@@ -4,70 +4,134 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "troels mylenberg",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "jakob poulsen",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "jakob poulsen",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
       "title": "troels mylenberg",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "margrethe 2.",
+      "volume": "2.2K+",
+      "volume_numeric": 2200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "dødsstraf",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "anne carson",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "bedrageri",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "copenhell",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "dronning",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "supermarked",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 9,
+      "title": "rune kristensen",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "landshold",
+      "rank": 10,
+      "title": "hotel",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "susan dell",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "gæld",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "jens-frederik nielsen",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "texas",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "eva marie saint",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 15,
+      "title": "billed-bladet",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "folketinget",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "droneangreb",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "philip kjær",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
+      "rank": 16,
       "title": "senior",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -75,47 +139,31 @@
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "android auto",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "rank": 17,
+      "title": "bernadette greene-placentia",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "harry kane",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "rank": 18,
+      "title": "tyskland",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "mobilepay",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "morten kjeldgaard",
+      "rank": 19,
+      "title": "simon cowell",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "copenhell 2027",
-      "volume": "20275K+",
-      "volume_numeric": 20275000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
+      "rank": 20,
       "title": "world space week 2026",
       "volume": "20265K+",
       "volume_numeric": 20265000,
@@ -123,56 +171,8 @@
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "lars boje mathiesen",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "argentina vs benin",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "spøgelsesbilist",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "ulykke",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "sydøstjyllands politi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "eurojackpot",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "søren gade",
+      "title": "faglige seniorer",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "nicklas bendtner",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "mette frederiksen",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "ulv",
+      "title": "android auto",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "robert kelker kelly",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "kongelig",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "kroatien - spanien",
+      "title": "butik",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-07T12:38:11.678352+00:00"
+  "fetched_at": "2026-10-08T12:47:58.538995+00:00"
 }

@@ -4,22 +4,14 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "south african driving licence card validity",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "world space week 2026",
+  "top_trend_volume": "2026100K+",
+  "top_trend_volume_numeric": 2026100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "south african driving licence card validity",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
       "title": "world space week 2026",
       "volume": "2026100K+",
       "volume_numeric": 2026100000,
@@ -27,32 +19,40 @@
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "croatia vs spain",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "argentina vs benin",
+      "rank": 2,
+      "title": "south african driving licence card validity",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "south africa fuel tax proposal raf",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "aaron mokoena",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "england vs czechia",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "sassa bank account change warning",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "fnb and valr crypto partnership",
+      "title": "service station security south africa",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "sass jordan",
+      "title": "orlando pirates sign ronaldo adams",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -68,15 +68,15 @@
     },
     {
       "rank": 8,
-      "title": "freddie jackson",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "south africa november petrol price hike",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "asylum seeker",
+      "title": "multichoice",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,23 +84,23 @@
     },
     {
       "rank": 10,
-      "title": "bafana bafana afcon 2027 qualifiers",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "fraud",
+      "title": "freddie jackson",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "durban refugee reception centre tensions",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 12,
-      "title": "preggy padayachee",
+      "title": "olwethu makhanya european club interest",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "south africa",
+      "title": "black economic empowerment",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,15 +116,15 @@
     },
     {
       "rank": 14,
-      "title": "hollywoodbets durbanville horse racing tips",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "jason goodall dimension data confession",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "mathematics",
+      "title": "coca-cola",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,84 +132,84 @@
     },
     {
       "rank": 16,
-      "title": "patrice motsepe",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "beneficiary",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "swys de bruin",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "kaizer chiefs red arrows caf",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "south african social security agency",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "delivery driver",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "f1 rwanda",
+      "title": "jacob zuma",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "steve barker",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "police",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "bheki cele",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "cilliers brink",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "tulbagh fruit cannery closure south africa",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "johannesburg",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "pinetown",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "south african passport",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "france vs belgium",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "nana patekar",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "tariff",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "susan dell",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-07T12:37:46.104700+00:00"
+  "fetched_at": "2026-10-08T12:47:33.119098+00:00"
 }
