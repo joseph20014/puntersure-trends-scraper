@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "world space week 2026",
-  "top_trend_volume": "2026100K+",
-  "top_trend_volume_numeric": 2026100000,
+  "top_trend": "south africa fuel tax proposal raf",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "world space week 2026",
-      "volume": "2026100K+",
-      "volume_numeric": 2026100000,
+      "title": "south africa fuel tax proposal raf",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "south african driving licence card validity",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "south africa fuel tax proposal raf",
+      "title": "jacob zuma",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "aaron mokoena",
+      "rank": 3,
+      "title": "home affairs asylum directive withdrawn",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "aus vs sa",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "sassa bank account change warning",
+      "title": "walter sisulu university",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,17 +52,17 @@
     },
     {
       "rank": 6,
-      "title": "service station security south africa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "n1",
+      "volume": "110K+",
+      "volume_numeric": 110000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "orlando pirates sign ronaldo adams",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "taxpayers",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -76,15 +76,15 @@
     },
     {
       "rank": 9,
-      "title": "multichoice",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "navi pillay",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "freddie jackson",
+      "title": "black economic empowerment",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -92,39 +92,39 @@
     },
     {
       "rank": 11,
-      "title": "durban refugee reception centre tensions",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bafana bafana fifa ranking rise",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "olwethu makhanya european club interest",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "coca-cola",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "black economic empowerment",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "multichoice reducing dstv channels",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "jason goodall dimension data confession",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "andy mothibi andrea johnson idac",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "coca-cola",
+      "title": "solar energy",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,31 +132,31 @@
     },
     {
       "rank": 16,
-      "title": "beneficiary",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "grant kekana",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "jacob zuma",
+      "title": "soweto clashes foreign nationals",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "helen zille",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "steve barker",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 19,
-      "title": "police",
+      "title": "banyana banyana madagascar olympic qualifier",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,23 +164,23 @@
     },
     {
       "rank": 20,
-      "title": "bheki cele",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "sphelele mkhulise",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "cilliers brink",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "susan dell",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "johannesburg",
+      "title": "emmerson mnangagwa appoints kudakwashe tagwirei",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "south african passport",
+      "title": "nic maddinson",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "nana patekar",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "celine dion",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "susan dell",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "nedbank forbes world best employers",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-08T12:47:33.119098+00:00"
+  "fetched_at": "2026-10-09T12:33:52.927808+00:00"
 }

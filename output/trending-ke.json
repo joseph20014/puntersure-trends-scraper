@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "world space week 2026",
-  "top_trend_volume": "202650K+",
-  "top_trend_volume_numeric": 202650000,
+  "top_trend": "kenya railways free train rides",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "world space week 2026",
-      "volume": "202650K+",
-      "volume_numeric": 202650000,
+      "title": "kenya railways free train rides",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "oburu odinga",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "alpheus mangale",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "kenya railways free train rides",
+      "title": "my photos",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "absa group",
+      "title": "president of burkina faso",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,14 +44,102 @@
     },
     {
       "rank": 5,
-      "title": "president of burkina faso",
+      "title": "ndindi nyoro",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "sugar",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "lens vs lyon",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "us embassy nairobi closure columbus day",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "malaga vs espanyol",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "el nino intensity peak december 2026",
+      "volume": "202620K+",
+      "volume_numeric": 202620000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "granit xhaka",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "gathoni wa muchomba",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "initial public offering",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "nana patekar",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "iran",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "weather tomorrow",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
       "title": "interest rate",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -59,63 +147,47 @@
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "ndindi nyoro",
+      "rank": 18,
+      "title": "matatu",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "safaricom",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "iran",
+      "rank": 20,
+      "title": "susan dell",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "central bank of kenya loan rules",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "nana patekar",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 22,
+      "title": "sir wicknell chivayo",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "england vs czechia",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "croatia vs spain",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "bundibugyo virus kenya october 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "world bank buys quickmart stake",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
+      "rank": 23,
       "title": "rent-to-own",
       "volume": "500+",
       "volume_numeric": 500,
@@ -123,93 +195,21 @@
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "military service",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "kenya defence forces",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "youth ambassador",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "kithure kindiki",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "messi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
+      "rank": 24,
       "title": "mikel arteta",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "odi",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "david silva",
+      "rank": 25,
+      "title": "santos vs flamengo",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "road construction",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "somalia",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "sugar",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-08T12:45:50.850001+00:00"
+  "fetched_at": "2026-10-09T12:32:08.109145+00:00"
 }

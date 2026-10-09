@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "world space week 2026",
-  "top_trend_volume": "202620K+",
-  "top_trend_volume_numeric": 202620000,
+  "top_trend": "president of burkina faso",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "world space week 2026",
-      "volume": "202620K+",
-      "volume_numeric": 202620000,
+      "title": "president of burkina faso",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "brics",
+      "title": "edward anato nsmq",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -28,71 +28,71 @@
     },
     {
       "rank": 3,
-      "title": "president of burkina faso",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "mathematics",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "eoco returns items hanan abdul wahab",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "senegal national football team",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "inflation",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "david silva",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "tottenham hotspur f.c.",
+      "title": "granit xhaka",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "al-nassr fc",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "ibrahim mahama dzata cement anniversary",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "croatia vs spain",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "mikel arteta",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "england vs czechia",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "deportation",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "mathematics",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "ghana women's national football team",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "ghana cedi mutilated banknotes warning",
+      "title": "bank",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,31 +100,31 @@
     },
     {
       "rank": 12,
-      "title": "momo",
+      "title": "jj gabriel man utd",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "efootball 2027",
+      "volume": "20271K+",
+      "volume_numeric": 20271000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "tottenham hotspur f.c.",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "la pleasure beach",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "ghanaian cedi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 15,
-      "title": "francis halzen",
+      "title": "ghana premier league match officials",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "ghana teachers strike",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "kwame governs agbodza",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "roméo lavia",
+      "title": "inflation",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,55 +148,55 @@
     },
     {
       "rank": 18,
-      "title": "messi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "argentina",
+      "title": "ghana cedi mutilated banknotes warning",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "david silva",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "jj gabriel man utd",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "momo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "samsung galaxy",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ramon vega",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "switzerland vs north macedonia",
+      "title": "ghana national football team",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "ange postecoglou",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "declan rice",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 24,
-      "title": "gabriel jesus",
+      "title": "nigeria national football team",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "professor",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "la pleasure beach redevelopment suspended",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-08T12:48:24.046080+00:00"
+  "fetched_at": "2026-10-09T12:34:45.153117+00:00"
 }

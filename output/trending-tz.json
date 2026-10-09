@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "jj gabriel",
+  "top_trend": "fifa",
   "top_trend_volume": "2K+",
   "top_trend_volume_numeric": 2000,
-  "volume_available_count": 13,
+  "volume_available_count": 15,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "jj gabriel",
+      "title": "fifa",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -20,71 +20,71 @@
     },
     {
       "rank": 2,
-      "title": "jihan dimack",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "gold",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "nana patekar",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "simba sc",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "croatia vs spain",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "lionel messi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "bank",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "england vs czechia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "prem",
+      "title": "fuel",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "sportpesa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "nana patekar",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "jihan dimack",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "pep guardiola",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "earthquake near me",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "east africa",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "tax",
+      "title": "chama cha mapinduzi",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -92,28 +92,44 @@
     },
     {
       "rank": 11,
-      "title": "east africa",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "tax",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "chama cha mapinduzi",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "iran",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "noni madueke",
+      "title": "senegal national football team",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "prem",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "simba sc",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-08T12:46:41.965911+00:00"
+  "fetched_at": "2026-10-09T12:33:00.574166+00:00"
 }

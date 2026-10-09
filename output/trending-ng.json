@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "croatia vs spain",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "nnpc petrol price discount 30 days",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "croatia vs spain",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "super eagles afcon qualifiers",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "dstv",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "godwin emefiele",
+      "title": "nnpc petrol price discount 30 days",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "dstv",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "kidnapped nysc members",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "27th arabian gulf cup",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "nigeria labour congress fct strike",
+      "title": "moove nigeria operations shutdown",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -52,39 +52,39 @@
     },
     {
       "rank": 6,
-      "title": "nyesom wike siminalayi fubara meeting",
+      "title": "call of duty mobile",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "dollar to naira",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "mtn",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "lionel messi argentina farewell",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "asari dokubo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "fifa world rankings update portugal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "football.london",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "vogue",
+      "title": "nigeria dr congo ineligible player appeal",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "dhs opt program fee proposal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "yobe",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "jj gabriel",
+      "title": "nana patekar",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,47 +108,47 @@
     },
     {
       "rank": 13,
-      "title": "football.london",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "national youth service corps",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "dangote refinery diesel price reduction",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "big brother naija season 11 winner",
+      "title": "santos vs flamengo",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "asari dokubo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "nyesom wike dan orbih tribute",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "2027 mercedes gle suv changes",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "nana patekar",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "naf precautionary landing benue state",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "iran",
+      "title": "initial public offering",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "england vs czechia",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "regina daniels",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "declan rice",
+      "title": "neymar",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -172,23 +172,23 @@
     },
     {
       "rank": 21,
-      "title": "world space week 2026",
-      "volume": "2026500+",
-      "volume_numeric": 2026500,
+      "title": "dangote ipo",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "david silva",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "hydropower",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "customs",
+      "title": "pakistan",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "call of duty mobile",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "nigeria labour congress",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "nigeria vs russia",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "novak djokovic",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-08T12:46:16.545768+00:00"
+  "fetched_at": "2026-10-09T12:32:34.353524+00:00"
 }
