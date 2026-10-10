@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "piero",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "instituto - boca juniors",
+  "top_trend_volume": "1M+",
+  "top_trend_volume_numeric": 1000000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "piero",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "instituto - boca juniors",
+      "volume": "1M+",
+      "volume_numeric": 1000000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "ley de reparación histórica para jubilados y pensionados",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "héctor alterio",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "balón de oro",
+      "title": "unión - defensa y justicia",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -36,78 +36,30 @@
     },
     {
       "rank": 4,
-      "title": "arresto",
+      "title": "panamá",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "fecha",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "lollapalooza 2027",
-      "volume": "202720K+",
-      "volume_numeric": 202720000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "arali vivas",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "gran premio de singapur",
+      "title": "tobogán",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "dalma maradona",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "presidente de burkina faso",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "susan dell",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "nicolas repetto",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "chile",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
+      "rank": 7,
       "title": "jubilación",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -115,16 +67,64 @@
       "volume_available": true
     },
     {
-      "rank": 14,
+      "rank": 8,
       "title": "vuelo",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "gimnasia - atlético tucumán",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "12 de octubre",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "marcos rojo",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "arsenal - leeds",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "subsidio",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "sprint f1",
+      "volume": "120K+",
+      "volume_numeric": 120000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "anne carson",
+      "title": "huevo",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "impuesto a las ganancias",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "industria textil",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "universidad nacional de entre ríos - facultad de ciencias de la salud",
+      "title": "carlos torrendell",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,55 +148,55 @@
     },
     {
       "rank": 18,
-      "title": "oro",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "misiones",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "disney",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "huevo",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "shanghai open",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "julián álvarez",
+      "title": "kirchnerismo",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "f1 sprint",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "premier league",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "universidad nacional de entre ríos",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "nueva zelanda - australia",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "leandro rey hilfer",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "mar del plata",
+      "title": "marley y mirko",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "disney plus",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "carlos alcaraz",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-09T12:35:37.736722+00:00"
+  "fetched_at": "2026-10-10T11:56:02.045130+00:00"
 }

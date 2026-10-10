@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "tidlig pension",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "nyheder",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "tidlig pension",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "nyheder",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "hacker",
+      "title": "russere",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -28,23 +28,23 @@
     },
     {
       "rank": 3,
-      "title": "helikopter",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "gift ved første blik",
+      "title": "kasserer",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "cristiano ronaldo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "kasserer",
+      "title": "arsenal - leeds",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "susan dell",
+      "title": "den kongelige livgarde",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -60,15 +60,15 @@
     },
     {
       "rank": 7,
-      "title": "parkering",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "erling haaland",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "kulturnatten",
+      "title": "vanvidskørsel",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,79 +76,79 @@
     },
     {
       "rank": 9,
-      "title": "navi pillay",
+      "title": "yousee",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "nobels fredspris",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "kulturnat",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "dronning",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "motorcyklist",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "jakob poulsen",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "id tiguan",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "id tiguan",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "anne carson",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "folketinget",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "esbjerg",
+      "title": "michael gift ved første blik",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "george clooney",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "arsenal vs leeds",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "amazon prime",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "nidal hasan",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "mike ditka",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "motorcyklist",
+      "title": "kasper kildelund",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -156,31 +156,31 @@
     },
     {
       "rank": 19,
-      "title": "world space week 2026",
-      "volume": "20265K+",
-      "volume_numeric": 20265000,
+      "title": "tidlig pension",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "michael carrick",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "charles dance",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "ida auken",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "bandidos",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "løvens hule",
+      "title": "vincenzo montella",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "simon cowell",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "lombardiet rundt",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "vestre fængsel",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "lasse knudsen",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "novak djokovic",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "katie zacharia",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-09T12:34:19.053986+00:00"
+  "fetched_at": "2026-10-10T11:54:25.483492+00:00"
 }

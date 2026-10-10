@@ -4,71 +4,71 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "nnpc petrol price discount 30 days",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "arsenal vs leeds",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "nnpc petrol price discount 30 days",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "arsenal vs leeds",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "dstv",
+      "title": "al-nassr vs diriyah",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "galatasaray vs kasımpaşa",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "greece vs england",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "west ham vs qpr",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "kidnapped nysc members",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "27th arabian gulf cup",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "moove nigeria operations shutdown",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "call of duty mobile",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "nnpc petrol price discount 30 days",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "dollar to naira",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "dortmund vs werder",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "mtn",
+      "title": "nigerian navy commodore adogu legacy",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -76,7 +76,7 @@
     },
     {
       "rank": 9,
-      "title": "football.london",
+      "title": "galatasaray",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,15 +84,15 @@
     },
     {
       "rank": 10,
-      "title": "nigeria dr congo ineligible player appeal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "málaga vs espanyol",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "yobe",
+      "title": "rayo vs athletic",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,15 +100,15 @@
     },
     {
       "rank": 12,
-      "title": "nana patekar",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "livescore",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "santos vs flamengo",
+      "title": "oil refinery",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,15 +116,15 @@
     },
     {
       "rank": 14,
-      "title": "asari dokubo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "premier league fixtures",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "nyesom wike dan orbih tribute",
+      "title": "avatar seven havens",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,71 +132,71 @@
     },
     {
       "rank": 16,
-      "title": "2027 mercedes gle suv changes",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "naf precautionary landing benue state",
+      "title": "chelsea",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "psv vs heerenveen",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "initial public offering",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "lens vs lyon",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "regina daniels",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "agra smedan youth agribusiness application",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "neymar",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "lagos life simulator game",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "dangote ipo",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "cristiano ronaldo national team ban",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "hydropower",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "santos vs flamengo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "pakistan",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "laliga",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "nigeria labour congress",
+      "title": "chelsea vs bournemouth",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "novak djokovic",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "femi adebayo",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-09T12:32:34.353524+00:00"
+  "fetched_at": "2026-10-10T11:52:22.902574+00:00"
 }
