@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "عابد عناني",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "برشلونة ضد خيتافي",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "عابد عناني",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "برشلونة ضد خيتافي",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "آرسنال ضد ليدز",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "الريال ضد فياريال",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "ماجد المصري",
+      "title": "barcelona vs getafe",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "عبد الله السعيد",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "arsenal vs leeds",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "النصر ضد الدرعية",
+      "title": "real madrid vs villarreal",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,31 +52,31 @@
     },
     {
       "rank": 6,
-      "title": "كوبري الجامعة",
+      "title": "سامسون سبور ضد طرابزون سبور",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "مبارك الهاجري",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "أسامة فيصل",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 8,
       "title": "مسلسل طالع نازل الحلقة 1",
-      "volume": "15K+",
-      "volume_numeric": 15000,
+      "volume": "110K+",
+      "volume_numeric": 110000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "الإيجار",
+      "title": "إنتر ميامي ضد دي سي يونايتد",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,7 +84,7 @@
     },
     {
       "rank": 10,
-      "title": "نجيب ساويرس",
+      "title": "كهرباء",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "موعد مباراه الاهلي والزمالك",
+      "title": "مباراة الاهلي والزمالك",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -100,116 +100,116 @@
     },
     {
       "rank": 12,
-      "title": "إسراء عبد الفتاح",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "real madrid vs villarreal cf standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "بنما",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "سعر",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "طيار",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fc barcelona vs getafe cf standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "رأفت الهجان",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "أسامة فيصل",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "سوزان نجم الدين",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "هالة صدقي",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "حافلة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "محمود حجازي",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "عاصفة رعدية",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "بنما",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "مسلسل خمسين خمسين 8",
-      "volume": "82K+",
-      "volume_numeric": 82000,
+      "title": "inter miami vs d.c. united",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "premier league",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "برشلونة",
+      "title": "نرمين الفقي",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "عطلة",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "أنصار الله الحوثيون",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ماذرويل ضد سيلتك",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "برج الدلو",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "اقتصاد",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "إصابة",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "محمود طاهر",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "fantasy",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "راتب",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-10T11:55:35.864393+00:00"
+  "fetched_at": "2026-10-11T12:06:46.565348+00:00"
 }

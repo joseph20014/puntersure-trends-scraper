@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "nyheder",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "nordjyllands politi",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "nyheder",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "nordjyllands politi",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "russere",
+      "title": "kronprins",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "kasserer",
+      "title": "flemming splidsboel",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "cristiano ronaldo",
+      "title": "mette frederiksen",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,31 +44,31 @@
     },
     {
       "rank": 5,
-      "title": "arsenal - leeds",
+      "title": "phillip faber",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "traktor",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "den kongelige livgarde",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "erling haaland",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tyveri",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "vanvidskørsel",
+      "title": "tv2 østjylland",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,7 +76,7 @@
     },
     {
       "rank": 9,
-      "title": "yousee",
+      "title": "landsret",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -84,7 +84,7 @@
     },
     {
       "rank": 10,
-      "title": "nobels fredspris",
+      "title": "magnus bak klaris",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "motorcyklist",
+      "title": "twitch",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,23 +100,23 @@
     },
     {
       "rank": 12,
-      "title": "id tiguan",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "arv",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "michael gift ved første blik",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "playstation",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "george clooney",
+      "title": "superligaen",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -124,7 +124,7 @@
     },
     {
       "rank": 15,
-      "title": "arsenal vs leeds",
+      "title": "anders antonsen",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "amazon prime",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "nyheder",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "mike ditka",
+      "title": "aphaca",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "kasper kildelund",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "russere",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "tidlig pension",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "thomas frank",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "charles dance",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "bandidos",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "vincenzo montella",
+      "title": "elmer møller",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "lombardiet rundt",
+      "rank": 21,
+      "title": "george clooney",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "ps5 pro",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "lasse knudsen",
+      "rank": 23,
+      "title": "mia blichfeldt",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "motorcyklist",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "katie zacharia",
+      "title": "real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-10T11:54:25.483492+00:00"
+  "fetched_at": "2026-10-11T12:05:53.860567+00:00"
 }
