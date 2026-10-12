@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "nordjyllands politi",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
+  "top_trend": "twitch",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "nordjyllands politi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "twitch",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "kronprins",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "det norske kongehus",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "flemming splidsboel",
+      "title": "fjernvarme",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "mette frederiksen",
+      "title": "angreb",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "phillip faber",
+      "title": "jacob neestrup",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -52,23 +52,23 @@
     },
     {
       "rank": 6,
-      "title": "traktor",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "klaus rader",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "tyveri",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "usa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "tv2 østjylland",
+      "title": "citroën 2cv",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,71 +76,71 @@
     },
     {
       "rank": 9,
-      "title": "landsret",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "magnus bak klaris",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "twitch",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "arv",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "playstation",
+      "title": "troels lund poulsen",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "superligaen",
+      "rank": 10,
+      "title": "hund",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "mette tranborg",
       "volume": "200+",
       "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "grønland",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "kronprins",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "phillip faber",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "anders antonsen",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "novo nordisk",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "nyheder",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "vanvidskørsel",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "aphaca",
+      "title": "superligaen",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -148,15 +148,15 @@
     },
     {
       "rank": 18,
-      "title": "russere",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "supermarked",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "thomas frank",
+      "title": "sønderborgmotorvejen",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,39 +164,39 @@
     },
     {
       "rank": 20,
-      "title": "elmer møller",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "nordjyllands politi",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "george clooney",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "flemming splidsboel",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "ps5 pro",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "mette frederiksen",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "mia blichfeldt",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "tyveri",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "motorcyklist",
+      "title": "landsret",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "real madrid",
+      "title": "det danske kongehus",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-11T12:05:53.860567+00:00"
+  "fetched_at": "2026-10-12T14:23:22.035230+00:00"
 }

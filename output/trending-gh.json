@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "real madrid vs villarreal",
+  "top_trend": "liverpool vs man city",
   "top_trend_volume": "50K+",
   "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "real madrid vs villarreal",
+      "title": "liverpool vs man city",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -20,63 +20,63 @@
     },
     {
       "rank": 2,
-      "title": "barcelona vs getafe",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "man utd vs spurs",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "arsenal vs leeds",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "chelsea vs bournemouth",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "kwame nkrumah university of science and technology",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "fc barcelona vs getafe cf standings",
+      "title": "gaua strike academic calendar disruption",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "roman abramovich",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "basketball",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "africa",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "asantewaa",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "treasury bill",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "inter miami vs d.c. united",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "port city fc",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "ghana private road transport union",
+      "title": "school",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -84,47 +84,47 @@
     },
     {
       "rank": 10,
-      "title": "como vs roma",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "real madrid vs villarreal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "epl",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "barcelona vs getafe",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "australia",
+      "title": "man utd vs spurs",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "ghana private road transport union",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "psg vs le mans",
+      "rank": 14,
+      "title": "inter miami vs d.c. united",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "elche vs celta",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 15,
-      "title": "premier league",
+      "title": "fc barcelona vs getafe cf standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,47 +132,47 @@
     },
     {
       "rank": 16,
-      "title": "psg vs le mans fc standings",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "hull vs everton",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "bus",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "uefa champions league",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "accra international airport",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "betis vs osasuna",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "southampton vs portsmouth",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "cagliari vs juventus",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "trent alexander-arnold",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "palace vs nottm forest",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "premier league games",
+      "title": "chelsea f.c. vs afc bournemouth standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "saudi arabia",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "real madrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "augsburg vs bayern",
+      "title": "psg vs le mans",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 25,
-      "title": "alavés vs atlético",
+      "rank": 23,
+      "title": "andy burnham",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "psg vs le mans fc standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "racing santander vs valencia",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-11T12:06:20.172986+00:00"
+  "fetched_at": "2026-10-12T14:23:48.520119+00:00"
 }

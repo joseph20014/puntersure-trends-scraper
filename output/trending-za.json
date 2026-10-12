@@ -4,63 +4,63 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "orlando pirates vs mamelodi sundowns",
-  "top_trend_volume": "500K+",
-  "top_trend_volume_numeric": 500000,
+  "top_trend": "liverpool f.c. vs man city standings",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "orlando pirates vs mamelodi sundowns",
-      "volume": "500K+",
-      "volume_numeric": 500000,
+      "title": "liverpool f.c. vs man city standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "man utd vs spurs",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "tongaat hulett jse delisting",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "real madrid vs villarreal",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "vehicle",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "barcelona vs getafe",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "shadrack sibiya leaves police",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "arsenal vs leeds",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "leon schreiber refugee registration technology",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "premier league",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "barbara creecy fuel levy stance",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "augsburg vs bayern",
+      "title": "johnstone makhubu sars tax collection",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,15 +68,15 @@
     },
     {
       "rank": 8,
-      "title": "bongi mbonambi sharks disciplinary hearing",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "hugo broos",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "sassa ineligible beneficiary payment reports",
+      "title": "bongi mbonambi sharks disciplinary hearing",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,7 +84,7 @@
     },
     {
       "rank": 10,
-      "title": "como vs roma",
+      "title": "courtnall skosan rugby retirement",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -92,23 +92,23 @@
     },
     {
       "rank": 11,
-      "title": "inter miami vs d.c. united",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "zuma latest news",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "the presidency irregular expenditure groceries",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "spacex",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "license",
+      "title": "grasslands national park south africa",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -116,7 +116,7 @@
     },
     {
       "rank": 14,
-      "title": "zuma latest news",
+      "title": "cheslin kolbe",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -124,39 +124,39 @@
     },
     {
       "rank": 15,
-      "title": "real madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "brandon petersen kaizer chiefs status",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "psg vs le mans",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "marek masojada boxer ceo retirement",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "fc barcelona vs getafe cf standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "motorcycle club",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "australia vs south africa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "robbery",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "jonkershoek nature reserve",
+      "title": "daily maverick",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,39 +164,39 @@
     },
     {
       "rank": 20,
-      "title": "psg vs le mans fc standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "home affairs worst rated offices sa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "police",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "dog",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "chicago vs new york city",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "iec special vote registration 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "singapore grand prix",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "city",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "vehicle licence",
+      "title": "royale union saint-gilloise",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "hollywoodbets greyville tips 11 october 2026",
-      "volume": "20262K+",
-      "volume_numeric": 20262000,
+      "title": "pakhtakor vs al qadsiah",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-11T12:05:27.645441+00:00"
+  "fetched_at": "2026-10-12T14:22:55.612969+00:00"
 }
