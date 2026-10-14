@@ -4,71 +4,71 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "coventry vs newcastle",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "galatasaray vs barcelona",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "coventry vs newcastle",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "galatasaray vs barcelona",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "al-nassr vs neftchi fergana",
+      "title": "atlético vs man utd",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "arsenal vs losc",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "levante vs sevilla",
+      "rank": 4,
+      "title": "viking vs bayern",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "arsenal f.c. vs losc lille standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "champions league",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "football player",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "liverpool f.c. vs man city standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "uefa champions league",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "ucl",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "villarreal vs napoli",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "basketball",
+      "title": "inter vs club brugge",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,71 +76,71 @@
     },
     {
       "rank": 9,
-      "title": "levante ud vs sevilla fc standings",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "kylian mbappé",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "africa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "coventry vs newcastle",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "betis vs osasuna",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al-nassr vs neftchi fergana",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "hearts of oak vs port city",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "black queens",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "atalanta vs venezia",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "cagliari vs juventus",
+      "title": "champions league games",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "flashscore",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "accra hearts of oak s.c.",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "barcelona",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "ghana national under-23 football team",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "levante vs sevilla",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "sociedad vs deportivo",
+      "title": "champions league standings",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "sassuolo vs milan",
+      "title": "england vs greece",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -156,60 +156,60 @@
     },
     {
       "rank": 19,
-      "title": "ilkay gündoğan",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "usa vs spain",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "juventus",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ghana fa cup",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "kingsley coman",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "football player",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "racing santander vs valencia cf standings",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "lens vs scp",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "al nassr club vs fk neftchi fargona",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "gianni infantino",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "head coach",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "barcelona vs",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "crystal palace f.c. vs nottingham forest standings",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "barcelona fc",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-13T13:32:57.228897+00:00"
+  "fetched_at": "2026-10-14T11:10:09.959693+00:00"
 }
