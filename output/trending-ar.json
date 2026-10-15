@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "boca juniors - vasco da gama",
-  "top_trend_volume": "1M+",
-  "top_trend_volume_numeric": 1000000,
+  "top_trend": "sarmiento - river plate",
+  "top_trend_volume": "500K+",
+  "top_trend_volume_numeric": 500000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "boca juniors - vasco da gama",
-      "volume": "1M+",
-      "volume_numeric": 1000000,
+      "title": "sarmiento - river plate",
+      "volume": "500K+",
+      "volume_numeric": 500000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
       "title": "roña castro",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "posiciones de atlético de madrid contra manchester united",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "inter miami - nyc fc",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "champions",
+      "title": "fluminense - palmeiras",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "posiciones de galatasaray contra fc barcelona",
+      "title": "posiciones de inter miami contra new york city football club",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,31 +52,31 @@
     },
     {
       "rank": 6,
-      "title": "como salio boca",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "copa libertadores",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "galatasaray - barcelona",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "adam bareiro",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "castro",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "boca juniors - vasco da gama",
+      "volume": "1M+",
+      "volume_numeric": 1000000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "liga de campeones de la uefa",
+      "title": "libertadores",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,31 +84,31 @@
     },
     {
       "rank": 10,
-      "title": "viking - bayern",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "marianne von gierke",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "gimnasia y esgrima - newell's",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "roma - real madrid",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "inter - club brujas",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "manchester city - psg",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "lanús - vélez",
+      "title": "mineiro",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -116,31 +116,31 @@
     },
     {
       "rank": 14,
-      "title": "lisandro martínez",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "alexander zverev",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "barcelona",
+      "title": "liga de campeones de la uefa",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "psg",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "arsenal - losc",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "copa libertadores",
+      "title": "palmeiras vs fluminense",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "cristian traverso",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "paul aron",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "atletico",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "galatasaray - barcelona",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "atletico madrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "posiciones de all boys contra godoy cruz",
+      "title": "lask - liverpool",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "villarreal - napoli",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "libertadores",
+      "rank": 21,
+      "title": "nicolás otamendi",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "cristiano ronaldo",
+      "rank": 22,
+      "title": "atlético nacional - medellín",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "posiciones de atlético de madrid contra manchester united",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "roma vs real madrid",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "balón de oro 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "title": "aston villa - fenerbahçe",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-14T11:11:02.651106+00:00"
+  "fetched_at": "2026-10-15T10:52:28.783819+00:00"
 }

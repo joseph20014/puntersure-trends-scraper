@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "pierre-emile højbjerg",
+  "top_trend": "bo johansson",
   "top_trend_volume": "2K+",
   "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "pierre-emile højbjerg",
+      "title": "bo johansson",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -21,22 +21,22 @@
     {
       "rank": 2,
       "title": "champions league",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "elmer møller",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "scott mctominay",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "erling haaland",
+      "title": "pierre-emile højbjerg",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,31 +44,31 @@
     },
     {
       "rank": 5,
-      "title": "håndbold",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "f.c. københavn",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "atlético madrid - man utd",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "real madrid",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "mikkel kessler",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "psg",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "golf",
+      "title": "roma - real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,22 +76,86 @@
     },
     {
       "rank": 9,
-      "title": "agf fodbold mod sønderjyske fodbold stillinger",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "barcelona",
+      "title": "champions league kampe",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "lask",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
+      "title": "atlético madrid - man utd",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "roma vs real madrid",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "sophie cunningham",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "kif håndbold",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "mikkel kessler",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "preben elkjær",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "uefa champions league",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "aston villa - fenerbahçe",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
       "title": "bet365",
       "volume": "3652K+",
       "volume_numeric": 3652000,
@@ -99,7 +163,7 @@
       "volume_available": true
     },
     {
-      "rank": 12,
+      "rank": 20,
       "title": "galatasaray - barcelona",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -107,7 +171,15 @@
       "volume_available": true
     },
     {
-      "rank": 13,
+      "rank": 21,
+      "title": "atlético madrid mod manchester united stillinger",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
       "title": "galatasaray",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -115,101 +187,29 @@
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "mia svele",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "champions league kampe",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "emil nielsen",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "agf - sønderjyske",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "500+ arrow_upward 1,000%",
-      "volume": "2026500+",
-      "volume_numeric": 2026500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "villarreal - napoli",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "viking - bayern",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "helle thomsen",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "uefa champions league",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 23,
-      "title": "atlético vs man utd",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "barcelona",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "viaplay",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "fenerbahce",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "august holmgren",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "helle thomsen",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-14T11:09:43.601873+00:00"
+  "fetched_at": "2026-10-15T10:51:11.347469+00:00"
 }

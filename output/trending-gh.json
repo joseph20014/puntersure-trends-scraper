@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "galatasaray vs barcelona",
+  "top_trend": "roma vs real madrid",
   "top_trend_volume": "50K+",
   "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "galatasaray vs barcelona",
+      "title": "roma vs real madrid",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "atlético vs man utd",
+      "title": "man city vs psg",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -28,15 +28,15 @@
     },
     {
       "rank": 3,
-      "title": "arsenal vs losc",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "lask vs liverpool",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "viking vs bayern",
+      "title": "inter miami vs new york city",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -44,31 +44,31 @@
     },
     {
       "rank": 5,
-      "title": "arsenal f.c. vs losc lille standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "uefa champions league",
+      "title": "aston villa vs fenerbahçe",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "lisandro martínez",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "villarreal vs napoli",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "real madrid vs roma",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "inter vs club brugge",
+      "title": "champions league standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,23 +76,23 @@
     },
     {
       "rank": 9,
-      "title": "kylian mbappé",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "galatasaray vs barcelona",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "coventry vs newcastle",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "atlético vs man utd",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "al-nassr vs neftchi fergana",
+      "title": "arsenal vs losc",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "black queens",
+      "title": "erling haaland",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -108,31 +108,31 @@
     },
     {
       "rank": 13,
-      "title": "champions league games",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "flashscore",
+      "title": "viking vs bayern",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "barcelona",
+      "rank": 14,
+      "title": "arsenal f.c. vs losc lille standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "vinícius júnior",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "levante vs sevilla",
+      "title": "psg",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,31 +140,31 @@
     },
     {
       "rank": 17,
-      "title": "champions league standings",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "villarreal vs napoli",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "england vs greece",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "betis vs porto",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "usa vs spain",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "inter vs club brugge",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "ghana fa cup",
+      "title": "bodø/glimt vs dortmund",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -172,31 +172,31 @@
     },
     {
       "rank": 21,
-      "title": "football player",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "flashscore",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "lens vs scp",
+      "title": "kylian mbappé",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "lincoln city vs west ham",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "gianni infantino",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 24,
-      "title": "barcelona vs",
+      "title": "champions league table",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "barcelona fc",
+      "title": "madrid",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-14T11:10:09.959693+00:00"
+  "fetched_at": "2026-10-15T10:51:37.033212+00:00"
 }
