@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "union vs real sociedad",
+  "top_trend": "australia vs new zealand",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "union vs real sociedad",
+      "title": "australia vs new zealand",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,15 +20,15 @@
     },
     {
       "rank": 2,
-      "title": "happy mashiane",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "hyron andrews",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "relebohile mofokeng europa league performance",
+      "title": "bernard parker ts galaxy exit",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "bournemouth vs sturm graz",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "kaizer chiefs seluleko mahlambi transfer offer",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "ol vs palace",
+      "title": "burnley vs wolves",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "celta vs juventus",
+      "title": "caf champions league",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -60,15 +60,15 @@
     },
     {
       "rank": 7,
-      "title": "torreense vs sunderland",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "bafana bafana afcon qualifiers kenya",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "kaizer chiefs travelling squad zambia",
+      "title": "kaizer chiefs reeve frosler tactical role",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,87 +76,87 @@
     },
     {
       "rank": 9,
-      "title": "dave rennie",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "lask vs liverpool",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "kaizer motaung",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "roma vs real madrid",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "franchising",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "man city vs psg standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "bordeaux begles champions cup travel delay",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "caf champions league second preliminary round",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "brighton vs kauno žalgiris",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "europa league",
+      "title": "kaizer chiefs travelling squad zambia",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "orlando pirates bulelani sigomoshe right-back",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "mokwena comments on mofokeng european football",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "wiliete vs mamelodi sundowns caf",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "fairview racing october 16 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "frans malherbe",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "alexander zverev",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "investec champions cup",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "everton vs chelsea",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "union berlin vs dortmund",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "match fixing",
+      "title": "canada vs nepal",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "rb salzburg vs milan",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "union vs real sociedad",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "inter miami vs new york city",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "brentford vs liverpool",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "aston villa vs fenerbahçe",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "relebohile mofokeng europa league performance",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "benfica vs celtic",
+      "title": "caf champions league fixtures",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "corné rahl stormers signing",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "real madrid vs roma",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "psg",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "emille witbooi orlando pirates transfer talks",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-16T10:40:39.162058+00:00"
+  "fetched_at": "2026-10-17T10:08:24.993050+00:00"
 }
