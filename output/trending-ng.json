@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "burnley vs wolves",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "everton vs chelsea",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "burnley vs wolves",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "everton vs chelsea",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "2026 ballon 'd or",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "man city vs ipswich town",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "bournemouth vs sturm graz",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "betis vs barcelona",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "chelsea transfer target tomas aranda",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "brentford vs liverpool",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "ol vs palace",
+      "title": "atlanta united vs inter miami",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,87 +52,87 @@
     },
     {
       "rank": 6,
-      "title": "celta vs juventus",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "strasbourg vs psg",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "deportivo vs levante",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bayern vs rb leipzig",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "chelsea news",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "espanyol vs atlético",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "frosinone vs sassuolo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "real betis vs fc barcelona standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "brighton & hove albion f.c. vs fk kauno žalgiris standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "newcastle vs aston villa",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "deportivo de la coruna vs levante ud standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "man city vs ipswich town standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "rivers state real madrid academy funding",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "petr čech",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "brentford vs liverpool prediction",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "torreense vs sunderland",
+      "title": "roma vs genoa",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 13,
+      "title": "fulham vs hull",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "gençlerbirliği vs galatasaray",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "sociedad vs barcelona",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "rb salzburg vs milan",
+      "title": "2026 ballon 'd or",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -140,76 +140,76 @@
     },
     {
       "rank": 17,
-      "title": "prediction for today",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "burnley vs wolves",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "mikel arteta arsenal transfer window plans",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "benfica vs celtic",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "newcastle vs aston villa",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "betis vs barcelona",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "brighton vs kauno žalgiris",
+      "title": "bologna vs inter",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "frankfurt fc",
+      "rank": 19,
+      "title": "barcelona vs real betis",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "kelechi iheanacho agabey nickname turkey",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "as roma vs genoa cfc standings",
       "volume": "2K+",
       "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "udinese vs lecce",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "victor osimhen galatasaray goal drought",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "union vs real sociedad",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "golden eaglets 2027 qualification exit",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "barcelona versus real betis la liga",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "manuel pellegrini",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-17T10:07:08.487048+00:00"
+  "fetched_at": "2026-10-18T10:21:01.405058+00:00"
 }
