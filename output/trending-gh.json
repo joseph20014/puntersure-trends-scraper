@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "betis vs barcelona",
+  "top_trend": "leeds vs man utd",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "betis vs barcelona",
+      "title": "leeds vs man utd",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,15 +20,15 @@
     },
     {
       "rank": 2,
-      "title": "everton vs chelsea",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "real madrid vs sevilla fc standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "man city vs ipswich town",
+      "title": "nottm forest vs arsenal",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -36,31 +36,31 @@
     },
     {
       "rank": 4,
-      "title": "brentford vs liverpool",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "sheffield united manager praise ayew",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "real betis vs fc barcelona standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "betis vs barcelona",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "atlanta united vs inter miami",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "man city vs ipswich town",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "newcastle vs aston villa",
+      "title": "brighton vs palace",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -68,31 +68,31 @@
     },
     {
       "rank": 8,
-      "title": "strasbourg vs psg",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "real betis vs fc barcelona standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "everton f.c. vs chelsea f.c. standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "aew wrestledream 2026",
+      "volume": "2026100+",
+      "volume_numeric": 2026100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "sociedad vs barcelona",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "brentford vs liverpool",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "roma vs genoa",
+      "title": "bournemouth vs sunderland",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,31 +100,31 @@
     },
     {
       "rank": 12,
-      "title": "bayern munich vs rb leipzig standings",
+      "title": "atlanta united vs inter miami",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "mohammed kudus",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "asante kotoko vs young apostles",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "carlo ancelotti",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "nigeria national under-17 football team",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 15,
-      "title": "espanyol vs atlético",
+      "title": "strasbourg vs psg",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "bayern vs rb leipzig",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "juventus vs lazio",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "vision vs hearts of oak",
+      "title": "milan vs atalanta",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -149,14 +149,14 @@
     {
       "rank": 18,
       "title": "emiliano martínez",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "ballon d'or",
+      "title": "newcastle vs aston villa",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,7 +164,7 @@
     },
     {
       "rank": 20,
-      "title": "barcelona vs real betis",
+      "title": "real madrid",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,23 +172,23 @@
     },
     {
       "rank": 21,
-      "title": "bologna vs inter",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "bayern vs rb leipzig",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "gfa disciplinary committee asante kotoko sanction",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "everton f.c. vs chelsea f.c. standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "valencia vs athletic",
+      "title": "chelsea vs tottenham",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "villarreal vs elche",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "roma vs genoa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "ghana national under-17 football team",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "vision vs hearts of oak",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-18T10:23:12.882670+00:00"
+  "fetched_at": "2026-10-19T12:04:41.748191+00:00"
 }
