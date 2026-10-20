@@ -4,71 +4,71 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "nottm forest vs arsenal",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "spurs vs coventry",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "nottm forest vs arsenal",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "spurs vs coventry",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "leeds vs man utd",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "real madrid vs sevilla fc standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "siwelele f.c. vs polokwane city standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "andre agassi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "zimbabwe",
+      "title": "mostafa ziko",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "psg vs barcelona",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "pakistan vs england",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "joseph makhanya",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "kwagga smith leaves japanese rugby club",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "miguel cardoso mamelodi sundowns contract",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "mamelodi sundowns lazola maku signing",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "bayonne vs cheetahs epcr challenge cup",
+      "title": "mfundo vilakazi kaizer chiefs substitution",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,23 +76,23 @@
     },
     {
       "rank": 9,
-      "title": "mfundo vilakazi kaizer chiefs substitution",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "carling knockout cup",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "kaizer chiefs carling knockout",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "marco jansen",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "boitumelo radiopane",
+      "title": "nottm forest vs arsenal",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -100,23 +100,23 @@
     },
     {
       "rank": 12,
-      "title": "man city vs ipswich town",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "rugby union",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "betis vs barcelona",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "real madrid vs sevilla fc standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "knowledge musona",
+      "title": "dricus du plessis",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -124,30 +124,22 @@
     },
     {
       "rank": 15,
-      "title": "mamelodi sundowns caf champions league",
+      "title": "getafe vs rayo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "siwelele f.c. vs polokwane city standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "elina svitolina",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "trent alexander-arnold",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
       "title": "brighton vs palace",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -155,61 +147,69 @@
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "antoine semenyo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "leroy carter",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "sa vs aus",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "milan vs atalanta",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "golden arrows vs milford",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "juventus vs lazio",
+      "title": "afghanistan vs zimbabwe",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "bournemouth vs sunderland",
+      "rank": 20,
+      "title": "boitumelo radiopane",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "al hilal sfc vs al-hazem f.c. standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "miguel cardoso mamelodi sundowns contract",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 25,
-      "title": "strasbourg vs psg",
+      "rank": 23,
+      "title": "wiliete vs mamelodi sundowns",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "stefanos tsitsipas",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "andre agassi",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-19T12:03:49.096427+00:00"
+  "fetched_at": "2026-10-20T10:55:49.194765+00:00"
 }

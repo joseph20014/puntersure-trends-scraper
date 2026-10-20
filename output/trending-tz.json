@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "real madrid vs sevilla fc standings",
+  "top_trend": "spurs vs coventry",
   "top_trend_volume": "5K+",
   "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "real madrid vs sevilla fc standings",
+      "title": "spurs vs coventry",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -20,6 +20,14 @@
     },
     {
       "rank": 2,
+      "title": "afcon 2027",
+      "volume": "20271K+",
+      "volume_numeric": 20271000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
       "title": "leeds vs man utd",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -27,7 +35,7 @@
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "nottm forest vs arsenal",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -35,31 +43,15 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "zimbabwe",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "emiliano martínez",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "real madrid vs sevilla fc standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "betis vs barcelona",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
       "title": "nottingham forest vs arsenal f.c. standings",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -67,18 +59,26 @@
       "volume_available": true
     },
     {
+      "rank": 7,
+      "title": "getafe vs rayo",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "man city vs ipswich town",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "al-hilal vs al-hazem",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "brentford vs liverpool",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "simba",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -100,9 +100,9 @@
     },
     {
       "rank": 12,
-      "title": "real betis vs fc barcelona standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "juventus vs lazio",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -116,22 +116,6 @@
     },
     {
       "rank": 14,
-      "title": "juventus vs lazio",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "newcastle vs aston villa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
       "title": "milan vs atalanta",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -139,15 +123,23 @@
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "strasbourg vs psg",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 15,
+      "title": "al hilal",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "title": "trabzonspor vs beşiktaş",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
       "title": "singida black stars",
       "volume": "500+",
       "volume_numeric": 500,
@@ -155,8 +147,16 @@
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "fiorentina vs como",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "roma vs genoa",
+      "title": "monaco fc",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "bayern vs rb leipzig",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al-fayha vs al-ahli",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "atlanta united vs inter miami",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "mamelodi sundowns",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "bayern munich vs rb leipzig standings",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "monza vs cagliari",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "everton f.c. vs chelsea f.c. standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "la liga",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "al ahly",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "leverkusen vs freiburg",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "yanga vs cffa",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "viktor gyökeres",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-19T12:02:56.405094+00:00"
+  "fetched_at": "2026-10-20T10:54:56.409707+00:00"
 }

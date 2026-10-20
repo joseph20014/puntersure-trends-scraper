@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "morten ankerdal",
+  "top_trend": "vfl bochum",
   "top_trend_volume": "2K+",
   "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "morten ankerdal",
+      "title": "vfl bochum",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -20,22 +20,46 @@
     },
     {
       "rank": 2,
-      "title": "rasmus lauge",
+      "title": "nikolaj jacobsen",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "morten ankerdal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "erling haaland",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "viborg - fc midtjylland",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "jesper jensen",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "simon pytlick",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
+      "rank": 7,
       "title": "real madrid - sevilla",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -43,7 +67,7 @@
       "volume_available": true
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "christian nørgaard",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -51,7 +75,15 @@
       "volume_available": true
     },
     {
-      "rank": 6,
+      "rank": 9,
+      "title": "sophie cunningham",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
       "title": "superligaen",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -59,7 +91,7 @@
       "volume_available": true
     },
     {
-      "rank": 7,
+      "rank": 11,
       "title": "ob - brøndby",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -67,7 +99,7 @@
       "volume_available": true
     },
     {
-      "rank": 8,
+      "rank": 12,
       "title": "ob brøndby",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -75,15 +107,7 @@
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "jonas vingegaard",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
+      "rank": 13,
       "title": "leeds - man utd",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -91,32 +115,8 @@
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "cykelsti",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "lyngby - fc nordsjælland",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "sønderjyske - silkeborg",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 14,
-      "title": "viktor axelsen",
+      "title": "tottenham",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -124,6 +124,46 @@
     },
     {
       "rank": 15,
+      "title": "lyngby - fc nordsjælland",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "cykelsti",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "sønderjyske - silkeborg",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "real madrid vs sevilla",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "viktor axelsen",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
       "title": "nottingham forest - arsenal",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -131,7 +171,31 @@
       "volume_available": true
     },
     {
-      "rank": 16,
+      "rank": 21,
+      "title": "de gea",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "jesper lindstrøm",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "simon pytlick",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
       "title": "anders antonsen",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -139,77 +203,13 @@
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "spanien",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "betis - barcelona",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "premier league",
+      "rank": 25,
+      "title": "elmer møller",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "airtox dominance",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "real madrid",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "josé mourinho",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "brentford - liverpool",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "lasse norman",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "loc",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-19T12:04:15.429012+00:00"
+  "fetched_at": "2026-10-20T10:56:15.520800+00:00"
 }

@@ -4,54 +4,78 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "nottm forest vs arsenal",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "spurs vs coventry",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "nottm forest vs arsenal",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "real madrid vs sevilla",
+      "title": "spurs vs coventry",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "zimbabwe",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 2,
+      "title": "psg vs barcelona",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "leeds vs man utd",
+      "rank": 3,
+      "title": "nottm forest vs arsenal",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "mostafa ziko",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "man city vs ipswich town",
+      "title": "morgan rogers james garner tackle",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "psg vs barcelona prediction",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "nottingham forest vs arsenal f.c. standings",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "liverpool vs villarreal prediction",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
       "title": "brighton vs palace",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -59,96 +83,72 @@
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "bournemouth vs sunderland",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 10,
+      "title": "real madrid vs sevilla fc standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "chelsea football club",
+      "rank": 11,
+      "title": "parma vs torino",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "juventus vs lazio",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "everton f.c. vs chelsea f.c. standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "milan vs atalanta",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "man u vs leeds",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "getafe vs rayo",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "brentford f.c. vs liverpool f.c. standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "manchester united",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "real betis vs fc barcelona standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "parma vs torino",
+      "title": "antoine semenyo",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "getafe vs rayo vallecano",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "chelsea football club",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "monza vs cagliari",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "newcastle united f.c. vs aston villa standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "al hilal sfc vs al-hazem f.c. standings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "lorient vs monaco",
+      "title": "trabzonspor vs beşiktaş",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "lyon vs nice",
+      "title": "milan vs atalanta",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "rc strasbourg alsace vs psg standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "braga vs gil vicente",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "leverkusen vs freiburg",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "manchester united",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "fulham vs hull",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "viborg vs midtjylland",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "atlanta united vs inter miami",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "brighton",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "bayern vs rb leipzig",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "manchester united vs leeds",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "fiorentina vs como",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "xabi alonso",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-19T12:02:03.664853+00:00"
+  "fetched_at": "2026-10-20T10:54:03.465282+00:00"
 }
