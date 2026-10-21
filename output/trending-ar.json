@@ -4,87 +4,87 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "deportivo riestra - unión",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "vasco da gama - boca juniors",
+  "top_trend_volume": "1M+",
+  "top_trend_volume_numeric": 1000000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "deportivo riestra - unión",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "vasco da gama - boca juniors",
+      "volume": "1M+",
+      "volume_numeric": 1000000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "sarmiento - barracas central",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "mar del plata",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "psg vs barcelona",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "belgrano - river plate",
-      "volume": "500K+",
-      "volume_numeric": 500000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "newell's - central córdoba",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "racing - independiente",
+      "title": "psg - barcelona",
       "volume": "200K+",
       "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "final sudamericana 2026",
+      "volume": "202650K+",
+      "volume_numeric": 202650000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "20K+ arrow_upward 1,000%",
+      "volume": "202420K+",
+      "volume_numeric": 202420000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "manchester city - aek",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "atletico mineiro",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "mineiro",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "multa",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "automovilismo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "real madrid - sevilla",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "nba",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "mariano werner",
+      "title": "thiago mendes",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,79 +92,79 @@
     },
     {
       "rank": 11,
-      "title": "sebastián báez",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "estudiantes - san lorenzo",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "martín demichelis",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "tottenham - coventry city",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "corinthians - vitória",
+      "title": "spurs - thunder",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 12,
+      "title": "club atlético central córdoba",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "copa argentina",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "stuttgart - atlético madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "selección de fútbol de egipto",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "exequiel zeballos",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "fausto vera",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "juan román riquelme",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "liverpool - villarreal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "estudiantes de río cuarto - aldosivi",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "deportivo riestra - unión",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "club atlético nueva chicago",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "sarmiento - barracas central",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "godoy cruz - estudiantes",
+      "title": "psg",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -172,15 +172,15 @@
     },
     {
       "rank": 21,
-      "title": "10K+ arrow_upward 300%",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "title": "champions",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "leeds - manchester united",
+      "title": "barca vs psg",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "nottingham forest - arsenal",
+      "title": "roma - slovan bratislava",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "tottenham",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "posiciones de vfb stuttgart contra atlético de madrid",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "fiorentina - como",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "quien juega hoy",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-20T10:57:34.826079+00:00"
+  "fetched_at": "2026-10-21T11:11:01.999660+00:00"
 }
