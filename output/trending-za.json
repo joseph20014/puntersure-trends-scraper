@@ -4,63 +4,63 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "como vs man utd",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "bournemouth vs milan",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "como vs man utd",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "bournemouth vs milan",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "bayern vs arsenal",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "union vs h. beer-sheva",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "real madrid vs rb leipzig",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "bulls scrumhalf embrose papier sidelined",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "como 1907 vs manchester united f.c. standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "orlando pirates legend jerry sikhosana",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "relebohile mofokeng €15 million bids",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "beşiktaş vs palace",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "mandla ncikazi",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "matthew breetzke catch steve smith",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "new zealand vs india",
+      "title": "sebastian pedersen orlando pirates striker",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -68,23 +68,23 @@
     },
     {
       "rank": 8,
-      "title": "aston villa vs viking",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "como vs man utd",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "betis vs feyenoord",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "oswin appollis recovery orlando pirates",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "orlando pirates legend jerry sikhosana",
+      "title": "racing",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -92,79 +92,79 @@
     },
     {
       "rank": 11,
-      "title": "england vs sri lanka",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "dynamo kyiv vs kudrivka",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "hyron andrews aortic dissection",
+      "title": "como 1907 vs manchester united f.c. standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "john dobson",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "jj kotze three week ban",
+      "rank": 14,
+      "title": "real madrid vs rb leipzig standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "jablonec vs brighton",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "graham henry",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "royale union saint-gilloise vs hapoel be'er sheva f.c. standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "mandla ncikazi orlando pirates departure",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "daniil medvedev",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "lakers vs warriors",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "safa financial backing danny jordaan",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "liverpool vs villarreal",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "man city vs aek",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "john dobson",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "renaldo leaner",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "jeremy ward france rugby squad",
+      "title": "lech poznań vs sunderland",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "nam vs ire",
+      "title": "england cricket team vs sri lanka national cricket team standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "aston villa vs viking",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "76ers vs cavaliers",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "zimbabwe vs india",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "arsenal vs bayern",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "losc vs galatasaray",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "psg vs fc barcelona standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "monnapule saleng",
+      "title": "losc vs galatasaray",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-22T11:08:36.607734+00:00"
+  "fetched_at": "2026-10-23T11:00:27.083262+00:00"
 }

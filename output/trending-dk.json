@@ -4,62 +4,94 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "fars lille pige",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
+  "top_trend": "kasper schmeichel",
+  "top_trend_volume": "200+",
+  "top_trend_volume_numeric": 200,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "fars lille pige",
+      "title": "kasper schmeichel",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "røde stjerne - fck",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "conference league",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "michael laudrup",
+      "rank": 4,
+      "title": "fc nordsjælland - cska sofia",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "jacob neestrup",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "tour de france 2027",
-      "volume": "2027100+",
-      "volume_numeric": 2027100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "viktor axelsen",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "champions league",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "josefine høgh",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "fcm",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
+      "title": "agf",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "eddie howe",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "como calcio - man utd",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "tour de france 2027",
+      "volume": "2027500+",
+      "volume_numeric": 2027500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
       "title": "real madrid mod rb leipzig stillinger",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -67,23 +99,15 @@
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "bayern - arsenal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 12,
+      "title": "europa conference league",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "badminton",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
+      "rank": 13,
       "title": "gustav isaksen",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -91,48 +115,24 @@
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "psg barcelona",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "f.c. københavn",
+      "rank": 14,
+      "title": "bayern - arsenal",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "como",
+      "rank": 15,
+      "title": "badminton",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "psg vs barcelona",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "como vs man utd",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 16,
-      "title": "s.s.c. napoli mod bodø/glimt stillinger",
+      "title": "arsenal",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,15 +140,15 @@
     },
     {
       "rank": 17,
-      "title": "christian eriksen",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "herning folkeblad",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "trent alexander-arnold",
+      "title": "manchester united fc",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -156,15 +156,15 @@
     },
     {
       "rank": 19,
-      "title": "bayern vs arsenal",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "como vs man utd",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "real madrid",
+      "title": "michael laudrup",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -172,31 +172,31 @@
     },
     {
       "rank": 21,
-      "title": "champions league kampe",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "egnatia",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "psg",
+      "title": "tipster",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "real madrid",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "liverpool - villarreal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 24,
-      "title": "patrik wålemark",
+      "title": "michael valgren",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "bayern",
+      "title": "lille - galatasaray",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-22T11:09:02.871968+00:00"
+  "fetched_at": "2026-10-23T11:00:53.515311+00:00"
 }
