@@ -4,14 +4,46 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "flamengo - estudiantes",
-  "top_trend_volume": "500K+",
-  "top_trend_volume_numeric": 500000,
+  "top_trend": "tigre - atlético tucumán",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "tigre - atlético tucumán",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "gimnasia y esgrima - platense",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "boat balon de oro",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "juan román riquelme",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
       "title": "flamengo - estudiantes",
       "volume": "500K+",
       "volume_numeric": 500000,
@@ -19,48 +51,16 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "alexis mac allister",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "boat balon de oro",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "alpine f1 team",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "final libertadores 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "cuantas libertadores tiene estudiantes",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "gimnasia - sarmiento",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "thunder - nuggets",
+      "title": "lakers - clippers",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "baltasar rodríguez",
+      "title": "peñarol",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,22 +76,54 @@
     },
     {
       "rank": 9,
-      "title": "palmeiras - fluminense",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "spurs - rockets",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "real madrid - rb leipzig",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "warriors - grizzlies",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
+      "title": "celtics - knicks",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "ipswich - nottingham forest",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "leonor de borbón",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "lucas paquetá",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
       "title": "gianluca prestianni",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -99,71 +131,47 @@
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "marco trungelliti",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "como - manchester united",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "posiciones de real madrid contra rb leipzig",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "martín ojeda",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 16,
-      "title": "palmeiras vs fluminense",
+      "title": "liam lawson",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "flamengo",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "mateusz chmura",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 18,
-      "title": "bayern - arsenal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "torino - monza",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "torque - atlético mineiro",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "independiente del valle - u. católica",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
+      "title": "posiciones de cruzeiro contra clube do remo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
       "title": "juventus - rennes",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -171,24 +179,16 @@
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "europa league",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "asociación del fútbol argentino",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bucks - bulls",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "76ers - cavaliers",
+      "title": "franco colapinto",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "joaquín correa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "rubio ñu - guaraní",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "bournemouth - milan",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "thunder - nuggets",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-23T11:02:12.877623+00:00"
+  "fetched_at": "2026-10-24T10:18:01.392621+00:00"
 }
