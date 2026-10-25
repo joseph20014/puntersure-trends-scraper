@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "al-faisaly vs al-nassr",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
+  "top_trend": "chelsea vs spurs",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "al-faisaly vs al-nassr",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "chelsea vs spurs",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "vincent kompany",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "aston villa vs man city",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "accra hearts of oak s.c. vs basake holy stars fc standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "arsenal vs everton",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "ipswich town vs nottm forest",
+      "title": "vincent kompany",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -44,47 +44,47 @@
     },
     {
       "rank": 5,
-      "title": "antonio conte",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "fermín lópez",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "asante kotoko s.c.",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "lakers vs clippers",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "bournemouth vs milan",
+      "title": "atlético vs deportivo",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "ballon d or ranking 2026 winner",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "atlético madrid vs deportivo de la coruna standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "coventry vs fulham",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "real madrid vs barcelona",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "xabi alonso",
+      "title": "rayo vs elche",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -93,86 +93,86 @@
     {
       "rank": 11,
       "title": "barcelona vs real madrid",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "fermín lópez",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "rbny vs inter miami",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "eberechi eze",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "beşiktaş vs palace",
+      "rank": 15,
+      "title": "napoli vs roma",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "al qadsiah vs al-hilal",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "alavés vs málaga",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "warriors vs grizzlies",
+      "rank": 16,
+      "title": "el clásico",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "ghana women's national under-17 football team",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "jablonec vs brighton",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al-faisaly vs al-nassr",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "cole palmer",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "bukayo saka",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "lech poznań vs sunderland",
+      "title": "valencia vs villarreal",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "accra hearts of oak s.c. vs basake holy stars fc standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "ipswich town vs nottm forest",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "diogo jota",
+      "title": "ghana women's national under-17 football team",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "anthony joshua",
+      "title": "barcelona vs granada",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,15 +188,15 @@
     },
     {
       "rank": 23,
-      "title": "al nassr",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "european golden boot 2026 27 standings",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "getafe vs lugano",
+      "title": "rb leipzig vs sv elversberg",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "manchester city",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "como vs sassuolo",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-24T10:17:10.220059+00:00"
+  "fetched_at": "2026-10-25T10:42:12.206921+00:00"
 }

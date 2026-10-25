@@ -4,22 +4,62 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "fifa",
-  "top_trend_volume": "200+",
-  "top_trend_volume_numeric": 200,
+  "top_trend": "alba larsen",
+  "top_trend_volume": "1K+",
+  "top_trend_volume_numeric": 1000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "fifa",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "alba larsen",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
+      "title": "thomas arnoldsen",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "nicky hayen",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "el clasico",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "tv 2",
+      "volume": "21K+",
+      "volume_numeric": 21000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "valencia half marathon 2026",
+      "volume": "2026200+",
+      "volume_numeric": 2026200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
       "title": "randers fc mod brøndby if stillinger",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -27,80 +67,40 @@
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "stine bjerre mortensen",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "knytnæveslag",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "anfield",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "elmer møller",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "røde stjerne - fck",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 8,
-      "title": "christian eriksen",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fodbold",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "fc nordsjælland - cska sofia",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "andreas christensen",
+      "title": "f1 academy",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "napoli - roma",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "usa",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "ufc",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "vincent kompany",
+      "title": "yr",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -108,23 +108,23 @@
     },
     {
       "rank": 13,
-      "title": "hvidovre - hb køge",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ufc 333",
+      "volume": "3331K+",
+      "volume_numeric": 3331000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "europa league",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "chelsea - tottenham",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "agf",
+      "title": "aston villa - man city",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "tour de france 2027",
-      "volume": "2027500+",
-      "volume_numeric": 2027500,
+      "title": "stine bjerre mortensen",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "fcm",
+      "title": "arsenal - everton",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -148,47 +148,47 @@
     },
     {
       "rank": 18,
-      "title": "eddie howe",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "elmer møller",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "europa conference league",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "liverpool f.c.",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "christian prudhomme",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "jonas vingegaard",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "bochum - wolfsburg",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "aab fodbold",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "jacob neestrup",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "knytnæveslag",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "røde stjerne",
+      "title": "jadon sancho",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "herning folkeblad",
+      "title": "rikke iversen",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "andreas maxsø",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "marlen reusser",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-24T10:16:44.670185+00:00"
+  "fetched_at": "2026-10-25T10:41:45.961124+00:00"
 }

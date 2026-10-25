@@ -4,71 +4,71 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "tigre - atlético tucumán",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "rosario central - huracán",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "tigre - atlético tucumán",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "rosario central - huracán",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "gimnasia y esgrima - platense",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "boat balon de oro",
+      "title": "posiciones de rosario central contra club atlético huracán",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "juan román riquelme",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "flamengo - estudiantes",
-      "volume": "500K+",
-      "volume_numeric": 500000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "gimnasia - sarmiento",
+      "rank": 3,
+      "title": "new york rb - inter miami",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "posiciones de san lorenzo de almagro contra club atlético newell's old boys",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "posiciones de talleres de córdoba contra defensa y justicia",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "barcelona vs real madrid",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "lakers - clippers",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "posiciones de club ciudad de bolívar fútbol contra colon de santa fe",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "peñarol",
+      "title": "real madrid vs barcelona",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,23 +76,23 @@
     },
     {
       "rank": 9,
-      "title": "spurs - rockets",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "vasco da gama - corinthians",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "warriors - grizzlies",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "club atlético boca juniors",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "celtics - knicks",
+      "title": "moto gp",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -100,23 +100,23 @@
     },
     {
       "rank": 12,
-      "title": "ipswich - nottingham forest",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "atlético madrid - deportivo",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "leonor de borbón",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "banfield - lanús",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "lucas paquetá",
+      "title": "posiciones de santos futebol clube contra esporte clube bahia",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,92 +124,92 @@
     },
     {
       "rank": 15,
-      "title": "gianluca prestianni",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "aston villa - manchester city",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "liam lawson",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "tigre - atlético tucumán",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "flamengo",
+      "title": "gimnasia y esgrima - platense",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "chelsea - tottenham",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "ferro - chaco for ever",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "posiciones de quilmes atlético club contra san martín de tucumán",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "posiciones de aston villa contra manchester city",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "torino - monza",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 22,
+      "title": "excursionistas",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "independiente del valle - u. católica",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 23,
+      "title": "napoli - roma",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "posiciones de cruzeiro contra clube do remo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "juventus - rennes",
+      "rank": 24,
+      "title": "boca vs independiente",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "bucks - bulls",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "franco colapinto",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "rubio ñu - guaraní",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "thunder - nuggets",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "gimnasia - sarmiento",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-24T10:18:01.392621+00:00"
+  "fetched_at": "2026-10-25T10:43:04.865183+00:00"
 }
