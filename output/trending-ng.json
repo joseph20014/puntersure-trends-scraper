@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "chelsea vs spurs",
+  "top_trend": "man utd vs bournemouth",
   "top_trend_volume": "200K+",
   "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "chelsea vs spurs",
+      "title": "man utd vs bournemouth",
       "volume": "200K+",
       "volume_numeric": 200000,
       "volume_source": "label",
@@ -20,23 +20,23 @@
     },
     {
       "rank": 2,
-      "title": "aston villa vs man city",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "arsenal vs everton",
+      "title": "fc barcelona vs real madrid standings",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "liverpool vs brighton",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "rbny vs inter miami",
+      "title": "freiburg vs bayern",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "atlético vs deportivo",
+      "title": "sunderland vs leeds",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "al-faisaly vs al-nassr",
+      "title": "fc barcelona vs real madrid lineups",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "coventry vs fulham",
+      "title": "inter vs fiorentina",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "napoli vs roma",
+      "title": "liverpool f.c. vs brighton & hove albion f.c. standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -76,23 +76,23 @@
     },
     {
       "rank": 9,
-      "title": "tottenham vs arsenal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "barcelona vs real madrid",
+      "title": "sc freiburg vs bayern munich standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "ballon d'or ranking 2026",
+      "volume": "202610K+",
+      "volume_numeric": 202610000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "chelsea f.c. vs tottenham lineups",
+      "title": "madrid vs barcelona",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "como vs sassuolo",
+      "title": "fc barcelona vs real madrid",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -108,22 +108,46 @@
     },
     {
       "rank": 13,
-      "title": "valencia vs villarreal",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "hull vs brentford",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "ballon d'or 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "title": "rbny vs inter miami",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
+      "title": "udinese vs milan",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "crystal palace vs chelsea",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "palace vs newcastle",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
       "title": "eberechi eze",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -131,85 +155,61 @@
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "lazio vs parma",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 19,
+      "title": "eddie howe",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "liverpool vs brighton",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 20,
+      "title": "chelsea f.c. vs tottenham standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "ipswich town vs nottm forest",
+      "rank": 21,
+      "title": "aston villa vs man city standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "steve mcmanaman el clasico prediction",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "neymar",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "man u vs bournemouth",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "el clasico",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "real madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "suns vs warriors",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "barca vs madrid",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "barcelona vs real madrid prediction",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "atlético vs deportivo",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "al nassr club founding anniversary",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "arsenal f.c. vs everton f.c. standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-25T10:40:00.882544+00:00"
+  "fetched_at": "2026-10-26T12:12:59.837497+00:00"
 }

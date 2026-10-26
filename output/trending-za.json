@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "aston villa vs man city",
+  "top_trend": "man utd vs bournemouth",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "aston villa vs man city",
+      "title": "man utd vs bournemouth",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "chelsea vs spurs",
+      "title": "fc barcelona vs real madrid standings",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -28,14 +28,6 @@
     },
     {
       "rank": 3,
-      "title": "arsenal vs everton",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
       "title": "kaizer chiefs sporting director statement",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -43,80 +35,88 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "barcelona vs real madrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "stormers vs scarlets",
+      "rank": 4,
+      "title": "freiburg vs bayern",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "relebohile mofokeng irvin khoza bet",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "liverpool f.c. vs brighton & hove albion f.c. standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "england vs pakistan",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "sc freiburg vs bayern munich standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "el clasico",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "pitso mosimane south africa squad",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "atlético vs deportivo",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "eddie howe",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "atlanta united vs chicago",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ts galaxy f.c.",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "rbny vs inter miami",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "caf interclub group stage draw 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "napoli vs roma",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "duhan van der merwe",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "pitso mosimane bafana preliminary squad",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "what time is the ballon d'or ceremony",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "mamelodi sundowns miguel cardoso david kannemeyer",
+      "title": "madrid vs barcelona",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -124,15 +124,15 @@
     },
     {
       "rank": 15,
-      "title": "united states grand prix",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "chelsea vs spurs",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "mandla ncikazi golden arrows coach",
+      "title": "abdeslam ouaddou",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,76 +140,76 @@
     },
     {
       "rank": 17,
-      "title": "tito maswanganyi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ballon d'or rankings 2026",
+      "volume": "20261K+",
+      "volume_numeric": 20261000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "orlando pirates 2026/27 third kit",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "sunderland vs leeds",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "south africa national cricket team",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "aston villa vs man city standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "liverpool vs brighton",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "f1 results",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "graham henry",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "udinese vs milan",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "india vs zimbabwe",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "inter vs fiorentina",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "crystal palace vs newcastle",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "patrick maswanganyi",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "elena rybakina",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "fc barcelona vs real madrid lineups",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "man utd vs bournemouth",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "england cricket team vs pakistan national cricket team standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-25T10:41:19.739586+00:00"
+  "fetched_at": "2026-10-26T12:14:20.345904+00:00"
 }

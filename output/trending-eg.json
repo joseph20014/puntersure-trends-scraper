@@ -4,87 +4,87 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "أستون فيلا ضد مان سيتي",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "ماتش الريال وبرشلونه",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "أستون فيلا ضد مان سيتي",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "ماتش الريال وبرشلونه",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "تشيلسي ضد توتنهام",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "ليفربول ضد برايتون",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "أحمد سيد زيزو",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fc barcelona vs real madrid standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "معتمد جمال",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "أحمد سيد زيزو",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "برشلونة ضد الريال",
+      "title": "الكلاسيكو",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "ballon d'or 2026",
+      "volume": "20265K+",
+      "volume_numeric": 20265000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "شوقي غريب",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "ترتيبات نيويورك ريد بولز – إنتر ميامي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "barcelona vs real madrid",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 8,
-      "title": "islam makhachev",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "gutty",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "real madrid vs barcelona",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "أكرم توفيق",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "أحمد فتوح",
+      "title": "عقوبة",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "chelsea vs spurs",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "تشيلسي ضد توتنهام",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "إكرامي الشحات",
+      "title": "اوريان غورين",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,31 +108,31 @@
     },
     {
       "rank": 13,
-      "title": "آرسنال ضد إيفرتون",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "كأس الخليج العربي",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "aston villa vs man city",
+      "title": "مان يونايتد ضد بورنموث",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "real madrid",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "الزمالك",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 16,
-      "title": "أتلتيكو مدريد ضد ديبورتيفو",
+      "title": "تشكيلات الفِرَق: نادي برشلونة – ريال مدريد",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -140,7 +140,7 @@
     },
     {
       "rank": 17,
-      "title": "ترتيبات نادى الفيصلى – نادى النصر",
+      "title": "يلا كوره",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -148,23 +148,23 @@
     },
     {
       "rank": 18,
-      "title": "ضرب لاعبة تنس الطاولة الطفلة زينة فاروق",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "la liga",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "arsenal vs everton",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "chelsea vs spurs",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "صن داونز",
+      "title": "man utd vs bournemouth",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -172,31 +172,31 @@
     },
     {
       "rank": 21,
-      "title": "rbny vs inter miami",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "آرسنال ضد إيفرتون",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "الاتحاد المصري لكرة القدم",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "يلا كورة",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "atlético vs deportivo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ناصر منسي",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "الترجي",
+      "title": "classico",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "نابولي ضد روما",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "كوكوريا",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-25T10:42:38.502243+00:00"
+  "fetched_at": "2026-10-26T12:15:45.359056+00:00"
 }
