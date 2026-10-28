@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "ballon d'or 2026",
-  "top_trend_volume": "2026100K+",
-  "top_trend_volume_numeric": 2026100000,
+  "top_trend": "fleetwood vs arsenal",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ballon d'or 2026",
-      "volume": "2026100K+",
-      "volume_numeric": 2026100000,
+      "title": "fleetwood vs arsenal",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "psg vs ol",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "carabao cup fixtures",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "psg vs olympique lyon standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "blackpool f.c.",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "efl cup",
+      "title": "liverpool vs chelsea",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,23 +44,23 @@
     },
     {
       "rank": 5,
-      "title": "alexia putellas",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "roma vs cagliari",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "new zealand vs india",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "torino fc vs como 1907 standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "fc barcelona vs real madrid standings",
+      "title": "psg vs ol",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,39 +68,39 @@
     },
     {
       "rank": 8,
-      "title": "torino vs como",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "who won the ballon d'or 2026",
+      "volume": "202650K+",
+      "volume_numeric": 202650000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "manchester united f.c. vs afc bournemouth standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "sevilla vs osasuna",
+      "title": "torino vs como",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "antonio conte manchester united rumors",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "liverpool f.c. vs brighton & hove albion f.c. standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "psg vs olympique lyon standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "al-nassr vs al wasl",
+      "title": "dortmund vs werder",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,23 +108,23 @@
     },
     {
       "rank": 13,
-      "title": "sc freiburg vs bayern munich standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "lakers vs trail blazers",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "balon de oro 2026 ranking",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "sassuolo vs lazio",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "galatasaray vs fenerbahçe",
+      "title": "alexia putellas",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,47 +132,47 @@
     },
     {
       "rank": 16,
-      "title": "socrates award",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "real madrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "sunderland a.f.c. vs leeds united f.c. standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "psg vs lyon",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "hull vs brentford",
+      "title": "dazn",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "essen vs rb leipzig",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "al-nassr vs al wasl",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "as roma vs cagliari calcio standings",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "al-shamal vs al-hilal",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "nuggets vs warriors",
+      "title": "sporting vs marítimo",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "benfica",
+      "title": "balon de oro 2026 ranking",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "lamine yamal",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "illan meslier",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "palace vs newcastle",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "leicester city vs wigan athletic",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "ballon d'or live",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "socrates award",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-27T11:33:49.552502+00:00"
+  "fetched_at": "2026-10-28T12:03:40.057919+00:00"
 }

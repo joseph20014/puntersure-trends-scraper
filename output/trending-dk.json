@@ -4,38 +4,70 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "ballon d'or 2026",
-  "top_trend_volume": "202650K+",
-  "top_trend_volume_numeric": 202650000,
+  "top_trend": "caroline wozniacki",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ballon d'or 2026",
-      "volume": "202650K+",
-      "volume_numeric": 202650000,
+      "title": "caroline wozniacki",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "ballon d'or",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "andreas christensen",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "harry kane",
+      "title": "helle thomsen",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "odense håndbold",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "fleetwood - arsenal",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "harry kane",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "hvor kan man se ballon d or",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
       "title": "dazn",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -43,31 +75,39 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "hvem vandt ballon d'or 2026",
-      "volume": "202610K+",
-      "volume_numeric": 202610000,
+      "rank": 9,
+      "title": "ab brøndby",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "martin braithwaite",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "rank": 10,
+      "title": "helene fauske",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "hvor kan man se ballon d or",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "rank": 11,
+      "title": "el pais",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
+      "rank": 12,
+      "title": "ballon d'or 2026 live",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
       "title": "alexia putellas",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -75,15 +115,15 @@
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "barcelona real madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 14,
+      "title": "kenneth emil petersen",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
+      "rank": 15,
       "title": "mads pedersen",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -91,7 +131,7 @@
       "volume_available": true
     },
     {
-      "rank": 11,
+      "rank": 16,
       "title": "andreas maxsø",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -99,48 +139,8 @@
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "agf fodbold mod viborg f.f. stillinger",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "la liga",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "helena elver",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "caroline graham hansen",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "barcelona vs real madrid",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "dazn ballon d or live",
+      "title": "pernille harder",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "psg - lyon",
+      "title": "brøndby kamp",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -156,39 +156,39 @@
     },
     {
       "rank": 19,
-      "title": "michael carrick",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "mette tranborg",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "f1",
-      "volume": "12K+",
-      "volume_numeric": 12000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "galatasaray - fenerbahçe",
+      "title": "dazn ballon d or live",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "alexis mac allister",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "khvicha kvaratskhelia",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "caroline graham hansen",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "vicky lopez",
+      "title": "psg - lyon",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -196,9 +196,9 @@
     },
     {
       "rank": 24,
-      "title": "laliga",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "eddie howe",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
@@ -211,5 +211,5 @@
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-27T11:36:02.077438+00:00"
+  "fetched_at": "2026-10-28T12:05:47.908122+00:00"
 }
