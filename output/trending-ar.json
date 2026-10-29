@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "argentinos jrs. - independiente rivadavia",
+  "top_trend": "atlético tucumán - platense",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "argentinos jrs. - independiente rivadavia",
+      "title": "atlético tucumán - platense",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "harry kane",
+      "title": "inter miami - cincinnati",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -28,103 +28,103 @@
     },
     {
       "rank": 3,
-      "title": "cuti romero",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "manchester city - brighton",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "lakers - trail blazers",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "efl cup",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "quien gano el balon de oro 2026",
-      "volume": "2026500K+",
-      "volume_numeric": 2026500000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "unión - estudiantes",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "oliver bearman",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "posiciones de instituto atlético central córdoba contra deportivo riestra",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "lautaro pereyra",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "roma - cagliari",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "lionel messi balón de oro",
+      "title": "posiciones de inter miami contra fc cincinnati",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "spurs - kings",
+      "rank": 5,
+      "title": "liverpool - chelsea",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "boca ajax messi cup",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "primera división",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "scaloni",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "mohammed ben sulayem",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "clippers - lakers",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "jazz - spurs",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "julián santero",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "thiago cardozo",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "dazn",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "quien gano el balon de oro de todos los tiempos",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "psg - lyon",
+      "title": "bayern - 1. fc magdeburg",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -132,31 +132,31 @@
     },
     {
       "rank": 16,
-      "title": "posiciones de torino fc contra como 1907",
-      "volume": "19075K+",
-      "volume_numeric": 19075000,
+      "title": "argentinos jrs. - independiente rivadavia",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "posiciones de flamengo contra atlético mineiro",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "efl cup",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "torino - como",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "mavericks - thunder",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "trofeo yashin",
+      "title": "santos - palmeiras",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "eze ponce",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "fleetwood - arsenal",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "alexia putellas",
+      "title": "venezia - inter",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "fluminense - internacional",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "gran premio de méxico",
+      "rank": 23,
+      "title": "timberwolves - warriors",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "dortmund - werder bremen",
+      "rank": 24,
+      "title": "bournemouth - aston villa",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "flamengo - atlético mineiro",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "mlb",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "agustín marchesín",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-28T12:07:04.392701+00:00"
+  "fetched_at": "2026-10-29T12:18:17.174391+00:00"
 }

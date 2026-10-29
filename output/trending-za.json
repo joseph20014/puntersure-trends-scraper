@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "fleetwood vs arsenal",
+  "top_trend": "liverpool vs chelsea",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "fleetwood vs arsenal",
+      "title": "liverpool vs chelsea",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "kaizer chiefs vs ts galaxy",
+      "title": "man city vs brighton",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -28,6 +28,22 @@
     },
     {
       "rank": 3,
+      "title": "bayern vs magdeburg",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "kaizer chiefs amazulu fixture postponement",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
       "title": "elias mokwana",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -35,40 +51,24 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "orlando pirates caf champions league draw",
+      "rank": 6,
+      "title": "inter miami vs cincinnati",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "orlando pirates vs milford",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "marcell coetzee",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "mbekezeli mbokazi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "cristiano ronaldo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "bongi mbonambi stormers transfer",
+      "title": "bulls captain marcell coetzee cleared",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -76,7 +76,7 @@
     },
     {
       "rank": 9,
-      "title": "bangladesh vs west indies",
+      "title": "england vs sri lanka",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,47 +84,47 @@
     },
     {
       "rank": 10,
-      "title": "cameron green",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "chicago fire fc vs orlando city standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "ballon d'or",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "chelsea vs liverpool",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "rout",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "kaizer chiefs carling knockout quarterfinals",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "liverpool vs chelsea",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "cooper connolly",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "psg vs ol",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "fleetwood vs arsenal",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "antonio conte manchester united rumors",
+      "title": "manqoba mngqithi",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -132,39 +132,39 @@
     },
     {
       "rank": 16,
-      "title": "carling black label cup",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "orlando pirates carling knockout cup reaction",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "miguel cardoso mamelodi sundowns future",
+      "title": "john dobson",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "kaizer chiefs vs ts galaxy",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "miguel cardoso mamelodi sundowns coach",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "dortmund vs werder",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "torino vs como",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "essen vs rb leipzig",
+      "title": "bournemouth vs aston villa",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -172,31 +172,31 @@
     },
     {
       "rank": 21,
-      "title": "lakers vs trail blazers",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "roma vs cagliari",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "psg vs olympique lyon standings",
+      "title": "mbekezeli mbokazi mls yellow card fine",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 22,
+      "title": "zamalek caf champions league group",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "al-nassr fc",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "patrick maswanganyi transfer rumors denied",
+      "title": "venezia vs inter",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "alexandra eala",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "inter miami vs fc cincinnati standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-28T12:05:22.437359+00:00"
+  "fetched_at": "2026-10-29T12:16:35.011075+00:00"
 }
