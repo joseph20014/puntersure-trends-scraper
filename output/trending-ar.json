@@ -4,14 +4,46 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "atlético tucumán - platense",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "vasco da gama - flamengo",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "vasco da gama - flamengo",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "lucas trejo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "stefano di carlo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "marte",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
       "title": "atlético tucumán - platense",
       "volume": "100K+",
       "volume_numeric": 100000,
@@ -19,7 +51,15 @@
       "volume_available": true
     },
     {
-      "rank": 2,
+      "rank": 6,
+      "title": "grêmio - paranaense",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
       "title": "inter miami - cincinnati",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -27,7 +67,15 @@
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 8,
+      "title": "posiciones de atlético nacional contra independiente santa fe",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
       "title": "manchester city - brighton",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -35,56 +83,8 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "posiciones de inter miami contra fc cincinnati",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "liverpool - chelsea",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "boca ajax messi cup",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "primera división",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "scaloni",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "mohammed ben sulayem",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "clippers - lakers",
+      "title": "fernando alonso",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,55 +92,55 @@
     },
     {
       "rank": 11,
-      "title": "jazz - spurs",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "liverpool - chelsea",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "julián santero",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "posiciones de inter miami contra fc cincinnati",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "thiago cardozo",
+      "title": "exequiel zeballos",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "fiorentina - atalanta",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "atlético mineiro - cruzeiro",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "andrea kimi antonelli",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "quien gano el balon de oro de todos los tiempos",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "bayern - 1. fc magdeburg",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "argentinos jrs. - independiente rivadavia",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "efl cup",
+      "title": "carlos tevez",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -148,39 +148,39 @@
     },
     {
       "rank": 18,
-      "title": "mavericks - thunder",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "bayern - 1. fc magdeburg",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "santos - palmeiras",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "fleetwood - arsenal",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "venezia - inter",
+      "title": "chile",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "cristiano ronaldo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "everton - newcastle",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "fluminense - internacional",
+      "title": "posiciones de al-nassr contra al-kholood club",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "timberwolves - warriors",
+      "title": "al-nassr - al-kholood club",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "posiciones de atlético mineiro contra cruzeiro",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "bournemouth - aston villa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "agustín marchesín",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "scaloni",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-29T12:18:17.174391+00:00"
+  "fetched_at": "2026-10-30T12:08:50.335258+00:00"
 }

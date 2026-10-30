@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "الزمالك ضد المقاولون",
+  "top_trend": "فيوتشر ضد الأهلي",
   "top_trend_volume": "200K+",
   "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "الزمالك ضد المقاولون",
+      "title": "فيوتشر ضد الأهلي",
       "volume": "200K+",
       "volume_numeric": 200000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "ليفربول ضد تشيلسي",
+      "title": "modern sport vs al ahly",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -28,6 +28,54 @@
     },
     {
       "rank": 3,
+      "title": "الأهرام ضد وادي دجلة",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "ترتيبات نادى النصر – نادي الخلود",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "عماد متعب",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "الزمالك ضد المقاولون",
+      "volume": "200K+",
+      "volume_numeric": 200000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "ليفربول ضد تشيلسي",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "أبها ضد الاتحاد",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
       "title": "مان سيتي ضد برايتون",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,56 +83,8 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "liverpool vs chelsea",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "man city vs brighton",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "البايرن ضد ماغديبورغ",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "إنتر ميامي ضد سينسيناتي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "bayern vs magdeburg",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "طرابزون",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "أحمد الجفالي",
+      "title": "vincent kompany",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -92,79 +92,79 @@
     },
     {
       "rank": 11,
-      "title": "مجموعه الزمالك في دوري ابطال افريقيا",
+      "title": "بيرسي تاو",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "liverpool vs chelsea",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "pyramids vs wadi degla",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "inter miami vs cincinnati",
+      "rank": 14,
+      "title": "إيفرتون ضد نيوكاسل يونايتد",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "ترتيب الدوري السعودي",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "al-nassr vs al kholood standings",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "الاتحاد المصري لتنس الطاولة",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "أحمد شوبير",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "zamalek vs al mokawloon",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "دندي يونايتد",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "فليتوود تاون ضد آرسنال",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "man city vs brighton",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "fleetwood vs arsenal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "everton vs newcastle",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "game",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "البايرن ضد ماغديبورغ",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "بورنموث ضد أستون فيلا",
+      "title": "طرابزون",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "vincent kompany",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "البنك الاهلي ضد المصري",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "مجموعه الاهلي في الكونفدراليه",
+      "title": "إنتر ميامي ضد سينسيناتي",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "ترتيبات نادى الشمال – نادى الهلال",
+      "rank": 22,
+      "title": "bayern vs magdeburg",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "ترتيب الدوري المصري",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "بورنموث ضد أستون فيلا",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "bournemouth vs aston villa",
+      "title": "inter miami vs cincinnati",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-29T12:17:51.544533+00:00"
+  "fetched_at": "2026-10-30T12:08:22.079887+00:00"
 }
