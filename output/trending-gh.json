@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "al-nassr vs al kholood",
+  "top_trend": "le havre vs psg",
   "top_trend_volume": "10K+",
   "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "al-nassr vs al kholood",
+      "title": "le havre vs psg",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -20,31 +20,31 @@
     },
     {
       "rank": 2,
-      "title": "everton vs newcastle",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "jessica appiah winning penalty goal",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "al-nassr vs al kholood standings",
+      "title": "villarreal vs espanyol",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "fifa u-17 world cup",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "eddie howe",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "estêvão willian",
+      "title": "africa cup of nations",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -52,15 +52,15 @@
     },
     {
       "rank": 6,
-      "title": "ghana mexico fifa u15 world cup",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "jamie carragher",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "trent alexander-arnold",
+      "title": "konyaspor vs galatasaray",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,23 +68,23 @@
     },
     {
       "rank": 8,
-      "title": "liverpool vs chelsea",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "warriors vs lakers",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "man city vs brighton",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "chelsea vs man united",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "bayern vs magdeburg",
+      "title": "everton vs newcastle",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -92,6 +92,22 @@
     },
     {
       "rank": 11,
+      "title": "al-nassr vs al kholood",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "al-nassr vs al kholood standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
       "title": "hb køge vs barcelona",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -99,40 +115,24 @@
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "inter miami vs cincinnati",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "bournemouth vs aston villa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 14,
-      "title": "hb køge women vs fc barcelona femení standings",
+      "title": "josé mourinho",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "trent alexander-arnold",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "thierry henry",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 16,
-      "title": "benfica vs gil vicente",
+      "title": "casa pia vs sporting",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -140,15 +140,15 @@
     },
     {
       "rank": 17,
-      "title": "fiorentina vs atalanta",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "76ers vs knicks",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "jadon sancho",
+      "title": "hb køge women vs fc barcelona femení standings",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "al nassr",
+      "title": "fiorentina vs atalanta",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -164,15 +164,15 @@
     },
     {
       "rank": 20,
-      "title": "fifa world cup round of 16",
-      "volume": "162K+",
-      "volume_numeric": 162000,
+      "title": "benfica vs gil vicente",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "copa del rey",
+      "title": "al nassr",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "ghana football association",
+      "title": "ghana u15 ranking play offs",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "sunderland vs brentford",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "chelsea f.c.",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "mikel arteta",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "ghana football association",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "fulham vs palace",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "al-shabab vs al-ahli",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-30T12:07:55.410465+00:00"
+  "fetched_at": "2026-10-31T11:42:04.200511+00:00"
 }

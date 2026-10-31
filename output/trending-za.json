@@ -4,119 +4,119 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "al-nassr vs al kholood",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "le havre vs psg",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "al-nassr vs al kholood",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "le havre vs psg",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "muhsin ertugral soweto derby advice",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "everton vs newcastle",
+      "title": "soweto derby",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "al-nassr vs al kholood standings",
+      "rank": 3,
+      "title": "malcolm marx",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 4,
+      "title": "marumo gallants vs siwelele f.c. standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "malcolm marx",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "australia vs uae",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "nick mallett",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "muhsin ertugral soweto derby advice",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "eric tinkler",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "chelsea vs man utd",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "africa cup of nations biennial format",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "sri lanka vs pakistan",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "man city vs brighton",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "warriors vs lakers",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "soweto derby",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "proteas vs australia live score",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "flavio cobolli",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "nz vs ind",
+      "title": "nick mallett",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "villarreal vs espanyol",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "mothobi mvala",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "rushwin dortley kaizer chiefs return",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "lille vs lens",
+      "title": "liam lawson",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -124,92 +124,92 @@
     },
     {
       "rank": 15,
-      "title": "bayern vs magdeburg",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "simon harmer",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "cristiano ronaldo",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "mothobi mvala",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "ireland vs namibia",
+      "title": "sl vs pak",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "cricket sa vs aus",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "bangladesh vs south africa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "kaizer chiefs amazulu fixture postponement",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "marnus labuschagne",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "fiorentina vs atalanta",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "jamie carragher",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "inter miami vs cincinnati",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "bologna vs monza",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "scottland f.c.",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "al-nassr vs al kholood",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "manqoba mngqithi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "mitchell starc",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "benfica vs gil vicente",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "leverkusen vs stuttgart",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "al nassr",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "hong kong sixes",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-30T12:07:02.100500+00:00"
+  "fetched_at": "2026-10-31T11:40:54.743950+00:00"
 }

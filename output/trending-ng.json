@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "al-nassr vs al kholood",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "le havre vs psg",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "al-nassr vs al kholood",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "le havre vs psg",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "everton vs newcastle",
+      "title": "konyaspor vs galatasaray",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -28,15 +28,15 @@
     },
     {
       "rank": 3,
-      "title": "inter miami vs cincinnati",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "al-nassr vs al kholood",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "hb køge vs barcelona",
+      "title": "chelsea vs man united",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -44,47 +44,47 @@
     },
     {
       "rank": 5,
-      "title": "fiorentina vs atalanta",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "benfica vs gil vicente",
+      "title": "estevao willian",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "villarreal vs espanyol",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "nigeria u-17 vs mexico u-17",
-      "volume": "1710K+",
-      "volume_numeric": 1710000,
+      "title": "casa pia vs sporting",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "cristiano ronaldo lionel messi boat award",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "abha vs al-ittihad",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "hb køge women vs fc barcelona femení standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ac milan vs inter milan prediction",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "estevao willian",
+      "title": "jamie carragher",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -92,47 +92,47 @@
     },
     {
       "rank": 11,
-      "title": "harry kane bayern munich contract extension",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "warriors vs lakers",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "man city vs brighton",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "al shabab fc vs al-ahli saudi fc standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "gornik zabrze vs lech poznan",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "bayern vs magdeburg",
+      "title": "everton vs newcastle",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "enzo fernández",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "calafiori injury",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "liverpool vs arsenal",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "mbappé yamal la liga nomination",
+      "title": "bournemouth vs leeds",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -140,76 +140,76 @@
     },
     {
       "rank": 17,
-      "title": "viktor gyokeres arsenal transfer news",
+      "title": "alex ferguson",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "real madrid news",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "bournemouth vs aston villa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 19,
+      "title": "konyaspor",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "afcon",
+      "rank": 20,
+      "title": "hb køge vs barcelona",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "fiorentina vs atalanta",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "benfica vs gil vicente",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "lille vs lens",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "bologna vs monza prediction",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "chelsea vs roma",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "milan vs bologna",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "liverpool f.c. vs chelsea f.c. lineups",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "sunderland vs brentford",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "venezia vs inter",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "fulham vs palace",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "nigeria u-17 vs mexico u-17",
+      "volume": "1710K+",
+      "volume_numeric": 1710000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-30T12:05:41.534045+00:00"
+  "fetched_at": "2026-10-31T11:39:38.082898+00:00"
 }
