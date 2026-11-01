@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "racing - aldosivi",
+  "top_trend": "estudiantes - instituto",
   "top_trend_volume": "100K+",
   "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "racing - aldosivi",
+      "title": "estudiantes - instituto",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "sarmiento - rosario central",
+      "title": "barcelona - alavés",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -28,15 +28,15 @@
     },
     {
       "rank": 3,
-      "title": "estudiantes de río cuarto - gimnasia",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "vélez - san lorenzo",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "huracán - tigre",
+      "title": "river vs boca",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -44,39 +44,39 @@
     },
     {
       "rank": 5,
-      "title": "fernando alonso",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "deportivo riestra - talleres",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "warriors - lakers",
+      "title": "esteban ocon",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "como - venezia",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "stuart barlow",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "nikola tsolov",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "isack hadjar",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "le havre - psg",
+      "title": "fp3 mexico",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -84,23 +84,23 @@
     },
     {
       "rank": 10,
-      "title": "challenger de guayaquil",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "canelo",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "posiciones de le havre athletic club contra psg",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "isack hadjar",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "vasco da gama - flamengo",
+      "title": "posiciones de colon de santa fe contra defensores de belgrano",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -108,108 +108,108 @@
     },
     {
       "rank": 13,
-      "title": "lucas trejo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "f1 mexico",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "corinthians - mirassol",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "posiciones de racing club contra aldosivi",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "mauro icardi",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "liam lawson",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "newman vs alumni",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "levante - atlético madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "villarreal - rcd espanyol",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "sarmiento - rosario central",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "stefano di carlo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "godoy cruz",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "central vs",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "getafe - sevilla",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "santiago núñez",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "milan - inter",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "sanción",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "levante badalona - barcelona",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "cristiano ronaldo",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "chelsea - manchester united",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "fiorentina - atalanta",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "posiciones de levante ud contra atlético de madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "exequiel zeballos",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bayern - dortmund",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "emiliano martínez",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "estudiantes de río cuarto - gimnasia",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-10-31T11:42:55.329479+00:00"
+  "fetched_at": "2026-11-01T12:42:05.605313+00:00"
 }
