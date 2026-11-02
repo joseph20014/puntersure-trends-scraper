@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "barcelona vs alavés",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "pakhtakor vs al-nassr",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "barcelona vs alavés",
+      "title": "pakhtakor vs al-nassr",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "racing santander vs real madrid",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "chelsea f.c. vs manchester united f.c. standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 3,
-      "title": "fc barcelona vs deportivo alavés standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "liverpool f.c. vs arsenal f.c. standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "bayern vs dortmund",
+      "title": "new england vs inter miami",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -44,23 +44,23 @@
     },
     {
       "rank": 5,
-      "title": "spurs vs palace",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "racing santander vs real madrid standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "aston villa vs fulham",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "charlton vs chelsea",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "milan vs inter",
+      "title": "juventus vs napoli",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -68,95 +68,95 @@
     },
     {
       "rank": 8,
-      "title": "man city vs brighton & hove albion f.c. standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "como vs venezia",
+      "title": "athletic vs real sociedad",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 9,
+      "title": "nigeria vs venezuela",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "levante vs atlético",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "paris fc vs monaco",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "coventry vs sunderland",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "elche vs valencia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "bayern munich vs borussia dortmund standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "lamine camara",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
       "title": "arsenal vs aston villa",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "brentford vs nottm forest",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "bournemouth vs leeds",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "udinese vs roma",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "arsenal vs liverpool",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "como",
+      "title": "fc kryvbas kriviy rih vs fc dynamo kyiv",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "erik ten hag on ronaldo career",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "fc barcelona vs deportivo alavés standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "bayern vs dortmund",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "antonio brown",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "levante ud vs atlético madrid standings",
+      "title": "como vs venezia",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -164,39 +164,39 @@
     },
     {
       "rank": 20,
-      "title": "getafe vs sevilla",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "spurs vs palace",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "london vs man city",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "getafe vs sevilla",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "barcelona vs alaves",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "le havre vs psg",
+      "title": "man city vs brighton & hove albion f.c. standings",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "milan vs inter",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "konyaspor vs galatasaray",
+      "title": "bayern munich vs borussia dortmund standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "ranking",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "lazio vs cagliari",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-01T12:38:47.447118+00:00"
+  "fetched_at": "2026-11-02T14:42:21.355587+00:00"
 }

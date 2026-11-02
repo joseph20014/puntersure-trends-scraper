@@ -4,79 +4,79 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "viborg - horsens",
-  "top_trend_volume": "500+",
-  "top_trend_volume_numeric": 500,
+  "top_trend": "brian laudrup",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "viborg - horsens",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
       "title": "brian laudrup",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "ciara mageean",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "barcelona - alaves",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "kasper schmeichel",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "michael laudrup",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "eh aalborg",
+      "rank": 2,
+      "title": "mikkel bjerg",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "amedspor",
+      "rank": 3,
+      "title": "ciara mageean",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "morten bruun",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "brøndby if mod agf fodbold stillinger",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "kimi antonelli",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "fc nordsjælland - fc midtjylland",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "manchester city f.c.",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 9,
-      "title": "chelsea - man utd",
+      "title": "liverpool - arsenal",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,31 +84,31 @@
     },
     {
       "rank": 10,
-      "title": "mette tranborg",
+      "title": "formel 1",
+      "volume": "11K+",
+      "volume_numeric": 11000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "barcelona - alaves",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "racing santander - real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "mads hermansen",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "fc nordsjælland",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 13,
-      "title": "lyngby boldklub mod randers fc stillinger",
+      "title": "juventus - napoli",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -116,15 +116,15 @@
     },
     {
       "rank": 14,
-      "title": "tottenham - crystal palace",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "aalborg håndbold",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "jakob poulsen",
+      "title": "ob - silkeborg",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "man city - brighton",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "michael laudrup",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "bruno fernandes",
+      "title": "viborg - horsens",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,23 +148,23 @@
     },
     {
       "rank": 18,
-      "title": "bayern - dortmund",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "milan - inter",
+      "title": "andreas almgren",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "brøndby kamp",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "alexis mac allister",
+      "title": "eh aalborg",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 21,
-      "title": "esteban ocon",
+      "title": "mads hermansen",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "aab - hobro",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "racing santander mod real madrid stillinger",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "aston villa - fulham",
+      "title": "f1 mexico",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "brentford - nottingham forest",
+      "title": "ronald reagan",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "vacherot",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "amalie kudsk",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-01T12:40:30.290094+00:00"
+  "fetched_at": "2026-11-02T14:44:08.730485+00:00"
 }
