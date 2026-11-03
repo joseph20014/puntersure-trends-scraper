@@ -4,14 +4,38 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "liverpool vs arsenal",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "simba vs namungo",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "simba vs namungo",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "jesus de miguel",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "soccer",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
       "title": "liverpool vs arsenal",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -19,15 +43,15 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "pakhtakor vs al-nassr",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 5,
+      "title": "newcastle vs everton",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 6,
       "title": "racing santander vs real madrid",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -35,32 +59,8 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "simba vs namungo",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "barcelona vs alavés",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "racing santander vs real madrid standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "fc barcelona vs deportivo alavés standings",
+      "title": "pakhtakor fc vs al-nassr standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -68,15 +68,15 @@
     },
     {
       "rank": 8,
-      "title": "juventus vs napoli",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "liverpool f.c. vs arsenal f.c. standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "bayern vs dortmund",
+      "title": "racing santander vs real madrid standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,94 +84,78 @@
     },
     {
       "rank": 10,
-      "title": "man city vs brighton & hove albion f.c. standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "rushine de reuck",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "aston villa vs fulham",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "juventus vs napoli",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "new england vs inter miami",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "atalanta vs parma",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "milan vs inter",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "sassuolo vs fiorentina",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "spurs vs palace",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "rushine de reuck",
+      "title": "benfica",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "new england vs inter miami",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "chelsea f.c. vs manchester united f.c. standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "newcastle",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "mamelodi sundowns vs durban city",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fotmob",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "getafe vs sevilla",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "al ahly",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "bayern munich vs borussia dortmund standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "como vs venezia",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
       "title": "yanga",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -179,7 +163,15 @@
       "volume_available": true
     },
     {
-      "rank": 22,
+      "rank": 20,
+      "title": "warriors vs suns",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
       "title": "paris fc vs monaco",
       "volume": "200+",
       "volume_numeric": 200,
@@ -187,10 +179,18 @@
       "volume_available": true
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "athletic vs real sociedad",
       "volume": "200+",
       "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "live score",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
@@ -211,5 +211,5 @@
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-02T14:42:47.689767+00:00"
+  "fetched_at": "2026-11-03T13:35:33.325949+00:00"
 }
