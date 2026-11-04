@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "ترتيبات باختاكور – نادى النصر",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "برشلونة ضد أستون فيلا",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ترتيبات باختاكور – نادى النصر",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "برشلونة ضد أستون فيلا",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "الاهلي والمقاولون العرب",
+      "title": "barcelona vs aston villa",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -28,39 +28,39 @@
     },
     {
       "rank": 3,
-      "title": "خيسوس دي ميغيل",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "فياريال ضد بي اس جي",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "شيكابالا",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "أتلتيكو مدريد ضد البايرن",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "الزمالك ووادي دجله",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "مان يونايتد ضد روما",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "jesus de miguel",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "خيسوس دي ميغيل",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "الاتحاد ضد العين",
+      "title": "jesus de miguel",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,119 +68,119 @@
     },
     {
       "rank": 8,
-      "title": "السد ضد الأهلي",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "رسينغ ضد الريال",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "jesús de miguel",
+      "title": "كأس الخليج تحت 17 سنة لكرة القدم",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 9,
+      "title": "محمد صلاح",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "man utd vs roma",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "ليفربول ضد آرسنال",
+      "title": "villarreal vs psg",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "atlético vs bayern",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "ترتيبات باختاكور – نادى النصر",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "غلطة سراي ضد شتوتغارت",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "ستيفن جيرارد",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "فيينورد ضد الإنتر",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "الزمالك ووادي دجله",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "racing santander vs real madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 18,
+      "title": "الهلال ضد شباب الأهلي",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "pakhtakor fc vs al-nassr standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "حسام حسن",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "ترتيبات طرابزون سبور – غازي عنتاب إف كيه",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "liverpool vs arsenal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "جافي",
+      "rank": 19,
+      "title": "حمزه عبدالكريم",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "racing santander vs real madrid standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "حسين عموتة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "newcastle united f.c. vs everton f.c. standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "pakhtakor fc vs al-nassr standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "نيو إنجلاند ضد إنتر ميامي",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "مباراه الاهلي اليوم",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "نيوكاسل يونايتد ضد إيفرتون",
+      "title": "باريس سان جيرمان",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -188,15 +188,15 @@
     },
     {
       "rank": 23,
-      "title": "liverpool f.c. vs arsenal f.c. standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "feyenoord vs inter",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "ciara mageean",
+      "title": "شيكابالا",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "محمد شحاتة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "السد ضد الأهلي",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-03T13:38:03.465451+00:00"
+  "fetched_at": "2026-11-04T13:47:16.166097+00:00"
 }

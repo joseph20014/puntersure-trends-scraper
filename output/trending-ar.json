@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "paro",
+  "top_trend": "barcelona - aston villa",
   "top_trend_volume": "50K+",
   "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "paro",
+      "title": "barcelona - aston villa",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "posiciones de defensa y justicia contra club atlético independiente",
+      "title": "jesus de miguel",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "independiente rivadavia - banfield",
+      "title": "posiciones de atlético de madrid contra bayern",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -36,6 +36,86 @@
     },
     {
       "rank": 4,
+      "title": "gabriele minì",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "ramón díaz",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "valtteri bottas",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "alexander zverev",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "villarreal - psg",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "manchester united - roma",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "defensa y justicia - independiente",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "hernan crespo",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "carlos albert llorente",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "tomás martín etcheverry",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
       "title": "posiciones de atlético tucumán contra argentinos juniors",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -43,79 +123,47 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "ciara mageean",
+      "rank": 15,
+      "title": "independiente rivadavia - banfield",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "boca juniors - river plate",
-      "volume": "1M+",
-      "volume_numeric": 1000000,
+      "rank": 16,
+      "title": "nicolás otamendi",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "sporting",
+      "rank": 17,
+      "title": "feyenoord - inter",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "boca vs defensa y justicia",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "piastri sanción",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "francisco cerúndolo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "warriors - suns",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "posiciones de chacarita contra nueva chicago",
+      "rank": 18,
+      "title": "chicago vs chacarita",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "lakers - heat",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 19,
+      "title": "franco colapinto",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
+      "rank": 20,
       "title": "platense - central córdoba",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -123,82 +171,34 @@
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "tomás martín etcheverry",
+      "rank": 21,
+      "title": "rodrigo battaglia",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "flores",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "new england - inter miami",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "adidas",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "belgrano - barracas central",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "posiciones de racing de santander contra real madrid",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "independiente rivadavia",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "atp paris",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "árbitro",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "futbol para todos",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "internacional - coritiba",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "newell's - unión",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "psg",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -211,5 +211,5 @@
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-03T13:38:29.954391+00:00"
+  "fetched_at": "2026-11-04T13:47:42.154651+00:00"
 }
