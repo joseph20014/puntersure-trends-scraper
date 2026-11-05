@@ -4,14 +4,46 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "man utd vs roma",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "slavia praha vs arsenal",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "slavia praha vs arsenal",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "fenerbahçe vs liverpool",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "rb leipzig vs man city",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "aek vs real madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
       "title": "man utd vs roma",
       "volume": "200K+",
       "volume_numeric": 200000,
@@ -19,56 +51,24 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "villarreal vs psg",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "atlético vs bayern",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "jesus de miguel",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "fc barcelona vs aston villa standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "carlos baleba",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bayern vs ajax tickets",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "manchester city f.c.",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "cristiano ronaldo",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "lens vs como",
+      "title": "emiliano martínez",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -76,71 +76,71 @@
     },
     {
       "rank": 9,
-      "title": "newcastle united f.c. vs everton f.c. standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "manchester city f.c.",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "galatasaray vs vfb stuttgart",
+      "title": "lens vs como",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "atlético vs bayern",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "feyenoord vs inter",
+      "rank": 12,
+      "title": "michael carrick",
       "volume": "2K+",
       "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "psg",
-      "volume": "5K+",
-      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "qpr vs burnley",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "uefa champions league",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "pakhtakor fc vs al-nassr standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "porto vs napoli",
+      "title": "crystal palace vs hoffenheim prediction",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "dortmund vs betis",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "cardiff city vs west ham",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "porto vs napoli",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "roma",
+      "title": "carlos baleba",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,31 +148,31 @@
     },
     {
       "rank": 18,
-      "title": "manchester united f.c.",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fc barcelona vs aston villa standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "shakhtar donetsk vs sporting",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "como vs lens",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "champions league",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "school",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "bodø/glimt vs losc",
+      "title": "psv vs club brugge",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "lens vs como prediction",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "villarreal cf vs psg standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "matheus cunha",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "sportpesa",
+      "title": "galatasaray vs vfb stuttgart",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "bristol city vs wolves",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "new zealand vs india",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "atlético madrid vs bayern munich standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-04T13:44:14.339428+00:00"
+  "fetched_at": "2026-11-05T13:57:30.060497+00:00"
 }
