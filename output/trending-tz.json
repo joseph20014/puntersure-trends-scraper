@@ -4,14 +4,30 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "aek vs real madrid",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "fadlu davids",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "fadlu davids",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "steve barker",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
       "title": "aek vs real madrid",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -19,7 +35,7 @@
       "volume_available": true
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "slavia praha vs arsenal",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -27,15 +43,7 @@
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "rb leipzig vs man city",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "fenerbahçe vs liverpool",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -43,24 +51,16 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "man utd vs roma",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "barcelona vs aston villa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "rb leipzig vs man city",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "lens vs como",
+      "title": "getafe vs brighton",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,6 +68,30 @@
     },
     {
       "rank": 8,
+      "title": "sparta praha vs bournemouth",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "como",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "milan vs ferencváros",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
       "title": "dortmund vs betis",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -75,56 +99,32 @@
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "villarreal vs psg",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "atlético vs bayern",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "jj gabriel",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "uhuru stadium caf group stage approval",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "cristiano ronaldo",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "manchester city f.c.",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "fenerbahçe vs liverpool f.c. standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "cristiano ronaldo",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "jj gabriel",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "porto vs napoli",
+      "title": "az vs juventus",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "galatasaray vs vfb stuttgart",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "sunderland vs dinamo zagreb",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "como fc",
+      "title": "warriors vs heat",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -148,6 +148,30 @@
     },
     {
       "rank": 18,
+      "title": "porto vs napoli",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "carlos baleba injury",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "real sociedad vs ol",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
       "title": "real madrid",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -155,7 +179,15 @@
       "volume_available": true
     },
     {
-      "rank": 19,
+      "rank": 22,
+      "title": "manchester city f.c.",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
       "title": "viking fk",
       "volume": "200+",
       "volume_numeric": 200,
@@ -163,53 +195,21 @@
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "feyenoord vs inter",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "cardiff city vs west ham",
+      "rank": 24,
+      "title": "midtjylland vs ajax",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "villarreal cf vs psg standings",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "psg",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "carlos baleba",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "como 1907",
-      "volume": "1907200+",
-      "volume_numeric": 1907200,
+      "title": "cardiff city vs west ham",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-05T13:58:23.390532+00:00"
+  "fetched_at": "2026-11-06T13:47:51.975116+00:00"
 }
