@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "emil nielsen",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
-  "volume_available_count": 24,
+  "top_trend": "leeds - tottenham",
+  "top_trend_volume": "500+",
+  "top_trend_volume_numeric": 500,
+  "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "emil nielsen",
+      "title": "leeds - tottenham",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "morten eskesen",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "agf fodbold",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "tennis",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "odense håndbold",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 4,
-      "title": "monaco - fc nordsjælland",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "arm",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "conference league",
+      "title": "tv midtvest",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -52,63 +52,63 @@
     },
     {
       "rank": 6,
-      "title": "agf fodbold mod s.c. braga stillinger",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "manchester united fc",
+      "title": "emil nielsen",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "victor froholdt",
+      "rank": 7,
+      "title": "johannes hoff thorup",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "alberto contador",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "rank": 8,
+      "title": "hb køge mod aab fodbold stillinger",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "ronaldo",
+      "rank": 9,
+      "title": "silkeborg if mod lyngby boldklub stillinger",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "uefa conference league",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "aek athen - real madrid",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "vejle - fc fredericia",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "fenerbahçe - liverpool",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "fatah abdirahman",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "kevin magnussen",
+      "title": "monaco - fc nordsjælland",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -116,47 +116,47 @@
     },
     {
       "rank": 14,
-      "title": "rb leipzig - man city",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "henrik møllgaard",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "alan jones",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "iberia 1999",
-      "volume": "1999500+",
-      "volume_numeric": 1999500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "ticketmaster",
+      "title": "darren cahill",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 15,
+      "title": "albert grønbæk",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "conference league",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "agf fodbold mod s.c. braga stillinger",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "odense håndbold",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 19,
-      "title": "como",
+      "title": "carlos alcaraz",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -164,44 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "europa conference league",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "mathias gidsel",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "verdensmester",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "alberto contador",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "liverpool",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "sønderjyske fodbold",
+      "title": "everton - coventry",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 23,
+      "title": "victor froholdt",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 24,
-      "title": "elmer møller",
+      "title": "bet 365",
+      "volume": "365100+",
+      "volume_numeric": 365100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "taylor fritz",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-06T13:49:11.158906+00:00"
+  "fetched_at": "2026-11-07T12:26:23.573918+00:00"
 }

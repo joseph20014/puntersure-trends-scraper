@@ -4,55 +4,55 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "pieter-steph du toit",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
+  "top_trend": "springboks vs italy",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "pieter-steph du toit",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "springboks vs italy",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "kaizer chiefs new signing mokwana",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "leeds vs spurs",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "royale union saint-gilloise",
+      "title": "everton vs coventry",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "orlando pirates sekhukhune united carling knockout",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "warriors vs heat",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "multichoice",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "hollywoodbets kenilworth racing tips 2026",
+      "volume": "20262K+",
+      "volume_numeric": 20262000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "springboks vs italy",
+      "title": "ireland vs argentina",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -60,55 +60,55 @@
     },
     {
       "rank": 7,
-      "title": "gamphani lungu",
+      "title": "olwethu makhanya",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "sevilla vs alavés",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "usman khawaja",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "aek vs real madrid",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "cheslin kolbe",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "fenerbahçe vs liverpool",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "wrexham vs wolves",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "rb leipzig vs man city",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "charlie woods",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "slavia praha vs arsenal",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "rugby fixtures",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "getafe vs brighton",
+      "title": "zimbabwe vs afghanistan",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -116,31 +116,31 @@
     },
     {
       "rank": 14,
-      "title": "kick",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "strikeout",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "celta vs union",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "málaga vs racing santander",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "bafana bafana",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "fulham vs newcastle",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "miguel cardoso comments deano van rooyen",
+      "title": "rugby this weekend",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "az vs juventus",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "sparta praha vs bournemouth",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "everton vs coventry",
+      "title": "chelsea vs everton",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "all blacks vs scotland",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "international rugby fixtures",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "milan vs ferencváros",
+      "title": "dimitar pantev leaves richards bay",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "sacha feinberg-mngomezulu",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "sabc",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "sunderland vs dinamo zagreb",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "dortmund vs betis",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 24,
-      "title": "nkosinathi sibisi orlando pirates future",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "man city vs west ham",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "ronaldo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "leipzig vs augsburg",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-06T13:48:44.776399+00:00"
+  "fetched_at": "2026-11-07T12:25:58.066555+00:00"
 }
