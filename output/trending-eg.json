@@ -4,30 +4,22 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "فالنسيا ضد الريال",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "أتلتيكو مدريد ضد برشلونة",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "فالنسيا ضد الريال",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "أتلتيكو مدريد ضد برشلونة",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "valencia vs real madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
       "title": "علي ماهر",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,8 +27,16 @@
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "atlético vs barcelona",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "al ahly vs el sekka el hadid",
+      "title": "ألانيا سبور ضد طرابزون سبور",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "نوتينغهام فورست ضد مان سيتي",
+      "title": "مان يونايتد ضد أستون فيلا",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,71 +52,71 @@
     },
     {
       "rank": 6,
-      "title": "إنتر ميامي ضد شارلوت",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "بي اس جي ضد تروا",
+      "title": "ياسر إبراهيم",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "نابولي ضد لاتسيو",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "napoli vs lazio",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "مالاوي",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "nottm forest vs man city",
+      "rank": 7,
+      "title": "حمزة عبد الكريم",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "atlético madrid vs fc barcelona standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "وادي دجلة ضد كهرباء الإسماعيلية",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "مصطفى محمد",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "بلال عطية",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 12,
-      "title": "ألانيا سبور",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "كريستال بالاس ضد ليفربول",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "حسين لبيب",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "فالنسيا ضد الريال",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "ترتيبات آرسنال – هال سيتي",
+      "title": "man utd vs aston villa",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -124,55 +124,55 @@
     },
     {
       "rank": 15,
-      "title": "ليدز ضد توتنهام",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "al ahly vs el sekka el hadid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "inter miami vs charlotte",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "valencia vs real madrid",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "المصري ضد مصر المقاصة",
+      "title": "نوتينغهام فورست ضد مان سيتي",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "alanyaspor vs trabzonspor",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "psg vs troyes",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 19,
-      "title": "غلطة سراي ضد آميد سبورتيف",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "palace vs liverpool",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "سيراميكا كليوباترا ضد سماد أبوقير",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "مصطفى زيكو",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "leeds vs spurs",
+      "title": "طلائع الجيش ضد بترول أسيوط",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "arsenal vs hull",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "عمر مرموش",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "الشرقية إنبي ضد بروكسي",
+      "title": "بي اس جي ضد تروا",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "روما ضد ساسولو",
+      "title": "محمود ممدوح",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "ماميلودي صنداونز",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "أنجيه ضد نيس",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-08T12:46:28.985037+00:00"
+  "fetched_at": "2026-11-09T15:07:39.106001+00:00"
 }

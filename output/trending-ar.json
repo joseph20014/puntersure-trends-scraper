@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "boca juniors - defensa y justicia",
-  "top_trend_volume": "2M+",
-  "top_trend_volume_numeric": 2000000,
+  "top_trend": "atlético madrid - barcelona",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "boca juniors - defensa y justicia",
+      "title": "atlético madrid - barcelona",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "posiciones de boca juniors contra defensa y justicia",
       "volume": "2M+",
       "volume_numeric": 2000000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "inter miami - charlotte fc",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 3,
-      "title": "instituto - newell's",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "elena rybakina",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "pierre gasly",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "posiciones de atlético de madrid contra fc barcelona",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "cruces de octavos",
+      "title": "central córdoba - lanús",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,23 +52,23 @@
     },
     {
       "rank": 6,
-      "title": "posiciones de valencia c. f. contra real madrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "charles leclerc",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "posiciones de talleres de córdoba contra estudiantes de la plata",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "cristian jaime",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "rodolfo d'onofrio",
+      "title": "juan cortese",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -76,71 +76,71 @@
     },
     {
       "rank": 9,
-      "title": "napoli - lazio",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "valtteri bottas",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "rosario central - estudiantes de río cuarto",
+      "title": "cruces de octavos",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "lautaro blanco",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 10,
+      "title": "river vs lanús",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "trail blazers - spurs",
+      "rank": 11,
+      "title": "vasco da gama - palmeiras",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "kiki ramos",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "cristian jaime",
+      "rank": 13,
+      "title": "entrenador",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "flavio briatore",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "elche c. f. - real betis",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "manchester united - aston villa",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "posiciones de barracas central contra racing club",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "inter miami - charlotte fc",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "argentinos jrs. - huracán",
+      "title": "instituto - newell's",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "valencia c. f. - real madrid",
+      "title": "inter - como",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -156,23 +156,23 @@
     },
     {
       "rank": 19,
-      "title": "independiente - deportivo riestra",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "rosario central - estudiantes de río cuarto",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "carlos sainz jr.",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "fiorentina - juventus",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "gimnasia y esgrima - independiente rivadavia",
+      "title": "talleres - estudiantes",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "nottingham forest - manchester city",
+      "title": "posiciones de valencia c. f. contra real madrid",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "cristiano ronaldo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "valencia c. f. - real madrid",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "a que hora juega boca",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "gastón ávila",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "banfield - atlético tucumán",
+      "title": "argentinos jrs. - huracán",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-08T12:46:54.995812+00:00"
+  "fetched_at": "2026-11-09T15:08:04.813393+00:00"
 }

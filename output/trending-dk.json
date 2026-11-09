@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "fck - brøndby",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "fck brøndby",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "fck - brøndby",
+      "title": "fck brøndby",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "mikael uhre",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "fc midtjylland mod sønderjyske fodbold stillinger",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "robert skov",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "napoli - lazio",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 4,
-      "title": "magnus ditlev",
+      "title": "field's",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,31 +44,31 @@
     },
     {
       "rank": 5,
-      "title": "william clem",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "thomas frank",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "brøndby kamp",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "atlético madrid - barcelona",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "agf fodbold",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ishockey",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "old trafford",
+      "title": "brian priske",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -76,7 +76,7 @@
     },
     {
       "rank": 9,
-      "title": "frederikke foss",
+      "title": "patrick dorgu",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -84,39 +84,39 @@
     },
     {
       "rank": 10,
-      "title": "odense boldklub mod viborg f.f. stillinger",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "mathias gidsel",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "valencia - real madrid",
+      "title": "power",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "fck mod brøndby if stillinger",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "man utd - aston villa",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 13,
-      "title": "morten eskesen",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "agf - horsens",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "anders dreyer",
+      "title": "magnus ditlev",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,15 +124,15 @@
     },
     {
       "rank": 15,
-      "title": "arm",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "uefa nations league",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "nottingham forest mod manchester city stillinger",
+      "title": "randers fc - fc nordsjælland",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,47 +140,47 @@
     },
     {
       "rank": 17,
-      "title": "aalborg håndbold",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "andreas christensen",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "thomas sandgaard",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "pluto",
+      "title": "jesper jensen",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 18,
+      "title": "odense boldklub mod viborg f.f. stillinger",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "valencia - real madrid",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "thomas nørgaard",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "pris",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "crystal palace - liverpool",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "tv2 øst",
+      "title": "nottingham forest mod manchester city stillinger",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "valencia vs real madrid",
+      "title": "atlético vs barcelona",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -196,7 +196,7 @@
     },
     {
       "rank": 24,
-      "title": "arsenal - hull city",
+      "title": "napoli - lazio",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "simon pytlick",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "barcelona",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-08T12:45:37.203359+00:00"
+  "fetched_at": "2026-11-09T15:06:47.525794+00:00"
 }
