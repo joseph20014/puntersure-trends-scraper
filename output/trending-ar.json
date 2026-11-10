@@ -4,30 +4,14 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "atlético madrid - barcelona",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "elena rybakina",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "atlético madrid - barcelona",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "posiciones de boca juniors contra defensa y justicia",
-      "volume": "2M+",
-      "volume_numeric": 2000000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
       "title": "elena rybakina",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -35,23 +19,7 @@
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "posiciones de atlético de madrid contra fc barcelona",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "central córdoba - lanús",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
+      "rank": 2,
       "title": "charles leclerc",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -59,66 +27,98 @@
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "promedios 2027",
+      "volume": "20272K+",
+      "volume_numeric": 20272000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "rodrigo de paul",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "warriors - pelicans",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "seleccion argentina",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "cristian jaime",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "suns - spurs",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "juan cortese",
+      "title": "atlético madrid - barcelona",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "primera división",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "cruces de octavos",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "river vs lanús",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "vasco da gama - palmeiras",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "kiki ramos",
+      "title": "getafe club de fútbol",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "central córdoba - lanús",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "posiciones de atlético de madrid contra fc barcelona",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 13,
-      "title": "entrenador",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "club atlético boca juniors",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "flavio briatore",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "marcelo gallardo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
@@ -132,22 +132,54 @@
     },
     {
       "rank": 16,
-      "title": "inter miami - charlotte fc",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "vasco da gama - palmeiras",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "instituto - newell's",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "mark webber",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
+      "title": "ramón díaz",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "atp estocolmo",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "hawks - lakers",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "flavio briatore",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
       "title": "inter - como",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -155,61 +187,29 @@
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "rosario central - estudiantes de río cuarto",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "fiorentina - juventus",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "talleres - estudiantes",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "posiciones de valencia c. f. contra real madrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 23,
-      "title": "cristiano ronaldo",
+      "title": "juan manuel cerúndolo",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "oscar piastri",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 24,
-      "title": "valencia c. f. - real madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "argentinos jrs. - huracán",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "river vs lanus",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-09T15:08:04.813393+00:00"
+  "fetched_at": "2026-11-10T14:20:23.970928+00:00"
 }

@@ -5,30 +5,30 @@
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
   "top_trend": "atlético vs barcelona",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
       "title": "atlético vs barcelona",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "man utd vs aston villa",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "manchester united f.c. vs aston villa standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "palace vs liverpool",
+      "title": "atlético madrid vs fc barcelona standings",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -36,70 +36,30 @@
     },
     {
       "rank": 4,
-      "title": "nottm forest vs man city",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "nigeria u17 women world cup win",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "sunderland a.f.c. vs chelsea f.c. standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "mbappé beats yamal la liga award",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "inter vs como",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "prize money",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "inter miami vs charlotte",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "brighton vs brentford",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "fiorentina vs juventus",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "ipswich town vs bournemouth",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "villarreal vs getafe",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
       "title": "musiala",
       "volume": "5K+",
       "volume_numeric": 5000,
@@ -107,24 +67,64 @@
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "warriors vs pelicans",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "diego simeone",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "pochettino",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "charles sagoe jr january return",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "1K+ arrow_upward 300%",
+      "volume": "20261K+",
+      "volume_numeric": 20261000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 13,
-      "title": "barca vs atletico madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "africa cup of nations",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "barcelona vs atletico madrid",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "sunderland a.f.c. vs chelsea f.c. standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "estrela amadora vs benfica",
+      "title": "joão cancelo",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -132,84 +132,84 @@
     },
     {
       "rank": 16,
-      "title": "diego simeone",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "valencia cf vs real madrid standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "psg vs troyes",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "galatasaray vs amed sk",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "joão cancelo",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "napoli vs lazio",
+      "title": "fiorentina vs juventus",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "villarreal vs getafe",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "jürgen klopp",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "hawks vs lakers",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "crystal palace f.c. vs liverpool f.c. standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "estrela amadora vs benfica",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 22,
-      "title": "arsenal f.c. vs hull city standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "barca vs atletico madrid",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "u-17 women world cup",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "cristiano ronaldo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "atletico madrid vs barcelona",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "martín zubimendi",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "cristiano ronaldo unbreakable football records",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "lens vs marseille",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-09T15:05:04.405202+00:00"
+  "fetched_at": "2026-11-10T14:17:04.207361+00:00"
 }

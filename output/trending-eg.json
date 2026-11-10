@@ -4,14 +4,30 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "أتلتيكو مدريد ضد برشلونة",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "محمد أبو تريكة",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "محمد أبو تريكة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "كأس الملك",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
       "title": "أتلتيكو مدريد ضد برشلونة",
       "volume": "100K+",
       "volume_numeric": 100000,
@@ -19,15 +35,23 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "علي ماهر",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 4,
+      "title": "بلال عطية",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "title": "مصطفى يونس",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
       "title": "atlético vs barcelona",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -35,7 +59,7 @@
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 7,
       "title": "ألانيا سبور ضد طرابزون سبور",
       "volume": "50K+",
       "volume_numeric": 50000,
@@ -43,7 +67,15 @@
       "volume_available": true
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "title": "تامر مصطفى",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
       "title": "مان يونايتد ضد أستون فيلا",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -51,7 +83,15 @@
       "volume_available": true
     },
     {
-      "rank": 6,
+      "rank": 10,
+      "title": "موعد مباراة منتخب مصر",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
       "title": "ياسر إبراهيم",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -59,15 +99,7 @@
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "حمزة عبد الكريم",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
+      "rank": 12,
       "title": "atlético madrid vs fc barcelona standings",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -75,47 +107,7 @@
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "وادي دجلة ضد كهرباء الإسماعيلية",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "مصطفى محمد",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "بلال عطية",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "كريستال بالاس ضد ليفربول",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 13,
-      "title": "فالنسيا ضد الريال",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
       "title": "man utd vs aston villa",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -123,31 +115,47 @@
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "وادي دجلة ضد كهرباء الإسماعيلية",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "al ahly vs el sekka el hadid",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "مصطفى محمد",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "valencia vs real madrid",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "حمزة عبد الكريم",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "نوتينغهام فورست ضد مان سيتي",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "مؤمن سليمان",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
+      "title": "الحسين عموتة",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
       "title": "alanyaspor vs trabzonspor",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -155,18 +163,10 @@
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "palace vs liverpool",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "مصطفى زيكو",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "jamal musiala",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "عمر مرموش",
+      "title": "زد",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "بي اس جي ضد تروا",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "محمود ممدوح",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
       "title": "أنجيه ضد نيس",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "crystal palace f.c. vs liverpool f.c. standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "سفيان بنجديدة",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-09T15:07:39.106001+00:00"
+  "fetched_at": "2026-11-10T14:19:57.511238+00:00"
 }
