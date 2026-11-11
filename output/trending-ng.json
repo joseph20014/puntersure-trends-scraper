@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "atlético vs barcelona",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "häcken vs chelsea",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "atlético vs barcelona",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "häcken vs chelsea",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "manchester united f.c. vs aston villa standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "pochettino",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "atlético madrid vs fc barcelona standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "inter vs man city",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "nigeria u17 women world cup win",
+      "title": "jay-jay okocha",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "mbappé beats yamal la liga award",
+      "title": "real madrid vs paris fc",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "prize money",
+      "title": "cole palmer",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -60,14 +60,94 @@
     },
     {
       "rank": 7,
-      "title": "musiala",
+      "title": "fm27 mobile",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "marc cucurella lamine yamal el clasico",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "marc bernal",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "nigeria u17 women world cup win",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "toni kroos",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "mbappé beats yamal la liga award",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
+      "rank": 13,
+      "title": "prize money",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "charles sagoe jr january return",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "india vs maldives",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "ademola lookman",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "trail blazers vs thunder",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
       "title": "warriors vs pelicans",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -75,128 +155,48 @@
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "diego simeone",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "pochettino",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "charles sagoe jr january return",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "1K+ arrow_upward 300%",
-      "volume": "20261K+",
-      "volume_numeric": 20261000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "africa cup of nations",
+      "rank": 19,
+      "title": "76ers vs celtics",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "sunderland a.f.c. vs chelsea f.c. standings",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "joão cancelo",
+      "rank": 20,
+      "title": "leicester city vs walsall",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "fiorentina vs juventus",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "rank": 21,
+      "title": "nations league",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "villarreal vs getafe",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "rank": 22,
+      "title": "martín zubimendi",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "jürgen klopp",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "hawks vs lakers",
+      "rank": 23,
+      "title": "convocation",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "crystal palace f.c. vs liverpool f.c. standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "estrela amadora vs benfica",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "barca vs atletico madrid",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "cristiano ronaldo",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 24,
-      "title": "martín zubimendi",
+      "title": "transfer",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "lens vs marseille",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "africa cup of nations",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-10T14:17:04.207361+00:00"
+  "fetched_at": "2026-11-11T13:31:02.180925+00:00"
 }

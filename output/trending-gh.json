@@ -4,14 +4,78 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "ronald araújo",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
-  "volume_available_count": 25,
+  "top_trend": "ghana national football team",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
+  "volume_available_count": 23,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "ghana national football team",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "cole palmer",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "häcken vs chelsea",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "mauricio pochettino",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "jonathan mensah football retirement",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "martín zubimendi",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "real madrid vs paris fc",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "ben white",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
       "title": "ronald araújo",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -19,63 +83,7 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "kim björkegren",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "ben white",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "atlético vs barcelona",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "caf announces afcon qualifier dates",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "martín zubimendi",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "man utd vs aston villa",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "atlético madrid vs fc barcelona standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "weather tomorrow",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -83,32 +91,24 @@
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "jamal musiala",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 11,
+      "title": "endrick",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "warriors vs pelicans",
+      "rank": 12,
+      "title": "marc cucurella",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "diego simeone",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 13,
-      "title": "jürgen klopp",
+      "title": "leicester city vs walsall",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -116,6 +116,14 @@
     },
     {
       "rank": 14,
+      "title": "caf announces afcon qualifier dates",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
       "title": "video assistant referee",
       "volume": "500+",
       "volume_numeric": 500,
@@ -123,63 +131,47 @@
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "michael carrick",
+      "rank": 16,
+      "title": "inter vs man city",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "inter vs como",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "sunderland a.f.c. vs chelsea f.c. standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "crystal palace f.c. vs liverpool f.c. standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "hearts of oak vs heart of lions",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "fiorentina vs juventus",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "hawks vs lakers",
+      "title": "arsène wenger",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
+      "rank": 18,
+      "title": "76ers vs celtics",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "warriors vs pelicans",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "felix nmecha",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
       "title": "harry maguire",
       "volume": "200+",
       "volume_numeric": 200,
@@ -187,29 +179,21 @@
       "volume_available": true
     },
     {
+      "rank": 22,
+      "title": "hawks vs lakers",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 23,
-      "title": "berekum chelsea vs asante kotoko",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "villarreal vs getafe",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "barcelona vs madrid cff",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "tat",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-10T14:19:31.074145+00:00"
+  "fetched_at": "2026-11-11T13:33:10.874727+00:00"
 }

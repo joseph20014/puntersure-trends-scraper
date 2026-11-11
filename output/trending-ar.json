@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "elena rybakina",
+  "top_trend": "oscar piastri",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
-  "volume_available_count": 25,
+  "volume_available_count": 24,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "elena rybakina",
+      "title": "oscar piastri",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,63 +20,63 @@
     },
     {
       "rank": 2,
-      "title": "charles leclerc",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "ángel correa",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "promedios 2027",
-      "volume": "20272K+",
-      "volume_numeric": 20272000,
+      "title": "inter de miami",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "rodrigo de paul",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "seleccion argentina",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "warriors - pelicans",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "nico hülkenberg",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "seleccion argentina",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "argentina vs",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "suns - spurs",
+      "title": "promedios 2027",
+      "volume": "20275K+",
+      "volume_numeric": 20275000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "76ers - celtics",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "atlético madrid - barcelona",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "primera división",
+      "title": "rodrigo de paul",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,39 +84,39 @@
     },
     {
       "rank": 10,
-      "title": "getafe club de fútbol",
+      "title": "club de regatas vasco da gama",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "trail blazers - thunder",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "central córdoba - lanús",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "posiciones de atlético de madrid contra fc barcelona",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "once caldas - atlético nacional",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "club atlético boca juniors",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "play-off",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "marcelo gallardo",
+      "title": "warriors - pelicans",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -124,46 +124,38 @@
     },
     {
       "rank": 15,
-      "title": "manchester united - aston villa",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "knicks - bucks",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "vasco da gama - palmeiras",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "selección de fútbol sub-20 de argentina",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "mark webber",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "ramón díaz",
+      "title": "enner valencia boca juniors",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "atp estocolmo",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "rank": 18,
+      "title": "marcelo gallardo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
+      "rank": 19,
       "title": "hawks - lakers",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -171,24 +163,32 @@
       "volume_available": true
     },
     {
+      "rank": 20,
+      "title": "suns - spurs",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 21,
-      "title": "flavio briatore",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "getafe club de fútbol",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "inter - como",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "deportick",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "juan manuel cerúndolo",
+      "title": "jazz - heat",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -196,20 +196,12 @@
     },
     {
       "rank": 24,
-      "title": "oscar piastri",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "river vs lanus",
+      "title": "primera división",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-10T14:20:23.970928+00:00"
+  "fetched_at": "2026-11-11T13:34:02.537910+00:00"
 }

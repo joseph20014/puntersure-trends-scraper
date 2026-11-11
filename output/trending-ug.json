@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "charles sagoe jr",
+  "top_trend": "inter vs man city",
   "top_trend_volume": "2K+",
   "top_trend_volume_numeric": 2000,
-  "volume_available_count": 25,
+  "volume_available_count": 18,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "charles sagoe jr",
+      "title": "inter vs man city",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -20,23 +20,23 @@
     },
     {
       "rank": 2,
-      "title": "carrick",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "häcken vs chelsea",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "martín zubimendi",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "mauricio pochettino",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "david raya",
+      "title": "ezri konsa",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -44,57 +44,57 @@
     },
     {
       "rank": 5,
-      "title": "atlético vs barcelona",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "charles sagoe jr",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "manchester united f.c. vs aston villa standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "martín zubimendi",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "atlético madrid vs fc barcelona standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "antonio conte",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "inter vs como",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "uganda cranes",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "manchester united",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "leicester city vs walsall",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "crystal palace f.c. vs liverpool f.c. standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "vincent kompany",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "sunderland a.f.c. vs chelsea f.c. standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "david raya",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
@@ -108,46 +108,6 @@
     },
     {
       "rank": 13,
-      "title": "fiorentina vs juventus",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "jamal musiala",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "barcelona",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "harry maguire",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "villarreal vs getafe",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
       "title": "atletico madrid women",
       "volume": "500+",
       "volume_numeric": 500,
@@ -155,7 +115,23 @@
       "volume_available": true
     },
     {
-      "rank": 19,
+      "rank": 14,
+      "title": "jim ratcliffe",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "patrick dorgu",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
       "title": "las palmas fc",
       "volume": "200+",
       "volume_numeric": 200,
@@ -163,47 +139,15 @@
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "lens vs marseille",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 17,
+      "title": "nba",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "brighton & hove albion f.c. vs brentford f.c. standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "barcelona vs atlético madrid",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "le mans vs monaco",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "premier league standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
+      "rank": 18,
       "title": "warriors vs pelicans",
       "volume": "200+",
       "volume_numeric": 200,
@@ -211,5 +155,5 @@
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-10T14:17:57.053065+00:00"
+  "fetched_at": "2026-11-11T13:31:53.569871+00:00"
 }

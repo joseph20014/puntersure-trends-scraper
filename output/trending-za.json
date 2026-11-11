@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "langelihle phili",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
+  "top_trend": "percy tau",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "langelihle phili",
+      "title": "percy tau",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "tatjana smith",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "jeremy ward",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 3,
-      "title": "amazulu f.c.",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "hossam hassan",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "khama billiat",
+      "title": "patrick tito maswanganyi chiefs fans message",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,103 +44,103 @@
     },
     {
       "rank": 5,
-      "title": "patrick maswanganyi orlando pirates exit",
+      "title": "macdonald",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "men's rugby world cup",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "eddie howe",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "atlético vs barcelona",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "pochettino",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "percy tau",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "carling knockout cup semifinals draw",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "nations league",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "henry pollock",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "atlético madrid vs fc barcelona standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "patrick maswanganyi",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "manchester united f.c. vs aston villa standings",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "multichoice",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "warriors vs pelicans",
+      "title": "amazulu f.c.",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "langelihle phili",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "trail blazers vs thunder",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "khama billiat",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "jeremy ward",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "congo republic",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "kay bikitsha",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "crystal palace f.c. vs liverpool f.c. standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "orlando pirates stellenbosch carling knockout",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "oscar piastri",
+      "title": "inter vs man city",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -148,15 +148,15 @@
     },
     {
       "rank": 18,
-      "title": "pakistan vs sri lanka",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "vissel kobe vs machida zelvia",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "lion",
+      "title": "76ers vs celtics",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -164,31 +164,31 @@
     },
     {
       "rank": 20,
-      "title": "hollywoodbets kenilworth tips 10 november 2026",
-      "volume": "20261K+",
-      "volume_numeric": 20261000,
+      "title": "benni mccarthy kenya unpaid salaries",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "sunderland a.f.c. vs chelsea f.c. standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "pakistan vs sri lanka",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "athlete",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "häcken vs chelsea",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "rugbypass",
+      "title": "mamelodi sundowns f.c.",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "hawks vs lakers",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "india vs maldives",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "frans malherbe",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "real madrid vs paris fc",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-10T14:18:23.471866+00:00"
+  "fetched_at": "2026-11-11T13:32:19.441534+00:00"
 }
