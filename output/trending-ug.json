@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "inter vs man city",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
-  "volume_available_count": 18,
+  "top_trend": "mauricio pochettino",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
+  "volume_available_count": 22,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "inter vs man city",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "mauricio pochettino",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "häcken vs chelsea",
+      "title": "vinícius júnior",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "mauricio pochettino",
+      "title": "bruno guimarães",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,31 +36,31 @@
     },
     {
       "rank": 4,
-      "title": "ezri konsa",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "charles sagoe jr",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "martín zubimendi",
+      "title": "arsenal goalkeeper khari ranson loan",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 5,
+      "title": "gabriel magalhães",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "weather tomorrow",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 7,
-      "title": "antonio conte",
+      "title": "nations league",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -68,14 +68,22 @@
     },
     {
       "rank": 8,
-      "title": "uganda cranes",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "inter vs man city",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
+      "title": "häcken vs chelsea",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
       "title": "leicester city vs walsall",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -83,16 +91,8 @@
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "vincent kompany",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "david raya",
+      "title": "alexander isak",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -100,23 +100,23 @@
     },
     {
       "rank": 12,
-      "title": "video assistant referee",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "erling haaland",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "atletico madrid women",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "pep guardiola",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "jim ratcliffe",
+      "title": "rockets vs warriors",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -124,15 +124,15 @@
     },
     {
       "rank": 15,
-      "title": "patrick dorgu",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "arsenal women 2025 champions league win",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "las palmas fc",
+      "title": "ezri konsa",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -140,6 +140,38 @@
     },
     {
       "rank": 17,
+      "title": "vincent kompany",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "antonio conte",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "jim ratcliffe",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "viktor gyökeres",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
       "title": "nba",
       "volume": "100+",
       "volume_numeric": 100,
@@ -147,13 +179,13 @@
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "warriors vs pelicans",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "rank": 22,
+      "title": "uganda national football team",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-11T13:31:53.569871+00:00"
+  "fetched_at": "2026-11-12T14:36:02.539483+00:00"
 }

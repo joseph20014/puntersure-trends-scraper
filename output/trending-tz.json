@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "michael carrick",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
-  "volume_available_count": 7,
+  "top_trend": "mc alger",
+  "top_trend_volume": "5K+",
+  "top_trend_volume_numeric": 5000,
+  "volume_available_count": 8,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "michael carrick",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "mc alger",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "martín zubimendi",
+      "title": "vinícius júnior",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -28,14 +28,38 @@
     },
     {
       "rank": 3,
-      "title": "simba",
+      "title": "mauricio pochettino",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "weather tomorrow",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "vincent kompany",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "alexander isak",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
       "title": "häcken vs chelsea",
       "volume": "200+",
       "volume_numeric": 200,
@@ -43,29 +67,13 @@
       "volume_available": true
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "leicester city vs walsall",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "fifa",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "warriors vs pelicans",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-11T13:31:27.731073+00:00"
+  "fetched_at": "2026-11-12T14:35:36.406493+00:00"
 }

@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "محمد هانى",
+  "top_trend": "إبراهيم حسن",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
-  "volume_available_count": 24,
+  "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "محمد هانى",
+      "title": "إبراهيم حسن",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "أحمد دويدار",
+      "title": "دوري الأمم",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -28,15 +28,15 @@
     },
     {
       "rank": 3,
-      "title": "موعد مباراة منتخب مصر",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "منتخب ملاوي لكرة القدم",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "دوري الأمم",
+      "title": "منتخب الأردن لكرة القدم",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -44,23 +44,23 @@
     },
     {
       "rank": 5,
-      "title": "michael carrick",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "بيب غوارديولا",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "يورغن كلوب",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "nations league",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "مباريات كأس مصر",
+      "title": "نادي سيراميكا كليوباترا لكرة القدم",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -68,23 +68,23 @@
     },
     {
       "rank": 8,
-      "title": "خالد بيومي",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "محمد أبو تريكة",
+      "title": "المقاولون ضد المصرية للاتصالات",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 9,
+      "title": "africa cup of nations qualification",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "كأس الملك",
+      "title": "أحمد دويدار",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,7 +92,7 @@
     },
     {
       "rank": 11,
-      "title": "إمام عاشور",
+      "title": "يورغن كلوب",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,47 +100,47 @@
     },
     {
       "rank": 12,
-      "title": "nations league",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "مصطفى يونس",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "خالد الغندور",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "الحسين عموتة",
+      "title": "تصفيات كأس أمم أفريقيا",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "ريال مدريد للسيدات ضد نادي باريس لكرة القدم للسيدات",
+      "rank": 13,
+      "title": "نادي القناة",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "كرة القدم",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "michael carrick",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "خالد بيومي",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "تامر مصطفى",
+      "title": "منتخب فرنسا",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -148,39 +148,39 @@
     },
     {
       "rank": 18,
-      "title": "زد",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "افشه",
+      "title": "asu",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 19,
+      "title": "أمينة عرفي",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "jamal musiala",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "weather tomorrow",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "محمود حمدي الونش",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "إمام عاشور",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "جمال موسيالا",
+      "title": "مباريات كأس مصر",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "egypt national football team",
+      "title": "خالد الغندور",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -196,12 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "leicester city vs walsall",
+      "title": "ريال مدريد للسيدات ضد نادي باريس لكرة القدم للسيدات",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "usman nurmagomedov",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-11T13:33:36.929594+00:00"
+  "fetched_at": "2026-11-12T14:37:47.338544+00:00"
 }
