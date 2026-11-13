@@ -4,38 +4,102 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "mc alger",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
-  "volume_available_count": 8,
+  "top_trend": "vinícius júnior",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
+  "volume_available_count": 21,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "mc alger",
+      "title": "vinícius júnior",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "england national football team vs croatia national football team standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "nigeria vs tanzania",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "italy vs france",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "vinícius júnior",
+      "rank": 5,
+      "title": "czechia vs spain",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "bruno fernandes",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "senegal vs sudan",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "mauricio pochettino",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "rank": 8,
+      "title": "türkiye vs belgium",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 9,
+      "title": "school",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "barcelona vs arsenal",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "dr congo vs sierra leone",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
       "title": "weather tomorrow",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -43,7 +107,47 @@
       "volume_available": true
     },
     {
-      "rank": 5,
+      "rank": 13,
+      "title": "mauricio pochettino",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "new zealand vs india",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "ghana vs somalia",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "pep guardiola",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "côte d'ivoire vs gambia",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
       "title": "vincent kompany",
       "volume": "500+",
       "volume_numeric": 500,
@@ -51,29 +155,29 @@
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "alexander isak",
+      "rank": 19,
+      "title": "uefa nations league",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "häcken vs chelsea",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "rank": 20,
+      "title": "young africans s.c.",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "leicester city vs walsall",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "rank": 21,
+      "title": "alexander isak",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-12T14:35:36.406493+00:00"
+  "fetched_at": "2026-11-13T13:53:59.467537+00:00"
 }

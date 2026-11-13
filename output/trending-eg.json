@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "إبراهيم حسن",
+  "top_trend": "إيطاليا ضد فرنسا",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "إبراهيم حسن",
+      "title": "إيطاليا ضد فرنسا",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,79 +20,79 @@
     },
     {
       "rank": 2,
-      "title": "دوري الأمم",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "القنوات الناقلة لمباراة مصر ومالاوي",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "منتخب ملاوي لكرة القدم",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "التشيك ضد إسبانيا",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "منتخب الأردن لكرة القدم",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "italy vs france",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "بيب غوارديولا",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "تركيا ضد بلجيكا",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "nations league",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "نادي سيراميكا كليوباترا لكرة القدم",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "المقاولون ضد المصرية للاتصالات",
+      "title": "إنجلترا ضد كرواتيا",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "africa cup of nations qualification",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "rank": 7,
+      "title": "czechia vs spain",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "أحمد دويدار",
+      "rank": 8,
+      "title": "africa cup of nations qualification",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 9,
+      "title": "أشرف بن شرقي",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "إيرلينغ هالاند",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "يورغن كلوب",
+      "title": "بيب غوارديولا",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,15 +100,15 @@
     },
     {
       "rank": 12,
-      "title": "تصفيات كأس أمم أفريقيا",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "england vs croatia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "نادي القناة",
+      "title": "السعودية",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -116,100 +116,100 @@
     },
     {
       "rank": 14,
-      "title": "كرة القدم",
+      "title": "القنوات الناقله لمباراه مصر اليوم",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "السنغال ضد السودان",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "türkiye vs belgium",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "إبراهيم حسن",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "عصام الحضري",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "كأس السوبر المصري",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "حسين لبيب",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "نادي سيراميكا كليوباترا لكرة القدم",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "michael carrick",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "خالد بيومي",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "منتخب فرنسا",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "asu",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "أمينة عرفي",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "weather tomorrow",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "إمام عاشور",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "مباريات كأس مصر",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "senegal vs sudan",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "خالد الغندور",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "أشرف عبادة",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "ريال مدريد للسيدات ضد نادي باريس لكرة القدم للسيدات",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "غانا ضد الصومال",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "usman nurmagomedov",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "pio esposito",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-12T14:37:47.338544+00:00"
+  "fetched_at": "2026-11-13T13:56:11.913972+00:00"
 }

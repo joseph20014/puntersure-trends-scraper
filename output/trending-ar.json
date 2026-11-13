@@ -4,127 +4,127 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "carlos babington",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "estudiantes - independiente rivadavia",
+  "top_trend_volume": "200K+",
+  "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "carlos babington",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "estudiantes - independiente rivadavia",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
       "title": "ricardo rodríguez dt",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "alpine f1 team",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "carlos babington",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "torneo de apertura y clausura",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "italia - francia",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "usman nurmagomedov",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "agustín marchesín",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "red bull racing",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "oscar piastri",
+      "title": "argentina",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "supercopa argentina",
+      "rank": 6,
+      "title": "chequia - españa",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "river id",
       "volume": "2K+",
       "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "marcelo gallardo",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "paraguay vs",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "argentina uruguay",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "leandro gonzález pírez",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "ghana - somalia",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "gran premio de las vegas",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "copa mundial de fútbol sub-17",
-      "volume": "172K+",
-      "volume_numeric": 172000,
+      "title": "inglaterra - croacia",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "carlos ischia",
+      "title": "torneo de apertura y clausura",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "nations league",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "rockets - warriors",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 15,
-      "title": "inter de miami",
+      "title": "turquía - bélgica",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -132,7 +132,7 @@
     },
     {
       "rank": 16,
-      "title": "nico hülkenberg",
+      "title": "red bull racing",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -140,76 +140,76 @@
     },
     {
       "rank": 17,
-      "title": "bucks - lakers",
+      "title": "alpine f1 team",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "nominación",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "curazao - panamá",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
-      "title": "ariel holan",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "play-off",
+      "rank": 20,
+      "title": "76ers - raptors",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "bulls - spurs",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 21,
-      "title": "frankie muniz",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "colapinto mclaren",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "nikola tsolov",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "carlos ischia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "josé luis rodríguez",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "usman nurmagomedov",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "raptors - celtics",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "italia vs",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "aryna sabalenka",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "italia",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-12T14:38:13.613986+00:00"
+  "fetched_at": "2026-11-13T13:56:38.046151+00:00"
 }
