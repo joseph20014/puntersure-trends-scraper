@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "czechia vs spain",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "japan vs brazil",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "czechia vs spain",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "japan vs brazil",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "italy vs france",
+      "title": "nigeria national football team vs tanzania national football team standings",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -28,31 +28,31 @@
     },
     {
       "rank": 3,
-      "title": "england vs croatia",
+      "title": "argentina vs uruguay",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "czechia vs spain",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "barcelona vs arsenal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "türkiye vs belgium",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "egypt vs malawi",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "nigeria national football team",
+      "title": "morocco national football team vs niger national football team standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,95 +60,95 @@
     },
     {
       "rank": 7,
-      "title": "senegal vs sudan",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "serbia vs germany",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "ghana vs somalia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "netherlands vs greece",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "bruno fernandes contract negotiations united",
+      "title": "italy national football team vs france national football team standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "england national football team vs croatia national football team standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "man utd vs crystal palace",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "south africa vs kenya",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "gabriel martinelli",
+      "rank": 13,
+      "title": "portugal vs denmark",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "france vs italy",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "slovenia vs switzerland",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "jesús owono",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "michael carrick manchester united dismissal",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "maduka okoye super eagles omission",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "viktor gyokeres arsenal future quotes",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "mozambique vs ethiopia",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "harmony chidi",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "zambia vs burundi",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "comoros vs congo",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "spain",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "france vs",
+      "title": "portugal squad cristiano ronaldo tribute",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,60 +156,60 @@
     },
     {
       "rank": 19,
-      "title": "spain vs",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "spurs vs warriors",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "spain match today",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "vinícius júnior",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "dr congo vs sierra leone",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "colombia vs chile",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "côte d'ivoire vs gambia",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "harmony chidi nigeria u17 captain",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "arsenal goalkeeper khari ranson loan",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "cucurella reaction kane ballon d or",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "montenegro vs latvia",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "barcelona vs arsenal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "calvin bassey manchester united transfer",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "türkiye vs belgium",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-13T13:53:33.432790+00:00"
+  "fetched_at": "2026-11-14T12:56:32.943900+00:00"
 }
