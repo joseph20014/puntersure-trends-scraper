@@ -4,14 +4,38 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "banfield - boca juniors",
-  "top_trend_volume": "1M+",
-  "top_trend_volume_numeric": 1000000,
+  "top_trend": "españa - inglaterra",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "españa - inglaterra",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "ricardo gareca",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "batalla campal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
       "title": "banfield - boca juniors",
       "volume": "1M+",
       "volume_numeric": 1000000,
@@ -19,104 +43,80 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "argentina - uruguay",
-      "volume": "500K+",
-      "volume_numeric": 500000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "arizona",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "batalla campal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 5,
-      "title": "jamaica - méxico",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "piloto de carreras",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "claudio tapia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "escudería",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "gimnasia jujuy - almirante brown",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "atp finals",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "copa potrero",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "franco colapinto",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "412 vs luzu",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "club deportivo maipú",
+      "title": "ronaldinho",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "bernie ecclestone",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "clásico de avellaneda",
+      "rank": 9,
+      "title": "carlos alcaraz",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "turismo carretera",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "sudán - senegal",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "godoy cruz",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "ferro - gimnasia y tiro de salta",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "portugal - dinamarca",
+      "title": "francia - turquía",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -124,92 +124,92 @@
     },
     {
       "rank": 15,
-      "title": "ufc 334",
-      "volume": "33410K+",
-      "volume_numeric": 33410000,
+      "title": "luzu vs 412",
+      "volume": "41220K+",
+      "volume_numeric": 41220000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "fútbol sala",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bélgica - italia",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "actc",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "deportivo madryn - deportivo maipú",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "godoy cruz vs tristan suarez",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "boca vs mineiro",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "gran premio de las vegas",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "portugal - dinamarca",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "japón - brasil",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "kick",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "la nación",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "claudio tapia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "atp finals",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "jamaica - méxico",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "colón - midland",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "deportivo morón - colegiales",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "noruega - gales",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "croacia - chequia",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "ravenna fc",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-15T13:27:46.351124+00:00"
+  "fetched_at": "2026-11-16T14:44:08.896852+00:00"
 }
