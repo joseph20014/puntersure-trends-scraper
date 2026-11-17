@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "spain vs england",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "tanzania vs nigeria",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "spain vs england",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "tanzania vs nigeria",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "france vs türkiye",
+      "title": "singapore vs brazil",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "sadio mané",
+      "title": "germany vs netherlands",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -36,111 +36,111 @@
     },
     {
       "rank": 4,
-      "title": "sudan vs senegal",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "zimbabwe vs equatorial guinea",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "fifa world cup",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "arsenal vs london",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "deportivo vs barcelona",
+      "title": "malawi vs egypt",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "belgium national football team vs italy national football team standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 5,
+      "title": "france vs türkiye",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "namibia vs cameroon",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 6,
+      "title": "spain national football team vs england national football team standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 11,
-      "title": "afcon 2027 qualifying group standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "rank": 7,
+      "title": "somalia vs ghana",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "croatia national football team vs czech republic national football team standings",
+      "rank": 8,
+      "title": "sudan vs senegal",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
+      "rank": 9,
+      "title": "morocco national football team",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "jorge jesus cristiano ronaldo mother response",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
       "title": "vinícius júnior",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "brazil match today",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "canada vs guatemala",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "calvin bassey",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "japan vs paraguay",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "lesotho vs gabon",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "portugal national football team vs denmark national football team standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "calvin bassey",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "gianni infantino",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "carlos alcaraz",
+      "title": "fermín lópez",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -148,15 +148,15 @@
     },
     {
       "rank": 18,
-      "title": "aew full gear 2026 results",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "south sudan vs angola",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "alex scott",
+      "title": "burundi vs zambia",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -164,15 +164,15 @@
     },
     {
       "rank": 20,
-      "title": "faroe islands vs moldova",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "u-23 africa cup of nations",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "cameroon vs namibia",
+      "title": "ethiopia vs mozambique",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "ronaldinho gaúcho",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "mario balotelli",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "finland vs san marino",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "nigeria fc",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "haiti vs usa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "madagascar vs guinea bissau",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "algeria vs togo",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "afcon qualifiers table 2027",
+      "volume": "20271K+",
+      "volume_numeric": 20271000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-16T14:41:07.561278+00:00"
+  "fetched_at": "2026-11-17T15:28:24.895873+00:00"
 }

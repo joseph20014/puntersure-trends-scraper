@@ -4,63 +4,63 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "ban vs sa",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "singapore vs brazil",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ban vs sa",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "spain vs england",
-      "volume": "100K+",
-      "volume_numeric": 100000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "bangladesh vs south africa",
+      "title": "singapore vs brazil",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "motsepe foundation championship nedbank cup",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "malawi vs egypt",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "france vs türkiye",
+      "title": "kenya vs south africa",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "germany vs netherlands",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "zimbabwe vs equatorial guinea",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "motsepe foundation championship nedbank cup",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "rassie erasmus world rugby review",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "sudan vs senegal",
+      "title": "tanzania vs nigeria",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -68,15 +68,15 @@
     },
     {
       "rank": 8,
-      "title": "al nassr release sadio mane",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "zakho sc midfielder sipho mbule",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "mbekezeli mbokazi south africa bench",
+      "title": "ethiopia vs mozambique",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,31 +84,31 @@
     },
     {
       "rank": 10,
-      "title": "springboks loss to france paris",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "arthur zwane",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "belgium national football team vs italy national football team standings",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "hugo broos comments relebohile mofokeng belgium",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "mfundo vilakazi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "burundi vs zambia",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "pitso mosimane bafana bafana coach",
+      "title": "rassie erasmus springbok team changes",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,31 +116,31 @@
     },
     {
       "rank": 14,
-      "title": "namibia vs cameroon",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "japan vs paraguay",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "ronaldinho gaúcho",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "poland vs sweden",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "faiz abrahams kaizer chiefs update",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "denmark vs norway",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "wales national rugby union team",
+      "title": "proteas",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -148,68 +148,68 @@
     },
     {
       "rank": 18,
-      "title": "aden mccarthy kaizer chiefs journey",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "france vs türkiye",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "atp finals",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "spain national football team vs england national football team standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "south africa national cricket team vs bangladesh national cricket team match scorecard",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "germany vs netherlands",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "scotland vs australia",
+      "title": "zimbabwe vs equatorial guinea",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 23,
-      "title": "somalia vs ghana",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "croatia vs czechia",
+      "rank": 21,
+      "title": "zubayr hamza",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 22,
+      "title": "libya vs tunisia",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "sri lanka vs pakistan",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "wayne arendse",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "arthur zwane",
+      "title": "gambia vs ivory coast",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-16T14:42:25.253971+00:00"
+  "fetched_at": "2026-11-17T15:29:43.574029+00:00"
 }

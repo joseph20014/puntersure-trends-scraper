@@ -4,87 +4,87 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "إسبانيا ضد إنجلترا",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "malawi vs egypt",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "إسبانيا ضد إنجلترا",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "malawi vs egypt",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "spain vs england",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "مالاوي ضد مصر",
+      "volume": "200K+",
+      "volume_numeric": 200000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "فرنسا ضد تركيا",
+      "title": "singapore vs brazil",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "يلا كورة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "south sudan vs angola",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "ترتيبات منتخب ألمانيا لكرة القدم – منتخب هولندا لكرة القدم",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "السودان ضد السنغال",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "بلجيكا ضد إيطاليا",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "محمد أبو تريكة",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "أخبار الزمالك",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "تصفيات كأس أمم أفريقيا",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "sudan vs senegal",
+      "title": "ترتيب مجموعة مصر",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 8,
+      "title": "filgoal",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "تنزانيا ضد نيجيريا",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "عبد الله السعيد",
+      "title": "مباراة اليوم",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "ناميبيا ضد الكاميرون",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "إسبانيا ضد إنجلترا",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "namibia vs cameroon",
+      "title": "sports",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "البرتغال ضد الدنمارك",
+      "title": "فرنسا ضد تركيا",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -116,63 +116,63 @@
     },
     {
       "rank": 14,
-      "title": "mirra andreeva",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "france vs türkiye",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "portugal vs denmark",
+      "title": "spain vs england",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "كرواتيا ضد التشيك",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "منتخب مصر تحت 17 سنة لكرة القدم",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "carlos alcaraz",
+      "rank": 15,
+      "title": "bernardo silva",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "منتخب البرازيل",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "ترتيبات منتخب السودان لكرة القدم – منتخب السنغال لكرة القدم",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "بلجيكا ضد إيطاليا",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "محمد أبو تريكة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "ربيع ياسين",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "germany national football team vs netherlands national football team standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "كريم فؤاد",
+      "title": "عصام عبد الفتاح",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -180,7 +180,7 @@
     },
     {
       "rank": 22,
-      "title": "النرويج ضد ويلز",
+      "title": "france vs türkiye",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "إبراهيم سعيد",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "السعودية نيوز",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "croatia vs czechia",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "طارق حامد",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "حمزة عبد الكريم برشلونة",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "kooora",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-16T14:43:42.931353+00:00"
+  "fetched_at": "2026-11-17T15:31:01.015965+00:00"
 }

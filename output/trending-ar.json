@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "españa - inglaterra",
-  "top_trend_volume": "100K+",
-  "top_trend_volume_numeric": 100000,
+  "top_trend": "argentina vs costa rica",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "españa - inglaterra",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "argentina vs costa rica",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "ricardo gareca",
+      "title": "escudería",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -28,31 +28,31 @@
     },
     {
       "rank": 3,
-      "title": "batalla campal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "nicolás tagliafico",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "banfield - boca juniors",
-      "volume": "1M+",
-      "volume_numeric": 1000000,
+      "title": "paraguay vs",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "piloto de carreras",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "dino sani",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "escudería",
+      "title": "club social y deportivo san jorge",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -60,23 +60,23 @@
     },
     {
       "rank": 7,
-      "title": "atp finals",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "óscar cardozo",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "ronaldinho",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "egipto vs",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "carlos alcaraz",
+      "title": "mariano werner",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -84,39 +84,39 @@
     },
     {
       "rank": 10,
-      "title": "turismo carretera",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "sudán - senegal",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "godoy cruz",
+      "title": "españa - inglaterra",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "alemania - países bajos",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "pelicans - warriors",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 13,
-      "title": "ferro - gimnasia y tiro de salta",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "posiciones de selección de fútbol de malaui contra selección de fútbol de egipto",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "francia - turquía",
+      "title": "ricardo gareca",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -124,47 +124,47 @@
     },
     {
       "rank": 15,
-      "title": "luzu vs 412",
-      "volume": "41220K+",
-      "volume_numeric": 41220000,
+      "title": "godoy cruz",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "bélgica - italia",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "nadia podoroska",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "deportivo madryn - deportivo maipú",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "nigeria vs",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "boca vs mineiro",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ferro - gimnasia y tiro de salta",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "portugal - dinamarca",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "brasil vs",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "kick",
+      "title": "francia - turquía",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "claudio tapia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "canadá - guatemala",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "jamaica - méxico",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "club de fútbol",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "deportivo morón - colegiales",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "brasil",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "croacia - chequia",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "pau cubarsí",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "ravenna fc",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bélgica - italia",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-16T14:44:08.896852+00:00"
+  "fetched_at": "2026-11-17T15:31:26.927525+00:00"
 }
