@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "somalia vs ghana",
-  "top_trend_volume": "50K+",
-  "top_trend_volume_numeric": 50000,
+  "top_trend": "wales vs portugal",
+  "top_trend_volume": "10K+",
+  "top_trend_volume_numeric": 10000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "somalia vs ghana",
-      "volume": "50K+",
-      "volume_numeric": 50000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "singapore vs brazil",
+      "title": "wales vs portugal",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "argentina vs costa rica",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 3,
-      "title": "tanzania vs nigeria",
+      "title": "u-23 africa cup of nations",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,47 +36,47 @@
     },
     {
       "rank": 4,
-      "title": "germany vs netherlands",
+      "title": "niger national football team vs morocco national football team standings",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "ghana fa cup",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "singapore vs brazil",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "afcon 2027 qualified teams list",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "denmark vs norway",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "malawi vs egypt",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "lawrence ati zigi benjamin asare ghana",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "mario balotelli",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "u-23 africa cup of nations",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "spain national football team vs england national football team standings",
+      "title": "somalia national football team vs ghana national football team standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,7 +84,7 @@
     },
     {
       "rank": 10,
-      "title": "france vs türkiye",
+      "title": "gambia national football team vs ivory coast national football team standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "ronaldinho gaúcho",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "usa vs haiti",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "sudan vs senegal",
+      "title": "tanzania vs nigeria",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,62 +108,78 @@
     },
     {
       "rank": 13,
-      "title": "belgium vs italy",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "mario balotelli",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "asante kotoko vs bibiani gold stars",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "wayne rooney",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "gianni infantino",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "croatia national football team vs czech republic national football team standings",
+      "title": "malawi vs egypt",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "afcon 2027 zero point teams",
+      "rank": 16,
+      "title": "lawrence ati zigi benjamin asare ghana",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "lakers vs hornets",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "canada vs guatemala",
+      "title": "togo vs algeria",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "uruguay vs dominican republic",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 19,
-      "title": "deportivo vs barcelona",
+      "rank": 20,
+      "title": "brazil match today",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
+      "rank": 21,
+      "title": "mexico vs jamaica",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
       "title": "afcon qualifiers table 2027",
       "volume": "2027500+",
       "volume_numeric": 2027500,
@@ -171,32 +187,16 @@
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "africa cup of nations qualification",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "bernardo silva",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 23,
-      "title": "switzerland vs scotland",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ghana vs",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "belgium national football team vs italy national football team standings",
+      "title": "kenya vs south africa",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -204,12 +204,12 @@
     },
     {
       "rank": 25,
-      "title": "ronaldinho ravenna",
+      "title": "sudan national football team vs senegal national football team standings",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-17T15:30:35.156666+00:00"
+  "fetched_at": "2026-11-18T15:05:04.132427+00:00"
 }
