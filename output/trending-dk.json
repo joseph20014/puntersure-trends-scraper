@@ -4,38 +4,46 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "brian riemer",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "kasper hjulmand",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "brian riemer",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "kasper hjulmand",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "danmark norge fodbold",
+      "title": "caroline wozniacki",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "danmarks fodboldlandshold",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "morten bruun",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "rank": 4,
+      "title": "nicolej krickau",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "danmark - norge",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -43,16 +51,8 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "team esbjerg",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "portugal wales",
+      "title": "denmark vs norway",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "tv2 sport",
+      "title": "mauricio pochettino",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -68,31 +68,31 @@
     },
     {
       "rank": 8,
-      "title": "argentina - costa rica",
+      "title": "portugal wales",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "emil nielsen",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 9,
-      "title": "tv2 play",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 10,
-      "title": "analyst",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "mads hoxer",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "nations league kampe",
+      "title": "team esbjerg",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,31 +100,31 @@
     },
     {
       "rank": 12,
-      "title": "emil nielsen",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "tv2 play",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "livescore",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "daramy",
+      "title": "ekstra bladet nyheder",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "ståle solbakken",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 15,
-      "title": "provstgaard",
+      "title": "argentina - costa rica",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -132,22 +132,30 @@
     },
     {
       "rank": 16,
-      "title": "tyskland holland",
+      "title": "wout van aert",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "nations league kampe",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "portugal",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "rank": 18,
+      "title": "daramy",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "elmer møller",
       "volume": "500+",
       "volume_numeric": 500,
@@ -155,7 +163,39 @@
       "volume_available": true
     },
     {
-      "rank": 19,
+      "rank": 20,
+      "title": "livescore",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "mikkel damsgaard",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "provstgaard",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "portugal",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
       "title": "polska – szwecja",
       "volume": "200+",
       "volume_numeric": 200,
@@ -163,53 +203,13 @@
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "bold",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "osula",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "william osula",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "david nielsen",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "nicolai boilesen",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "singapore vs brazil",
+      "title": "osula",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-18T15:04:37.888325+00:00"
+  "fetched_at": "2026-11-19T15:14:24.997488+00:00"
 }
