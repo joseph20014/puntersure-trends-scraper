@@ -4,15 +4,15 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "afcon 2027 qualified teams list",
+  "top_trend": "azumah nelson",
   "top_trend_volume": "2K+",
   "top_trend_volume_numeric": 2000,
-  "volume_available_count": 25,
+  "volume_available_count": 22,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "afcon 2027 qualified teams list",
+      "title": "azumah nelson",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "mykhailo mudryk",
+      "title": "brandon thomas-asante",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "real madrid vs inter",
+      "title": "arsenal vs ol lyonnes",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -36,25 +36,25 @@
     },
     {
       "rank": 4,
-      "title": "gonçalo ramos",
+      "title": "arsenal f.c.",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "rodri",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "wales vs portugal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "argentina vs costa rica",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "gonçalo ramos",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
@@ -68,31 +68,31 @@
     },
     {
       "rank": 8,
-      "title": "denmark vs norway",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "mykhailo mudryk",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "gambia national football team vs ivory coast national football team standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "juan mata",
+      "title": "fc barcelona femení vs servette fc chênois féminin standings",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "real madrid vs inter",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "head coach",
+      "title": "hat-trick",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -100,38 +100,46 @@
     },
     {
       "rank": 12,
-      "title": "ghana fa cup",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "head coach",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "mayweather",
+      "title": "juan mata",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "referee",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "niger national football team vs morocco national football team standings",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 15,
+      "title": "grizzlies vs warriors",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "hat-trick",
+      "rank": 16,
+      "title": "enzo fernández",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "kurt okraku",
       "volume": "500+",
       "volume_numeric": 500,
@@ -139,77 +147,45 @@
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "togo vs algeria",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 18,
-      "title": "carlos forbs",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "james mcatee",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "niger vs morocco",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "jude bellingham",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "referee",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "chelsea f.c.",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "lakers vs hornets",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "uefa women's champions league",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "malawi national football team vs egypt national football team standings",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "kenya vs south africa",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "uruguay vs dominican republic",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
-      "title": "usa vs haiti",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "ivory coast national football team",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-19T15:14:51.224639+00:00"
+  "fetched_at": "2026-11-20T14:53:53.749333+00:00"
 }

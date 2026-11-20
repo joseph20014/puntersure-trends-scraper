@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "teko modise",
+  "top_trend": "benni mccarthy",
   "top_trend_volume": "5K+",
   "top_trend_volume_numeric": 5000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "teko modise",
+      "title": "benni mccarthy",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -20,55 +20,55 @@
     },
     {
       "rank": 2,
-      "title": "hugo broos comments bafana bafana coach",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "faiz abrahams",
+      "title": "watch with rassie",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "justin marshall",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "andrea piardi",
+      "rank": 3,
+      "title": "rassie erasmus springboks ireland test",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "afcon 2027 qualified teams list",
+      "rank": 4,
+      "title": "drop knee",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 7,
-      "title": "teboho mokoena",
+      "rank": 5,
+      "title": "carlos alcaraz",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "mbekezeli mbokazi chicago fire salary",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "fernando da cruz",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "ben shelton",
+      "title": "india a vs nepal",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -76,87 +76,87 @@
     },
     {
       "rank": 9,
-      "title": "wales vs portugal",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "teko modise",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "argentina vs costa rica",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "hugo broos comments bafana bafana coach",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "eben etzebeth",
+      "title": "car",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "afcon 2027 qualified teams list",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "manchester city f.c.",
+      "rank": 13,
+      "title": "ira tape ts galaxy demotion",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "mpho padime",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "marcel theunissen toshiba brave lupus",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "justin marshall",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "england vs new zealand rugby preview",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "rugbypass",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "2027 africa cup of nations",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "jasper wiese",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "proteas",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "jabu mahlangu",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 18,
-      "title": "sipho mbule",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "lionel messi",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "sam prendergast",
+      "title": "andrea piardi",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "bafana bafana",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "pakistan a vs uae",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "michael carrick",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "arsenal vs ol lyonnes",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "lakers vs jazz",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "utct",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "chelsea vs psg",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "kane hames",
+      "title": "new zealand vs india",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "pakistan vs ireland",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "new zealand vs india",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "teboho mokoena",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-19T15:13:58.785767+00:00"
+  "fetched_at": "2026-11-20T14:53:02.501217+00:00"
 }

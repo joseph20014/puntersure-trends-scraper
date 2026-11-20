@@ -4,39 +4,39 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "المصري ضد بترول أسيوط",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
+  "top_trend": "ترتيبات منتخب مصر للناشئين – منتخب اليونان تحت 17 سنة لكرة القدم",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "المصري ضد بترول أسيوط",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ترتيبات منتخب مصر للناشئين – منتخب اليونان تحت 17 سنة لكرة القدم",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "كأس العالم لكرة القدم تحت 17 سنة",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "زد ضد سموحة",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "جواو كانسيلو",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "تصفيات كأس الأمم الإفريقية 2027",
+      "volume": "20271K+",
+      "volume_numeric": 20271000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "جلوب سوكر",
+      "title": "لاعب",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -44,31 +44,31 @@
     },
     {
       "rank": 5,
-      "title": "لاعب",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "كرة اليد",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "محمد رضا بوبو",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "كهرباء الإسماعيلية ضد سيراميكا كليوباترا",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "المغرب",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "السد ضد لوسيل",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "الجونة ضد الاتحاد السكندري",
+      "title": "المصري ضد بترول أسيوط",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -76,103 +76,103 @@
     },
     {
       "rank": 9,
-      "title": "نادي مودرن سبورت لكرة القدم",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "المقاولون ضد القناة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "الأرجنتين ضد كوستاريكا",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "ويلز ضد البرتغال",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 12,
-      "title": "الاسماعيلي",
+      "title": "carlos alcaraz",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "وليد صلاح الدين",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "نادي مودرن سبورت لكرة القدم",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 13,
-      "title": "argentina vs costa rica",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "موعد مباراه الاهلي و بيراميدز",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "الدنمارك ضد النرويج",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "جواو كانسيلو",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "النيجر ضد المغرب",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "wales vs portugal",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "denmark vs norway",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "علاء نبيل",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "مهدي سليمان",
+      "title": "محمد رضا بوبو",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "النصر",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "al masry vs asyut petrol",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "أحمد سيد زيزو",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "العين ضد الظفرة",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 20,
-      "title": "توغو ضد الجزائر",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "نادي برشلونة للسيدات ضد servette fccf",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "globe soccer",
+      "title": "شبيبة القبائل ضد اتحاد الجزائر",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -180,36 +180,36 @@
     },
     {
       "rank": 22,
-      "title": "el gouna vs al ittihad",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "niger vs morocco",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "ليبيا ضد تونس",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 25,
       "title": "منتخب غانا لكرة القدم",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "كوريتيبا ضد سانتوس",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "الاسماعيلي",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "real madrid vs inter",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-19T15:15:17.461855+00:00"
+  "fetched_at": "2026-11-20T14:54:19.384301+00:00"
 }
