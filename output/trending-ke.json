@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=KE&category=17&hours=48&sort=search-volume",
-  "top_trend": "arsenal lille champions league uefa penalty",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
+  "top_trend": "man city vs fulham",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "arsenal lille champions league uefa penalty",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "man city vs fulham",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "arsenal vs ol lyonnes",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "bayern vs köln",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "benni mccarthy",
+      "title": "liverpool vs chelsea",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,87 +36,87 @@
     },
     {
       "rank": 4,
-      "title": "bandari vs muranga seal",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "chelsea vs psg",
+      "title": "bayern munich vs 1. fc köln standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "arsenal w.f.c. vs ol lyonnes standings",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "michael carrick",
+      "rank": 5,
+      "title": "chelsea vs leeds",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 6,
+      "title": "al-ahli saudi fc vs al-nassr standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "como vs cagliari",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 8,
-      "title": "referee",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "galatasaray vs samsunspor",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "confederation of african football",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "coventry vs crystal palace",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "grizzlies vs warriors",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "juan mata",
+      "title": "lille vs lyon",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 12,
-      "title": "mykhailo mudryk",
+      "rank": 11,
+      "title": "hugo ekitike",
       "volume": "200+",
       "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 12,
+      "title": "southampton vs derby county",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "arsenal news",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "newcastle vs arsenal",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "mc alger",
+      "title": "lazio vs lecce",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -124,7 +124,7 @@
     },
     {
       "rank": 15,
-      "title": "cristiano ronaldo jr",
+      "title": "mönchengladbach vs dortmund",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -132,23 +132,23 @@
     },
     {
       "rank": 16,
-      "title": "lakers vs jazz",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "sevilla vs real betis",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "coritiba vs santos",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "aston villa vs sunderland",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "lionel messi",
+      "title": "union berlin vs rb leipzig",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
@@ -156,60 +156,60 @@
     },
     {
       "rank": 19,
-      "title": "mavericks vs warriors",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "tottenham vs ipswich",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "eli junior kroupi",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "calvin bassey",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "chelsea f.c. women vs paris saint-germain féminine standings",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "norwich city vs cardiff city",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "mc alger vs olympique akbou",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "galatasaray",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "nz vs ind",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "bayern munich ajax tickets 2027",
+      "volume": "2027100+",
+      "volume_numeric": 2027100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "new zealand vs india",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "athletic vs espanyol",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "real madrid vs inter",
+      "title": "augsburg vs mainz",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-20T14:51:19.910928+00:00"
+  "fetched_at": "2026-11-21T14:09:58.751846+00:00"
 }

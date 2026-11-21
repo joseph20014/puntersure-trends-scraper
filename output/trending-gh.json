@@ -4,63 +4,63 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=GH&category=17&hours=48&sort=search-volume",
-  "top_trend": "azumah nelson",
-  "top_trend_volume": "2K+",
-  "top_trend_volume_numeric": 2000,
-  "volume_available_count": 22,
+  "top_trend": "man city vs fulham",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
+  "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "azumah nelson",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "man city vs fulham",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "brandon thomas-asante",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "azumah nelson",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "arsenal vs ol lyonnes",
+      "title": "al-ahli vs al-nassr",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "bayern vs köln",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "bayern munich vs 1. fc köln standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "liverpool vs chelsea",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "arsenal f.c.",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "rodri",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "gonçalo ramos",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "chelsea vs psg",
+      "title": "athletic vs espanyol",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,23 +68,23 @@
     },
     {
       "rank": 8,
-      "title": "mykhailo mudryk",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "fc barcelona femení vs servette fc chênois féminin standings",
+      "title": "galatasaray vs samsunspor",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 9,
+      "title": "como vs cagliari",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "real madrid vs inter",
+      "title": "athletic bilbao vs espanyol standings",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "hat-trick",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ghana women's national football team",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "head coach",
+      "title": "hugo ekitike",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -108,84 +108,108 @@
     },
     {
       "rank": 13,
-      "title": "juan mata",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "referee",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "grizzlies vs warriors",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "enzo fernández",
+      "title": "victor osimhen",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 17,
-      "title": "kurt okraku",
+      "rank": 14,
+      "title": "brandon thomas-asante",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "ghana black challenge",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "porto vs paredes",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 17,
+      "title": "uefa nations league",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "james mcatee",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "arsenal vs ol lyonnes",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "jude bellingham",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "lakers vs kings",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "chelsea f.c.",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "africa cup of nations",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "uefa women's champions league",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "arsenal f.c.",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "ivory coast national football team",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "bayern",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "josé mourinho",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "fc barcelona femení vs servette fc chênois féminin standings",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "rodri",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-20T14:53:53.749333+00:00"
+  "fetched_at": "2026-11-21T14:12:35.958229+00:00"
 }

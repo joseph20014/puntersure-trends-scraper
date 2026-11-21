@@ -4,79 +4,79 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "benni mccarthy",
-  "top_trend_volume": "5K+",
-  "top_trend_volume_numeric": 5000,
+  "top_trend": "man city vs fulham",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "benni mccarthy",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "man city vs fulham",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "watch with rassie",
+      "title": "orlando pirates vs stellenbosch",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "england vs new zealand",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "rassie erasmus springboks ireland test",
+      "rank": 4,
+      "title": "bayern vs köln",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "al-ahli vs al-nassr",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "goalkeeper",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "drop knee",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "carlos alcaraz",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "mbekezeli mbokazi chicago fire salary",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 7,
-      "title": "fernando da cruz",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bayern munich vs 1. fc köln standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "india a vs nepal",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ruan nortjé",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "teko modise",
+      "title": "kaizer chiefs vs sundowns",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,31 +84,31 @@
     },
     {
       "rank": 10,
-      "title": "hugo broos comments bafana bafana coach",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "galatasaray vs samsunspor",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "car",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "como vs cagliari",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "afcon 2027 qualified teams list",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "jordie barrett springboks series review",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "ira tape ts galaxy demotion",
+      "title": "richards bay fc new coach",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -116,7 +116,7 @@
     },
     {
       "rank": 14,
-      "title": "mpho padime",
+      "title": "liverpool vs chelsea",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -124,63 +124,63 @@
     },
     {
       "rank": 15,
-      "title": "marcel theunissen toshiba brave lupus",
+      "title": "siya kolisi team defeat perspective",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "mönchengladbach vs dortmund",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "justin marshall",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 17,
-      "title": "england vs new zealand rugby preview",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "swimming south africa governance crisis",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "lionel messi",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "new zealand vs england",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "andrea piardi",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "sa rugby magazine",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "pakistan a vs uae",
+      "title": "mpho padime",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "union berlin vs rb leipzig",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "arsenal vs ol lyonnes",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 22,
-      "title": "utct",
+      "title": "hugo ekitike",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "new zealand vs india",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "pakistan vs ireland",
+      "title": "scotland vs japan",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "lazio vs lecce",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "teboho mokoena",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "southampton vs derby county",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-20T14:53:02.501217+00:00"
+  "fetched_at": "2026-11-21T14:11:43.600190+00:00"
 }

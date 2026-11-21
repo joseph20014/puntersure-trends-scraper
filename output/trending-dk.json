@@ -4,22 +4,46 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "emil nielsen",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
-  "volume_available_count": 20,
+  "top_trend": "man city - fulham",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
+  "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "emil nielsen",
+      "title": "man city - fulham",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "jesper jensen",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "galatasaray - samsunspor",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "agf mod lyngby boldklub stillinger",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
+      "rank": 5,
       "title": "danmarks fodboldlandshold",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -27,72 +51,48 @@
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "baseball",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "rank": 6,
+      "title": "pierre-emile højbjerg",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "pierre emile højbjerg",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "mads pedersen",
+      "rank": 7,
+      "title": "mike tullberg",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "manchester city f.c.",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "caroline wozniacki",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 8,
-      "title": "kasper hjulmand",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "skilsmisse",
+      "title": "stine rex",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 9,
+      "title": "pierre emile højbjerg",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "vinicius júnior",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "baseball",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "fc fredericia mod hillerød fodbold stillinger",
+      "title": "alba hurup larsen",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -100,47 +100,47 @@
     },
     {
       "rank": 12,
-      "title": "nicolej krickau",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "mauricio pochettino",
+      "title": "bayern - 1. fc köln",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 13,
+      "title": "mikkel kessler",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "mads hoxer",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "kolding - aab",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "nikolaj jacobsen",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "las vegas grand prix",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "ekstra bladet nyheder",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "skjern håndbold",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "alexander zverev",
+      "title": "mikkel jespersen",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "nadia nadim",
+      "title": "f1 academy",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
@@ -156,20 +156,60 @@
     },
     {
       "rank": 19,
-      "title": "wout van aert",
+      "title": "vinicius júnior",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "vinicius junior",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "carlos alcaraz",
+      "rank": 21,
+      "title": "elmer møller",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "mauricio pochettino",
       "volume": "100+",
       "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "fc fredericia mod hillerød fodbold stillinger",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
+      "title": "aarhus fremad - hobro",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 25,
+      "title": "nikolaj jacobsen",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-20T14:53:28.169195+00:00"
+  "fetched_at": "2026-11-21T14:12:09.844452+00:00"
 }

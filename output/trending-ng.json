@@ -4,119 +4,119 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "arsenal vs ol lyonnes",
-  "top_trend_volume": "10K+",
-  "top_trend_volume_numeric": 10000,
+  "top_trend": "man city vs fulham",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "arsenal vs ol lyonnes",
+      "title": "man city vs fulham",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "galatasaray vs samsunspor",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "chelsea vs psg",
+      "rank": 3,
+      "title": "al-ahli vs al-nassr",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "bayern vs köln",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "josé mourinho",
+      "rank": 5,
+      "title": "liverpool vs chelsea",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "mykhailo mudryk",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 5,
-      "title": "fc barcelona femení vs servette fc chênois féminin standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 6,
-      "title": "arsenal w.f.c. vs ol lyonnes standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "bayern munich vs 1. fc köln standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "morocco afcon 2027 qualification",
+      "title": "josé mourinho",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "athletic vs espanyol",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "porto vs paredes",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "chelsea vs leeds",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
+      "title": "como vs cagliari",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 8,
-      "title": "morgan gibbs-white",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "chelsea vs leeds united team news",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "carlos baleba",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "carlos alcaraz",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "bruno guimaraes arsenal newcastle return",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 13,
-      "title": "daniel amokachi nff committee",
+      "title": "athletic bilbao vs espanyol standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 13,
+      "title": "southampton vs derby county",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 14,
-      "title": "alex scott",
+      "title": "galatasaray",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -124,39 +124,39 @@
     },
     {
       "rank": 15,
-      "title": "real madrid vs inter",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "newcastle vs arsenal",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "warri stadium",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "mönchengladbach vs dortmund",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "anthony joshua",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "zadok yohanna",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "hat-trick",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "calvin bassey",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "referee",
+      "title": "lazio vs lecce",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "moisés caicedo",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "fifa u-17 world cup",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "grizzlies vs warriors",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "union berlin vs rb leipzig",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "nigeria afcon 2027 qualification status",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "hugo ekitike",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "nico paz lionel messi successor",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "alaves",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "orlando city vs cincinnati",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "caf u17 women africa cup",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "antonio rüdiger",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "norwich city vs cardiff city",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-20T14:51:45.596059+00:00"
+  "fetched_at": "2026-11-21T14:10:25.081936+00:00"
 }

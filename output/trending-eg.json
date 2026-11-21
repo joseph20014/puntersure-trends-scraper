@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "ترتيبات منتخب مصر للناشئين – منتخب اليونان تحت 17 سنة لكرة القدم",
+  "top_trend": "مان سيتي ضد فولهام",
   "top_trend_volume": "20K+",
   "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "ترتيبات منتخب مصر للناشئين – منتخب اليونان تحت 17 سنة لكرة القدم",
+      "title": "مان سيتي ضد فولهام",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -20,39 +20,39 @@
     },
     {
       "rank": 2,
-      "title": "زد ضد سموحة",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "man city vs fulham",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "تصفيات كأس الأمم الإفريقية 2027",
-      "volume": "20271K+",
-      "volume_numeric": 20271000,
+      "title": "ترتيبات أهلي جدة – النصر",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 4,
-      "title": "لاعب",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "تصفيات كأس الأمم الإفريقية 2027",
+      "volume": "20275K+",
+      "volume_numeric": 20275000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "كرة اليد",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "galatasaray vs samsunspor",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "كهرباء الإسماعيلية ضد سيراميكا كليوباترا",
+      "title": "كومو ضد كالياري",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -60,15 +60,15 @@
     },
     {
       "rank": 7,
-      "title": "السد ضد لوسيل",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "شيكو بانزا",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "المصري ضد بترول أسيوط",
+      "title": "كهرباء الإسماعيلية ضد سيراميكا كليوباترا",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -76,7 +76,7 @@
     },
     {
       "rank": 9,
-      "title": "المقاولون ضد القناة",
+      "title": "al-ahli saudi fc vs al-nassr standings",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -84,87 +84,87 @@
     },
     {
       "rank": 10,
-      "title": "carlos alcaraz",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "البايرن ضد كولن",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "وليد صلاح الدين",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "موعد مباراه الاهلي و بيراميدز",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "نادي مودرن سبورت لكرة القدم",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "ترتيبات منتخب مصر للناشئين – منتخب اليونان تحت 17 سنة لكرة القدم",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "موعد مباراه الاهلي و بيراميدز",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "bayern munich vs 1. fc köln standings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "جواو كانسيلو",
+      "title": "المصري ضد بترول أسيوط",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "زد ضد سموحة",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 16,
+      "title": "خوان ألفينا",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "المقاولون ضد القناة",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "bayern vs köln",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "كرة اليد",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 15,
-      "title": "محمد رضا بوبو",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "النصر",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "al masry vs asyut petrol",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "أحمد سيد زيزو",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "العين ضد الظفرة",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 20,
-      "title": "نادي برشلونة للسيدات ضد servette fccf",
+      "title": "الدوري التركي الممتاز",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -172,44 +172,44 @@
     },
     {
       "rank": 21,
-      "title": "شبيبة القبائل ضد اتحاد الجزائر",
+      "title": "fantasy premier league",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "وليد صلاح الدين",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "منتخب غانا لكرة القدم",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 23,
-      "title": "كوريتيبا ضد سانتوس",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "شباب الأهلي ضد عجمان",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "الاسماعيلي",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "al masry vs asyut petrol",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "real madrid vs inter",
+      "title": "دوري الأمم الأوروبية",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-20T14:54:19.384301+00:00"
+  "fetched_at": "2026-11-21T14:13:02.202047+00:00"
 }
