@@ -4,95 +4,95 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=EG&category=17&hours=48&sort=search-volume",
-  "top_trend": "مان سيتي ضد فولهام",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "برشلونة ضد فياريال",
+  "top_trend_volume": "50K+",
+  "top_trend_volume_numeric": 50000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "مان سيتي ضد فولهام",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "man city vs fulham",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "ترتيبات أهلي جدة – النصر",
+      "title": "برشلونة ضد فياريال",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "barcelona vs villarreal",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "الريال ضد سلتا فيغو",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "تصفيات كأس الأمم الإفريقية 2027",
-      "volume": "20275K+",
-      "volume_numeric": 20275000,
+      "title": "real madrid vs celta",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "galatasaray vs samsunspor",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "real madrid vs rc celta de vigo standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "كومو ضد كالياري",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "يوفنتوس ضد فينيزيا",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "شيكو بانزا",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "هال سيتي ضد برايتون",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "كهرباء الإسماعيلية ضد سيراميكا كليوباترا",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "juventus vs venezia",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "al-ahli saudi fc vs al-nassr standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "هيثم حسن",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "البايرن ضد كولن",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "إنتر ميامي ضد كولومبوس كرو",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "موعد مباراه الاهلي و بيراميدز",
+      "title": "hull vs brighton",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -100,116 +100,116 @@
     },
     {
       "rank": 12,
-      "title": "ترتيبات منتخب مصر للناشئين – منتخب اليونان تحت 17 سنة لكرة القدم",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "كونياسبور ضد بشكتاش",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "bayern munich vs 1. fc köln standings",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "المصري ضد بترول أسيوط",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "زد ضد سموحة",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "خوان ألفينا",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "المقاولون ضد القناة",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 18,
-      "title": "bayern vs köln",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 19,
-      "title": "كرة اليد",
+      "title": "الزمالك",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "الدوري التركي الممتاز",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "rank": 14,
+      "title": "منتخب قطر لكرة القدم",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "fantasy premier league",
+      "rank": 15,
+      "title": "الإفريقي ضد الترجي",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 22,
-      "title": "وليد صلاح الدين",
+      "rank": 16,
+      "title": "la liga",
       "volume": "500+",
       "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "نيوكاسل يونايتد ضد آرسنال",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 18,
+      "title": "صحيفة عكاظ",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 19,
+      "title": "توتنهام ضد إيبسويتش تاون",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "نيس ضد بي اس جي",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "مان سيتي ضد فولهام",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "newcastle vs arsenal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "شباب الأهلي ضد عجمان",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ترتيبات أهلي جدة – النصر",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "al masry vs asyut petrol",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "الدوري المصري",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "دوري الأمم الأوروبية",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "laliga",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-21T14:13:02.202047+00:00"
+  "fetched_at": "2026-11-22T14:03:10.671114+00:00"
 }
