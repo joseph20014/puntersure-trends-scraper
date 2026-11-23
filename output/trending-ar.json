@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "atlético mineiro - boca juniors",
+  "top_trend": "river plate - lanús",
   "top_trend_volume": "1M+",
   "top_trend_volume_numeric": 1000000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "atlético mineiro - boca juniors",
+      "title": "river plate - lanús",
       "volume": "1M+",
       "volume_numeric": 1000000,
       "volume_source": "label",
@@ -20,167 +20,167 @@
     },
     {
       "rank": 2,
-      "title": "barcelona - villarreal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "argentinos jrs. - independiente",
-      "volume": "200K+",
-      "volume_numeric": 200000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 4,
-      "title": "flavio briatore",
+      "title": "instituto - huracán",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "rosario central - gimnasia y esgrima",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
+      "title": "getafe - atlético madrid",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 5,
-      "title": "paredes",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "gran premio de catar",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "inter miami - columbus crew",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "atlético mineiro - boca juniors",
+      "volume": "1M+",
+      "volume_numeric": 1000000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "juventus - venezia",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "gonzalo tapia",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "grilla de partida f1",
-      "volume": "110K+",
-      "volume_numeric": 110000,
+      "title": "hinchada",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "posiciones de real madrid contra celta de vigo",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "posiciones de getafe cf contra atlético de madrid",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 10,
-      "title": "campeonato de constructores f1 2026",
-      "volume": "20265K+",
-      "volume_numeric": 20265000,
+      "title": "clase turista",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "lionel messi",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "ángel di maría",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "gimnasia jujuy - deportivo madryn",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "final copa potrero 2026",
+      "volume": "20261K+",
+      "volume_numeric": 20261000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "bandera de las islas malvinas",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "river hoy",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "hull city - brighton",
+      "title": "hernan lopez muñoz",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 14,
+      "title": "gimnasia",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
+      "title": "barcelona - villarreal",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 16,
-      "title": "ascacibar",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "ramiro carrera",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "eduardo domínguez",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "fk neftchi fergana - al hilal",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "carlos sainz",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "argentinos jrs. - independiente",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "vélez - belgrano",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "copa potrero final",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "musiala",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al-shamal - al-ahli saudi",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "defensa y justicia - barracas central",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "copa potrero",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "copa libertadores",
+      "title": "gimnasia y tiro de salta - tristán suárez",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -188,28 +188,28 @@
     },
     {
       "rank": 23,
-      "title": "estudiantes vs palmeiras",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "liverpool - manchester united",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "george russell",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "nicolás otamendi",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "spurs - pelicans",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "lopez muñoz",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-22T14:03:36.800823+00:00"
+  "fetched_at": "2026-11-23T17:21:36.607173+00:00"
 }
