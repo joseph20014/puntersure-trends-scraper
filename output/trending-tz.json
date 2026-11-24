@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=TZ&category=17&hours=48&sort=search-volume",
-  "top_trend": "liverpool vs man utd",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "brentford vs everton",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "liverpool vs man utd",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 2,
-      "title": "2027 africa cup of nations",
+      "title": "brentford vs everton",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 2,
+      "title": "kombe la mataifa ya afrika 2025",
+      "volume": "20252K+",
+      "volume_numeric": 20252000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 3,
-      "title": "getafe vs atlético",
+      "title": "al ahly vs pyramids",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -36,6 +36,62 @@
     },
     {
       "rank": 4,
+      "title": "uefa champions league",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 5,
+      "title": "viktor gyökeres",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 6,
+      "title": "liverpool f.c. vs manchester united f.c. standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 7,
+      "title": "brentford f.c. vs everton f.c. standings",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 8,
+      "title": "2027 africa cup of nations",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 9,
+      "title": "getafe vs atlético",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
+      "title": "rio ngumoha",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 11,
       "title": "atalanta vs inter",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -43,64 +99,8 @@
       "volume_available": true
     },
     {
-      "rank": 5,
-      "title": "barcelona vs villarreal",
-      "volume": "20K+",
-      "volume_numeric": 20000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 6,
-      "title": "al-shamal vs al-ahli",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "rio ngumoha",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "diego simeone",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "ivan toney",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "real madrid vs celta",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "zamalek",
-      "volume": "100+",
-      "volume_numeric": 100,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 12,
-      "title": "neftchi fergana vs al-hilal",
+      "title": "diego simeone",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -108,6 +108,22 @@
     },
     {
       "rank": 13,
+      "title": "al ahly sc vs pyramids fc standings",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "antonio nusa",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 15,
       "title": "fadlu davids",
       "volume": "1K+",
       "volume_numeric": 1000,
@@ -115,34 +131,18 @@
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "fc barcelona vs villarreal cf standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "hull vs brighton",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 16,
-      "title": "orlando pirates",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "jj gabriel",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "newcastle united f.c. vs arsenal f.c. standings",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "levante vs elche",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
@@ -156,7 +156,7 @@
     },
     {
       "rank": 19,
-      "title": "getafe cf vs atlético madrid standings",
+      "title": "neftchi fergana vs al-hilal",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "juventus vs venezia",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "monza vs fiorentina",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "real madrid",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "al-shamal vs al-ahli",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "barcelona",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "getafe cf vs atlético madrid standings",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "ogc nice vs psg standings",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "leandro paredes",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "inter miami vs columbus",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "zamalek",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "racing santander vs real sociedad",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "ac milan",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-23T17:18:59.630834+00:00"
+  "fetched_at": "2026-11-24T16:56:52.458714+00:00"
 }
