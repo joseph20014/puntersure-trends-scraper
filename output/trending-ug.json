@@ -4,31 +4,31 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=UG&category=17&hours=48&sort=search-volume",
-  "top_trend": "arsenal vs dortmund",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "sporting vs man utd",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "arsenal vs dortmund",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "sporting vs man utd",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "man city vs napoli",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "club brugge vs liverpool",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 3,
-      "title": "galatasaray vs aston villa",
+      "title": "sabah vs barcelona",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "real madrid vs psv",
+      "title": "psg vs roma",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -44,7 +44,7 @@
     },
     {
       "rank": 5,
-      "title": "uefa champions league",
+      "title": "losc vs bayern",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "al-nassr vs al sadd",
+      "title": "champions league table",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "como vs aek",
+      "title": "slavia praha vs villarreal",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -68,15 +68,15 @@
     },
     {
       "rank": 8,
-      "title": "ucl",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "arsenal news",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 9,
-      "title": "champions league games",
+      "title": "atlético vs viking",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -84,63 +84,63 @@
     },
     {
       "rank": 10,
-      "title": "uganda u-17 vs new caledonia u-17",
-      "volume": "172K+",
-      "volume_numeric": 172000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 11,
-      "title": "bodø/glimt vs lask",
+      "title": "sabah fk vs fc barcelona standings",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 11,
+      "title": "víctor muñoz",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 12,
-      "title": "brentford vs everton",
+      "title": "galatasaray vs aston villa",
+      "volume": "100K+",
+      "volume_numeric": 100000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "man city vs napoli",
+      "volume": "50K+",
+      "volume_numeric": 50000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 14,
+      "title": "real madrid vs psv",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "marcus rashford",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 14,
-      "title": "rb leipzig vs lens",
+      "rank": 15,
+      "title": "new caledonia national under-17 football team",
       "volume": "2K+",
       "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "aston villa",
-      "volume": "5K+",
-      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "portsmouth vs west ham",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "europa league",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "real madrid",
+      "title": "psg",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "slovan bratislava vs betis",
+      "title": "inter vs vfb stuttgart",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -156,23 +156,23 @@
     },
     {
       "rank": 19,
-      "title": "feyenoord vs porto",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "al-nassr vs al sadd",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "como 1907 vs aek athens f.c. standings",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "como vs aek",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "viktor gyökeres",
+      "title": "manu",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -180,15 +180,15 @@
     },
     {
       "rank": 22,
-      "title": "wolves vs derby county",
-      "volume": "1K+",
-      "volume_numeric": 1000,
+      "title": "bodø/glimt vs lask",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "monza vs fiorentina",
+      "title": "burnley vs birmingham",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "ucl results",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "galatasaray vs aston villa standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "levante vs elche",
+      "title": "shakhtar donetsk vs fenerbahçe",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-25T16:46:33.158010+00:00"
+  "fetched_at": "2026-11-26T16:21:29.529842+00:00"
 }

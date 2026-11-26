@@ -4,23 +4,23 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=ZA&category=17&hours=48&sort=search-volume",
-  "top_trend": "orlando pirates vs golden arrows",
-  "top_trend_volume": "200K+",
-  "top_trend_volume_numeric": 200000,
+  "top_trend": "sabah vs barcelona",
+  "top_trend_volume": "100K+",
+  "top_trend_volume_numeric": 100000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "orlando pirates vs golden arrows",
-      "volume": "200K+",
-      "volume_numeric": 200000,
+      "title": "sabah vs barcelona",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "real madrid vs psv",
+      "title": "sporting vs man utd",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "man city vs napoli",
+      "title": "club brugge vs liverpool",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -36,15 +36,15 @@
     },
     {
       "rank": 4,
-      "title": "arsenal vs dortmund",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "world rugby",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "durban city vs polokwane city",
+      "title": "losc vs bayern",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -52,7 +52,7 @@
     },
     {
       "rank": 6,
-      "title": "uefa champions league",
+      "title": "psg vs roma",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -60,31 +60,31 @@
     },
     {
       "rank": 7,
-      "title": "pieter-steph du toit",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "sabah fk vs fc barcelona standings",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 8,
-      "title": "mpho padime",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 9,
-      "title": "victor matfield",
+      "title": "manqoba mngqithi",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 9,
+      "title": "slavia praha vs villarreal",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 10,
-      "title": "mzwandile stick",
+      "title": "henry pollock",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -92,15 +92,15 @@
     },
     {
       "rank": 11,
-      "title": "carling knockout cup",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "nick mallett",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "champions league games",
+      "title": "morocco senegal caf award nominees",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -108,79 +108,79 @@
     },
     {
       "rank": 13,
-      "title": "wiaan mulder",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "jhegson mendez mamelodi sundowns transfer",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 14,
-      "title": "ucl fixtures",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "carling knockout cup",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 15,
-      "title": "champions league fixtures",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 16,
-      "title": "slavia prague vs villarreal",
+      "title": "orlando pirates oswin appollis return",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "pep guardiola",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 17,
-      "title": "galatasaray vs aston villa",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "víctor muñoz",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "al-nassr vs al sadd",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "horse racing",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "duhan van der merwe",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "orlando pirates vs golden arrows standings",
+      "volume": "100K+",
+      "volume_numeric": 100000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 20,
-      "title": "jhegson méndez",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "bangladesh national cricket team",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "andrea piardi world rugby demotion",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "india a vs sri lanka a",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "from",
+      "title": "brandon truter",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -188,7 +188,7 @@
     },
     {
       "rank": 23,
-      "title": "club brugge vs liverpool",
+      "title": "lazola maku",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
@@ -196,20 +196,20 @@
     },
     {
       "rank": 24,
-      "title": "psl",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "david warner",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "psg vs roma",
-      "volume": "200+",
-      "volume_numeric": 200,
+      "title": "europa league",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-25T16:46:58.780941+00:00"
+  "fetched_at": "2026-11-26T16:21:55.189005+00:00"
 }

@@ -4,7 +4,7 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=NG&category=17&hours=48&sort=search-volume",
-  "top_trend": "real madrid vs psv",
+  "top_trend": "sporting vs man utd",
   "top_trend_volume": "200K+",
   "top_trend_volume_numeric": 200000,
   "volume_available_count": 25,
@@ -12,7 +12,7 @@
   "all_trends": [
     {
       "rank": 1,
-      "title": "real madrid vs psv",
+      "title": "sporting vs man utd",
       "volume": "200K+",
       "volume_numeric": 200000,
       "volume_source": "label",
@@ -20,7 +20,7 @@
     },
     {
       "rank": 2,
-      "title": "arsenal vs dortmund",
+      "title": "sabah vs barcelona",
       "volume": "100K+",
       "volume_numeric": 100000,
       "volume_source": "label",
@@ -28,7 +28,7 @@
     },
     {
       "rank": 3,
-      "title": "man city vs napoli",
+      "title": "club brugge vs liverpool",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -36,7 +36,7 @@
     },
     {
       "rank": 4,
-      "title": "galatasaray vs aston villa",
+      "title": "psg vs roma",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -44,15 +44,15 @@
     },
     {
       "rank": 5,
-      "title": "al-nassr vs al sadd",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "title": "losc vs bayern",
+      "volume": "20K+",
+      "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 6,
-      "title": "como vs aek",
+      "title": "atlético vs viking",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 7,
-      "title": "champions league table",
+      "title": "slavia praha vs villarreal",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "bodø/glimt vs lask",
+      "title": "inter vs vfb stuttgart",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -76,6 +76,14 @@
     },
     {
       "rank": 9,
+      "title": "atlético madrid vs viking fk standings",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 10,
       "title": "vincenzo montella",
       "volume": "2K+",
       "volume_numeric": 2000,
@@ -83,32 +91,24 @@
       "volume_available": true
     },
     {
-      "rank": 10,
-      "title": "champions league games",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 11,
-      "title": "alejandro garnacho",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "viktor gyökeres",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "confederation of african football",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "sporting cp ronaldo tifo manchester united",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 13,
-      "title": "ucl fixtures",
+      "title": "pep guardiola",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,7 +116,7 @@
     },
     {
       "rank": 14,
-      "title": "psg vs roma prediction",
+      "title": "joão pedro",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -124,92 +124,92 @@
     },
     {
       "rank": 15,
-      "title": "slovan bratislava vs betis",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "víctor muñoz",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 16,
-      "title": "sporting vs man utd",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "arsenal fc",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "sabah vs barcelona",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "asisat oshoala postgraduate degree uk",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 18,
-      "title": "club brugge vs liverpool prediction",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "real madrid vs psv eindhoven standings",
+      "volume": "50K+",
+      "volume_numeric": 50000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "brentford f.c. vs everton f.c. standings",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 20,
-      "title": "slavia prague vs villarreal prediction",
+      "title": "tottenham hotspur f.c.",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 21,
-      "title": "rb leipzig vs lens",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "real madrid",
+      "rank": 20,
+      "title": "man city vs ssc napoli standings",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 21,
+      "title": "galatasaray vs aston villa standings",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "gianluca prestianni",
+      "volume": "100+",
+      "volume_numeric": 100,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 23,
-      "title": "levante vs elche",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "psg",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 24,
-      "title": "feyenoord vs porto",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "como vs aek",
+      "volume": "10K+",
+      "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 25,
-      "title": "monza vs fiorentina",
-      "volume": "5K+",
-      "volume_numeric": 5000,
+      "title": "europa league",
+      "volume": "100+",
+      "volume_numeric": 100,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-25T16:45:41.904081+00:00"
+  "fetched_at": "2026-11-26T16:20:38.196816+00:00"
 }

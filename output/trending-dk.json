@@ -4,47 +4,47 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=DK&category=17&hours=48&sort=search-volume",
-  "top_trend": "ken fagerberg",
-  "top_trend_volume": "20K+",
-  "top_trend_volume_numeric": 20000,
+  "top_trend": "team visma | lease a bike",
+  "top_trend_volume": "2K+",
+  "top_trend_volume_numeric": 2000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
-      "title": "ken fagerberg",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "title": "team visma | lease a bike",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 2,
-      "title": "champions league",
-      "volume": "5K+",
-      "volume_numeric": 5000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 3,
-      "title": "crystal palace f.c.",
+      "title": "sarah iversen",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 3,
+      "title": "bernard joseph",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 4,
-      "title": "emil nielsen",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "viaplay",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 5,
-      "title": "sofie lundgaard",
+      "title": "emil nielsen",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
@@ -52,15 +52,15 @@
     },
     {
       "rank": 6,
-      "title": "rasmus højlund",
-      "volume": "2K+",
-      "volume_numeric": 2000,
+      "title": "manchester united",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 7,
-      "title": "man city - napoli",
+      "title": "sabah fk - barcelona",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -68,7 +68,7 @@
     },
     {
       "rank": 8,
-      "title": "real madrid",
+      "title": "cecilie brandt",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -76,23 +76,23 @@
     },
     {
       "rank": 9,
-      "title": "brøndby - fc midtjylland",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 10,
-      "title": "real madrid - psv",
+      "title": "crystal palace f.c.",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 10,
+      "title": "club brugge - liverpool",
+      "volume": "1K+",
+      "volume_numeric": 1000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 11,
-      "title": "martin braithwaite",
+      "title": "sabah vs barcelona",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -100,7 +100,7 @@
     },
     {
       "rank": 12,
-      "title": "arsenal - dortmund",
+      "title": "champions league kampe",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
@@ -108,7 +108,7 @@
     },
     {
       "rank": 13,
-      "title": "galatasaray - aston villa",
+      "title": "man city - napoli",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
@@ -116,47 +116,47 @@
     },
     {
       "rank": 14,
-      "title": "champions league kampe",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 15,
-      "title": "team esbjerg",
+      "title": "real madrid",
       "volume": "1K+",
       "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 16,
-      "title": "uefa champions league",
-      "volume": "200+",
-      "volume_numeric": 200,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 17,
-      "title": "kat",
+      "rank": 15,
+      "title": "san siro",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 16,
+      "title": "real madrid - psv",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 17,
+      "title": "losc lille mod bayern münchen stillinger",
+      "volume": "200+",
+      "volume_numeric": 200,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 18,
-      "title": "mikkel bro hansen",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "psg - roma",
+      "volume": "500+",
+      "volume_numeric": 500,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 19,
-      "title": "mike tullberg",
+      "title": "sabah fk",
       "volume": "500+",
       "volume_numeric": 500,
       "volume_source": "label",
@@ -164,52 +164,52 @@
     },
     {
       "rank": 20,
-      "title": "brentford - everton",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "galatasaray - aston villa",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 21,
-      "title": "napoli",
-      "volume": "100+",
-      "volume_numeric": 100,
+      "title": "martin braithwaite",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 22,
-      "title": "jamal musiala",
-      "volume": "500+",
-      "volume_numeric": 500,
+      "title": "arsenal - dortmund",
+      "volume": "1K+",
+      "volume_numeric": 1000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 23,
-      "title": "stadion",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "sønderjyske fodbold",
+      "title": "psg",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
+      "rank": 24,
+      "title": "elmer møller",
+      "volume": "500+",
+      "volume_numeric": 500,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
       "rank": 25,
-      "title": "fodboldspiller",
+      "title": "atlético madrid - viking",
       "volume": "200+",
       "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-25T16:47:24.440332+00:00"
+  "fetched_at": "2026-11-26T16:22:20.829934+00:00"
 }
