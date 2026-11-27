@@ -4,14 +4,38 @@
   "category_trusted": true,
   "hours": "48",
   "url": "https://trends.google.com/trending?geo=AR&category=17&hours=48&sort=search-volume",
-  "top_trend": "boca juniors - independiente rivadavia",
-  "top_trend_volume": "500K+",
-  "top_trend_volume_numeric": 500000,
+  "top_trend": "ingvar jónsson",
+  "top_trend_volume": "20K+",
+  "top_trend_volume_numeric": 20000,
   "volume_available_count": 25,
   "volume_status": "available",
   "all_trends": [
     {
       "rank": 1,
+      "title": "ingvar jónsson",
+      "volume": "20K+",
+      "volume_numeric": 20000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 2,
+      "title": "darío franco",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 3,
+      "title": "adios apache",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 4,
       "title": "boca juniors - independiente rivadavia",
       "volume": "500K+",
       "volume_numeric": 500000,
@@ -19,31 +43,31 @@
       "volume_available": true
     },
     {
-      "rank": 2,
-      "title": "atlético madrid - viking",
-      "volume": "50K+",
-      "volume_numeric": 50000,
+      "rank": 5,
+      "title": "marc marquez",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 3,
-      "title": "posiciones de sabah futbol klubu contra fc barcelona",
-      "volume": "20K+",
-      "volume_numeric": 20000,
+      "rank": 6,
+      "title": "francisco álvarez",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 4,
-      "title": "martha firestone ford",
+      "rank": 7,
+      "title": "avión",
       "volume": "5K+",
       "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "boca vs gimnasia",
       "volume": "20K+",
       "volume_numeric": 20000,
@@ -51,32 +75,8 @@
       "volume_available": true
     },
     {
-      "rank": 6,
-      "title": "oliver bearman",
-      "volume": "1K+",
-      "volume_numeric": 1000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 7,
-      "title": "despedida de tevez",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 8,
-      "title": "kiki ramos",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 9,
-      "title": "psg - roma",
+      "title": "atlético madrid - viking",
       "volume": "50K+",
       "volume_numeric": 50000,
       "volume_source": "label",
@@ -84,47 +84,47 @@
     },
     {
       "rank": 10,
-      "title": "real madrid - psv",
-      "volume": "100K+",
-      "volume_numeric": 100000,
+      "title": "argentina - bahamas",
+      "volume": "5K+",
+      "volume_numeric": 5000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 11,
-      "title": "atlético mineiro - corinthians",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "f1 qatar",
+      "volume": "200+",
+      "volume_numeric": 200,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 12,
-      "title": "sanción",
+      "title": "harlen castillo",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 13,
+      "title": "martha firestone ford",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 13,
-      "title": "sporting lisboa - manchester united",
+      "rank": 14,
+      "title": "psg - roma",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
       "volume_available": true
     },
     {
-      "rank": 14,
-      "title": "europa league",
-      "volume": "500+",
-      "volume_numeric": 500,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 15,
-      "title": "manchester city - napoli",
+      "title": "posiciones de sabah futbol klubu contra fc barcelona",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -132,15 +132,15 @@
     },
     {
       "rank": 16,
-      "title": "club brujas - liverpool",
-      "volume": "10K+",
-      "volume_numeric": 10000,
+      "title": "árbitro",
+      "volume": "2K+",
+      "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     },
     {
       "rank": 17,
-      "title": "losc - bayern",
+      "title": "atlético mineiro - corinthians",
       "volume": "10K+",
       "volume_numeric": 10000,
       "volume_source": "label",
@@ -148,7 +148,7 @@
     },
     {
       "rank": 18,
-      "title": "liga de campeones de la uefa",
+      "title": "sporting lisboa - manchester united",
       "volume": "20K+",
       "volume_numeric": 20000,
       "volume_source": "label",
@@ -156,6 +156,46 @@
     },
     {
       "rank": 19,
+      "title": "diego hernán martínez",
+      "volume": "2K+",
+      "volume_numeric": 2000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 20,
+      "title": "brighton - u craiova",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 21,
+      "title": "olympiacos - milan",
+      "volume": "5K+",
+      "volume_numeric": 5000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 22,
+      "title": "losc - bayern",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 23,
+      "title": "club brujas - liverpool",
+      "volume": "10K+",
+      "volume_numeric": 10000,
+      "volume_source": "label",
+      "volume_available": true
+    },
+    {
+      "rank": 24,
       "title": "inter - stuttgart",
       "volume": "10K+",
       "volume_numeric": 10000,
@@ -163,53 +203,13 @@
       "volume_available": true
     },
     {
-      "rank": 20,
-      "title": "mundial sub 17",
-      "volume": "1720K+",
-      "volume_numeric": 1720000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 21,
-      "title": "jeanine irina grasmeijer",
-      "volume": "10K+",
-      "volume_numeric": 10000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 22,
-      "title": "posiciones de atlético mineiro contra corinthians",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 23,
-      "title": "20K+ arrow_upward 400%",
-      "volume": "202620K+",
-      "volume_numeric": 202620000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
-      "rank": 24,
-      "title": "trail blazers - spurs",
-      "volume": "2K+",
-      "volume_numeric": 2000,
-      "volume_source": "label",
-      "volume_available": true
-    },
-    {
       "rank": 25,
-      "title": "como salio boca",
+      "title": "crystal palace - real sociedad",
       "volume": "2K+",
       "volume_numeric": 2000,
       "volume_source": "label",
       "volume_available": true
     }
   ],
-  "fetched_at": "2026-11-26T16:23:38.031211+00:00"
+  "fetched_at": "2026-11-27T16:08:04.698688+00:00"
 }
